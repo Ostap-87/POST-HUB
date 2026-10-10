@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Unitree H2: метр восемьдесят два за сорок тысяч"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-21_0900_unitree-h2-metr-vosemdesyat-dva-sorok.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "42958e13-39aa-4515-98fa-590a7b7a39cf"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic editorial photo in an ordinary warehouse office: a tall, slim full-size humanoid robot about 1.8 meters high stands next to a standard door frame and grey metal shelving, its head level with the top shelf, simple rounded hands without fingers, a man of similar height standing nearby for scale, plain daylight, matter-of-fact mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Unitree H2: метр восемьдесят два за сорок тысяч**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Курьёз недели"
 title: "Отпевание робособак"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-20_1800_otpevanie-robosobak.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1776ac22-9796-4f07-9bf9-46f4115d6e57"
+image_cost: "0.5"
+image_logos: "Sony"
+image_prompt: "Photorealistic documentary photo inside a small Japanese Buddhist temple: rows of small robot puppy dogs lined up on a low wooden altar, each with a small blank paper tag, a Buddhist monk in dark robes chants as incense smoke rises, owners sit on tatami mats behind him, warm candlelight and soft daylight through paper screens, tender and slightly surreal mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Отпевание робособак**

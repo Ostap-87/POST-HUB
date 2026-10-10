@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Хирург на экспорт"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-24_0900_khirurg-eksport.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "df16b6f9-5907-4816-8e60-693ab88b52f5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a modern hospital operating room: a multi-arm surgical robot positioned over an operating table, surgeons and nurses in blue scrubs and masks around it, a surgeon's console in the corner, cool clinical lighting, monitors with no numbers or letters, serious trustworthy mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Хирург на экспорт**

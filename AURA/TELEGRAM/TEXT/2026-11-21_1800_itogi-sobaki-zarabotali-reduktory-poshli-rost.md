@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: собаки заработали, редукторы пошли в рост"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-21_1800_itogi-sobaki-zarabotali-reduktory-poshli-rost.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d8663812-005c-42b1-8174-e9a10f805739"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a Friday evening in a Russian factory workshop: a veteran worker in a cap switches off the overhead lights, a welding robot arm rests in its cell, a quadruped robot dog sits docked at its charger by the wall, the last warm sunset light through dusty windows, satisfied end-of-week mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: собаки заработали, редукторы пошли в рост**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Pudu: семьдесят процентов выручки приносит швабра"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-23_0900_pudu-semdesyat-protsentov-vyruchki-prinosit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5bc9344a-f2f7-4b55-ae72-a013c9e5071e"
+image_cost: "0.5"
+image_logos: "Pudu Robotics"
+image_prompt: "Photorealistic photo of a large supermarket at night after closing: a commercial floor-scrubbing robot cleans an empty aisle between tall shelves, a wet glossy streak on the floor reflects the shelf lights, no people, long perspective, product labels blurred and unreadable, quiet diligent mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Pudu: семьдесят процентов выручки приносит швабра**
