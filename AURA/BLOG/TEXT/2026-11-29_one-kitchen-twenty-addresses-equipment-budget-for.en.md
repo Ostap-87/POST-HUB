@@ -31,7 +31,7 @@ A central kitchen is laid out around the flow, not the walls. Product moves one 
 
 Zones along the flow:
 
-1.  **Goods-in** with scales and incoming inspection.
+1.  **Goods-in** with scales and incoming [inspection](/en/catalog/inspection).
 2.  **Stores:** dry, chilled at 0–4 °C, frozen at −18 °C.
 3.  **Preparation:** vegetables (washing, peeling, cutting) and meat and fish (butchery, mince, semi-finished products).
 4.  **Hot kitchen:** combi ovens, kettles, tilting pans.

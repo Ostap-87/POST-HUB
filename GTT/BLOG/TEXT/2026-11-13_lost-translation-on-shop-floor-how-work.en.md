@@ -36,7 +36,7 @@ And do not tell jokes through an interpreter. Almost any joke, interpreted into 
 
 With consecutive interpreting, a meeting takes roughly twice as long as a conversation in one language. That is not the interpreter’s fault. It is arithmetic: everything is said twice.
 
-So if you have an hour, you really have thirty minutes. Plan accordingly: five important questions beat fifteen random ones. That is why, for our expedition programmes, we agree in advance with the host which questions the delegation wants to cover. Time on the shop floor does not stretch, and interpreting does not stretch it.
+So if you have an hour, you really have thirty minutes. Plan accordingly: five important questions beat fifteen random ones. That is why, for our [expedition](/en/expeditions) programmes, we agree in advance with the host which questions the delegation wants to cover. Time on the shop floor does not stretch, and interpreting does not stretch it.
 
 ### 4. Numbers: where the zeros go missing
 

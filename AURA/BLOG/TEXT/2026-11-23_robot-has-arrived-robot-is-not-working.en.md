@@ -21,7 +21,7 @@ At Aura Robotics we source robots directly from Chinese factories and see a lot 
 
 **A local integrator.** A Russian company that knows the model or the equipment class. Upside: same language, same time zone, can come tomorrow. Downside: it may not have service-level access to the manufacturer’s software. Check in advance.
 
-**Remote commissioning.** Your engineer on site, the factory engineer on video and on a remote connection to the controller. This works increasingly well for cobots, warehouse robots and standard cells. Beijing is five hours ahead of Moscow, so a morning on your floor is an afternoon at the factory: there is a shared window, but it is shorter than a working day.
+**Remote commissioning.** Your engineer on site, the factory engineer on video and on a remote connection to the controller. This works increasingly well for [cobots](/en/catalog/cobots), warehouse robots and standard cells. Beijing is five hours ahead of Moscow, so a morning on your floor is an afternoon at the factory: there is a shared window, but it is shorter than a working day.
 
 Often the scenarios combine: remote preparation, a short site visit for start-up, remote support afterwards.
 

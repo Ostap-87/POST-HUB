@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_
 
 There are two ways to automate material transport in a warehouse. One is to choose a robot and then rebuild the warehouse around it. The other is to look at the warehouse first and then choose the robot. The first is more popular. The second is cheaper.
 
-At Aura Robotics we source warehouse robots directly from Chinese manufacturers, and the “AGV or AMR?” debate almost always starts at the wrong end. People argue about navigation, then discover a threshold at the dispatch area and a door that only opens by hand. Here is a better order of questions.
+At Aura Robotics we source warehouse robots directly from Chinese manufacturers, and the “[AGV](/en/catalog/agv) or AMR?” debate almost always starts at the wrong end. People argue about navigation, then discover a threshold at the dispatch area and a door that only opens by hand. Here is a better order of questions.
 
 ### 1. The short version
 

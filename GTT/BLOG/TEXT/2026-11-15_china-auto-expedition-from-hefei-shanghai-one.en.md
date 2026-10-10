@@ -17,7 +17,7 @@ Most regions take a generation to do that. Anhui took five years. That is why we
 
 ### Why start in Hefei
 
-The story told at every investment forum in China goes like this. In 2020, NIO was in serious trouble. Hefei’s state-owned investors put 7 billion yuan into the company, gained its headquarters and production, and in effect launched the city’s EV industry. BYD and Volkswagen Anhui followed.
+The story told at every investment forum in China goes like this. In 2020, [NIO](/en/companies/nio) was in serious trouble. Hefei’s state-owned investors put 7 billion yuan into the company, gained its headquarters and production, and in effect launched the city’s EV industry. [BYD](/en/companies/byd) and Volkswagen Anhui followed.
 
 Our favourite number: BYD’s site in Changfeng County, about 40 km from central Hefei, went from first talks to signing in 23 days, from signing to groundbreaking in 42 days, and from groundbreaking to the first car off the line in ten months. In many places, that is roughly how long it takes to approve the fence.
 
@@ -35,7 +35,7 @@ Export for one year is a strategy. Export for twenty-three years is a personalit
 
 ### Shanghai: old school, new speed
 
-Shanghai is the third stop, and the picture changes. This has been a car city for decades: SAIC, joint ventures with foreign brands, a deep layer of suppliers and engineering centres. Then there is Tesla’s Lingang plant, which shipped about 851,000 vehicles in 2025, or 52% of Tesla’s global deliveries.
+Shanghai is the third stop, and the picture changes. This has been a car city for decades: SAIC, joint ventures with foreign brands, a deep layer of suppliers and engineering centres. Then there is [Tesla](/en/companies/tesla)’s Lingang plant, which shipped about 851,000 vehicles in 2025, or 52% of Tesla’s global deliveries.
 
 Shanghai is valuable as a contrast. Hefei shows an industry built from scratch at speed. Shanghai shows an industry rebuilding itself while carrying history, habits and large joint ventures. See only Hefei, and you think anything can be done in ten months. See only Shanghai, and you think the market is already carved up.
 

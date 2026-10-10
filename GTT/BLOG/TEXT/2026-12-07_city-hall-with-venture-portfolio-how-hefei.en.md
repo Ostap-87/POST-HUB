@@ -19,7 +19,7 @@ We have written before about the automotive route through Hefei. This piece is n
 
 In 2008 Hefei was nobody’s idea of an industrial capital, but it did have a university. The University of Science and Technology of China moved there in 1970, and for decades it was the city’s main claim to fame.
 
-That year the city struck a deal with BOE to build a sixth-generation LCD panel line. According to KrASIA, Hefei’s bid promised 17.5 billion yuan: 6 billion from the government, 3 billion from investors and the rest from local banks. The city later put in another 28 billion for two more fabs.
+That year the city struck a deal with [BOE](/en/companies/boe) to build a sixth-generation LCD panel line. According to KrASIA, Hefei’s bid promised 17.5 billion yuan: 6 billion from the government, 3 billion from investors and the rest from local banks. The city later put in another 28 billion for two more fabs.
 
 For a city that ranked around 80th in China by GDP at the start of the century, this was a bet on one company and one technology at once. People who bet like that are usually either very brave or very desperate. Hefei seems to have had both kinds in the room, and they agreed.
 
@@ -37,7 +37,7 @@ CXMT is now one of China’s leading memory makers, and the city hosts more than
 
 ### NIO, or buying what everyone else was selling
 
-Hefei’s most famous bet is NIO. In spring 2020 the EV maker was in serious trouble, with its shares down to around two dollars. According to CnEVPost, citing China Economic Weekly, 18 local governments had talked to NIO before the Hefei deal. One closed it.
+Hefei’s most famous bet is [NIO](/en/companies/nio). In spring 2020 the EV maker was in serious trouble, with its shares down to around two dollars. According to CnEVPost, citing China Economic Weekly, 18 local governments had talked to NIO before the Hefei deal. One closed it.
 
 At the end of April 2020, strategic investors from Anhui put 7 billion yuan into NIO China, the company’s core operating business, for a combined 24.1%. NIO moved its headquarters and production to Hefei. The deal was led by Hefei Urban Construction Development, a platform wholly owned by the city’s state assets commission.
 

@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Every family business has a document more important than its charter: the will. It is never shown to investors, never discussed by the board, and always left for later. Later always arrives unexpectedly.
 
-The story of Wahaha, the drinks maker whose sweet AD calcium milk in tiny bottles is a childhood memory for most of China, is a fine textbook on the subject. It is written as a TV drama, though, and so far it has more episodes than chapters.
+The story of [Wahaha](/en/companies/wahaha), the drinks maker whose sweet AD calcium milk in tiny bottles is a childhood memory for most of China, is a fine textbook on the subject. It is written as a TV drama, though, and so far it has more episodes than chapters.
 
 A caveat up front: we report only what open sources confirm, and the story is still unfolding. Everything below reflects the situation in autumn 2026.
 
@@ -49,7 +49,7 @@ Forty-one days is not a rebrand. It is a test of who really owns a brand: the la
 
 ### Meanwhile, on the shelves
 
-The market did not wait for the shareholders. According to 36Kr, Wahaha’s sales have hovered around 50 billion yuan since 2014, while rivals such as Nongfu Spring and Genki Forest kept growing. Nielsen estimates cited by 36Kr show AD milk sales in East China down 37% in the first half of 2025 and Wahaha’s bottled-water share falling from 18% to 12%. The distributor network, by the same account, may have roughly halved.
+The market did not wait for the shareholders. According to 36Kr, Wahaha’s sales have hovered around 50 billion yuan since 2014, while rivals such as Nongfu Spring and [Genki Forest](/en/companies/genki-forest) kept growing. Nielsen estimates cited by 36Kr show AD milk sales in East China down 37% in the first half of 2025 and Wahaha’s bottled-water share falling from 18% to 12%. The distributor network, by the same account, may have roughly halved.
 
 Shoppers do not read Hong Kong court rulings. They just reach for the next bottle on the shelf.
 

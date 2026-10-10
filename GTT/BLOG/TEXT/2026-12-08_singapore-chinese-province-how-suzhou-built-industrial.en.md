@@ -65,6 +65,6 @@ Many companies now look at Chinese practice the way Suzhou looked at Singapore i
 
 Suzhou suggests three things. What transfers is not the scheme but the people who understand it; without those 2,300 trained officials, no rulebook would have worked. A borrowed model almost always goes through a crisis when local conditions start arguing with imported rules; the early losses were the price of adaptation, not proof of failure. And a model becomes yours when you add something its author never had. Singapore did not have a 680-company biotech cluster on former rice paddies.
 
-On Global Tech Tour business expeditions, participants often ask: “Could we do this back home?” The honest answer is usually: you can’t replicate it, but you can adopt it. The difference is roughly that between a photocopy and a textbook with your own notes in the margins.
+On Global Tech Tour business [expeditions](/en/expeditions), participants often ask: “Could we do this back home?” The honest answer is usually: you can’t replicate it, but you can adopt it. The difference is roughly that between a photocopy and a textbook with your own notes in the margins.
 
 Suzhou’s textbook is covered in notes by now. The Singaporean handwriting is still there, if you know where to look.

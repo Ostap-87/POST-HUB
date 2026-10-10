@@ -13,7 +13,7 @@ A central kitchen has one simple job: cook today what people will eat tomorrow, 
 
 A ready meal in an ordinary lidded container does not last long. The fridge helps, but bacteria can live in the cold too, just more slowly. Shoppers dislike preservatives and love the words “no preservatives”. Between those two wishes stands the machine this article is about: a tray sealer with gas.
 
-At Aura Robotics we source equipment for food plants and central kitchens directly from factories in China. Here is how modified atmosphere packaging works, what a packing station consists of, and what to check before buying.
+At Aura Robotics we source equipment for food plants and central kitchens directly from factories in China. Here is how modified atmosphere [packaging](/en/catalog/packaging) works, what a packing station consists of, and what to check before buying.
 
 ### 1. What the gas actually does
 

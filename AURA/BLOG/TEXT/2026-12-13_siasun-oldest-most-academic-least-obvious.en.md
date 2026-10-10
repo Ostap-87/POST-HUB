@@ -49,7 +49,7 @@ A telling detail: Siasun sold about 13,676 robots in 2025, 65% more than in 2024
 
 By segment, only system integration and assembly lines grew in 2025 (about 1.49 billion yuan, +16%). Industrial robots brought in about 1.10 billion (−9%), logistics about 0.73 billion (−7%), semiconductor equipment about 0.53 billion (−9%). Revenue fell another 8% in Q1 2026.
 
-Against competitors the picture is clearer still. In 2019 Siasun’s revenue was 2.7 billion yuan and Estun’s 1.6 billion; by 2023 Estun had reached 4.7 billion and overtaken it. Siasun is not among China’s top ten industrial robot brands by 2024 shipments. The latecomers, Estun, Inovance and Efort, are running faster.
+Against competitors the picture is clearer still. In 2019 Siasun’s revenue was 2.7 billion yuan and [Estun](/en/catalog/industrial/factory/estun)’s 1.6 billion; by 2023 Estun had reached 4.7 billion and overtaken it. Siasun is not among China’s top ten industrial robot brands by 2024 shipments. The latecomers, Estun, Inovance and [Efort](/en/catalog/industrial/factory/efort), are running faster.
 
 The oldest does not have to be the strongest. Still being in the race is an achievement in itself.
 

@@ -19,7 +19,7 @@ At Aura Robotics we source robots directly from Chinese factories. In solar, Chi
 
 According to China’s National Energy Administration, the country installed a record 315.07 GW of solar in 2025, taking cumulative capacity to 1.20 TW, up 35.4% in a year.
 
-A terawatt is hard to picture. Try this: at roughly 600 W per panel, that is about two billion modules (a rough count; older panels are smaller, so the real number is higher). Cleaning each one by hand once a month would need an army, and China has had some serious armies.
+A terawatt is hard to picture. Try this: at roughly 600 W per panel, that is about two billion modules (a rough count; older panels are smaller, so the real number is higher). [Cleaning](/en/catalog/cleaning) each one by hand once a month would need an army, and China has had some serious armies.
 
 Russia’s scale is different: the Association for the Development of Renewable Energy reports 677.6 MW of new renewable capacity in 2025, including solar plants in Krasnodar, Chechnya and Dagestan. The problems are the same: dust, birds and, in most regions, snow.
 

@@ -33,9 +33,9 @@ More than half of new capital (56.5%) went into manufacturing. Vietnam is not se
 
 ### Bac Ninh: where you can see it
 
-If China plus one looks like a landscape anywhere, it is in Bac Ninh province, an hour from Hanoi. Samsung’s suppliers started building here in the late 2000s, followed by Apple’s. In 2024 Bac Ninh led Vietnam in foreign investment with $5.12 billion, and in the first eight months of 2025 it led again with $4.68 billion, ahead of Ho Chi Minh City and Hanoi.
+If China plus one looks like a landscape anywhere, it is in Bac Ninh province, an hour from Hanoi. [Samsung](/en/companies/samsung)’s suppliers started building here in the late 2000s, followed by Apple’s. In 2024 Bac Ninh led Vietnam in foreign investment with $5.12 billion, and in the first eight months of 2025 it led again with $4.68 billion, ahead of Ho Chi Minh City and Hanoi.
 
-Since July 2025, after an administrative reform, neighbouring Bac Giang has been part of Bac Ninh, bringing Foxconn and Luxshare projects with it. China’s Goertek, which makes earbuds for Apple, has built four plants in the province since 2013, with registered capital above $1.3 billion. Luxshare received a licence for a $300 million smartphone project.
+Since July 2025, after an administrative reform, neighbouring Bac Giang has been part of Bac Ninh, bringing [Foxconn](/en/companies/foxconn) and Luxshare projects with it. China’s Goertek, which makes earbuds for Apple, has built four plants in the province since 2013, with registered capital above $1.3 billion. Luxshare received a licence for a $300 million smartphone project.
 
 Caixin describes three waves of Chinese arrivals in Bac Ninh: after the 2018 US tariff increases, after the pandemic, and from late 2024. Each wave answered an event that happened somewhere other than Vietnam.
 

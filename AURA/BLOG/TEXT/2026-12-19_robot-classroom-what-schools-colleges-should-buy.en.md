@@ -23,7 +23,7 @@ Each cluster pairs a college with an employer and workshops meant to look like a
 
 ### Three levels of training robot
 
-**Level one: the desktop arm.** A small robot that sits on a desk, weighs a few kilograms and plugs into a laptop. The classic example is the Dobot Magician Lite: four axes, 250 g payload, 340 mm reach, 0.2 mm repeatability, 3.4 kg. UK distributor Scan listed it at £810.98 including VAT when we checked; that is a public European retail price, not an Aura price, and is here only for scale.
+**Level one: the desktop arm.** A small robot that sits on a desk, weighs a few kilograms and plugs into a laptop. The classic example is the [Dobot](/en/catalog/cobots/factory/dobot) Magician Lite: four axes, 250 g payload, 340 mm reach, 0.2 mm repeatability, 3.4 kg. UK distributor Scan listed it at £810.98 including VAT when we checked; that is a public European retail price, not an Aura price, and is here only for scale.
 
 It teaches coordinates, trajectories, block coding and then Python, simple grippers and suction cups, working with a conveyor and camera. It is harmless, cheap enough to drop, and can be handed to a teenager without a twenty-page safety briefing.
 
@@ -39,7 +39,7 @@ A good training cell looks like a factory. A bad one looks like an exhibition st
 
 ### Who makes training robots in China
 
-China leads for the same reason it leads in industrial robots: scale. Dobot made training arms its calling card and also sells industrial cobots, so students can move from the desktop model to a full-size one within the same programming ecosystem. UBTech and Makeblock have education lines, from school kits to club sets. Many industrial cobot makers offer training packages based on their production models with course materials.
+China leads for the same reason it leads in industrial robots: scale. Dobot made training arms its calling card and also sells industrial cobots, so students can move from the desktop model to a full-size one within the same programming ecosystem. [UBTech](/en/catalog/humanoid/factory/ubtech) and Makeblock have education lines, from school kits to club sets. Many industrial cobot makers offer training packages based on their production models with course materials.
 
 For a college, that last option is often the smartest: students learn on the same model their cluster’s employer partner uses.
 

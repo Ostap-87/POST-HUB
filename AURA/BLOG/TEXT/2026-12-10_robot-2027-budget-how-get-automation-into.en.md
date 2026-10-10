@@ -15,7 +15,7 @@ The good news: to get a robot into the budget you do not need the exact model or
 
 ### The problem first, the budget line second
 
-Budget committees do not buy robots. They buy solutions. “Buy a cobot” sounds like spending. “Close the gap of two operators on the packing line we have failed to hire for six months” sounds like a solution. It is the same cobot.
+Budget committees do not buy robots. They buy solutions. “Buy a [cobot](/en/catalog/cobots)” sounds like spending. “Close the gap of two operators on the packing line we have failed to hire for six months” sounds like a solution. It is the same cobot.
 
 Describe the problem in terms finance understands: the operation, current headcount, the full cost of that labour including taxes, turnover and overtime, scrap and downtime, and what happens if nothing is done. That last point matters most. Not having a robot also costs money; it is just scattered across budget lines where nobody sees it.
 

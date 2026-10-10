@@ -23,13 +23,13 @@ Note what that means: nearly three quarters of retail still doesn’t go through
 
 ### Shanghai: the store within three kilometres
 
-The textbook case is Hema (Freshippo), Alibaba’s grocery chain. Its first store opened in Shanghai in 2016, and the formula has barely changed: the store is both sales floor and warehouse, orders are picked straight off the shelves, bags travel along overhead rails, and delivery is promised within 30 minutes inside a three-kilometre radius.
+The textbook case is Hema (Freshippo), [Alibaba](/en/companies/alibaba)’s grocery chain. Its first store opened in Shanghai in 2016, and the formula has barely changed: the store is both sales floor and warehouse, orders are picked straight off the shelves, bags travel along overhead rails, and delivery is promised within 30 minutes inside a three-kilometre radius.
 
 Hema lost money for years and experimented constantly, opening and closing formats. According to press reports, in the fiscal year ending March 2025 it posted its first annual profit, with around 430 stores in its core format.
 
 The lesson is not the overhead rail. It’s nine years of honest experimentation: close what fails, keep what works. The rails are a by-product.
 
-Shanghai also shows the next stage: instant delivery of everything. In summer 2025, Meituan, Alibaba and JD.com fought a price war in instant retail and food delivery. Alibaba announced a 50-billion-yuan subsidy programme, regulators told the companies to calm down, and Meituan guided to a 2025 net loss of 23 to 24 billion yuan after a profit the year before.
+Shanghai also shows the next stage: instant delivery of everything. In summer 2025, [Meituan](/en/companies/meituan), Alibaba and [JD.com](/en/companies/jd-com) fought a price war in instant retail and food delivery. Alibaba announced a 50-billion-yuan subsidy programme, regulators told the companies to calm down, and Meituan guided to a 2025 net loss of 23 to 24 billion yuan after a profit the year before.
 
 The outcome is simple. Shoppers got nearly free coffee, companies got losses, and the market got a habit of 30-minute delivery. The habit looks set to outlast the subsidies.
 

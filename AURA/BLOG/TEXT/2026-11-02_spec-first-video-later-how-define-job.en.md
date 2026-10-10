@@ -45,7 +45,7 @@ This is the part videos never show.
 
 As a reference point, Unitree G1 has a 9,000 mAh battery and runs for about 2 hours. An eight-hour shift therefore means at least four swaps or charges, and a spare battery is one more thing to buy, store and charge. Include the minutes spent walking to the charger.
 
-Manufacturers solve this differently. UBTech has shown Walker S2 swapping its own battery in about three minutes, with no human involved. A good answer, but the station, its floor space and the extra batteries belong in the budget.
+Manufacturers solve this differently. [UBTech](/en/catalog/humanoid/factory/ubtech) has shown Walker S2 swapping its own battery in about three minutes, with no human involved. A good answer, but the station, its floor space and the extra batteries belong in the budget.
 
 Specify how many hours a day you need, whether pauses are acceptable and where the charger will physically sit. A humanoid that works for two hours and charges for ninety minutes is not a full-time employee. It is a part-timer who also runs late.
 

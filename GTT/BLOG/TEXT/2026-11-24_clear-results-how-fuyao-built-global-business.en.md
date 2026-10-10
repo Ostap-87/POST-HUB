@@ -14,7 +14,7 @@ On this invisible product, Fuyao built one of China’s most successful global b
 
 ### The basics
 
-Cao Dewang founded Fuyao Glass in 1987 in Fuqing, Fujian province. Today it describes itself as the world’s largest automotive glass maker; estimates of its global share vary between sources, but they all put it at a third or more. In October 2025 the founder handed the chairmanship to his son, Cao Hui, and became honorary chairman.
+Cao Dewang founded [Fuyao Glass](/en/companies/fuyao-glass) in 1987 in Fuqing, Fujian province. Today it describes itself as the world’s largest automotive glass maker; estimates of its global share vary between sources, but they all put it at a third or more. In October 2025 the founder handed the chairmanship to his son, Cao Hui, and became honorary chairman.
 
 In 2025 revenue reached 45.79 billion yuan (up 16.65%) and net profit 9.31 billion yuan (up 24.2%), both company records. Overseas revenue was 20.86 billion yuan, almost 46% of the total. Fuyao has plants in the United States, Germany, Russia and Morocco.
 

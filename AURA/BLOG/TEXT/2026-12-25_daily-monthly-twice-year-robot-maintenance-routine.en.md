@@ -23,7 +23,7 @@ The key document is the maintenance manual for your specific model. There is no 
 
 **Robot dog.** The Unitree Go2 manual says to verify functionality through the app before use and, when needed, calibrate the legs and IMU on a level surface with a calibration ruler.
 
-Notice how different these are in spirit. For the cobot it is bolts and safety. For the cleaner, dirt and sensors. For the dog, calibration. Copying your neighbour’s routine only works if your neighbour bought the same robot.
+Notice how different these are in spirit. For the [cobot](/en/catalog/cobots) it is bolts and safety. For the cleaner, dirt and sensors. For the dog, calibration. Copying your neighbour’s routine only works if your neighbour bought the same robot.
 
 ### 2. Every day, every shift: five minutes for the operator
 

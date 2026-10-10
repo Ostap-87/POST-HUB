@@ -27,7 +27,7 @@ These figures describe other technologies, so do not map them onto robots one to
 
 The most common pilot brief is “let’s try a robot and see”. You can see for a long time. The robot drives, beeps, moves things, everyone is happy, and there is still no answer, because nobody asked a question.
 
-A good pilot answers one specific question. Can a cobot tend this machine at a steady 90-second cycle across two shifts, with operator intervention no more than once an hour? Can an AMR move totes between picking and packing in our forklift and foot traffic without slowing the area down?
+A good pilot answers one specific question. Can a [cobot](/en/catalog/cobots) tend this machine at a steady 90-second cycle across two shifts, with operator intervention no more than once an hour? Can an AMR move totes between picking and packing in our forklift and foot traffic without slowing the area down?
 
 If the question does not fit in one sentence, it is not a pilot. It is a field trip.
 

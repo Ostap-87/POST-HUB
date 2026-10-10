@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Nobody tips taxi drivers in China, and nobody ever did. So the headline cheats a little. What is new is that you can now leave out the driver as well.
 
-Robotaxis in China stopped being a stunt for journalists some time ago. They are a service you hail from an app like any other car, and in several cities they share the streets with ordinary taxis. The three most visible companies are Baidu’s Apollo Go, Pony.ai and WeRide. Here is how many cars they run, how many rides they give and where they are heading next. All figures come from company reports as of late summer 2026.
+Robotaxis in China stopped being a stunt for journalists some time ago. They are a service you hail from an app like any other car, and in several cities they share the streets with ordinary taxis. The three most visible companies are [Baidu](/en/companies/baidu)’s Apollo Go, [Pony.ai](/en/companies/pony-ai) and WeRide. Here is how many cars they run, how many rides they give and where they are heading next. All figures come from company reports as of late summer 2026.
 
 ### Apollo Go: three million rides a quarter
 

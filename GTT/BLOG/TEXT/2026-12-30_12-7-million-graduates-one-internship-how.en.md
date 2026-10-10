@@ -25,9 +25,9 @@ When twelve million people look for work at the same time, it is not the person 
 
 ### The calendar: two seasons and an internship
 
-The main season is autumn, 秋招, aimed at students who will graduate the following summer. Big companies open it in August: in 2026 ByteDance and JD.com launched hiring for the class of 2027 on 3 August, Alibaba on 4 August and Ant Group on 10 August. The peak runs through September and October, known as “golden September, silver October”. By November most big employers have made their offers.
+The main season is autumn, 秋招, aimed at students who will graduate the following summer. Big companies open it in August: in 2026 [ByteDance](/en/companies/bytedance) and JD.com launched hiring for the class of 2027 on 3 August, Alibaba on 4 August and [Ant Group](/en/companies/ant-group) on 10 August. The peak runs through September and October, known as “golden September, silver October”. By November most big employers have made their offers.
 
-Spring, 春招, is the second chance, for students who did not land a job in autumn and companies that did not fill their places. Meituan, for instance, was reported to be topping up its 2026 intake to 6,000 graduates in spring 2026.
+Spring, 春招, is the second chance, for students who did not land a job in autumn and companies that did not fill their places. [Meituan](/en/companies/meituan), for instance, was reported to be topping up its 2026 intake to 6,000 graduates in spring 2026.
 
 The most interesting part happens between the seasons: internships designed to convert into full-time jobs, 实习转正. In March 2026 ByteDance announced it would recruit more than 7,000 interns worldwide from the class of 2027, its largest such programme ever, and said more than half were expected to receive offers. Tencent announced the same day that it would take more than 10,000 interns graduating between September 2026 and December 2027, with technical roles up 36% and product roles up 39%. Meituan opened more than 3,000 such places for the class of 2027.
 

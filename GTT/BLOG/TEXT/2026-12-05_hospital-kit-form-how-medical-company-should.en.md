@@ -68,7 +68,7 @@ Question five is the litmus test. If they are keen to invite you to the factory,
 
 ### After the fair: factory, hospital, distributor
 
-A trade show shows who makes what. To see how they make it, you need to go to the plant. We covered how to see a manufacturer, a hospital and a distributor in one trip in our article on a medtech expedition to China.
+A trade show shows who makes what. To see how they make it, you need to go to the plant. We covered how to see a manufacturer, a hospital and a distributor in one trip in our article on a medtech [expedition](/en/expeditions) to China.
 
 A sensible plan: the fair at the start of the trip, then two or three days of visits to companies on your shortlist. Global Tech Tour runs business expeditions with closed visits to companies across 17 industries, in ready-made and bespoke programmes. Visits are always confirmed by the hosts, and fair dates by the organiser.
 

@@ -13,7 +13,7 @@ There are two ways to find your way around an unfamiliar city. One is to read th
 
 Warehouse robots navigate in exactly these two ways. Some read codes on the floor. Others build a laser map of the building and recognise it by the outline of walls, columns and racks. The debate looks technical, but it is usually settled not by IT but by whoever is in charge of rearranging the warehouse.
 
-At Aura Robotics we source warehouse robots directly from Chinese manufacturers. We have a separate guide on choosing between AGVs and AMRs. Here we go deeper into one question: how a robot knows where it is, and what it costs to explain that again.
+At Aura Robotics we source warehouse robots directly from Chinese manufacturers. We have a separate guide on choosing between [AGVs](/en/catalog/agv) and AMRs. Here we go deeper into one question: how a robot knows where it is, and what it costs to explain that again.
 
 ### 1. Reading codes on the floor
 

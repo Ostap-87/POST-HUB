@@ -47,7 +47,7 @@ Since 1 September 2026 Russian catering has operated under new sanitary rules, S
 
 For food manufacturers the same obligation sits in the Customs Union technical regulation TR CU 021/2011 on food safety: the manufacturer must develop, implement and maintain procedures based on HACCP principles. Article 15 of that regulation also requires process equipment to carry control instruments where needed.
 
-The practical upshot: a business fixes its chilling, storage and regeneration regimes and the shelf life of its dishes in its own technical documentation and production control programme, and has to be able to prove them. A chiller that chills but records nothing leaves you with good food and no evidence. Agree the exact parameters for your menu with a food technologist and a regulatory specialist before you buy, not after the first inspection.
+The practical upshot: a business fixes its chilling, storage and regeneration regimes and the shelf life of its dishes in its own technical documentation and production control programme, and has to be able to prove them. A chiller that chills but records nothing leaves you with good food and no evidence. Agree the exact parameters for your menu with a food technologist and a regulatory specialist before you buy, not after the first [inspection](/en/catalog/inspection).
 
 ### 4. Equipment, from cabinet to tunnel
 

@@ -43,7 +43,7 @@ Eighty-five per cent is refreshingly honest. The robot is still slower than a pe
 
 **Remote-controlled heavy equipment.** At one Shanxi pit a single operator runs two drilling rigs from six screens. The operator reports roughly 10% higher efficiency and a 60% drop in rig failures.
 
-**Humanoids and quadrupeds.** More direction than practice so far. In 2025 Unitree signed an agreement with Shanxi Coking Coal Group and Shanxi Keda Control to develop embodied-AI mining robots. Expect the video of a humanoid striding down a tunnel well before the certificate allowing one into a methane mine. That is the natural order of things.
+**Humanoids and quadrupeds.** More direction than practice so far. In 2025 Unitree signed an agreement with Shanxi Coking Coal Group and Shanxi Keda Control to develop embodied-AI mining robots. Expect the video of a [humanoid](/en/catalog/humanoid) striding down a tunnel well before the certificate allowing one into a methane mine. That is the natural order of things.
 
 ### The detail that matters most: explosion protection
 

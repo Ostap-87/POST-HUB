@@ -20,7 +20,7 @@ Yu Donglai founded Pangdonglai in 1995. It operates in just two cities in Henan,
 
 Revenue in 2025 reached 23.53 billion yuan, up 38.7% from about 17 billion the year before. Supermarkets brought in 12.64 billion, jewellery 2.45 billion and tea 1.06 billion.
 
-For comparison, Yonghui, with stores across the country, reported 67.6 billion yuan in revenue for 2024 and a net loss of almost 1.5 billion. Thirteen stores versus several hundred, and it is not obvious who should envy whom.
+For comparison, [Yonghui](/en/companies/yonghui), with stores across the country, reported 67.6 billion yuan in revenue for 2024 and a net loss of almost 1.5 billion. Thirteen stores versus several hundred, and it is not obvious who should envy whom.
 
 According to Xuchang city authorities, during the 2025 Spring Festival Pangdonglai took in about 100 million yuan in a single day, as much as a famous Henan tourist attraction earned over the entire eight-day holiday. The supermarket beat the landmark. The landmark can console itself: it has been standing there a great deal longer.
 

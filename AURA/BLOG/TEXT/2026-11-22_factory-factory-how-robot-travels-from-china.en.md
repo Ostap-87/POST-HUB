@@ -29,7 +29,7 @@ A crate is built once. It is opened together with everyone’s expectations.
 
 ### 2. Batteries: a robot that travels as dangerous goods
 
-Mobile robots, humanoids and robot dogs almost always carry lithium-ion batteries, which international transport rules classify as Class 9 dangerous goods: UN 3481 when contained in or packed with equipment, UN 3480 when shipped alone.
+Mobile robots, [humanoids](/en/catalog/humanoid) and robot dogs almost always carry lithium-ion batteries, which international transport rules classify as Class 9 dangerous goods: UN 3481 when contained in or packed with equipment, UN 3480 when shipped alone.
 
 In practice that means a UN 38.3 test summary for the battery (no summary, no booking), correct marks and a shipper’s declaration. And for air freight, from 2026 the 30% state-of-charge limit has been extended to batteries packed with equipment, not just standalone batteries.
 

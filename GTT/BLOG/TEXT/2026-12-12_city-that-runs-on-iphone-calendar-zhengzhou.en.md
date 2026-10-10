@@ -17,7 +17,7 @@ That is an exaggeration, of course. But not much of one.
 
 Zhengzhou is the capital of Henan, one of China’s most populous provinces. It is a long way from the sea and a long way from any border. For centuries it lived off being a crossroads in the middle of the country: a rail junction, grain, transit. A good place to pass through.
 
-In March 2011, the first Apple phone came off the line near the city’s airport, assembled by Foxconn, the world’s largest contract electronics manufacturer. Two years later, on 7 March 2013, China’s State Council approved the development plan for the Zhengzhou Airport Economy Zone, covering 415 square kilometres. According to the local Zhengzhou Daily, it was the country’s first, and at the time only, airport economy zone approved at State Council level.
+In March 2011, the first Apple phone came off the line near the city’s airport, assembled by [Foxconn](/en/companies/foxconn), the world’s largest contract electronics manufacturer. Two years later, on 7 March 2013, China’s State Council approved the development plan for the Zhengzhou Airport Economy Zone, covering 415 square kilometres. According to the local Zhengzhou Daily, it was the country’s first, and at the time only, airport economy zone approved at State Council level.
 
 The logic was simple. Phones are valuable and light, so it pays to fly them. Make phones next to the airport, turn the airport into a cargo hub, and a city in the middle of the country gets direct access to world markets without a coastline.
 

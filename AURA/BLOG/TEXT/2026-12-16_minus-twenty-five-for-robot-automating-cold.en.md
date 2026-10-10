@@ -29,7 +29,7 @@ In China this logic is already an industry. The China Federation of Logistics an
 
 **Automated stacker cranes and vertical lifts** suit tall buildings with narrow aisles.
 
-One example from a Chinese manufacturer: in 2025 Geek+ automated a cold store for logistics firm TAHUHU in Hong Kong, with three zones at 0–4 °C, −18 °C and −25 °C served by cold-store AMRs, low-temperature four-way shuttles and automated lifts. The company reports 60% less manual labour and 30% more storage capacity. These are press-release figures rather than an independent audit, but the order of magnitude is telling.
+One example from a Chinese manufacturer: in 2025 [Geek+](/en/catalog/agv/factory/geekplus) automated a cold store for logistics firm TAHUHU in Hong Kong, with three zones at 0–4 °C, −18 °C and −25 °C served by cold-store AMRs, low-temperature four-way shuttles and automated lifts. The company reports 60% less manual labour and 30% more storage capacity. These are press-release figures rather than an independent audit, but the order of magnitude is telling.
 
 ### The battery feels the cold first
 

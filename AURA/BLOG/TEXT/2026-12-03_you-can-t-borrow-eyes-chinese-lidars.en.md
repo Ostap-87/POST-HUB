@@ -19,7 +19,7 @@ A few years ago lidar was an expensive toy for self-driving cars. Today it goes 
 
 China’s two largest lidar makers, Hesai and RoboSense, grew up in automotive and are moving fast into robotics. In Q2 2025 Hesai shipped 49,000 robotics lidars (8.4 times a year earlier) and RoboSense 34,400. In April 2025 Hesai agreed to supply 300,000 JT-series units to Dreame for robotic lawn mowers. In the first half of 2026 RoboSense sold 282,600 robotics lidars, up 510% year on year, and describes itself as the world’s number one in the segment.
 
-The third notable name is Livox, whose Mid-360 sits, for example, in the head of the Unitree G1 humanoid. Orbbec is a major supplier of depth cameras for robots.
+The third notable name is Livox, whose Mid-360 sits, for example, in the head of the Unitree G1 [humanoid](/en/catalog/humanoid). Orbbec is a major supplier of depth cameras for robots.
 
 The good news for buyers: a Chinese robot almost certainly sees the world through Chinese eyes. A spare sensor comes from the same supply chain, not from a hunt for a discontinued camera on another continent.
 

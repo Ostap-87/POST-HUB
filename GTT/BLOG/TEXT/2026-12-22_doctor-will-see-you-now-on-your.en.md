@@ -39,7 +39,7 @@ A regulator that first liked the idea and then disliked the execution writes ver
 
 ### JD Health: a pharmacy that comes with a doctor
 
-Now, money. The largest listed company in the sector is JD Health, a subsidiary of JD.com. Its 2025 revenue was 73.4 billion yuan, roughly a quarter more than a year earlier. Adjusted net profit rose 36% to 6.5 billion yuan. It had 218 million annual active users at year-end.
+Now, money. The largest listed company in the sector is JD Health, a subsidiary of [JD.com](/en/companies/jd-com). Its 2025 revenue was 73.4 billion yuan, roughly a quarter more than a year earlier. Adjusted net profit rose 36% to 6.5 billion yuan. It had 218 million annual active users at year-end.
 
 The key number is another one. Sales of medicines and health products brought in 60.9 billion yuan, about 83% of revenue.
 
@@ -51,7 +51,7 @@ JD Health’s latest bet is artificial intelligence: a set of AI agents, includi
 
 ### Ping An Good Doctor: the doctor someone else pays for
 
-The second model belongs to Ping An Good Doctor, part of the Ping An insurance group. Its 2025 revenue was 5.47 billion yuan, up 13.7%: a fraction of JD Health’s, but structured completely differently.
+The second model belongs to [Ping An](/en/companies/ping-an) Good Doctor, part of the Ping An insurance group. Its 2025 revenue was 5.47 billion yuan, up 13.7%: a fraction of JD Health’s, but structured completely differently.
 
 About 3.3 billion yuan came from what the company calls commercial insurance enablement: its doctors and services are built into the parent group’s insurance products. Another 1.3 billion, almost a quarter of revenue, came from corporate health programmes for employers, up 40.6%, with more than 6,700 paying corporate clients. The company says it works with about 50,000 in-house and contracted doctors.
 
@@ -61,7 +61,7 @@ The company reports that its profit multiplied in 2025 and that the cost per con
 
 ### WeDoctor: a reminder that the model beats the idea
 
-The third name from the first wave is WeDoctor, a platform once backed by Tencent. It was among the first to build internet hospitals and among the first to learn that a good idea and a sustainable model are different things. It prepared for a Hong Kong listing for several years and kept postponing it; in 2022, according to Bloomberg, it cut staff after the IPO was delayed.
+The third name from the first wave is WeDoctor, a platform once backed by [Tencent](/en/companies/tencent). It was among the first to build internet hospitals and among the first to learn that a good idea and a sustainable model are different things. It prepared for a Hong Kong listing for several years and kept postponing it; in 2022, according to Bloomberg, it cut staff after the IPO was delayed.
 
 The lesson the industry took away: a doctor in your phone does not sell well on its own. What sells is what is attached to it. A pharmacy, an insurance policy, a corporate contract.
 

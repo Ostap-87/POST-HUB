@@ -36,7 +36,7 @@ Titles are not a formality. Hierarchy matters, and the seniority of your delegat
 
 ### Step 4. Apps, payments, paper
 
-Install WeChat and set up an account before you travel: in China it is your messenger, your contact book and often your wallet. Set up Alipay or WeChat Pay in advance. Check current visa rules and timelines a month ahead; they have changed more than once in recent years, and the airport is a poor place to find out.
+Install [WeChat](/en/companies/wechat) and set up an account before you travel: in China it is your messenger, your contact book and often your wallet. Set up Alipay or WeChat Pay in advance. Check current visa rules and timelines a month ahead; they have changed more than once in recent years, and the airport is a poor place to find out.
 
 And yes, bring printed business cards. They are still offered and received with both hands, and actually read rather than pocketed. In some meetings the business card gets more careful attention than the contract.
 

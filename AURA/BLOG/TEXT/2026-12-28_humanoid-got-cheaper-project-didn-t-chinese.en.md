@@ -23,7 +23,7 @@ Unitree gives the clearest picture because it publishes prices.
 
 **Unitree R1.** Launched in July 2025 from 39,900 yuan, about $5,900, and instantly labelled the cheapest full-size humanoid. In June 2026 Xinhua reported the starting price cut to 29,900 yuan.
 
-**Noetix Bumi.** In October 2025 Beijing start-up Noetix Robotics unveiled Bumi, 94 cm tall and 12 kg, for 9,998 yuan, about $1,370. It is an education and consumer model that walks, balances, dances and is programmed with drag-and-drop tools. In June 2026 it was selling for about 9,400 yuan after subsidies.
+**Noetix Bumi.** In October 2025 Beijing start-up [Noetix Robotics](/en/catalog/humanoid/factory/noetix) unveiled Bumi, 94 cm tall and 12 kg, for 9,998 yuan, about $1,370. It is an education and consumer model that walks, balances, dances and is programmed with drag-and-drop tools. In June 2026 it was selling for about 9,400 yuan after subsidies.
 
 So in two years the floor price of a humanoid fell from six figures in yuan to four. But that compares big robots with small ones. Like for like, G1 fell about 14% in two years and R1 about a quarter in one.
 

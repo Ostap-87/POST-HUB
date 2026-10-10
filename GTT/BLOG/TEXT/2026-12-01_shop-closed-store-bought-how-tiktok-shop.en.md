@@ -34,7 +34,7 @@ The regulator’s message was simple: you may look, but you may not buy. For a p
 
 ### January 2024: if you cannot be a social network, become a marketplace
 
-The answer came quickly. In December 2023 TikTok agreed with Indonesia’s GoTo group to take control of Tokopedia, one of the country’s largest marketplaces. The deal closed on 31 January 2024: TikTok took 75.01% of Tokopedia and GoTo kept 24.99%. TikTok paid US$840 million for new shares, within a total investment agreement of US$1.5 billion.
+The answer came quickly. In December 2023 TikTok agreed with Indonesia’s [GoTo](/en/companies/goto-gofood-gokitchen) group to take control of Tokopedia, one of the country’s largest marketplaces. The deal closed on 31 January 2024: TikTok took 75.01% of Tokopedia and GoTo kept 24.99%. TikTok paid US$840 million for new shares, within a total investment agreement of US$1.5 billion.
 
 TikTok Shop in Indonesia carried on together with Tokopedia, as part of a locally licensed marketplace rather than a shop inside a social network.
 
@@ -42,9 +42,9 @@ That is a useful lesson. The Chinese company did not argue with the rule or wait
 
 ### The result: 2025 figures
 
-According to Momentum Works (Ecommerce in Southeast Asia 2026, as reported by Bisnis.com), TikTok Shop and Tokopedia together held 38% of Indonesian e-commerce in 2025, up from 34% a year earlier. Shopee remained the leader with 54%, Lazada had 6% and Blibli 3%. Momentum Works puts the whole market at about US$57.7 billion GMV.
+According to Momentum Works (Ecommerce in Southeast Asia 2026, as reported by Bisnis.com), TikTok Shop and Tokopedia together held 38% of Indonesian e-commerce in 2025, up from 34% a year earlier. Shopee remained the leader with 54%, Lazada had 6% and [Blibli](/en/companies/blibli) 3%. Momentum Works puts the whole market at about US$57.7 billion GMV.
 
-Note the arithmetic. In 2024 Tokopedia and TikTok Shop were counted separately (23% and 11%); now they are counted together. The combined share grew, but Shopee grew more. The biggest losers were neither the Chinese nor the Singaporean platform but the local second tier: Bukalapak, which had 10% a year earlier, no longer appears among the major players.
+Note the arithmetic. In 2024 Tokopedia and TikTok Shop were counted separately (23% and 11%); now they are counted together. The combined share grew, but Shopee grew more. The biggest losers were neither the Chinese nor the Singaporean platform but the local second tier: [Bukalapak](/en/companies/bukalapak), which had 10% a year earlier, no longer appears among the major players.
 
 (The gap between Google’s US$71 billion and Momentum Works’ US$57.7 billion is not a mistake but a difference in methodology. Analysts argue about numbers as passionately as live-stream hosts argue about discounts.)
 

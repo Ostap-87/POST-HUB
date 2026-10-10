@@ -73,7 +73,7 @@ One rule applies to all of them: put the show at the start of the trip and the f
 
 ### How Global Tech Tour can help
 
-Global Tech Tour runs business expeditions to China: closed visits to companies across 17 industries, with ready-made and bespoke programmes built around a company’s goals. A trade show can be the starting point of such a programme, with factory visits as its continuation. The final list of visits is always confirmed by the hosts, and show dates by their organisers.
+Global Tech Tour runs business [expeditions](/en/expeditions) to China: closed visits to companies across 17 industries, with ready-made and bespoke programmes built around a company’s goals. A trade show can be the starting point of such a programme, with factory visits as its continuation. The final list of visits is always confirmed by the hosts, and show dates by their organisers.
 
 ### The bottom line
 

@@ -13,7 +13,7 @@ The “Chinese or European?” debate usually starts with the list price and end
 
 The nice thing about “buy cheap, buy twice” is that it never says what the second purchase costs. Let’s find out.
 
-At Aura Robotics we source cobots directly from Chinese manufacturers, so it would be easy to suspect us of bias. To make that suspicion well founded, we are going to calculate five-year cost of ownership rather than price, and show where a Chinese cobot wins and where the difference gets eaten.
+At Aura Robotics we source [cobots](/en/catalog/cobots) directly from Chinese manufacturers, so it would be easy to suspect us of bias. To make that suspicion well founded, we are going to calculate five-year cost of ownership rather than price, and show where a Chinese cobot wins and where the difference gets eaten.
 
 ### 1. The market: half the units, a third of the money
 

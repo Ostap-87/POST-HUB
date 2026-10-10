@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Five-year plans have an image problem in the West. They summon pictures of tractor statistics, heroic posters and targets that were always, somehow, overfulfilled. So when China adopts a new one, many readers smile. Smile by all means, but read it too. A Chinese plan is not a slogan on a factory wall. It is a fairly precise map of where the state will steer money, credit and official attention over the next five years.
 
-The 15th plan covers 2026 to 2030. We have read the published documents and will summarise them the way we would for an expedition participant on the flight over.
+The 15th plan covers 2026 to 2030. We have read the published documents and will summarise them the way we would for an [expedition](/en/expeditions) participant on the flight over.
 
 ### How a plan is made
 

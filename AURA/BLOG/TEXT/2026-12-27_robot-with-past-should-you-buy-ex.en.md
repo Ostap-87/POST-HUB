@@ -25,7 +25,7 @@ It is tempting to order a truckload. Do not rush. The price in the listing is th
 
 **Ex-demo units.** Robots the manufacturer took to shows, demonstrated to clients or kept in a showroom. Low hours, but an unusual life: lots of power cycles, transport, demo routines and, for humanoids, falls on stage, quite literally. The upside: the manufacturer stands behind it and can provide the history and a warranty.
 
-**Refurbished robots.** Arms or cobots that have been serviced: new grease, belts, sometimes gearboxes and cables. Quality depends entirely on who did the work. The manufacturer or its service partner is one thing; an unknown workshop is another.
+**Refurbished robots.** Arms or [cobots](/en/catalog/cobots) that have been serviced: new grease, belts, sometimes gearboxes and cables. Quality depends entirely on who did the work. The manufacturer or its service partner is one thing; an unknown workshop is another.
 
 **Plain used.** Sold by the previous owner. It may be an excellent machine from a cancelled project, or a machine retired because it was tired. You cannot tell from the outside.
 

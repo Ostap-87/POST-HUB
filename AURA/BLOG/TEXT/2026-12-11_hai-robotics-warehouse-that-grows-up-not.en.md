@@ -13,7 +13,7 @@ Warehouse rent is charged per square metre, while goods sit in cubic ones. In a 
 
 Hai Robotics built a business on that empty air. Its robots climb a rack to the height of a three- or four-storey building, pull out the right tote and bring it to a person, who stays on the floor where people belong.
 
-At Aura Robotics we source warehouse equipment directly from Chinese factories. We have already covered AGV versus AMR, and Geek+ and Quicktron. This is about a different class of machine and the company that now leads it.
+At Aura Robotics we source warehouse equipment directly from Chinese factories. We have already covered AGV versus AMR, and [Geek+](/en/catalog/agv/factory/geekplus) and Quicktron. This is about a different class of machine and the company that now leads it.
 
 ### What an ACR is
 

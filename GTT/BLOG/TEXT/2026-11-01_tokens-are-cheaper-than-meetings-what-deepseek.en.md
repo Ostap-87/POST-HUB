@@ -9,13 +9,13 @@ slug: "tokens-are-cheaper-than-meetings-what-deepseek"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 ---
 
-Not long ago, AI sat in most company budgets as a single line called “innovation”: a round number, a vague purpose and no one expecting to report on it. Then DeepSeek arrived, and the line had to be broken down. The intelligence itself, it turned out, costs pennies. Everything around it does not.
+Not long ago, AI sat in most company budgets as a single line called “innovation”: a round number, a vague purpose and no one expecting to report on it. Then [DeepSeek](/en/companies/deepseek) arrived, and the line had to be broken down. The intelligence itself, it turned out, costs pennies. Everything around it does not.
 
 Here is what the Hangzhou company actually changed, what its models cost as of October 2026, and why an executive planning a trip to China should look less at the model and more at what people do with it.
 
 ### Where DeepSeek came from
 
-The story is short and has no garage in it. In 2015 Liang Wenfeng, a Zhejiang University graduate, co-founded the quant fund High-Flyer in Hangzhou. The fund traded by algorithm, and algorithms need compute. In July 2023 the fund’s research lab was spun out as DeepSeek, financed by the fund with no outside investors.
+The story is short and has no garage in it. In 2015 Liang Wenfeng, a [Zhejiang University](/en/companies/zhejiang-university) graduate, co-founded the quant fund High-Flyer in Hangzhou. The fund traded by algorithm, and algorithms need compute. In July 2023 the fund’s research lab was spun out as DeepSeek, financed by the fund with no outside investors.
 
 The V3 model came out in December 2024. Its technical report contained the number everyone quoted: the final training run took 2.788 million H800 GPU hours, about $5.6 million. The same report stated plainly that this covered only the final run, not the research and experiments before it. That sentence was quoted rather less often.
 
@@ -29,7 +29,7 @@ The market repriced AI in a single trading session. Companies needed a little lo
 
 **Open weights.** You can call the model over the internet, or download it and run it on your own servers. For companies that cannot send data outside (banks, manufacturers, healthcare, the public sector), that is not a detail but a precondition. The latest model at the time of writing, V4.1-Flash, released on 10 September 2026, is also MIT-licensed.
 
-**Pace.** V3.1 arrived in August 2025, V3.2 in December, and V4 on 24 April 2026: 1.6 trillion parameters in the largest version, a one-million-token context and, for the first time, support for Huawei Ascend chips. V4.1-Flash followed in September 2026. Any model choice now goes out of date faster than the implementation contract gets signed.
+**Pace.** V3.1 arrived in August 2025, V3.2 in December, and V4 on 24 April 2026: 1.6 trillion parameters in the largest version, a one-million-token context and, for the first time, support for [Huawei](/en/companies/huawei) Ascend chips. V4.1-Flash followed in September 2026. Any model choice now goes out of date faster than the implementation contract gets signed.
 
 ### A hypothetical calculation
 

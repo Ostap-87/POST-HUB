@@ -19,7 +19,7 @@ There is an old warning about selling the skin before you have caught the tiger.
 
 In 2023 China went through what was called the “battle of a hundred models”: almost anyone with compute and investors released a large language model. By early 2024 six startups valued above a billion dollars stood out: Zhipu, Moonshot (maker of the Kimi chatbot), Baichuan and 01.AI in Beijing, and MiniMax and StepFun in Shanghai. The press called them the “six little tigers”.
 
-Then three things hit them at once: the 2024 price war among the big platforms, free assistants from ByteDance, Alibaba and Baidu, and, in January 2025, DeepSeek’s open models, which made the expensive cheap almost overnight.
+Then three things hit them at once: the 2024 price war among the big platforms, free assistants from [ByteDance](/en/companies/bytedance), [Alibaba](/en/companies/alibaba) and Baidu, and, in January 2025, [DeepSeek](/en/companies/deepseek)’s open models, which made the expensive cheap almost overnight.
 
 Here is the scoreboard as of October 2026.
 

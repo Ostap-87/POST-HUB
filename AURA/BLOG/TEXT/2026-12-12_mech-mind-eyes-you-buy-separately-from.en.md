@@ -39,7 +39,7 @@ Choose by working distance and task, not by price or how nice the housing looks.
 - **NANO** and **NANO ULTRA**: compact, 250–800 mm, for precise location, assembly and welding in tight spaces.
 - **PRO S** and **PRO M**: 500–2,000 mm, general robotics at short and medium range.
 - **ULTRA M**: 1,000–2,200 mm, demanding work including thin and transparent parts.
-- **LSR S, L, XL**: 500–3,500 mm, laser-based, including use under ambient light and outdoors; large fields of view, depalletizing, big parts.
+- **LSR S, L, XL**: 500–3,500 mm, laser-based, including use under ambient light and outdoors; large fields of view, de[palletizing](/en/catalog/palletizing), big parts.
 - **DEEP**: 1,200–3,500 mm with a deep depth of field, for tall pallets and deep bins.
 
 The software comes alongside: **Mech-Vision** (no-code image processing and recognition), **Mech-Viz** (robot path planning) and **Mech-DLK** (training neural networks on your own parts). It works with robots from many manufacturers, not just one brand.

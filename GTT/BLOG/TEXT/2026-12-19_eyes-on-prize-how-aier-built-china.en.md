@@ -81,6 +81,6 @@ At home you know how to build a clinic from zero. In a foreign country it is eas
 
 Aier’s story is useful not because you can copy it. You cannot: it grew on an enormous market where short-sightedness, quite literally, became one of the few truly mass consumer categories. It is useful because it shows the full life cycle of a network model: standard, ladder, partnership, financial ingenuity, slowdown, and the bill for the ingenuity.
 
-Medical companies that come to China on business expeditions usually look at equipment and hospitals. It is worth looking at how the hospitals are wired together, too. Equipment can be bought. The wiring has to be designed.
+Medical companies that come to China on business [expeditions](/en/expeditions) usually look at equipment and hospitals. It is worth looking at how the hospitals are wired together, too. Equipment can be bought. The wiring has to be designed.
 
 Vision is a long game. Even for the people who sell it.

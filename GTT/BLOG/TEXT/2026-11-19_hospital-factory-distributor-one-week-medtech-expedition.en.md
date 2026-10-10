@@ -23,7 +23,7 @@ A medtech expedition lets you see the whole chain in a week: where a device is m
 
 In fifteen years, China’s medical industry has moved from low-cost consumables to complex equipment: MRI, CT, ultrasound, monitors, endoscopes, surgical robots, laboratory diagnostics. The main clusters are the Yangtze River Delta (Shanghai, Suzhou, Hangzhou), the Pearl River Delta (Shenzhen, Guangzhou) and the Beijing area.
 
-We have already written about some leaders, such as Mindray, so here we focus on what you see on the production side in general.
+We have already written about some leaders, such as [Mindray](/en/companies/mindray), so here we focus on what you see on the production side in general.
 
 First, the registration machine. According to NMPA data summarised by consultancy Cisema, China issued 14,187 medical device registrations in 2025, up 8%. Seventy-six products were approved under the innovative device pathway, bringing the cumulative total to 391 by the end of 2025.
 

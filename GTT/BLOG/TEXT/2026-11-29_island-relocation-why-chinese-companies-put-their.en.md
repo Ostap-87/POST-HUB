@@ -65,7 +65,7 @@ One more observation. A move to Singapore often signals that a company is buildi
 
 ### Where to see it
 
-Global Tech Tour runs business expeditions to China, with closed visits to companies, many of which run their international operations through Singapore or other jurisdictions. In those meetings it is worth asking how the international structure works and who is responsible for your market. For companies that need a closer look at a specific partner or market, we also offer consulting and corporate training.
+Global Tech Tour runs business [expeditions](/en/expeditions) to China, with closed visits to companies, many of which run their international operations through Singapore or other jurisdictions. In those meetings it is worth asking how the international structure works and who is responsible for your market. For companies that need a closer look at a specific partner or market, we also offer consulting and corporate training.
 
 ### The bottom line
 

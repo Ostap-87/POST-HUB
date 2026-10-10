@@ -43,7 +43,7 @@ It reads like an advertisement for robotics. For the city it meant something els
 
 ### A lake instead of a workshop
 
-Dongguan looked for the answer by Songshan Lake. In 2013 Huawei announced it would move its devices business there, onto a campus of about 1,900 mu (roughly 127 hectares) with an investment of around 10 billion yuan. The move began in 2018 with 2,700 staff; later nearly 30,000 R&D employees worked there. The campus is built to resemble a European town, and, China Daily notes, tens of thousands of employees commute daily between Shenzhen and Dongguan.
+Dongguan looked for the answer by Songshan Lake. In 2013 [Huawei](/en/companies/huawei) announced it would move its devices business there, onto a campus of about 1,900 mu (roughly 127 hectares) with an investment of around 10 billion yuan. The move began in 2018 with 2,700 staff; later nearly 30,000 R&D employees worked there. The campus is built to resemble a European town, and, China Daily notes, tens of thousands of employees commute daily between Shenzhen and Dongguan.
 
 A city that spent twenty years assembling other people’s phones now hosts an office where phones are invented. Those are different jobs, and that is the whole point.
 

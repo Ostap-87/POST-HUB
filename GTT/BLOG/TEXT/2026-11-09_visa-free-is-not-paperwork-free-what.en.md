@@ -36,7 +36,7 @@ For mixed delegations, where participants hold different passports or continue i
 
 ### 3. The arrival card now lives on your phone
 
-Since 20 November 2025, foreigners can complete the arrival card online before arriving in China, via the NIA website, the NIA 12367 app, or mini-programs in WeChat and Alipay. Paper cards are still available at the border, but the queue at the little desk with pens on chains is longer than it looks from the plane.
+Since 20 November 2025, foreigners can complete the arrival card online before arriving in China, via the NIA website, the NIA 12367 app, or mini-programs in [WeChat](/en/companies/wechat) and Alipay. Paper cards are still available at the border, but the queue at the little desk with pens on chains is longer than it looks from the plane.
 
 Five minutes at home saves twenty in the arrivals hall. It is the best exchange rate you will get all trip.
 

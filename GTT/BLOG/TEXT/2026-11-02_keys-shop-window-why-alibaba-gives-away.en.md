@@ -15,7 +15,7 @@ There is a till. Two of them, in fact.
 
 ### What exactly is being given away
 
-In August 2023 Alibaba released Qwen-7B as open source, with commercial use allowed, the first of China’s tech giants to do so. Since then giving models away has become a system. The Qwen3 family, released at the end of April 2025, came under the Apache 2.0 licence, one of the most permissive there is: models from 0.6 billion to 235 billion parameters that you can build into your own products and sell.
+In August 2023 [Alibaba](/en/companies/alibaba) released Qwen-7B as open source, with commercial use allowed, the first of China’s tech giants to do so. Since then giving models away has become a system. The Qwen3 family, released at the end of April 2025, came under the Apache 2.0 licence, one of the most permissive there is: models from 0.6 billion to 235 billion parameters that you can build into your own products and sell.
 
 By August 2026, the company says, more than 460 Qwen models had been released openly, downloaded more than 3 billion times, with over 300,000 derivative models built on top. For an independent benchmark, Hugging Face reports about 2 billion Qwen downloads on its platform in the first seven months of 2026, against 418 million for Google and 227 million for Meta.
 
@@ -27,7 +27,7 @@ A model is downloaded once. It runs every day, and the question is whose hardwar
 
 Alibaba has answered the “where is the till” question in public. In February 2025 it pledged at least 380 billion yuan for cloud and AI infrastructure over three years. In August 2026 it reported AI and compute cloud revenue of $7.1 billion for the quarter, up 45% year on year.
 
-Omdia puts China’s AI cloud market at 56.7 billion yuan in 2025, with Alibaba Cloud holding 38.1%, almost twice its nearest rival, ByteDance’s Volcano Engine. Open models work for the cloud the way free samples work at a wholesale fair: you try it at home, you like it, and when you need volume you come back to rent capacity.
+Omdia puts China’s AI cloud market at 56.7 billion yuan in 2025, with Alibaba Cloud holding 38.1%, almost twice its nearest rival, [ByteDance](/en/companies/bytedance)’s Volcano Engine. Open models work for the cloud the way free samples work at a wholesale fair: you try it at home, you like it, and when you need volume you come back to rent capacity.
 
 The Apsara Conference, which Alibaba holds in Hangzhou every autumn, showed on 22 September 2026 how seriously this is meant. The flagship Qwen3.8-Max has 2.4 trillion parameters; Qwen 4 is in training, with no date or licence terms announced; models of 5–10 trillion parameters are planned; Alibaba’s own Zhenwu V900 AI chip is due for mass production in Q1 2027; and the target is 20 gigawatts of Alibaba Cloud data-centre capacity by 2032. CEO Eddie Wu also said the open-weight Qwen-27B had become the most popular model among developers worldwide, and that Alibaba will keep releasing models for local deployment.
 
@@ -35,7 +35,7 @@ Twenty gigawatts is roughly twenty large power stations. A free model is very ex
 
 ### Till number two: the Taobao shop window
 
-The second till matters more to anyone who sells. On 17 November 2025 Alibaba opened a public beta of the Qwen app, and on 15 January 2026 it plugged in its own ecosystem: Taobao, the instant-delivery service Taobao Instant Commerce, Alipay, the travel platform Fliggy and Amap maps. At the launch, the in-chat assistant ordered 40 milk teas from a local chain and paid through Alipay, with the user required to confirm. The same update let the assistant book flights and hotels, call restaurants and process up to a hundred documents at once.
+The second till matters more to anyone who sells. On 17 November 2025 Alibaba opened a public beta of the Qwen app, and on 15 January 2026 it plugged in its own ecosystem: Taobao, the instant-delivery service Taobao Instant Commerce, Alipay, the travel platform [Fliggy](/en/companies/fliggy) and Amap maps. At the launch, the in-chat assistant ordered 40 milk teas from a local chain and paid through Alipay, with the user required to confirm. The same update let the assistant book flights and hotels, call restaurants and process up to a hundred documents at once.
 
 QuestMobile counted 167 million monthly active users for Qwen in May 2026. In August the app introduced paid tiers for its office assistant; basic access stayed free.
 

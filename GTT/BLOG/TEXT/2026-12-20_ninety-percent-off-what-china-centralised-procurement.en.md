@@ -19,7 +19,7 @@ This article is not about medicine, and not about whether the system is good or 
 
 The system is called volume-based procurement, VBP, or “jicai” in Chinese. The National Healthcare Security Administration (NHSA) collects hospitals’ demand for a given drug. Manufacturers compete for that volume. Winners get a guaranteed share of public hospital purchases for the contract period, usually several years. Losers keep the right to sell outside the tender, into whatever is left of the market, which tends not to be much.
 
-For a generic maker, it resembles a contract with a giant retail chain. You no longer pay sales reps to visit every hospital and charm every department head. Volume is guaranteed. Price is the fee.
+For a generic maker, it resembles a contract with a giant retail chain. You no longer pay sales reps to [visit](/en/expeditions) every hospital and charm every department head. Volume is guaranteed. Price is the fee.
 
 Sales used to be done by people with briefcases. Now they are done by a spreadsheet.
 

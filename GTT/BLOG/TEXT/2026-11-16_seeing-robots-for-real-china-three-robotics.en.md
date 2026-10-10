@@ -21,7 +21,7 @@ According to Xinhua, China has more than 140 humanoid makers, which shipped arou
 
 Shenzhen is a city where a robot is built from whatever is nearby. Motors, gearboxes, boards, sensors, batteries, housings: suppliers for almost everything are a short drive away. A local tactile-sensor maker told Xinhua that its circuit-board iteration cycle has shrunk to one or two weeks.
 
-In Nanshan district, a strip about 10 km long between two mountains is called Robot Valley. It holds more than 200 robotics firms and around a dozen universities. City officials put Shenzhen’s robotics output above 240 billion yuan in 2025. The city is home to UBTech, Dobot (which says it has led global cobot exports for eight years), EngineAI, Leju and robotics units of large tech firms.
+In Nanshan district, a strip about 10 km long between two mountains is called Robot Valley. It holds more than 200 robotics firms and around a dozen universities. City officials put Shenzhen’s robotics output above 240 billion yuan in 2025. The city is home to [UBTech](/en/companies/ubtech), [Dobot](/en/companies/dobot) (which says it has led global cobot exports for eight years), EngineAI, Leju and robotics units of large tech firms.
 
 That last group matters. In April 2026, the Beijing robot half-marathon was won by a humanoid from Honor, a smartphone maker. Running autonomously, it covered 21 km in 50 minutes 26 seconds, faster than the human world record. A year earlier, the winning robot needed 2 hours 40 minutes.
 
@@ -29,7 +29,7 @@ What to see in Shenzhen: production and the supply chain. This is the city for e
 
 ### Hangzhou: start-ups with attitude
 
-In robotics, Hangzhou is the city of companies that grew from small teams. In 2025 local media coined the “six little dragons of Hangzhou”: Unitree, DeepSeek, Game Science, BrainCo, Deep Robotics and Manycore. Two of the six build robots.
+In robotics, Hangzhou is the city of companies that grew from small teams. In 2025 local media coined the “six little dragons of Hangzhou”: [Unitree](/en/companies/unitree), DeepSeek, Game Science, BrainCo, Deep Robotics and Manycore. Two of the six build robots.
 
 Unitree is the story of 2026. Founded in 2016, it listed on Shanghai’s STAR Market in August. Its prospectus, as reported by Xinhua, shows revenue rising from 159 million yuan in 2023 to about 1.7 billion yuan in 2025, with more than 5,500 humanoids shipped in 2025. The retail tranche was reportedly oversubscribed thousands of times, and the shares multiplied in price on day one.
 

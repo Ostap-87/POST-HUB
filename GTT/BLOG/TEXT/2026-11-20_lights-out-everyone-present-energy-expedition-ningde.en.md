@@ -24,9 +24,9 @@ Put simply: in Ningde you see the product, in Changzhou the industry, in Wuxi th
 
 ### Ningde: a city and its battery
 
-Ningde is a modest city, by Chinese standards, in north-eastern Fujian. CATL was founded here in 2011, and the city has been known mostly for CATL ever since.
+Ningde is a modest city, by Chinese standards, in north-eastern Fujian. [CATL](/en/companies/catl) was founded here in 2011, and the city has been known mostly for CATL ever since.
 
-The scale: according to SNE Research, CATL installed 464.7 GWh of EV batteries in 2025, a 39.2% global share. Number two, BYD, had 16.4%. Nearly two in every five traction batteries in the world come from a single company headquartered in a city many people outside China have never heard of.
+The scale: according to SNE Research, CATL installed 464.7 GWh of EV batteries in 2025, a 39.2% global share. Number two, [BYD](/en/companies/byd), had 16.4%. Nearly two in every five traction batteries in the world come from a single company headquartered in a city many people outside China have never heard of.
 
 CATL’s Ningde plant joined the World Economic Forum’s Global Lighthouse Network in 2021. Its sites in Yibin and Liyang followed.
 
@@ -46,7 +46,7 @@ In 2025 two more Changzhou sites, Eaton and Mettler-Toledo, joined the lighthous
 
 Wuxi is less than half an hour from Changzhou by high-speed train. It has played a double role in the history of Chinese solar. Suntech, one of the industry’s first Chinese giants, was founded here in 2001. And here, in 2013, its main operating company went through bankruptcy and restructuring. Even the sun, it turns out, can set.
 
-Today Wuxi is interesting for another reason. It is home to Lead Intelligent Equipment, which since 2002 has been building equipment for lithium-ion battery and solar panel production, among other things. Customers it names on its own website include Panasonic, Sony, BMW and LONGi.
+Today Wuxi is interesting for another reason. It is home to Lead Intelligent Equipment, which since 2002 has been building equipment for lithium-ion battery and solar panel production, among other things. Customers it names on its own website include [Panasonic](/en/companies/panasonic), Sony, BMW and LONGi.
 
 For engineers this may be the most useful stop on the route. At a battery plant you see the result. At an equipment maker you see what the result is assembled from, and what it would cost to replicate.
 

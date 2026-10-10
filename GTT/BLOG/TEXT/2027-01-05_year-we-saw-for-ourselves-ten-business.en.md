@@ -19,7 +19,7 @@ In the first seven months of 2026, China’s output of industrial robots rose 28
 
 The hardest-working robot of the year is the one nobody photographed.
 
-Further reading: articles 08 (three robotics hubs), 15 (Sany’s digital plants), 29 (telling a demo from a product at WAIC).
+Further reading: articles 08 (three robotics hubs), 15 ([Sany](/en/companies/sany)’s digital plants), 29 (telling a demo from a product at WAIC).
 
 ### 2. Car exports: more in eight months than in all of last year
 
@@ -27,7 +27,7 @@ According to the China Association of Automobile Manufacturers (CAAM), China exp
 
 At home the picture is different: domestic passenger car sales fell 25.6% year on year in August. When it gets crowded at home, you head abroad. The rule holds for people and cars alike.
 
-Further reading: articles 07 (auto expedition from Hefei to Shanghai), 24 (Chinese EVs in Indonesia and Malaysia), 27 (Auto Shanghai 2027), 31 (Hefei), 33 (Chongqing), 39 (NIO battery swapping).
+Further reading: articles 07 (auto expedition from Hefei to Shanghai), 24 (Chinese EVs in Indonesia and Malaysia), 27 (Auto Shanghai 2027), 31 (Hefei), 33 (Chongqing), 39 ([NIO](/en/companies/nio) battery swapping).
 
 ### 3. “Neijuan”: the word of the year that resists translation
 
@@ -37,7 +37,7 @@ Further reading: article 49 on involution, article 55 on how Singles’ Day has 
 
 ### 4. AI went shopping
 
-In May 2026 Alibaba opened the entire Taobao and Tmall catalogue, more than 4 billion products, to its Qwen AI app. The assistant picks products in conversation, stacks coupons and can place an order itself when the price drops to a target. Meanwhile the 15th Five-Year Plan launched an “AI+” programme for every industry.
+In May 2026 [Alibaba](/en/companies/alibaba) opened the entire Taobao and Tmall catalogue, more than 4 billion products, to its Qwen AI app. The assistant picks products in conversation, stacks coupons and can place an order itself when the price drops to a target. Meanwhile the 15th Five-Year Plan launched an “AI+” programme for every industry.
 
 A year ago AI in Chinese business was something shown at conferences. This year it is working the checkout.
 

@@ -42,7 +42,7 @@ A magnet is an excellent tool. For the fridge door.
 Good steel with a bad weld makes a bad machine. Check:
 
 - **Surface roughness** on product contact surfaces. The European Hygienic Engineering and Design Group (EHEDG) recommends Ra 0.8 µm or smoother; US 3-A criteria are in the same range.
-- **Continuous welds** without porosity, undercut or lack of fusion. Stitch welding on a frame is a row of small dirt pockets.
+- **Continuous welds** without porosity, undercut or lack of fusion. Stitch [welding](/en/catalog/welding) on a frame is a row of small dirt pockets.
 - **Removal of heat tint** at welds, and passivation. Dark oxide next to a weld marks a damaged passive layer and the place where corrosion starts first.
 - **No crevices or blind cavities**: closed tubular sections beat angles and channels that collect whatever lands on them.
 - **Contact with carbon steel.** Carbon steel fasteners or grinding sparks nearby leave rust spots on stainless. If a new machine already has “rust” that wipes off with a finger, ask where it was ground.

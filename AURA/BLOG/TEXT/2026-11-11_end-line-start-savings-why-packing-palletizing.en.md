@@ -43,7 +43,7 @@ A palletizer does not get tired at the end of a shift. It has no idea that shift
 
 Industrial palletizing robots are fast. For reference, the ABB IRB 460 handles up to 2,190 cycles an hour with a 60 kg load. Chinese palletizers cover the same class of tasks at a noticeably lower price. With a multi-pick gripper, a single cycle can place several cases at once.
 
-For slow lines handling a few cases a minute, a cobot palletizer is enough. It needs less floor space and, with a proper risk assessment, may not need full fencing.
+For slow lines handling a few cases a minute, a [cobot](/en/catalog/cobots) palletizer is enough. It needs less floor space and, with a proper risk assessment, may not need full fencing.
 
 The bottleneck at the end of the line is almost never the robot. It is case infeed, pallet changeover, stretch wrapping and forklift removal, and they must be designed together with the cell.
 

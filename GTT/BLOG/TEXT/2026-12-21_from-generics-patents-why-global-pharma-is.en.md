@@ -37,7 +37,7 @@ The noise started in 2024. In HARMONi-2, a Phase III trial in China, ivonescimab
 
 The drug is already approved in China for several indications. In the US, the FDA accepted Summit’s application for one indication, EGFR-mutated non-small cell lung cancer after prior targeted therapy, and set a target action date of 14 November 2026. By the time you read this, the decision may already be out; check the company’s and the FDA’s announcements.
 
-What matters for the industry is less any single result than the fact itself: a Chinese molecule went head to head with the biggest name in oncology. Big pharma went looking for similar molecules in China. In May 2025 Pfizer paid 3SBio US$1.25 billion up front for another antibody of the same class.
+What matters for the industry is less any single result than the fact itself: a Chinese molecule went head to head with the biggest name in oncology. Big pharma went looking for similar molecules in China. In May 2025 [Pfizer](/en/companies/pfizer) paid 3SBio US$1.25 billion up front for another antibody of the same class.
 
 Chinese companies used to be the ones catching up. Now others are catching up with them, partly by buying from them.
 

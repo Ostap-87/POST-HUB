@@ -70,6 +70,6 @@ The last question applies to any business. “We wait” counts as an answer.
 
 ### What to take home
 
-At Global Tech Tour we run business expeditions to China and closed visits to companies across many industries, food among them. For agribusiness and retail, Shouguang is interesting as a cluster where production, trade, breeding and logistics sit in one city. It is an ecosystem, not a company, and it is worth seeing as a whole rather than one greenhouse at a time.
+At Global Tech Tour we run business [expeditions](/en/expeditions) to China and closed visits to companies across many industries, food among them. For agribusiness and retail, Shouguang is interesting as a cluster where production, trade, breeding and logistics sit in one city. It is an ecosystem, not a company, and it is worth seeing as a whole rather than one greenhouse at a time.
 
 In 1989 a village Party secretary wanted his neighbours to have money in winter. What he ended up with is a huge country eating winter cucumbers with a precise address. Sometimes a big strategy starts with a small greenhouse and a thick north wall that simply holds the heat well.

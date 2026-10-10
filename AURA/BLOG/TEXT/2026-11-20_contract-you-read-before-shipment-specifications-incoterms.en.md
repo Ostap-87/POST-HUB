@@ -15,7 +15,7 @@ At Aura Robotics we buy robots directly from Chinese factories and sign these co
 
 ### 1. The specification: a contract for a robot, not for “a robot”
 
-The most important part of the contract is not about money. It is the specification annex: model and variant, configuration (hands, gripper, compute, sensors, how many batteries), software version, scope of supply, documentation and its language, packing requirements.
+The most important part of the contract is not about money. It is the specification annex: model and variant, configuration (hands, [gripper](/en/catalog/robotarms), compute, sensors, how many batteries), software version, scope of supply, documentation and its language, packing requirements.
 
 If performance matters — payload, cycle time, repeatability, battery runtime — write it down as measurable values, and state how each will be tested. “High performance” is not a specification. It is a wish.
 

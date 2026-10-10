@@ -25,11 +25,11 @@ A biped rests the way a tightrope walker rests. It doesn’t.
 
 ### 2. Runtime: two hours versus four
 
-From public specs. Unitree G1, one of the most widespread bipedal humanoids, weighs about 35 kg, carries a 9,000 mAh battery and runs for about 2 hours. The wheeled AgiBot G2 weighs 185 kg, has 1,652 Wh of battery, runs for about 4 hours and has two hot-swappable batteries, so it never needs to be switched off.
+From public specs. Unitree G1, one of the most widespread bipedal humanoids, weighs about 35 kg, carries a 9,000 mAh battery and runs for about 2 hours. The wheeled [AgiBot](/en/catalog/humanoid/factory/agibot) G2 weighs 185 kg, has 1,652 Wh of battery, runs for about 4 hours and has two hot-swappable batteries, so it never needs to be switched off.
 
 Five times the mass is not a flaw of the wheeled robot; it is the design strategy. A heavy base acts as a counterweight and a place for a large battery. A biped cannot do that: every extra kilogram has to be carried and balanced.
 
-Bipedal makers solve this their own way. UBTech has shown Walker S2 swapping its own battery in about three minutes. A good answer, but the swap station, its floor space and the spare batteries belong in the budget.
+Bipedal makers solve this their own way. [UBTech](/en/catalog/humanoid/factory/ubtech) has shown Walker S2 swapping its own battery in about three minutes. A good answer, but the swap station, its floor space and the spare batteries belong in the budget.
 
 Wheels never get tired of standing. Legs do, even when nobody asks them to walk.
 

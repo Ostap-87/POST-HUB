@@ -33,11 +33,11 @@ In March 2026 the phrase made it into the government work report: “address exc
 
 ### Three fronts: cars, food, sunlight
 
-**Cars.** The auto price war ran for more than two years before anyone tackled it seriously. In May 2025 the industry association CAAM publicly criticised carmakers that had started a fresh round of discounts, and the industry ministry backed it. In June, 17 major manufacturers including BYD, FAW and SAIC pledged to pay suppliers within 60 days. In November the market regulator SAMR noted that selling at a loss carries legal risk.
+**Cars.** The auto price war ran for more than two years before anyone tackled it seriously. In May 2025 the industry association CAAM publicly criticised carmakers that had started a fresh round of discounts, and the industry ministry backed it. In June, 17 major manufacturers including [BYD](/en/companies/byd), [FAW](/en/companies/faw) and SAIC pledged to pay suppliers within 60 days. In November the market regulator SAMR noted that selling at a loss carries legal risk.
 
 Sixty days. For a supplier, that is not a payment term. That is a holiday.
 
-**Food delivery.** JD.com entered food delivery in February 2025. In July, Alibaba announced 50 billion yuan in subsidies for its instant-commerce arm. Meituan, until then comfortably profitable, matched them. SAMR summoned executives from all three in May and again in July. The bill shows up in the accounts: according to Caixin, Meituan, which earned 35.8 billion yuan net in 2024, lost 18.6 billion in the third quarter of 2025 alone and ended the year in the red.
+**Food delivery.** JD.com entered food delivery in February 2025. In July, Alibaba announced 50 billion yuan in subsidies for its instant-commerce arm. [Meituan](/en/companies/meituan), until then comfortably profitable, matched them. SAMR summoned executives from all three in May and again in July. The bill shows up in the accounts: according to Caixin, Meituan, which earned 35.8 billion yuan net in 2024, lost 18.6 billion in the third quarter of 2025 alone and ended the year in the red.
 
 Customers ate almost for free for half a year. Shareholders, couriers and restaurants picked up the tab. There is such a thing as a free lunch, it turns out. Someone else just gets the bill.
 

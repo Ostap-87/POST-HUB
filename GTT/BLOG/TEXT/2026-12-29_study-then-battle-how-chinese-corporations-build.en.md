@@ -17,7 +17,7 @@ Chinese corporations took a different route. They build their own universities, 
 
 ### Huawei: training for battle
 
-Huawei University was formally registered in 2005 and sits at the company’s Shenzhen headquarters. Chinese business media describe a teaching area of about 155,000 square metres, more than a hundred classrooms and room for over two thousand trainees at once.
+[Huawei](/en/companies/huawei) University was formally registered in 2005 and sits at the company’s Shenzhen headquarters. Chinese business media describe a teaching area of about 155,000 square metres, more than a hundred classrooms and room for over two thousand trainees at once.
 
 The size impresses, but it is not the point. Huawei University’s formula is 训战结合, “combining training with combat”. Its job is not general education but preparing people for specific tasks in the core business. It is not a separate institution: it is attached to business leaders and works to their needs.
 
@@ -35,7 +35,7 @@ The most expensive training is the free kind: it consumes the time of people who
 
 ### Alibaba: the month that turns a newcomer into an insider
 
-At Alibaba the main training event happens at the very start. Chinese business writers describe new hires receiving a “flower name”, an internal nickname used across the company, and a booklet called “Alibaba for a Hundred Years” (百年阿里). Then comes at least a month of induction that employees jokingly called a “spiritual baptism”. After the group programme comes training within the business unit, which can last up to a year.
+At [Alibaba](/en/companies/alibaba) the main training event happens at the very start. Chinese business writers describe new hires receiving a “flower name”, an internal nickname used across the company, and a booklet called “Alibaba for a Hundred Years” (百年阿里). Then comes at least a month of induction that employees jokingly called a “spiritual baptism”. After the group programme comes training within the business unit, which can last up to a year.
 
 The second feature is the “commissar” (政委) system: HR partners embedded in the business alongside the manager, sharing responsibility for people, entitled to push back and involved in major decisions. Training and culture are not a department on the third floor but a person at the next desk.
 
@@ -43,7 +43,7 @@ Next to Alibaba stood a separate project, Hupan University, founded at the end o
 
 ### Tencent and Haier: two other angles
 
-In 2014 Tencent set up Tencent University, aimed largely at partners, with separate academies for WeChat, e-commerce, its open platform and the internet. It teaches not only staff but those who build businesses on Tencent’s products. Training becomes part of the ecosystem: the better a partner understands the platform, the more it earns there.
+In 2014 [Tencent](/en/companies/tencent) set up Tencent University, aimed largely at partners, with separate academies for WeChat, e-commerce, its open platform and the internet. It teaches not only staff but those who build businesses on Tencent’s products. Training becomes part of the ecosystem: the better a partner understands the platform, the more it earns there.
 
 Haier University opened on 26 December 1999 and, according to Chinese sources, became the world’s first corporate university certified under ISO 10015, the international standard for training management. Haier shows that a corporate university can be not just a talent forge but a system with standards that outsiders can audit.
 

@@ -37,7 +37,7 @@ Rated speed is speed in a vacuum. Your factory is not a vacuum, although some da
 
 The delta is for light items. ABB’s IRB 360 family covers 1 to 8 kg; the IRB 365 handles 1.5 kg. Typical jobs: sweets, biscuits, sachets, blister packs, small bakery products.
 
-The SCARA carries more. Chinese manufacturer EVST’s SCARA range spans 3 to 20 kg. That covers not just packaging but assembly, tray loading and moving parts and small boxes.
+The SCARA carries more. Chinese manufacturer [EVST](/en/catalog/industrial/factory/evst)’s SCARA range spans 3 to 20 kg. That covers not just packaging but assembly, tray loading and moving parts and small boxes.
 
 Grams in high volume: look at a delta. Kilograms with precise placement: look at a SCARA. In between, geometry decides.
 

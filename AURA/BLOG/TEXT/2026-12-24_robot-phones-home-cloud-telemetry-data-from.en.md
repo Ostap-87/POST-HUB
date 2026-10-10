@@ -41,7 +41,7 @@ A robot on your network is an employee with a pass to every office. Issue that p
 
 ### 3. Offline mode: the first question for the seller
 
-Many industrial robots, such as arms, cobots and most AMRs, run fully on site: controller, PLC and fleet server are local and need no internet. It gets harder with robots whose features partly live in the cloud: voice assistants, apps, over-the-air updates, some AI functions.
+Many industrial robots, such as arms, [cobots](/en/catalog/cobots) and most AMRs, run fully on site: controller, PLC and fleet server are local and need no internet. It gets harder with robots whose features partly live in the cloud: voice assistants, apps, over-the-air updates, some AI functions.
 
 Ask before you buy:
 

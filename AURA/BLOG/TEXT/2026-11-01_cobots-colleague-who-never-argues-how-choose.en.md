@@ -8,7 +8,7 @@ slug: "cobots-colleague-who-never-argues-how-choose"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-Most people choose a cobot the way they choose a car: by the photo, the colour, and whatever the company down the road bought last year. With cars this occasionally works. With robots it does not, because the company down the road almost certainly makes a different part.
+Most people choose a [cobot](/en/catalog/cobots) the way they choose a car: by the photo, the colour, and whatever the company down the road bought last year. With cars this occasionally works. With robots it does not, because the company down the road almost certainly makes a different part.
 
 At Aura Robotics we source cobots directly from manufacturers in China, and we keep seeing the same pattern. Projects that start with “which robot should we buy?” take longer and cost more than projects that start with “what exactly will it do?” Here is the order in which we suggest thinking. It is not exciting. That is the point.
 

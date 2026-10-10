@@ -31,7 +31,7 @@ If 2025 was the year of humanoid videos, 2026 was the year of humanoid reports. 
 
 The IFR, in its service robot release at the end of September 2026, put 2025 global sales of full-size humanoids at about 7,000 units. Chinese media cited an estimate of about 14,400 humanoids shipped in China in the same year. Nobody is necessarily wrong; they are counting different things: full-size or all sizes, sold or shipped, with or without educational models.
 
-For the first half of 2026, data published by IT Home (as reported by TechNode) put global humanoid shipments at about 19,100, up from about 5,100 a year earlier, with Chinese makers holding more than 97%. AgiBot led with about 8,400 units (44%), followed by Unitree with about 5,900. IDC had a different estimate, about 25,000 for the half-year. The sources agree on the main point: the market multiplied, and nearly all of it is Chinese.
+For the first half of 2026, data published by IT Home (as reported by TechNode) put global humanoid shipments at about 19,100, up from about 5,100 a year earlier, with Chinese makers holding more than 97%. [AgiBot](/en/catalog/humanoid/factory/agibot) led with about 8,400 units (44%), followed by Unitree with about 5,900. IDC had a different estimate, about 25,000 for the half-year. The sources agree on the main point: the market multiplied, and nearly all of it is Chinese.
 
 Another shift: over 70% of first-half shipments went to industrial and commercial uses, up from about half a year earlier. The humanoid is slowly stepping off the stage and onto the shop floor, mostly into prepared operations and pilots for now, but the direction is clear.
 

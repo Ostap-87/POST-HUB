@@ -9,7 +9,7 @@ slug: "behind-fence-or-at-bench-welding-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-A welding robot and a welding cobot are related the way a tractor and a garden tiller are. Both dig. But ask a farmer which to buy and the first question will be: how much land do you have?
+A welding robot and a welding [cobot](/en/catalog/cobots) are related the way a tractor and a garden tiller are. Both dig. But ask a farmer which to buy and the first question will be: how much land do you have?
 
 In our earlier article on welding we looked at when a robot pays back in a year and when it never will. Today’s question is which robot. An industrial arm in a fenced cell with a positioner and a programmer, or a collaborative arm on a welding table that the welder teaches by hand. At trade shows both weld beautifully. On the shop floor they behave very differently.
 

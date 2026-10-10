@@ -41,7 +41,7 @@ Inovance has traded on Shenzhen’s ChiNext since 2010. In January 2026 it annou
 
 **The controller** is the IRCB501 series, with Modbus TCP, EtherNet/IP, EtherCAT for external axes, and optional PROFINET and CC-Link; an IP54 version is available.
 
-We found no cobots in Inovance’s European robot catalogue. The company is, however, developing humanoid components: seven-axis bionic arms, planetary and linear actuators, frameless torque motors and planetary roller screws. A bet on humanoids, then, but as a parts supplier rather than an assembler.
+We found no [cobots](/en/catalog/cobots) in Inovance’s European robot catalogue. The company is, however, developing humanoid components: seven-axis bionic arms, planetary and linear actuators, frameless torque motors and planetary roller screws. A bet on humanoids, then, but as a parts supplier rather than an assembler.
 
 ### What vertical integration buys you
 

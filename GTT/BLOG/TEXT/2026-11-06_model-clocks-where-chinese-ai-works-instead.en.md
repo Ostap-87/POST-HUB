@@ -23,15 +23,15 @@ China rolls out AI the way it once rolled out motorways: first decide it will be
 
 ### The factory: two thousand agents and a lot of air conditioners
 
-In Guangzhou’s Nansha district, TCL has built an air-conditioner plant that China Daily, in August 2026, called “truly AI-native”. Phase one cost nearly RMB 2 billion, with designed capacity of 8 million units a year and about 4 million expected in 2026. Data from 32,000 sensors flows into an in-house AI centre of 106 server cabinets, where more than 2,000 AI agents run in parallel. Infrared sensors catch refrigerant leaks; machine vision with special lighting spots tiny defects.
+In Guangzhou’s Nansha district, [TCL](/en/companies/tcl) has built an air-conditioner plant that China Daily, in August 2026, called “truly AI-native”. Phase one cost nearly RMB 2 billion, with designed capacity of 8 million units a year and about 4 million expected in 2026. Data from 32,000 sensors flows into an in-house AI centre of 106 server cabinets, where more than 2,000 AI agents run in parallel. Infrared sensors catch refrigerant leaks; machine vision with special lighting spots tiny defects.
 
-The same report mentions a neighbour: at Gree’s plant in Zhuhai, 80% automation cut the crew on a 480-metre outdoor-unit assembly line from more than 70 people to 20.
+The same report mentions a neighbour: at [Gree](/en/companies/gree)’s plant in Zhuhai, 80% automation cut the crew on a 480-metre outdoor-unit assembly line from more than 70 people to 20.
 
 Note the order. Sensors first, then data, then agents. An agent without sensors is a brilliant intern without a security badge: it never gets onto the shop floor.
 
 ### The bank: use cases by the hundred
 
-In its 2025 annual report, China Merchants Bank said it uses AI in 856 scenarios. It runs 183 specialised domain models, its token volume grew tenfold in a year, and more than 97% of its developers use a coding assistant. IT spending stands at 4.31% of operating income, over RMB 12.9 billion.
+In its 2025 annual report, [China Merchants Bank](/en/companies/china-merchants-bank) said it uses AI in 856 scenarios. It runs 183 specialised domain models, its token volume grew tenfold in a year, and more than 97% of its developers use a coding assistant. IT spending stands at 4.31% of operating income, over RMB 12.9 billion.
 
 ICBC, the country’s largest bank, put the work done by its model platform in 2024 at the equivalent of more than 40,000 people a year. It has not explained the calculation, so read that as an order of magnitude rather than a staffing chart.
 

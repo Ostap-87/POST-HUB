@@ -9,7 +9,7 @@ slug: "arc-is-on-welder-is-off-when"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-Welding robots are usually bought right after someone says “we can’t find welders.” In Russia that is not a figure of speech. According to hh.ru, employers posted more than 48,000 welder vacancies in January–May 2025, about 4,000 more than a year earlier, with shortages recorded in over 35 regions.
+[Welding](/en/catalog/welding) robots are usually bought right after someone says “we can’t find welders.” In Russia that is not a figure of speech. According to hh.ru, employers posted more than 48,000 welder vacancies in January–May 2025, about 4,000 more than a year earlier, with shortages recorded in over 35 regions.
 
 But a shortage explains why you want a robot. It says nothing about whether the robot will pay for itself. That depends on three things: how many identical welds you make, how accurately your parts are cut, and whether someone on your team knows more about welding than the robot does.
 

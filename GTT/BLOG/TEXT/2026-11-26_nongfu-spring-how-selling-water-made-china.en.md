@@ -79,7 +79,7 @@ Third, launch the second product before the first stops growing. The company nee
 
 ### Where to see it
 
-The most revealing part of Nongfu Spring is not the plant but the shop around the corner: the fridge, the shelf, the price tag, the tea range next to the water. You can study it in any Chinese city during a programme, simply by walking into stores with the right questions. Global Tech Tour runs business expeditions to China, including food tech, retail and food manufacturing; company visits are matched to each group’s goals and confirmed by the host.
+The most revealing part of Nongfu Spring is not the plant but the shop around the corner: the fridge, the shelf, the price tag, the tea range next to the water. You can study it in any Chinese city during a programme, simply by walking into stores with the right questions. Global Tech Tour runs business [expeditions](/en/expeditions) to China, including food tech, retail and food manufacturing; company visits are matched to each group’s goals and confirmed by the host.
 
 ### The bottom line
 

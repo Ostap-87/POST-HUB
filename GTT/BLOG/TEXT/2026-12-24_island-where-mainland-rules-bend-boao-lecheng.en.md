@@ -23,7 +23,7 @@ The limit matters: all of this happens only inside the zone. The patient comes t
 
 A sandbox is not a hole in the fence. It is a fenced-off playground with its own guard.
 
-According to the National Development and Reform Commission (December 2025), more than 520 international innovative drugs and devices had their first use in China in Lecheng, with more than 190,000 related patient visits. By June 2026, Science and Technology Daily was reporting more than 560 such products and partnerships with over 180 manufacturers from more than 20 countries. In 2024 the zone received 413,700 medical tourists, up 36.8% on the year before.
+According to the National Development and Reform Commission (December 2025), more than 520 international innovative drugs and devices had their first use in China in Lecheng, with more than 190,000 related patient [visits](/en/expeditions). By June 2026, Science and Technology Daily was reporting more than 560 such products and partnerships with over 180 manufacturers from more than 20 countries. In 2024 the zone received 413,700 medical tourists, up 36.8% on the year before.
 
 One detail the zone likes to mention: before it existed, imported innovative drugs and devices in China often cost 1.5 to 2 times international prices. Imports into the zone now carry zero tariffs.
 

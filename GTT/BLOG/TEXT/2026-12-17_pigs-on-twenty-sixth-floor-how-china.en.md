@@ -68,6 +68,6 @@ The manure question is rarely asked, and it should be. In livestock farming it i
 
 Chinese pig farming shows agriculture turning into industry, and the same thing is visible in poultry, dairy and greenhouse farming. The principles repeat: a closed perimeter, data instead of intuition, central control, specialists instead of general labour.
 
-At Global Tech Tour we run business expeditions to China and closed visits to companies across 17 industries. For agribusiness, sites like these matter not only for their scale but for the questions they force: how to run biosecurity, who controls the climate, how to calculate the cost per kilo. One honest caveat: such sites are harder to get into than a car plant. Biosecurity applies to guests too.
+At Global Tech Tour we run business [expeditions](/en/expeditions) to China and closed visits to companies across 17 industries. For agribusiness, sites like these matter not only for their scale but for the questions they force: how to run biosecurity, who controls the climate, how to calculate the cost per kilo. One honest caveat: such sites are harder to get into than a car plant. Biosecurity applies to guests too.
 
 The picture-book pig lived in a sty and worried about nothing. Her granddaughter lives on the twenty-sixth floor, breathes filtered air and is watched by a vet around the clock. That’s probably progress. Unfortunately, nobody has yet found a way to ask the pig.

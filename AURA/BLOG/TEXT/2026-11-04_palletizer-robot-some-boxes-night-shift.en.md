@@ -17,7 +17,7 @@ The good news: a palletizer is one of the most predictable robotic cells there i
 
 Start with the number that decides everything: cases per minute arriving from the line. Not the shift average but the peak, plus your growth plans.
 
-Then comes the fork in the road. Cobot palletizers work next to people without full fencing, and their honest speed is about six cases per minute or less. Industrial palletizers behind guarding start at around twelve and go higher. Catalogue figures for big machines look different again: Yaskawa quotes over 1,700 cycles per hour for the PL190, FANUC up to 2,200 for the M-410iC/110. Those are standard test cycles. With a real gripper, a heavy case and the far top corner of the pallet, expect less.
+Then comes the fork in the road. [Cobot](/en/catalog/cobots) palletizers work next to people without full fencing, and their honest speed is about six cases per minute or less. Industrial palletizers behind guarding start at around twelve and go higher. Catalogue figures for big machines look different again: Yaskawa quotes over 1,700 cycles per hour for the PL190, FANUC up to 2,200 for the M-410iC/110. Those are standard test cycles. With a real gripper, a heavy case and the far top corner of the pallet, expect less.
 
 You can raise throughput without changing robots by picking two or three cases per cycle. That takes the right gripper and a steady infeed.
 

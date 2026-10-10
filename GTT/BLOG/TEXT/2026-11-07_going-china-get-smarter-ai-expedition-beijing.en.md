@@ -21,7 +21,7 @@ We have already written about China’s three robotics clusters. This piece cove
 
 If you go by the paperwork, Beijing is the capital of Chinese AI. Generative AI services in China must be filed with the Cyberspace Administration, and according to Xinhua, in April 2026 Beijing accounted for 225 such models, around 30% of the national total. By June 2026 China Daily put the figure at 241. The city also has more than 2,500 AI companies and nearly 40 AI unicorns, more than half of China’s total, and its core AI industry generated over RMB 450 billion in 2025.
 
-Baidu, ByteDance, Zhipu, Moonshot, Baichuan and 01.AI all work here, alongside Peking and Tsinghua universities, research labs and Haidian’s Wudaokou neighbourhood, where student cafés sit next to startup offices. Incubators such as Beijing AI Genesis Community operate here too. A representative of one told China Daily that you come in for a coffee and leave with your next investor.
+[Baidu](/en/companies/baidu), ByteDance, Zhipu, Moonshot, Baichuan and 01.AI all work here, alongside Peking and Tsinghua universities, research labs and Haidian’s Wudaokou neighbourhood, where student cafés sit next to startup offices. Incubators such as Beijing AI Genesis Community operate here too. A representative of one told China Daily that you come in for a coffee and leave with your next investor.
 
 Most cities offer the coffee. Beijing apparently throws in the investor.
 
@@ -29,7 +29,7 @@ What to see in Beijing: how foundation models are built and filed, how universit
 
 ### Hangzhou: where AI comes with vouchers
 
-Hangzhou is the home of Alibaba, its Qwen models and Alibaba Cloud. It is also home to DeepSeek, which everyone has heard of and which says very little about itself. It tends to be first on visitors’ wish lists and absent from their actual schedules.
+Hangzhou is the home of [Alibaba](/en/companies/alibaba), its Qwen models and Alibaba Cloud. It is also home to [DeepSeek](/en/companies/deepseek), which everyone has heard of and which says very little about itself. It tends to be first on visitors’ wish lists and absent from their actual schedules.
 
 For an executive, something else is more interesting: how the city helps ordinary companies use AI. In 2025 Hangzhou announced a RMB 1 billion computing-voucher programme over four years, covering up to 60% of local firms’ costs for buying compute and model access. Its targets for the end of 2025 were to double computing capacity from 25 to 50 EFLOPS, build more than 25 industry-specific models and push core AI industry revenue above RMB 390 billion. In December 2025 the city declared its ambition to become China’s leading AI hub, naming DeepSeek, Unitree and BrainCo as its champions.
 

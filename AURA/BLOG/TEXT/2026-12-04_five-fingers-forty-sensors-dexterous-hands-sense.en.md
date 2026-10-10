@@ -17,7 +17,7 @@ Robot hands are more modest. But the market is growing so fast that anyone buyin
 
 According to GGII, about 19,200 dexterous hands were sold in China in 2025, with around 70,200 expected in 2026. Nearly quadrupling in a year is not a trend. It is a crowd at the door.
 
-Linkerbot, which we covered in our components article, says it shipped more than 10,000 hands in 2025. AgiLink was spun off from AgiBot at the end of 2025. Industry reports say Unitree bought its hands in January–September 2025 almost entirely from a single supplier, Yinshi Robotics. Even a major humanoid maker does not necessarily build its own hands.
+Linkerbot, which we covered in our components article, says it shipped more than 10,000 hands in 2025. AgiLink was spun off from [AgiBot](/en/catalog/humanoid/factory/agibot) at the end of 2025. Industry reports say Unitree bought its hands in January–September 2025 almost entirely from a single supplier, Yinshi Robotics. Even a major humanoid maker does not necessarily build its own hands.
 
 ### Degrees of freedom: count them properly
 

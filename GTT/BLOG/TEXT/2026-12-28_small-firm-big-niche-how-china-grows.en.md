@@ -67,7 +67,7 @@ There is a flip side. Many of these companies work in technologies the state con
 
 And a third point. A little giant is often stronger than a giant in its niche and weaker everywhere else: a three-person export department, English at the level of technical manuals, and little experience with foreign buyers. That is not a flaw, but it is something to prepare for.
 
-Such companies rarely appear on tourist itineraries. They have no brand museum and no glossy video. But they are exactly the ones to visit if what you need is not an impressive plant but the right component. Closed visits to Chinese companies across many industries are what Global Tech Tour expeditions are for.
+Such companies rarely appear on tourist itineraries. They have no brand museum and no glossy video. But they are exactly the ones to visit if what you need is not an impressive plant but the right component. Closed visits to Chinese companies across many industries are what Global Tech Tour [expeditions](/en/expeditions) are for.
 
 ### The bottom line
 

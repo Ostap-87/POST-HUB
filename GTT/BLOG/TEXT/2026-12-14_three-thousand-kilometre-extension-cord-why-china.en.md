@@ -67,6 +67,6 @@ And the bigger the line, the bigger the consequences of a fault. Much of the spe
 
 A DC converter station makes little sense in a photo: a field of grey towers and white insulators. It starts to make sense when an engineer explains where the power came from, where it goes and what happens if the station stops.
 
-At Global Tech Tour we run business expeditions to China and closed visits to companies across 17 industries, energy among them. For anyone building a plant or a data centre, a conversation about the grid is often more useful than a factory tour. The factory looks like any other. The fact that its electricity travelled three thousand kilometres to get there is the strategy.
+At Global Tech Tour we run business [expeditions](/en/expeditions) to China and closed visits to companies across 17 industries, energy among them. For anyone building a plant or a data centre, a conversation about the grid is often more useful than a factory tour. The factory looks like any other. The fact that its electricity travelled three thousand kilometres to get there is the strategy.
 
 As children we were told never to put our fingers in the socket. China seems to have taken the advice literally. It moved the socket three thousand kilometres away.

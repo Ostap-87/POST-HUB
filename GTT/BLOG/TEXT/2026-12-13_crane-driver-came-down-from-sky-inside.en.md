@@ -73,6 +73,6 @@ A single equipment ecosystem simplifies life. When cranes, vehicles and software
 
 Connectivity is infrastructure, just like concrete. A berth can be built in three years. A network that holds 50-millisecond latency, by its supplier’s account, took nearly a year of verification.
 
-At Global Tech Tour we arrange closed visits to Chinese companies, and we always tell participants to come with questions rather than for the view. An automated port is where the view deceives you most. From above, it looks empty and quiet. Empty, yes. Quiet only because the work has gone into the cables.
+At Global Tech Tour we arrange closed [visits](/en/expeditions) to Chinese companies, and we always tell participants to come with questions rather than for the view. An automated port is where the view deceives you most. From above, it looks empty and quiet. Empty, yes. Quiet only because the work has gone into the cables.
 
 You used to be able to see the crane operator from anywhere on the quay. Now you can’t see him at all. The port is none the worse for it. The romance has simply been moved indoors, where, like everything in an office, it runs on a schedule.

@@ -33,7 +33,7 @@ Note the ratio. Industrial drones outsold consumer ones two and a half to one. C
 
 ### Lunch by air: how Meituan flies
 
-For city dwellers, the most visible part of this economy is delivery. Meituan, China’s largest food delivery platform, completed its first real drone order in Shenzhen in early 2021 and opened its first regular route in Shanghai in December 2022.
+For city dwellers, the most visible part of this economy is delivery. [Meituan](/en/companies/meituan), China’s largest food delivery platform, completed its first real drone order in Shenzhen in early 2021 and opened its first regular route in Shanghai in December 2022.
 
 By the end of 2025, the company says, its drones had completed more than 780,000 orders on 70 routes in six cities: Shenzhen, Beijing, Shanghai, Guangzhou, Hong Kong and Dubai. Daily orders per site grew from around 10 to as many as 400, and the cost per order fell by 40–50% a year. In 2026 Meituan put its drone delivery infrastructure into commercial service and signed up ten service providers.
 

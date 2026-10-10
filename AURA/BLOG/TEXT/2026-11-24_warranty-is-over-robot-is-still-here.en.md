@@ -67,7 +67,7 @@ A good compromise is to export logs and program backups to your own systems regu
 
 ### 5. Firmware: you cannot avoid updates, and you cannot rush them
 
-Robot makers release updates often: bug fixes, new features, better navigation or walking. For humanoids and mobile robots, where software does so much, an update can change behaviour more than a hardware swap.
+Robot makers release updates often: bug fixes, new features, better navigation or walking. For [humanoids](/en/catalog/humanoid) and mobile robots, where software does so much, an update can change behaviour more than a hardware swap.
 
 Hence a simple policy:
 

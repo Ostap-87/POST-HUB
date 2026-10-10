@@ -61,7 +61,7 @@ A clip from the factory floor beats a deck from the office, especially if you ca
 
 When the amount is significant, an on-site check pays for itself. There are two routes.
 
-The first is an independent audit. International inspection firms (SGS, Bureau Veritas, TÜV and others) verify factories: does production exist, what capacity, is there a quality system, how many people work there. The cost is a small fraction of the order.
+The first is an independent audit. International [inspection](/en/catalog/inspection) firms (SGS, Bureau Veritas, TÜV and others) verify factories: does production exist, what capacity, is there a quality system, how many people work there. The cost is a small fraction of the order.
 
 The second is to go yourself. Factories with something to show are happy to show it: assembly lines, test benches, component stores, R&D. Real production is obvious: products at different stages, benches full of cables, engineers in overalls, the smell of grease. So is a stage set: three identical robots in a showroom and a locked door behind which “they’re not working today”.
 

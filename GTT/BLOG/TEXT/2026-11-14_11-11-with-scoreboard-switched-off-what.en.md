@@ -11,13 +11,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Some holidays grow longer with age. Christmas in Western retail now begins somewhere around Halloween. China’s Singles’ Day has taken the same road, only faster and with much better logistics.
 
-It started modestly. In 2009, Taobao Mall, now Tmall, ran a one-day sale on 11 November. The date was chosen for its four ones, a nod to single life, which shoppers were invited to treat with retail therapy. The therapy worked so well that the patient list now runs past a billion and the course lasts more than a month.
+It started modestly. In 2009, Taobao Mall, now [Tmall](/en/companies/tmall), ran a one-day sale on 11 November. The date was chosen for its four ones, a nod to single life, which shoppers were invited to treat with retail therapy. The therapy worked so well that the patient list now runs past a billion and the course lasts more than a month.
 
 We are writing this before the 2026 sale and do not know its results. What we can see clearly is what the event itself has become. That is arguably more interesting than any headline number, particularly since, as it turns out, there is no longer an official headline number.
 
 ### The scoreboard goes dark
 
-For years the main spectacle of 11 November was not what people bought but how much. Alibaba put the running total on a giant screen, and the counter spun like a slot machine where everyone won except the wallets. In 2021 the Tmall scoreboard stopped at 540.3 billion yuan.
+For years the main spectacle of 11 November was not what people bought but how much. [Alibaba](/en/companies/alibaba) put the running total on a giant screen, and the counter spun like a slot machine where everyone won except the wallets. In 2021 the Tmall scoreboard stopped at 540.3 billion yuan.
 
 In 2022 the scoreboard went dark. For the first time, Alibaba and JD did not publish total sales. Alibaba said only that results were “in line with last year’s GMV performance despite the macro challenges”, and counted brands that had doubled their sales. That has been the format ever since: companies report how many brands crossed 100 million yuan and leave the grand total to analysts.
 
@@ -27,7 +27,7 @@ When a number stops being flattering, it stops being shown. Retail did not inven
 
 Into the gap stepped independent data firms, above all Syntun. Their figures are unofficial and cover all platforms at once, but they are what the market has.
 
-By Syntun’s count, the 2024 sale generated 1.4418 trillion yuan, up 26.6%. The “day” was no longer a day: Tmall, JD and Pinduoduo sold from 14 October to 11 November, Douyin started on 8 October and Kuaishou on 10 October. Livestream commerce accounted for 332.5 billion yuan, instant delivery for 28.1 billion.
+By Syntun’s count, the 2024 sale generated 1.4418 trillion yuan, up 26.6%. The “day” was no longer a day: Tmall, JD and [Pinduoduo](/en/companies/pinduoduo) sold from 14 October to 11 November, Douyin started on 8 October and Kuaishou on 10 October. Livestream commerce accounted for 332.5 billion yuan, instant delivery for 28.1 billion.
 
 For 2025 Syntun reported 1.695 trillion yuan and growth of 14.2%. The small print: its counting window opened on 7 October, seven days longer than the year before. Tmall’s sale opened on 20 October at 8 p.m., and eMarketer put the whole season at five weeks against 28 days in 2024.
 

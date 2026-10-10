@@ -55,7 +55,7 @@ Sanctions do not make the robot worse. They make the contract longer.
 
 ### Who it suits
 
-Hikrobot is strongest where you need many identical machines under one fleet system, with machine vision next to them: code reading, completeness checks, sorting. With dozens of robots and cameras on the line, a single-vendor stack saves integration time.
+Hikrobot is strongest where you need many identical machines under one fleet system, with machine vision next to them: code reading, completeness checks, [sorting](/en/catalog/sorting). With dozens of robots and cameras on the line, a single-vendor stack saves integration time.
 
 If you need one or two robots to tow carts, a system built for a thousand machines may be overkill, like hiring a symphony orchestra to play “Happy Birthday”.
 

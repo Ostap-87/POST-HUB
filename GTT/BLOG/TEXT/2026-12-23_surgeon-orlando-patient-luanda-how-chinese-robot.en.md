@@ -69,7 +69,7 @@ The last question is the most awkward. Which makes it the most useful.
 
 ### The bottom line
 
-The Toumai story shows how Chinese medtech is changing roles: from a buyer catching up on other people’s technology to a developer that gets the first registration and then sells it to the world. For medical companies coming to China on a business expedition, it is a reason to look not only at manufacturing but at regulatory strategy: how a company chooses where to register first and in what order to enter markets.
+The Toumai story shows how Chinese medtech is changing roles: from a buyer catching up on other people’s technology to a developer that gets the first registration and then sells it to the world. For medical companies coming to China on a business [expedition](/en/expeditions), it is a reason to look not only at manufacturing but at regulatory strategy: how a company chooses where to register first and in what order to enter markets.
 
 For everyone else, it is a reminder that “this can’t be done remotely” usually means “this hasn’t been approved yet”.
 

@@ -66,7 +66,7 @@ The good news: most modern robot controllers keep event logs, error histories an
 - **Controller logs.** Export from the pendant or via the manufacturer’s service software. At a minimum, download and archive them regularly.
 - **PLC exchange.** The robot sends “cycle complete”, “error” and “waiting” signals to the line controller over industrial protocols (Modbus TCP, Profinet, EtherNet/IP and others, depending on the model), and from there into SCADA or MES.
 - **OPC UA.** There is an industry companion specification, OPC UA for Robotics (VDMA 40010), presented in 2018: a common data model for asset management, condition monitoring and preventive maintenance. Check with the manufacturer whether your model supports it.
-- **Vendor cloud dashboards.** Mobile and cleaning robots often report statistics through an app or cloud. Convenient, but find out where the data lives and whether you can export it.
+- **Vendor cloud dashboards.** Mobile and [cleaning](/en/catalog/cleaning) robots often report statistics through an app or cloud. Convenient, but find out where the data lives and whether you can export it.
 
 If digital collection is not set up yet, start on paper. A handwritten stoppage log beats a perfect monitoring system scheduled for next year.
 

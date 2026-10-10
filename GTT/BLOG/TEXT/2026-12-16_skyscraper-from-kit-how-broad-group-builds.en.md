@@ -76,6 +76,6 @@ The fourth question usually gets the longest answer. And the most honest one.
 
 ### What to take home
 
-At Global Tech Tour we run business expeditions to China and closed visits to companies across many industries. For builders and developers, modular production is interesting not as a “building in a day” trick but as a case study in moving work from the site to the factory. The same principle applies to furniture, shipbuilding, commercial kitchens and equipment assembly: the more you do in advance, the fewer surprises on site.
+At Global Tech Tour we run business [expeditions](/en/expeditions) to China and closed visits to companies across many industries. For builders and developers, modular production is interesting not as a “building in a day” trick but as a case study in moving work from the site to the factory. The same principle applies to furniture, shipbuilding, commercial kitchens and equipment assembly: the more you do in advance, the fewer surprises on site.
 
 There is no neat ending. Broad proved a building can go up fast. It also showed that fast is not the same as immediately. Somewhere in Changsha lie the foundations of what might have been the world’s tallest building and became a fish pond instead. The fish, we hear, are content. They didn’t need planning permission.

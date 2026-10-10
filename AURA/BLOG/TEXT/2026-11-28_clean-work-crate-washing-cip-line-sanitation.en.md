@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_
 
 In press releases, robots fry burgers, place dumplings and smile for the camera. No press release has ever featured a robot washing a crate. A pity, because a crate after a shift in a food plant is where the real work is: no audience, no applause.
 
-Cleaning and sanitation are the most underrated part of food production. They add no output, so nobody likes to cost them. Yet they consume water, chemicals, heat and, above all, hours in which the line is not running. At Aura Robotics we source equipment from factories in China, and in central kitchen and food plant projects washing is often the fastest way to save money. It just never makes the headlines.
+[Cleaning](/en/catalog/cleaning) and sanitation are the most underrated part of food production. They add no output, so nobody likes to cost them. Yet they consume water, chemicals, heat and, above all, hours in which the line is not running. At Aura Robotics we source equipment from factories in China, and in central kitchen and food plant projects washing is often the fastest way to save money. It just never makes the headlines.
 
 ### 1. Four levers of clean
 

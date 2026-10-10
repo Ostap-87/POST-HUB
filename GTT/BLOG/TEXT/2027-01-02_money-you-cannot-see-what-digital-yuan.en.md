@@ -31,7 +31,7 @@ It sounds mundane, but it is a real turn. The digital yuan was conceived as a re
 
 According to figures published in January 2026, by the end of 2025 the pilot regions had 230 million personal wallets and 19.08 million corporate wallets. The digital yuan had processed 3.57 billion transactions worth 19.5 trillion yuan.
 
-That sounds enormous until you compare it with something. In 2025 alone, China’s non-bank payment institutions, essentially Alipay and WeChat Pay, processed 1.33 trillion online payments worth 337.81 trillion yuan.
+That sounds enormous until you compare it with something. In 2025 alone, China’s non-bank payment institutions, essentially Alipay and [WeChat](/en/companies/wechat) Pay, processed 1.33 trillion online payments worth 337.81 trillion yuan.
 
 So across all its pilot years, the digital yuan has handled less than six per cent of the value that private payment systems process in a single year. By transaction count the gap is wider still: private systems processed hundreds of times more payments in one year than the digital yuan has in all its years.
 

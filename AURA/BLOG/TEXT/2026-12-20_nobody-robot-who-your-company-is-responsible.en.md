@@ -39,7 +39,7 @@ There is no universal ratio; the figures below are illustrative planning assumpt
 
 **Twenty robots.** Now it is a small department: a senior robotics engineer, shift technicians, a dedicated network and data owner, a failure and spare-parts log. Fleet uniformity matters here. Twenty robots of one model are far easier than twenty robots of eight models. Every new model means new training, new spares and a new password someone will forget.
 
-An illustrative example: five cobots, two shifts. Two technicians, one per shift, plus two trained operators per shift drawn from existing staff. Two new hires, not five. (Illustrative only; your shifts and holidays will change the numbers.)
+An illustrative example: five [cobots](/en/catalog/cobots), two shifts. Two technicians, one per shift, plus two trained operators per shift drawn from existing staff. Two new hires, not five. (Illustrative only; your shifts and holidays will change the numbers.)
 
 ### 3. Occupational standards: what already exists on paper
 

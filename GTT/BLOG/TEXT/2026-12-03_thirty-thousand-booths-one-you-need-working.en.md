@@ -94,7 +94,7 @@ Hold a short debrief every evening: who stood out, whom to visit, what questions
 
 The most valuable part starts when the halls close. The manufacturers you shortlisted are mostly in Guangdong, Zhejiang, Fujian and Jiangsu, often several hours away. A factory visit shows what a booth cannot: equipment, order on the floor, quality control, people.
 
-Global Tech Tour runs business expeditions to China and closed visits to companies across 17 industries, with ready-made and bespoke programmes. The Canton Fair can be the starting point of such a programme, with factory visits as its continuation. The final list of visits is always confirmed by the hosts.
+Global Tech Tour runs business [expeditions](/en/expeditions) to China and closed visits to companies across 17 industries, with ready-made and bespoke programmes. The Canton Fair can be the starting point of such a programme, with factory visits as its continuation. The final list of visits is always confirmed by the hosts.
 
 ### The bottom line
 

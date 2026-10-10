@@ -73,7 +73,7 @@ WMS integration deserves its own line in the project plan. Otherwise the robots 
 
 ### 7. Why Chinese AMRs
 
-China is one of the world’s main producers of warehouse mobile robots. Geek+, for example, listed on the Hong Kong Stock Exchange in July 2025 and, by its own figures, serves more than 800 enterprise customers in over 40 countries. Competition among Chinese manufacturers is intense, which is good news for buyers.
+China is one of the world’s main producers of warehouse mobile robots. [Geek+](/en/catalog/agv/factory/geekplus), for example, listed on the Hong Kong Stock Exchange in July 2025 and, by its own figures, serves more than 800 enterprise customers in over 40 countries. Competition among Chinese manufacturers is intense, which is good news for buyers.
 
 At Aura Robotics we buy AMRs directly from Chinese factories and model payback for the specific warehouse: base load, peak, and everything the spreadsheet leaves out. We show the actual units on video from the factory floor, serial numbers included, and test them before shipment.
 

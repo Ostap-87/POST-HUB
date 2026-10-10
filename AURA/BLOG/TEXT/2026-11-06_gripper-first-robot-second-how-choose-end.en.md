@@ -61,7 +61,7 @@ If you do need vision:
 
 **2D cameras** locate a part on a plane when its height is known: on a conveyor, a table or a flat layer.
 
-**3D cameras** (structured light, stereo, time-of-flight) produce a point cloud and are needed for bin picking, mixed-case depalletizing and complex shapes. Chinese manufacturers such as Mech-Mind and Hikrobot offer such systems for industrial use.
+**3D cameras** (structured light, stereo, time-of-flight) produce a point cloud and are needed for bin picking, mixed-case de[palletizing](/en/catalog/palletizing) and complex shapes. Chinese manufacturers such as Mech-Mind and Hikrobot offer such systems for industrial use.
 
 The typical 3D problems are well known. Small parts packed densely merge into one cloud. Shiny, polished and machined metal creates reflections and distortions in the point cloud, so the gripper misses. A badly placed camera casts shadows near bin walls, and parts in the corners become invisible.
 

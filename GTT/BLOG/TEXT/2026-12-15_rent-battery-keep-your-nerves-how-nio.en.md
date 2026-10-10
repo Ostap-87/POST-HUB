@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Every driver knows the old line: a car is four wheels and an infinite number of things to worry about. Electric cars added a fifth, very modern one: will I make it to the next charger?
 
-China’s NIO answered it the way a nursery teacher handles a broken toy. Don’t fix it, swap it. You drive into a station, a robot removes the depleted battery and fits a charged one, and you stay in your seat long enough to read one message, if you’re lucky.
+China’s [NIO](/en/companies/nio) answered it the way a nursery teacher handles a broken toy. Don’t fix it, swap it. You drive into a station, a robot removes the depleted battery and fits a charged one, and you stay in your seat long enough to read one message, if you’re lucky.
 
 Eight years ago this looked naive. Today it looks like infrastructure.
 
@@ -41,9 +41,9 @@ A line for your CFO: if the battery is a third of the car’s cost, not selling 
 
 The key question for any swap network is how many brands use it. One brand makes it a perk. Many brands make it infrastructure.
 
-At first, the network served only NIO cars. Today it serves the group’s three brands: NIO, Onvo and Firefly. In 2023–2024 NIO signed swap partnerships with Changan, Geely, Chery, GAC and JAC, though details on most were thin.
+At first, the network served only NIO cars. Today it serves the group’s three brands: NIO, Onvo and Firefly. In 2023–2024 NIO signed swap partnerships with Changan, [Geely](/en/companies/geely), Chery, GAC and JAC, though details on most were thin.
 
-In March 2025, NIO and CATL announced a strategic partnership: CATL would invest up to 2.5 billion yuan in NIO Power, and its Choco-swap standard would be used in future Firefly models. According to CnEVPost, that investment never materialised. A useful reminder that an announced deal and a closed deal are different animals, even in fast-moving China.
+In March 2025, NIO and [CATL](/en/companies/catl) announced a strategic partnership: CATL would invest up to 2.5 billion yuan in NIO Power, and its Choco-swap standard would be used in future Firefly models. According to CnEVPost, that investment never materialised. A useful reminder that an announced deal and a closed deal are different animals, even in fast-moving China.
 
 The latest development came on 28 September 2026. NIO signed a definitive agreement with Geely Holding: Geely gets 30% of NIO Power in exchange for its commercial-fleet swap business, Yiyi Power, plus 640 million yuan in cash. NIO Power’s post-money valuation is about 16 billion yuan, and NIO keeps control with about 63.6%. Geely can invest another 640 million to reach 34%, and its stake is tied to operating milestones: if they are missed, it can be cut, but not below 20%. NIO, in turn, takes 10% of Geely’s charging company, Haohan Energy. NIO Power’s target is 10,000 stations by 2030.
 

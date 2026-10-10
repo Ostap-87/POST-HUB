@@ -9,7 +9,7 @@ slug: "safety-by-standard-not-by-promise-iso"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-Cobots are sold with the line “works next to people without fencing”. True, but incomplete. The full version reads: “can work next to people without fencing if the cell is designed, assessed and verified to the standard.” The second half does not fit on a banner.
+[Cobots](/en/catalog/cobots) are sold with the line “works next to people without fencing”. True, but incomplete. The full version reads: “can work next to people without fencing if the cell is designed, assessed and verified to the standard.” The second half does not fit on a banner.
 
 In robot safety, a manufacturer’s word is worth exactly as much as the risk assessment attached to it. Here are the documents that assessment rests on, and what a buyer needs from them.
 

@@ -9,7 +9,7 @@ slug: "humanoid-for-lab-unitree-g1-vs-booster"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-A research humanoid is not bought to work. It is bought to fall over. Often, creatively and in the name of science: a PhD student writes a new walking controller, the robot takes three steps and lies down on the mat, and the student writes a paper on why. A month later the robot manages thirty steps. That is what progress looks like from the inside.
+A research [humanoid](/en/catalog/humanoid) is not bought to work. It is bought to fall over. Often, creatively and in the name of science: a PhD student writes a new walking controller, the robot takes three steps and lies down on the mat, and the student writes a paper on why. A month later the robot manages thirty steps. That is what progress looks like from the inside.
 
 So choosing a lab platform is a different exercise from choosing an industrial robot. Payback is measured in papers, theses and teams that are still together after the first semester. The questions change too: how open is the robot to a programmer, how quickly does it get back up, and what does the part that snapped off cost?
 

@@ -11,13 +11,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Every procurement manager knows that the most dangerous discount is the one you get used to. While it lasts, budgets, processes and the board’s expectations are rebuilt around it. Then a letter arrives citing “changing market conditions” and politely puts the price back where it was. The budget, however, stays where it went.
 
-China’s AI market went through that entire cycle in two years. The leading role belonged to ByteDance and its Doubao models, and for an executive it may be the most instructive story in Chinese AI. Not because everything there is cheap, but because you can watch the price move.
+China’s AI market went through that entire cycle in two years. The leading role belonged to [ByteDance](/en/companies/bytedance) and its Doubao models, and for an executive it may be the most instructive story in Chinese AI. Not because everything there is cheap, but because you can watch the price move.
 
 ### How it started
 
 ByteDance, the company behind TikTok and Douyin, opened its Doubao chatbot to the public in August 2023. In May 2024 its cloud arm, Volcano Engine, launched a family of Doubao models for business and priced the main one at 0.0008 yuan per thousand tokens, 99.3% below the industry average according to the company.
 
-The market was already moving, and the rest took only days. On 6 May DeepSeek had released V2 at one yuan per million input tokens. On 11 May Zhipu cut its price fivefold. Doubao followed on 15 May. On 21 May Alibaba cut Qwen-Long by 97%, and Baidu made two Ernie models free the same day. The next day Tencent and iFlytek opened free access to their lightweight models.
+The market was already moving, and the rest took only days. On 6 May DeepSeek had released V2 at one yuan per million input tokens. On 11 May Zhipu cut its price fivefold. Doubao followed on 15 May. On 21 May [Alibaba](/en/companies/alibaba) cut Qwen-Long by 97%, and Baidu made two Ernie models free the same day. The next day [Tencent](/en/companies/tencent) and iFlytek opened free access to their lightweight models.
 
 In two weeks the price of machine-generated text in China fell by orders of magnitude, in places to zero. In retail this is called a sale. In cloud computing it is called a market-capture strategy. The difference is that a retail sale ends on Sunday.
 

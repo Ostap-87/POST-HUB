@@ -17,7 +17,7 @@ At Aura Robotics we source service robots directly from Chinese manufacturers an
 
 ### 1. What the robot actually does
 
-A hotel delivery robot is a cabinet on wheels with lockable compartments, a lidar and a module that talks to the lift. It brings small items to rooms: towels, water, chargers, slippers, a room-service order, or a parcel a courier left at the front desk.
+A hotel delivery robot is a cabinet on wheels with lockable compartments, a lidar and a module that talks to the lift. It brings small items to rooms: towels, water, chargers, slippers, a room-service order, or a parcel a [courier](/en/catalog/courier) left at the front desk.
 
 For scale, from public specs: Pudu FlashBot carries up to 30 kg (15 kg per tier) in 2–4 compartments, runs about 12 hours, charges in about 4.5 hours and calls the lift itself. Keenon W3 offers roughly 90 litres of space in 2–4 compartments, moves at 0.8 m/s and also connects to lifts.
 

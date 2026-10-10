@@ -31,7 +31,7 @@ End-of-shift charging: the robot works as long as it can, then charges for sever
 
 Opportunity charging: the robot tops up in short sessions during idle moments. The GoPal P35 goes from 30% to 95% in 45 minutes and is designed around that pattern. For a 24/7 site this is usually the cheapest option because less downtime means a smaller fleet.
 
-Battery swapping: the robot pulls in, the pack is swapped by hand or automatically, and off it goes. UBTech has shown its Walker S2 humanoid swapping its own battery. For dogs and humanoids, a spare pack is often the only way to work more than a couple of hours. But every extra pack is money, shelf space and another charger.
+Battery swapping: the robot pulls in, the pack is swapped by hand or automatically, and off it goes. [UBTech](/en/catalog/humanoid/factory/ubtech) has shown its Walker S2 humanoid swapping its own battery. For dogs and humanoids, a spare pack is often the only way to work more than a couple of hours. But every extra pack is money, shelf space and another charger.
 
 So ask before ordering: where will the chargers physically sit, how many do you need, is there a socket of the right rating, and will the station block an aisle? A warehouse designed without chargers becomes a warehouse full of extension leads within a month.
 

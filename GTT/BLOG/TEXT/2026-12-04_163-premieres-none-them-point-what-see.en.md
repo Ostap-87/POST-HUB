@@ -36,7 +36,7 @@ The venue itself is shaped like a four-leaf clover, with roughly 400,000 square 
 
 In 2025, eight halls were given to passenger cars and four to technology and the supply chain. The official product list for 2027 includes whole sectors that justify the trip for a specialist.
 
-**Batteries and energy.** Batteries, electric motors and control systems, charging infrastructure, energy storage, the hydrogen chain. Battery makers sit alongside the carmakers: in 2025 CATL, for example, had a booth in one of the passenger car halls. A good place to compare several suppliers in a day without flying between provinces.
+**Batteries and energy.** Batteries, electric motors and control systems, charging infrastructure, energy storage, the hydrogen chain. Battery makers sit alongside the carmakers: in 2025 [CATL](/en/companies/catl), for example, had a booth in one of the passenger car halls. A good place to compare several suppliers in a day without flying between provinces.
 
 **Electronics and smart systems.** Automotive chips, radar, cameras, connectivity, lighting, infotainment. This is where you see how the Chinese car became a smartphone on wheels, and how many companies build that smartphone for different brands.
 
@@ -48,7 +48,7 @@ A good rule: day one for cars, day two for everything else. By the end of day tw
 
 ### Robots at a motor show: salespeople now, assemblers later
 
-The 2025 show had a surprising number of humanoids. According to Yicai, an AgiBot robot worked as a “sales consultant” on the Roewe stand, Unitree robots shook hands with visitors at Changan and FAW, Chery showed its robot Mornine and Xpeng its humanoid Iron. Xpeng’s CEO said at the time that the company had begun training robots to work in factories.
+The 2025 show had a surprising number of humanoids. According to Yicai, an [AgiBot](/en/companies/agibot) robot worked as a “sales consultant” on the Roewe stand, Unitree robots shook hands with visitors at Changan and FAW, Chery showed its robot Mornine and [Xpeng](/en/companies/xpeng) its humanoid Iron. Xpeng’s CEO said at the time that the company had begun training robots to work in factories.
 
 How should a business visitor read this? A robot on a stand is, first of all, advertising. A robot shaking hands demonstrates that it can shake hands. The question to ask: where does this robot work apart from the stand, how many hours per shift, and who maintains it? If the answer is “it’s a concept”, it is a concept. Nothing wrong with that. Just do not buy it.
 

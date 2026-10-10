@@ -23,7 +23,7 @@ In the EAEU, product requirements are set by Customs Union and EAEU technical re
 
 **TR CU 020/2011, Electromagnetic Compatibility.** It applies to almost any electronics.
 
-Which apply depends on the product: an arm in a cell, a cobot, a mobile robot and a humanoid can fall under different combinations.
+Which apply depends on the product: an arm in a cell, a [cobot](/en/catalog/cobots), a mobile robot and a humanoid can fall under different combinations.
 
 ### 2. What changed in 2026
 

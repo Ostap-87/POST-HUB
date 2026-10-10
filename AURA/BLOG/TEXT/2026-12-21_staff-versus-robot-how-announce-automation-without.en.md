@@ -41,7 +41,7 @@ There is no scientific formula here, just common sense and deployment experience
 
 **Then the whole section, before the robot arrives.** Which task, why that task, what happens to the people doing it now. “The robot will take boxes off the conveyor and stack them on a pallet” sounds harmless. “We are implementing robotisation” sounds like a redundancy notice.
 
-**Show a real robot or a video.** An imagined machine is always bigger, faster and meaner than the real one. A cobot that gently places a box and stops when someone approaches answers half the questions.
+**Show a real robot or a video.** An imagined machine is always bigger, faster and meaner than the real one. A [cobot](/en/catalog/cobots) that gently places a box and stops when someone approaches answers half the questions.
 
 **Name the people who will work with it.** Choose future operators and technicians from your own team and announce them early. A robot with “its own” person stops being a stranger.
 

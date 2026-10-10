@@ -17,7 +17,7 @@ At Aura Robotics we source robots directly from Chinese factories and match them
 
 ### Security is not inspection
 
-An inspection robot looks at equipment: gauges, transformer temperature, leaks, vibration. A patrol robot looks at people and events: who came through the gate, who is standing by the fence, whose car is in the fire lane, who is smoking by the store of flammables.
+An [inspection](/en/catalog/inspection) robot looks at equipment: gauges, transformer temperature, leaks, vibration. A patrol robot looks at people and events: who came through the gate, who is standing by the fence, whose car is in the fire lane, who is smoking by the store of flammables.
 
 The platforms can be identical; the jobs are not. That means different sensors, different software and different legal questions. When an inspection robot films a gauge, the gauge does not object. A patrol robot films people, and the law has opinions about that.
 

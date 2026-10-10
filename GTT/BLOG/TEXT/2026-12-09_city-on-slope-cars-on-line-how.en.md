@@ -47,9 +47,9 @@ The laptop laid the track. The car followed.
 
 The top floor is cars, with two main characters.
 
-The first is Changan, a large state-owned car group headquartered in Chongqing. In 2025 it sold 2.913 million vehicles, 1.11 million of them new energy vehicles, a segment that grew 51.1%.
+The first is [Changan](/en/companies/changan), a large state-owned car group headquartered in Chongqing. In 2025 it sold 2.913 million vehicles, 1.11 million of them new energy vehicles, a segment that grew 51.1%.
 
-The second is Seres, a company most people outside China first heard of through its alliance with Huawei and the AITO brand. In 2025 Seres sold 472,300 new energy vehicles.
+The second is Seres, a company most people outside China first heard of through its alliance with [Huawei](/en/companies/huawei) and the AITO brand. In 2025 Seres sold 472,300 new energy vehicles.
 
 Their arrangement with Huawei is instructive. Huawei says plainly that it does not make cars; it supplies intelligent connected vehicle technology and helps carmakers design and sell vehicles. In July 2024 Seres announced it would buy 919 trademarks, including the AITO series, and 44 design patents from Huawei for 2.5 billion yuan. A same-day appraisal valued the assets at 10.23 billion. Huawei continues to work with Seres on designing and marketing AITO models.
 

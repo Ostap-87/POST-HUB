@@ -8,7 +8,7 @@ slug: "japanese-fortress-chinese-charger-how-chinese-evs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 ---
 
-For half a century South-East Asia was Japan’s automotive backyard. Toyota, Daihatsu, Honda, Mitsubishi and Suzuki built plants here while China’s car industry was still assembling copies of other people’s models. The region got so used to Japanese cars that “reliable” came to be spoken with a Japanese accent.
+For half a century South-East Asia was Japan’s automotive backyard. [Toyota](/en/companies/toyota), Daihatsu, Honda, Mitsubishi and Suzuki built plants here while China’s car industry was still assembling copies of other people’s models. The region got so used to Japanese cars that “reliable” came to be spoken with a Japanese accent.
 
 Now an electric car has driven into that backyard. Quietly, since electric cars cannot do it any other way.
 
@@ -18,7 +18,7 @@ Let us look at the two key markets, Indonesia and Malaysia, using 2025–2026 fi
 
 First the context. According to the Indonesian carmakers’ association Gaikindo, 803,687 cars were sold in Indonesia in 2025, down 7.2% on the year before. The market was shrinking, and Japanese brands felt it: Toyota sales fell 13.3% to 250,431 units, Daihatsu fell 19.8% and Honda 40.4%.
 
-Chinese brands grew in the same year. BYD sold about 46,700 cars in Indonesia (wholesale, Gaikindo data reported by AfMA), roughly three times its 2024 figure, for a 5.8% share and first place among Chinese brands. Retail data tell the same story: 44,342 cars and the lead among Chinese brands, followed by Wuling, Chery and Denza, BYD’s own premium brand.
+Chinese brands grew in the same year. [BYD](/en/companies/byd) sold about 46,700 cars in Indonesia (wholesale, Gaikindo data reported by AfMA), roughly three times its 2024 figure, for a 5.8% share and first place among Chinese brands. Retail data tell the same story: 44,342 cars and the lead among Chinese brands, followed by Wuling, Chery and Denza, BYD’s own premium brand.
 
 BYD only started selling in Indonesia in January 2024.
 
@@ -50,7 +50,7 @@ China has speed. Japan has customer habit. We will see which one holds its charg
 
 Malaysia is different because it has strong national brands. According to the Malaysian Automotive Association (MAA), a record 820,752 vehicles were sold in 2025. Perodua sold 359,904, about 44% of the market, and national brands together (Perodua and Proton) took 62.3%.
 
-Here it gets interesting. Perodua’s manufacturing partner is Daihatsu, wholly owned by Toyota since 2016. Proton has been 49.9% owned by China’s Geely since 2017. So Malaysia’s two “national” carmakers are, respectively, a Japanese and a Chinese project with a Malaysian passport.
+Here it gets interesting. Perodua’s manufacturing partner is Daihatsu, wholly owned by Toyota since 2016. Proton has been 49.9% owned by China’s [Geely](/en/companies/geely) since 2017. So Malaysia’s two “national” carmakers are, respectively, a Japanese and a Chinese project with a Malaysian passport.
 
 In September 2025 Proton opened its first EV assembly plant in Tanjung Malim. The first model is the e.MAS 7, essentially a rebadged Geely EX5 assembled from Chinese kits. Capacity is 20,000 units a year, expandable to 45,000.
 

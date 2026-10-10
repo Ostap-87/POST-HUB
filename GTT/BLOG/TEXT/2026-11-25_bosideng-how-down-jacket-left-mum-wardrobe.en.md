@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 A down jacket is an honest product. You need it three months a year. For the other nine it hangs in a wardrobe, taking up space. Building a business on it is like selling snow: demand arrives on schedule and leaves without notice.
 
-Bosideng built one of China’s most profitable apparel companies on exactly that product. Twice, in fact: first as a mass brand, then as a premium one. The second time is the interesting one, because it came right after the first nearly ended.
+[Bosideng](/en/companies/bosideng) built one of China’s most profitable apparel companies on exactly that product. Twice, in fact: first as a mass brand, then as a premium one. The second time is the interesting one, because it came right after the first nearly ended.
 
 ### Eight sewing machines
 
@@ -33,7 +33,7 @@ Closing five thousand stores is not an optimisation. It is a verdict delivered b
 
 Bosideng kept its name and changed nearly everything else.
 
-In March 2018 it signed three deals at once: with state broadcaster CCTV’s national brands programme, with Wanda for prime mall locations, and with Alibaba for online traffic. It sold or shut non-core businesses and went back to one brand and one product.
+In March 2018 it signed three deals at once: with state broadcaster CCTV’s national brands programme, with Wanda for prime mall locations, and with [Alibaba](/en/companies/alibaba) for online traffic. It sold or shut non-core businesses and went back to one brand and one product.
 
 That autumn it showed at New York Fashion Week. Milan, London and a Jean Paul Gaultier collaboration followed; in 2025 came the AREAL line with British designer Kim Jones and a show in Paris, and in January 2026 an AREAL pop-up at Galeries Lafayette Haussmann.
 

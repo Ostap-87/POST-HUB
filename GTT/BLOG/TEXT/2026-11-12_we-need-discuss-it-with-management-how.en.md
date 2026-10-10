@@ -16,7 +16,7 @@ Nothing is agreed until everything is agreed.
 
 This is not a trick. It is a way of thinking. Back in 2003, John Graham and Mark Lam described it in Harvard Business Review as holistic thinking, alongside other key concepts of Chinese negotiation: connections, status, harmony, thrift, face and endurance. China has changed beyond recognition since then. Those words have not.
 
-Here is the usual path from first meeting to contract, as our business expedition participants see it.
+Here is the usual path from first meeting to contract, as our business [expedition](/en/expeditions) participants see it.
 
 ### Stage 1. Introduction: they assess you before your offer
 

@@ -27,15 +27,15 @@ Operators need level one, engineers level two, integrators level three. Trouble 
 
 From public documentation:
 
-Dobot. DobotStudio Pro supports block programming (Blockly), Lua scripting, hand-guided teaching, and TCP/IP and Modbus for external control. On interface language the manual is brief and honest: choose the display language in settings, and if the language you need is not there, contact technical support. Translation: ask in advance.
+[Dobot](/en/catalog/cobots/factory/dobot). DobotStudio Pro supports block programming (Blockly), Lua scripting, hand-guided teaching, and TCP/IP and Modbus for external control. On interface language the manual is brief and honest: choose the display language in settings, and if the language you need is not there, contact technical support. Translation: ask in advance.
 
 Elite Robots. CS-series cobots have an open ROS 2 driver listed in the official ROS package index, supporting ROS 2 Humble on Ubuntu 22.04 and relying on the manufacturer’s own SDK. An Elite cobot can join a ROS 2 system without home-made bridges.
 
-JAKA. The robot is operated through the JAKA Zu app, which, for example, the RoboDK driver connects to over standard Ethernet, so tasks can be programmed and run from an external environment.
+[JAKA](/en/catalog/cobots/factory/jaka). The robot is operated through the JAKA Zu app, which, for example, the RoboDK driver connects to over standard Ethernet, so tasks can be programmed and run from an external environment.
 
 Unitree. Openness is part of the business model. GitHub hosts unitree_sdk2 (Go2, B2, H1), a Python version that adds G1, unitree_ros2 for Go2 and B2, a MuJoCo simulator, reinforcement learning code and an imitation learning framework for the G1 and the Dex3 hand. For a research lab, that is close to a ready environment. For a warehouse, it is a toolkit that still needs work.
 
-AgiBot. The X2 humanoid comes with AimDK, a set of ROS 2 interfaces in C++ and Python for motion, joints, hands, navigation, voice and diagnostics. Some modules, such as advanced vision, are marked “to be released”.
+[AgiBot](/en/catalog/humanoid/factory/agibot). The X2 humanoid comes with AimDK, a set of ROS 2 interfaces in C++ and Python for motion, joints, hands, navigation, voice and diagnostics. Some modules, such as advanced vision, are marked “to be released”.
 
 Note that wherever SDKs are concerned, the languages are C++ and Python and the documentation is in English and Chinese. SDK documentation in other languages is still rare.
 

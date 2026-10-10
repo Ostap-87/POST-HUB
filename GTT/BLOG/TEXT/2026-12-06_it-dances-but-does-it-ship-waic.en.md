@@ -71,7 +71,7 @@ If the answer to question six is “all of it”, ask again. Sometimes on the se
 
 **After the conference, go to the companies.** A show reveals what companies can do. A factory reveals what that looks like at work. Shanghai and its surroundings have plenty of both AI developers and manufacturers using AI. We wrote about China’s robotics hubs in a separate article.
 
-Global Tech Tour runs business expeditions to China: closed visits to companies across 17 industries, ready-made and bespoke programmes, and corporate training. The conference can be the starting point of a programme, with company visits as the follow-up. The final list of visits is always confirmed by the hosts.
+Global Tech Tour runs business [expeditions](/en/expeditions) to China: closed visits to companies across 17 industries, ready-made and bespoke programmes, and corporate training. The conference can be the starting point of a programme, with company visits as the follow-up. The final list of visits is always confirmed by the hosts.
 
 ### The bottom line
 

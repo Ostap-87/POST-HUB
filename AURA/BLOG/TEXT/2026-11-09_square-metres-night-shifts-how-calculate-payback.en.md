@@ -9,7 +9,7 @@ slug: "square-metres-night-shifts-how-calculate-payback"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-Cleaning robot payback is usually worked out on a napkin. Divide the mall’s floor area by the brochure’s coverage rate, multiply by the robot’s price. Divide the same area by a cleaner’s norm, multiply by wages. The difference looks so good you want to sign the contract on the same napkin.
+[Cleaning](/en/catalog/cleaning) robot payback is usually worked out on a napkin. Divide the mall’s floor area by the brochure’s coverage rate, multiply by the robot’s price. Divide the same area by a cleaner’s norm, multiply by wages. The difference looks so good you want to sign the contract on the same napkin.
 
 Don’t. Cleaning contractors invoice shifts, not square metres. So the robot has to be counted in shifts too: which shift it covers, which it shortens, and which it does not touch at all.
 

@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_
 
 Some robot makers are impossible to miss. They list on stock exchanges, release videos of dancing humanoids and hold launches with smoke machines. Others are known mostly to people who actually buy robots. Elite Robots belongs to the second group.
 
-For a company this quiet, the name is almost a joke at its own expense. At Aura Robotics we source cobots directly from Chinese factories, and Elite turns up in our shortlists far more often than in headlines. Here is why. (We have compared Elite with JAKA and Dobot before; this is a profile of Elite on its own.)
+For a company this quiet, the name is almost a joke at its own expense. At Aura Robotics we source cobots directly from Chinese factories, and Elite turns up in our shortlists far more often than in headlines. Here is why. (We have compared Elite with [JAKA](/en/catalog/cobots/factory/jaka) and [Dobot](/en/catalog/cobots/factory/dobot) before; this is a profile of Elite on its own.)
 
 ### Who they are
 

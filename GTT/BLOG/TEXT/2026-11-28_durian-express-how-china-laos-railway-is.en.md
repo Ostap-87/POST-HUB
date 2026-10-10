@@ -66,7 +66,7 @@ Third, China gains most. It has a stable channel south for its goods and north f
 
 Companies moving fruit, food, raw materials and industrial goods between China and Southeast Asia. Logistics managers comparing routes and hunting for saved days. Anyone considering production in Yunnan or business with China’s south-west.
 
-Global Tech Tour runs business expeditions to China, including logistics and industry programmes built around each group’s goals. If south-western China and overland trade with Southeast Asia matter to you, the route is designed around those questions, and individual company visits are confirmed by the hosts.
+Global Tech Tour runs business [expeditions](/en/expeditions) to China, including logistics and industry programmes built around each group’s goals. If south-western China and overland trade with Southeast Asia matter to you, the route is designed around those questions, and individual company visits are confirmed by the hosts.
 
 ### The bottom line
 

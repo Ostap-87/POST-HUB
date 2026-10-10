@@ -58,7 +58,7 @@ Two shows in one city in one month do not make one trip. It is like two birthday
 
 Two weeks between shows is not a problem if you fill them with work. China’s construction machinery industry is concentrated in a few clusters, all reachable from Shanghai within a day.
 
-The best known is Changsha, capital of Hunan province, home to the headquarters of Sany and Zoomlion. According to the provincial government, in early 2024 the city led all Chinese cities in construction machinery exports. Another centre is Xuzhou in Jiangsu province, home of XCMG, whose name literally stands for Xuzhou Construction Machinery Group. We wrote separately about how Sany digitised its factories.
+The best known is Changsha, capital of Hunan province, home to the headquarters of [Sany](/en/companies/sany) and Zoomlion. According to the provincial government, in early 2024 the city led all Chinese cities in construction machinery exports. Another centre is Xuzhou in Jiangsu province, home of [XCMG](/en/companies/xcmg), whose name literally stands for Xuzhou Construction Machinery Group. We wrote separately about how Sany digitised its factories.
 
 A plan that can work in an even year:
 

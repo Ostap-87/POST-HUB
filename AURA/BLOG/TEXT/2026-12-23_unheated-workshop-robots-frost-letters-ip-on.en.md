@@ -31,7 +31,7 @@ An IP rating is a promise made in a laboratory. The workshop was not informed.
 
 Most industrial cobots are rated at roughly 0 to 50 °C. The UR10e: 0–50 °C, up to 90% humidity, non-condensing. The lower limit matters more: workshops rarely reach 50 °C in summer, but an unheated building can drop below zero overnight.
 
-Outdoor robots have wider ranges. Deep Robotics says its X30 inspection quadruped operates from −20 to +55 °C and is rated IP67, while noting these are laboratory figures. The popular consumer Unitree Go2, by contrast, lists +5 to +35 °C in its manual, “optimal in fair weather”. They look like cousins. In winter they live in different climate zones.
+Outdoor robots have wider ranges. [Deep Robotics](/en/catalog/quadruped/factory/deeprobotics) says its X30 inspection quadruped operates from −20 to +55 °C and is rated IP67, while noting these are laboratory figures. The popular consumer Unitree Go2, by contrast, lists +5 to +35 °C in its manual, “optimal in fair weather”. They look like cousins. In winter they live in different climate zones.
 
 A robot dog for trade shows and a robot dog for winter substation rounds are different purchases, even if you cannot tell them apart in a photo.
 

@@ -16,7 +16,7 @@ Here is what we at Global Tech Tour ask expedition participants to pack into the
 
 ### 1. WeChat: messenger, business card and pass
 
-WeChat is not just a messaging app in China. It is your business card (at meetings, people increasingly scan each other’s QR codes instead of exchanging cards), your chat with partners, your wallet and, through mini-programs, the restaurant menu, ticket office and even the arrival card at the border.
+[WeChat](/en/companies/wechat) is not just a messaging app in China. It is your business card (at meetings, people increasingly scan each other’s QR codes instead of exchanging cards), your chat with partners, your wallet and, through mini-programs, the restaurant menu, ticket office and even the arrival card at the border.
 
 Install it, register, verify your number and complete identity checks if prompted. New foreign accounts sometimes need confirmation from an existing user, so do not leave this until the night before you fly. Set up WeChat Pay at home too: it involves a passport check, and that does not always pass on the first try.
 
@@ -40,7 +40,7 @@ And keep your home number active. That is where your bank’s verification codes
 
 ### 4. Maps and taxis: Google Maps will not help
 
-Google Maps is blocked in China and, even via roaming, its data does not always match reality. The main local maps are Amap (Gaode) and Baidu Maps. In January 2025, Amap launched an English version with English labels, lane-level guidance and even countdowns to the next traffic-light change.
+Google Maps is blocked in China and, even via roaming, its data does not always match reality. The main local maps are Amap (Gaode) and [Baidu](/en/companies/baidu) Maps. In January 2025, Amap launched an English version with English labels, lane-level guidance and even countdowns to the next traffic-light change.
 
 For taxis, use DiDi, which has an English interface and also runs as a mini-program inside Alipay and WeChat. You pay in the same app.
 

@@ -10,7 +10,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 Every large company has someone who knows exactly what the customer wants. Usually it is a department head who last met a customer at the 2019 Christmas party.
 
-Haier decided this was the wrong arrangement and removed almost everyone standing between employees and customers. The result is one of the most discussed management models in the world, with a hard-to-pronounce name and a simple idea.
+[Haier](/en/companies/haier) decided this was the wrong arrangement and removed almost everyone standing between employees and customers. The result is one of the most discussed management models in the world, with a hard-to-pronounce name and a simple idea.
 
 This is not an article about Haier’s fridges and washing machines. It is about how the company itself is built.
 

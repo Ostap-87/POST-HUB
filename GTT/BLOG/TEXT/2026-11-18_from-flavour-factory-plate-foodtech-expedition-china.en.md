@@ -29,7 +29,7 @@ For food companies elsewhere that’s a useful preview. Many ready-meal markets 
 
 Sauces, seasonings, yeast, flavourings, fermented products: what the industry calls ingredients and everyone else calls taste.
 
-The best-known example is Haitian from Foshan, China’s largest soy sauce maker. Its history goes back to a 1955 merger of 25 sauce workshops. In June 2025 it completed a Hong Kong listing that raised about HK$10.1 billion, partly to build its overseas supply chain.
+The best-known example is [Haitian](/en/companies/haitian) from Foshan, China’s largest soy sauce maker. Its history goes back to a 1955 merger of 25 sauce workshops. In June 2025 it completed a Hong Kong listing that raised about HK$10.1 billion, partly to build its overseas supply chain.
 
 What you see at a plant like this: industrial-scale fermentation, raw-material quality control, automated bottling lines, recipes adapted to different markets. The method is traditional. The volumes and controls are not.
 

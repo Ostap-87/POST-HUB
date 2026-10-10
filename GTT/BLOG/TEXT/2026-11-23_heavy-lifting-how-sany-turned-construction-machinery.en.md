@@ -12,7 +12,7 @@ Some industries seem made for digitisation. Electronics, phones, batteries: ever
 
 Then there is heavy machinery. A concrete pump truck weighs tens of tonnes, its boom is as long as a house, and every other order differs from the last. Computers are not comfortable here. Historically, the comfortable ones were the welder with thirty years’ experience and the foreman who “has a feel for steel”.
 
-Sany decided steel could be felt by sensors too. Judging by the results, it was right.
+[Sany](/en/companies/sany) decided steel could be felt by sensors too. Judging by the results, it was right.
 
 ### The basics
 

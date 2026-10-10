@@ -40,7 +40,7 @@ Keep toasts short and specific: to cooperation, to hospitality, to what you saw 
 
 ### 4. Baijiu: a drink that punishes overconfidence
 
-Baijiu is a Chinese grain spirit, most often made from sorghum. It usually runs from 40% to 60% alcohol; the famous Moutai Feitian is 53%. It is served in tiny glasses, and that is a design trap: the glass is small, the toasts are many, and there is only one of you.
+Baijiu is a Chinese grain spirit, most often made from sorghum. It usually runs from 40% to 60% alcohol; the famous [Moutai](/en/companies/moutai) Feitian is 53%. It is served in tiny glasses, and that is a design trap: the glass is small, the toasts are many, and there is only one of you.
 
 The taste is sharp and unfamiliar. Comparing it with vodka is like comparing a banjo with a violin because both have strings. What matters is this: a ganbei with baijiu means bottoms up, and there may be twenty of them in an evening. Do your arithmetic before the first one, not after the twelfth.
 

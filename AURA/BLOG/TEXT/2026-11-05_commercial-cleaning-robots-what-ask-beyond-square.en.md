@@ -9,7 +9,7 @@ slug: "commercial-cleaning-robots-what-ask-beyond-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 ---
 
-Every commercial cleaning robot’s datasheet opens with square metres per hour. It is a handsome number. It tells you how much the robot would clean in an empty rectangular hall with no columns, doors or people, if nothing ever stopped it.
+Every commercial [cleaning](/en/catalog/cleaning) robot’s datasheet opens with square metres per hour. It is a handsome number. It tells you how much the robot would clean in an empty rectangular hall with no columns, doors or people, if nothing ever stopped it.
 
 Shopping malls do not have halls like that. Neither do office buildings. Warehouses least of all.
 

@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_
 
 In most companies, senior management’s goals are classified. The boss knows them, the deputy knows them, and so does the assistant who formatted the slides. Everyone else infers them from circumstantial evidence, mainly from who got called in on Monday.
 
-ByteDance, the company behind TikTok and Douyin, went the other way. Any employee, from intern to founder, can open any other employee’s goals. The founder’s included.
+[ByteDance](/en/companies/bytedance), the company behind TikTok and Douyin, went the other way. Any employee, from intern to founder, can open any other employee’s goals. The founder’s included.
 
 Imagine logging in on Monday morning, reading what the CEO is working on this cycle, and having questions. And discovering you are allowed to ask them.
 

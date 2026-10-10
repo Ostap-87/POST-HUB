@@ -19,7 +19,7 @@ At Aura Robotics we source equipment directly from factories in China, including
 
 One province shows the scale. According to industry reviews, around 70% of China’s frozen jiaozi are made in Henan. Zhengzhou is home to the two biggest players, Sanquan and Synear. Sanquan reported revenue of about RMB 7.06 billion in 2023 and production capacity of over 700,000 tonnes a year; Synear is estimated to be of similar size.
 
-The industry keeps automating: in recent years large producers have added automatic filling-mixing systems, multihead weighers, packaging machines and cobots. For a buyer, the takeaway is that China has many factories building dumpling equipment and many plants where it runs real shifts, not just trade show demos.
+The industry keeps automating: in recent years large producers have added automatic filling-mixing systems, multihead weighers, packaging machines and [cobots](/en/catalog/cobots). For a buyer, the takeaway is that China has many factories building dumpling equipment and many plants where it runs real shifts, not just trade show demos.
 
 The Russian market is growing too. Romir research found pelmeni sales in Russia rose 21% by volume and 34% by value between October 2023 and September 2024. Dumplings do not fear a downturn. They are a downturn food.
 

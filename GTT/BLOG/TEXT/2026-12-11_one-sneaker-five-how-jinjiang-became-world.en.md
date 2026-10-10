@@ -31,7 +31,7 @@ Good manufacturing does not start with a factory. It starts with a cousin in Man
 
 For years Chendai lived on contract work, making shoes to other people’s orders under other people’s logos. The model worked as long as the customers did. In 1997 the Asian financial crisis hit exports, and many factories that worked only for foreign brands closed.
 
-The survivors drew a conclusion business schools would later call strategy: if your fate depends on someone else’s logo, get your own. That is where the region’s sports brands came from, the ones Xinhua names as leading national players: Anta, Xtep and 361°. We have already written about Anta separately, so here it is just a mention; the company comes from these parts and has done more than anyone to prove a factory can become a brand.
+The survivors drew a conclusion business schools would later call strategy: if your fate depends on someone else’s logo, get your own. That is where the region’s sports brands came from, the ones Xinhua names as leading national players: [Anta](/en/companies/anta), Xtep and 361°. We have already written about Anta separately, so here it is just a mention; the company comes from these parts and has done more than anyone to prove a factory can become a brand.
 
 First you make shoes for someone else’s name. Then you realise a name is also a product, just made on different machines.
 

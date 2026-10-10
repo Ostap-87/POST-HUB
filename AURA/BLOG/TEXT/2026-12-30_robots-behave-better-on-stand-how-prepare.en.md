@@ -11,7 +11,7 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_
 
 At a trade show a robot behaves like a child visiting relatives: polite, obedient, drops nothing and smiles at everyone. At home, meaning in your warehouse, it may turn out to be a different child. The buyer’s job at a show is to work out what it will be like at home.
 
-Chinese robotics shows have become enormous. The Robotics Show (RS) at the China International Industry Fair in Shanghai in September 2025 covered about 56,000 square metres with more than 350 robotics companies, and the humanoid zone alone featured 27 models. CIIF 2025 as a whole covered about 300,000 square metres with nearly 3,000 exhibitors. You cannot walk a show like that in a day. Or two. In three you can walk it, but you will understand nothing.
+Chinese robotics shows have become enormous. The Robotics Show (RS) at the China International Industry Fair in Shanghai in September 2025 covered about 56,000 square metres with more than 350 robotics companies, and the [humanoid](/en/catalog/humanoid) zone alone featured 27 models. CIIF 2025 as a whole covered about 300,000 square metres with nearly 3,000 exhibitors. You cannot walk a show like that in a day. Or two. In three you can walk it, but you will understand nothing.
 
 So a trade show is not a stroll. It is an operation.
 

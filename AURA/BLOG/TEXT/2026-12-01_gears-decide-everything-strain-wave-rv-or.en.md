@@ -25,7 +25,7 @@ Their life is rated in an unusual way. What wears out first is not a tooth but t
 
 A part that flexes millions of times without breaking is great news for engineers and terrible news for worriers.
 
-China now makes its own. The largest local supplier, Suzhou Leaderdrive, holds about 27.5% of Chinese shipments according to QY Research; its 2025 revenue grew 47% to 571 million yuan, and its customers reportedly include Unitree, UBTech and AgiBot. In autumn 2026 it started the process of listing in Hong Kong. For a buyer the point is not the stock market. It is that a repair kit for a Chinese cobot is now more likely to come from Suzhou than from Japan.
+China now makes its own. The largest local supplier, Suzhou Leaderdrive, holds about 27.5% of Chinese shipments according to QY Research; its 2025 revenue grew 47% to 571 million yuan, and its customers reportedly include Unitree, [UBTech](/en/catalog/humanoid/factory/ubtech) and [AgiBot](/en/catalog/humanoid/factory/agibot). In autumn 2026 it started the process of listing in Hong Kong. For a buyer the point is not the stock market. It is that a repair kit for a Chinese cobot is now more likely to come from Suzhou than from Japan.
 
 ### RV: heavy, stiff and patient
 

@@ -42,9 +42,9 @@ The two largest data centre operators in Malaysia by built capacity at the end o
 
 **DayOne** is the former international arm of GDS Holdings, one of China’s largest data centre operators, spun off as a separate company in January 2025. Its anchor campuses are in the Nusajaya and Kempas tech parks in Johor. In June 2025 it raised RM15 billion (about US$3.6 billion) in syndicated financing, its largest loan to date, from a group of banks including OCBC, DBS, UOB, CIMB and Maybank.
 
-**Bridge Data Centres** is a subsidiary of ChinData, which is controlled by Bain Capital. Its MY06 campus in Sedenak Tech Park opened in 2022 with 110 MW, and its anchor tenant is ByteDance, the owner of TikTok.
+**Bridge Data Centres** is a subsidiary of ChinData, which is controlled by Bain Capital. Its MY06 campus in Sedenak Tech Park opened in 2022 with 110 MW, and its anchor tenant is [ByteDance](/en/companies/bytedance), the owner of TikTok.
 
-In 2024 ByteDance announced RM10 billion (about US$2.1 billion) for a regional AI hub in Malaysia, of which RM1.5 billion, according to investment minister Tengku Zafrul Aziz, was earmarked for expanding data centres. Reuters also lists Tencent, Huawei and Alibaba among Chinese investors in Malaysian data centres.
+In 2024 ByteDance announced RM10 billion (about US$2.1 billion) for a regional AI hub in Malaysia, of which RM1.5 billion, according to investment minister Tengku Zafrul Aziz, was earmarked for expanding data centres. Reuters also lists [Tencent](/en/companies/tencent), [Huawei](/en/companies/huawei) and Alibaba among Chinese investors in Malaysian data centres.
 
 The geography is striking: a company with Chinese roots builds a server farm in Malaysia, financed by Singaporean banks, for a Chinese-owned app used around the world. Globalisation did not die. It moved to Johor, where land is cheaper.
 

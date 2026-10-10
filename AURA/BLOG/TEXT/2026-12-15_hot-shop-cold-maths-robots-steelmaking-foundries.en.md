@@ -31,7 +31,7 @@ A fettling robot never complains about vibration. It just asks for new grinding 
 
 ### How many robots do Chinese steelmakers have?
 
-Or rather, the biggest one. According to China Daily, by the end of 2025 Baosteel (part of China Baowu) had 994 industrial robots across its sites, or 216 per 10,000 employees. For comparison, in April 2026 the International Federation of Robotics recalculated China’s robot density using updated employment data and arrived at 166 robots per 10,000 manufacturing workers. The earlier figure of 470 had been inflated by an undercount of workers.
+Or rather, the biggest one. According to China Daily, by the end of 2025 Baosteel (part of China Baowu) had 994 [industrial robots](/en/catalog/industrial) across its sites, or 216 per 10,000 employees. For comparison, in April 2026 the International Federation of Robotics recalculated China’s robot density using updated employment data and arrived at 166 robots per 10,000 manufacturing workers. The earlier figure of 470 had been inflated by an undercount of workers.
 
 So even China’s steel flagship has half the robots per person of Chinese manufacturing overall. That is no surprise. A car body is thousands of identical weld spots; a melt shop is hundreds of different operations at temperatures most robots were never designed for. Steel automates slowly, but each operation it hands over tends to be one of the hardest.
 

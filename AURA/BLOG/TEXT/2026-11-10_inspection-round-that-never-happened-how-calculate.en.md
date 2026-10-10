@@ -19,7 +19,7 @@ The payback of an inspection robot is not measured in rounds completed. It is me
 
 Chinese grid operators have moved from pilots to procurement. According to Interesting Engineering, citing Jiemian and the South China Morning Post, State Grid Corporation of China plans to buy around 8,500 robots in 2026: roughly 5,000 quadrupeds, 3,000 wheeled dual-arm robots and 500 humanoids, with a 2026 budget of 6.8 billion yuan. The tasks: patrolling remote substations and mountain terrain, monitoring the network, working in hazardous areas. It is a plan, not a result, but the scale speaks for itself.
 
-On the ground: at a 220 kV substation in Linyi, Shandong province, Deep Robotics deployed a LYNX M20 wheel-legged robot for fast patrols alongside an X30 quadruped for close-up thermal imaging. The company reports that the inspection cycle was cut by two-thirds.
+On the ground: at a 220 kV substation in Linyi, Shandong province, [Deep Robotics](/en/catalog/quadruped/factory/deeprobotics) deployed a LYNX M20 wheel-legged robot for fast patrols alongside an X30 quadruped for close-up thermal imaging. The company reports that the inspection cycle was cut by two-thirds.
 
 ### 2. What is happening in Russia
 
