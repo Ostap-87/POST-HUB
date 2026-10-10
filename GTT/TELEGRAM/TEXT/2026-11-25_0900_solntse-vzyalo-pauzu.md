@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Солнце взяло паузу"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-25_0900_solntse-vzyalo-pauzu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "02dca147-71b3-40d5-9cfe-b77a7ef9a626"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo of an enormous solar farm covering desert hills in western China, panels stretching to the horizon, one section unfinished with stacks of panels on pallets and parked installation machines, a group of workers taking a cheerful break in the shade, sharing tea and laughing, bright afternoon sunlight, relaxed mood of a well-earned pause after a sprint. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Солнце взяло паузу**

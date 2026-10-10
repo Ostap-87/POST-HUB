@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Выставки и события"
 title: "CHTF: Шэньчжэнь показывает, что придумал за год"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-26_1800_chtf-shenchzhen-pokazyvaet-chto-pridumal-god.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "687042cc-e6b1-4c0c-bc7e-29891a7315d8"
+image_cost: "0.5"
+image_logos: "CHTF (China Hi-Tech Fair)"
+image_prompt: "Photorealistic candid photo at a small startup booth at a high-tech fair in Shenzhen: a young founder crouches to fix a small prototype robot, screwdriver in hand, laughing with two curious visitors who watch and cheer him on, larger glossy corporate booths blurred in the background, signs blurred and unreadable, warm exhibition lighting, authentic cheerful hands-on mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **CHTF: Шэньчжэнь показывает, что придумал за год**

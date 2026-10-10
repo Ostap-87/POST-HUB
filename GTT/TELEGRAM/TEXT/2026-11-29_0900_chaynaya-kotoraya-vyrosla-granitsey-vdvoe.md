@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Чайная, которая выросла за границей вдвое"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-29_0900_chaynaya-kotoraya-vyrosla-granitsey-vdvoe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fdb4e878-da61-4ac4-bb5c-2e8dc27d426e"
+image_cost: "0.5"
+image_logos: "Chagee"
+image_prompt: "Photorealistic street photo of a modern Chinese tea house chain store in a Southeast Asian city in the evening: a minimalist shop with warm wood and white interior, cheerful young local customers queue and pick up cups of milk tea, smiling staff in aprons at the counter, a customer holding a phone with an ordering app, signs blurred and unreadable, warm inviting light, friendly mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Чайная, которая выросла за границей вдвое**

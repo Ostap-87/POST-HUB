@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Хэйлунцзян: робот выпалывает сорняки лазером"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-28_0900_kheyluntszyan-robot-vypalyvaet-sornyaki-lazerom.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "123c749f-b472-438d-a7c4-12857834a68a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic agricultural photo in a vast flat field in Heilongjiang: a wheeled autonomous laser weeding robot moves slowly along rows of young green bean seedlings, tiny bright points and faint wisps of smoke where weeds are burned, black fertile soil, a smiling young agronomist watching from the field edge, big blue sky with cumulus clouds, a combine harvester far in the distance, fresh sunny morning light, optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Хэйлунцзян: робот выпалывает сорняки лазером**

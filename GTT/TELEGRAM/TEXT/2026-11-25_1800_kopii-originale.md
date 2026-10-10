@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Афоризмы о технологиях"
 title: "О копии и оригинале"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-25_1800_kopii-originale.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "81f9f1fa-cde4-4334-af70-7017ab2b0763"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic product photo on a light grey studio table: two nearly identical small electronic gadgets side by side, one a rough handmade prototype with visible screws and tape, the other a polished mass-produced version, a magnifying glass lying between them, bright soft studio lighting, minimalist playful curious mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **О копии и оригинале**

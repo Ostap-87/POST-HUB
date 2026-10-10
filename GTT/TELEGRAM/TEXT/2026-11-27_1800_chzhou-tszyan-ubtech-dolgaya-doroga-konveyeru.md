@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Лицо отрасли"
 title: "Чжоу Цзянь и UBTech: долгая дорога к конвейеру"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-27_1800_chzhou-tszyan-ubtech-dolgaya-doroga-konveyeru.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e059d0de-84aa-47da-b7ee-a009522458cc"
+image_cost: "0.5"
+image_logos: "UBTech"
+image_prompt: "Photorealistic industrial photo inside a bright humanoid robot factory in Shenzhen: full-size industrial humanoid robots hang on an overhead conveyor at different stages of assembly, technicians in dark blue uniforms seen from behind fit knee and elbow joints, one finished robot walks a test path on the floor, bright clean lighting, optimistic mood of a long road from stage to series production. No recognizable people. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Чжоу Цзянь и UBTech: долгая дорога к конвейеру**

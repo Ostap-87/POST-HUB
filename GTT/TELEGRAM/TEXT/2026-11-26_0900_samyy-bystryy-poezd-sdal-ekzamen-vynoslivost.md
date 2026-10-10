@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Самый быстрый поезд сдал экзамен на выносливость"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-26_0900_samyy-bystryy-poezd-sdal-ekzamen-vynoslivost.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f82f672f-7322-4509-a27f-f98f496eade3"
+image_cost: "0.5"
+image_logos: "CRRC"
+image_prompt: "Photorealistic industrial photo inside a bright high-speed train maintenance depot: a sleek white high-speed train partly disassembled over a pit track, its bogies removed and set on stands, engineers in orange vests inspecting wheels and components with flashlights, one explaining something enthusiastically to a smiling colleague, bright depot lighting, meticulous proud inspection mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Самый быстрый поезд сдал экзамен на выносливость**

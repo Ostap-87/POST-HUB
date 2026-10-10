@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Увидено на заводе"
 title: "Общежитие и заводской автобус: как завод живёт после смены"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-30_1800_obshchezhitie-zavodskoy-avtobus-zavod-zhivet.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c5658700-e4e2-45c3-b94d-b57c875117be"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at dusk on a large Chinese factory campus: rows of white shuttle buses wait by the factory gate as workers in uniforms stream out after their shift chatting happily, dormitory blocks behind with laundry drying on the balconies, a lit basketball court where young workers play and laugh, warm evening light, friendly community mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Общежитие и заводской автобус: как завод живёт после смены**

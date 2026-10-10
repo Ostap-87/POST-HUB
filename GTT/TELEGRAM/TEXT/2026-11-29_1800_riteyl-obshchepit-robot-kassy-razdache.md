@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Отрасль недели"
 title: "Ритейл и общепит: робот у кассы и на раздаче"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-29_1800_riteyl-obshchepit-robot-kassy-razdache.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8dc5f4d7-2e67-4140-a3a4-67bdf357108e"
+image_cost: "0.5"
+image_logos: "Laoxiangji"
+image_prompt: "Photorealistic candid photo inside a bright Chinese fast-casual restaurant at lunchtime: a wheeled serving robot carries trays of food between tables, an open kitchen with automatic stir-fry machines behind, a customer smiles as she pays by scanning a code with a phone at a self-service kiosk, a smiling staff member greets guests at the door, bright everyday lighting, friendly upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Ритейл и общепит: робот у кассы и на раздаче**
