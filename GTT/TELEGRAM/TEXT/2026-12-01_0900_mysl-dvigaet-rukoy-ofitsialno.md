@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Conventus Law / Bird & Bird, 13.07.2026](https://conventuslaw.com/report/china-clears-worlds-first-invasive-brain-computer-interface-for-commercial-use-what-the-regulatory-landscape-means-for-your-business/)
 
-#сводка #медтех #нейроинтерфейсы
+#сводка #медтех #нейроинтерфейсы #GTT #GlobalTechTour #Техтуризм

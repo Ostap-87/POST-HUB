@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Global Agriculture по материалам Синьхуа, 08.09.2026](https://www.global-agriculture.com/global-agriculture/chinas-grain-heartland-heilongjiang-deploys-676000-smart-machines-as-ai-and-laser-robots-take-over-farm-work/)
 
-#сводка #агро #роботы
+#сводка #агро #Роботы #GTT #GlobalTechTour #Техтуризм

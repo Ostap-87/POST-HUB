@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [CMG / Henan Government, 26.05.2025](https://english.henan.gov.cn/2025/05-26/3162232.html)
 
-#курьёз #Unitree #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Unitree #Гуманоиды

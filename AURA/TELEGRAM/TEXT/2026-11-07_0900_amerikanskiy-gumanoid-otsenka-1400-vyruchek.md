@@ -17,4 +17,6 @@ Agility Robotics, автор гуманоида Digit, раскрыла цифр
 
 Источник: [The Robot Report, 07.09.2026](https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/)
 
-#сводка #Agility #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Agility #Гуманоиды

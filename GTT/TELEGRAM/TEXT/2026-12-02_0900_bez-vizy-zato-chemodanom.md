@@ -17,4 +17,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [The Star / China Daily, 12.07.2026](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/12/chinas-visa-free-policies-fuel-inbound-travel-surge)
 
-#сводка #туризм #визы
+#сводка #туризм #визы #GTT #GlobalTechTour #Техтуризм

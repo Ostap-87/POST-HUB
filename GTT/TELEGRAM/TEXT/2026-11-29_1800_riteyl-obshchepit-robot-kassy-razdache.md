@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Jiemian, 2026](https://m.jiemian.com/article/14092875.html)
 
-#отрасльнедели #ритейл #общепит
+#отрасльнедели #ритейл #общепит #GTT #GlobalTechTour #Техтуризм

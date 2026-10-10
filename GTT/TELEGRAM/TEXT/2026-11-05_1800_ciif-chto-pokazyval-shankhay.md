@@ -17,4 +17,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [пресс-релиз CIIF, 03.10.2026](https://ohsem.me/2026/10/ciif-2026-to-spotlight-industrial-robots-smart-logistics-and-emerging-applications-in-shanghai/)
 
-#выставки #CIIF #Шанхай
+#выставки #CIIF #Шанхай #GTT #GlobalTechTour #Техтуризм

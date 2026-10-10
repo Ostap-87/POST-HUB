@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [China Daily, 31.07.2026](https://cn.chinadaily.com.cn/a/202607/31/WS6a6c632ba310d709c2fc0e6f.html)
 
-#китайвцифрах #демография #эйджтех
+#китайвцифрах #демография #эйджтех #GTT #GlobalTechTour #Техтуризм

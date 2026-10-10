@@ -21,4 +21,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источники: [The Financial Express / AFP, 24.01.2018](https://thefinancialexpress.com.bd/world/robot-fired-for-putting-off-customers-in-uk-1516797517); [Interesting Engineering](https://interestingengineering.com/robot-gets-fired-from-supermarket-job-for-scaring-customers-away)
 
-#курьёз #ритейл
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #ритейл #Роботы #Роботизация

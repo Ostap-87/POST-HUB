@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [BGR, 2026](https://bgr.com/2087200/xiaomi-dark-robot-smart-phone-factory/)
 
-#отрасльнедели #электроника #Шэньчжэнь
+#отрасльнедели #электроника #Шэньчжэнь #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,4 @@ Mao Geping, китайский бренд премиальной космети�
 
 Источник: [Personal Care Insights, 02.09.2026](https://www.personalcareinsights.com/news/c-beauty-proya-mao-geping.html)
 
-#сводка #бьюти #MaoGeping
+#сводка #бьюти #MaoGeping #GTT #GlobalTechTour #Техтуризм

@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [EqualOcean, 09.07.2026](https://equalocean.com/news/2026070922011-chinas-robot-exports-surpass-10-million-units-first-five-months-2026-reaching)
 
-#сводка #экспорт #Китай
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #экспорт #Китай #Роботы #технологии

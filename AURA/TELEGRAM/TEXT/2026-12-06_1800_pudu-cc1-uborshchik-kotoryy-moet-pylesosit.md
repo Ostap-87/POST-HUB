@@ -19,4 +19,6 @@ CC1 — коммерческий робот-уборщик Pudu Robotics, той
 
 Источник: [Generation Robots, Pudu CC1](https://www.generationrobots.com/en/404256-pudu-cc1-cleaning-robot.html)
 
-#роботнедели #Pudu #клининг
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #Pudu #клининг #Роботы #Роботизация

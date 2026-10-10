@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Humanoids Daily, 14.09.2026](https://www.humanoidsdaily.com/news/unitree-launches-g1-plus-humanoid-with-stronger-motors-and-moving-neck)
 
-#роботнедели #Unitree
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #Unitree #Гуманоиды

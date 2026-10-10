@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [XPENG, 08.09.2026](https://www.xpeng.com/pressroom/news/01a080371029a057bc8e8a02a2c6012b)
 
-#отрасльнедели #автопром #XPENG
+#отрасльнедели #автопром #XPENG #GTT #GlobalTechTour #Техтуризм

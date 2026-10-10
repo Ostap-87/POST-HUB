@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [The Robot Report, 29.09.2026](https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/)
 
-#курьёз
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Роботы #технологии

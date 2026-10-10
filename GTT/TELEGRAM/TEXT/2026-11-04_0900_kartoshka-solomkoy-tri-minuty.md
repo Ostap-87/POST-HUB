@@ -17,4 +17,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Global Times / Sina Finance, 22.09.2026](https://finance.sina.com.cn/jjxw/2026-09-22/doc-inisrxct2387400.shtml)
 
-#сводка #фудтех #центральныекухни
+#сводка #фудтех #центральныекухни #GTT #GlobalTechTour #Техтуризм

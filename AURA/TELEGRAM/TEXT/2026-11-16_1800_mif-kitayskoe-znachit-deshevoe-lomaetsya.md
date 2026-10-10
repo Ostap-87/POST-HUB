@@ -21,4 +21,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [IFR, World Robotics 2026, 24.09.2026](https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf)
 
-#мифиправда #закупка
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#мифиправда #закупка #Роботы

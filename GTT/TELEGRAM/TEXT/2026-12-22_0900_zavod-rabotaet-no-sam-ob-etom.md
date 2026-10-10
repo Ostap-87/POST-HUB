@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Segmenty, 07.08.2026](https://www.segmenty.com/GenerateNewsStaticJsps/BYD_begins_vehicle_assembly__expands_EV_operations_in_local_market.html)
 
-#сводка #ЮВА #BYD
+🔗 BYD в каталоге GlobalTechTour: https://globaltechtour.ru/companies/byd
+
+#сводка #ЮВА #BYD #GTT #GlobalTechTour #Техтуризм

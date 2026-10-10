@@ -19,4 +19,4 @@ Pop Mart, хозяин игрушки Labubu, отчиталась за перв
 
 Источник: [KrASIA, 24.08.2026](https://kr-asia.com/pop-marts-next-act-gets-harder-as-labubu-growth-cools)
 
-#сводка #ритейл #PopMart
+#сводка #ритейл #PopMart #GTT #GlobalTechTour #Техтуризм

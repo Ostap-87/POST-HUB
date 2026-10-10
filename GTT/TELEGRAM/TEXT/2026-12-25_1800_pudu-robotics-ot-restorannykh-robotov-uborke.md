@@ -19,4 +19,6 @@ Pudu появилась в Шэньчжэне в 2016 году. Сначала �
 
 Источник: [Pudu Robotics](https://pudurobotics.com/company)
 
-#лицоотрасли #Pudu
+🔗 Pudu Robotics в каталоге GlobalTechTour: https://globaltechtour.ru/companies/pudu-robotics
+
+#лицоотрасли #Pudu #GTT #GlobalTechTour #Техтуризм

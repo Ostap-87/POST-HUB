@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [China AI Dispatch, 23.09.2026](https://chinaaidispatch.substack.com/p/ubtech-took-13000-robot-orders-and)
 
-#сводка #UBTech #заказы
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #UBTech #заказы #Гуманоиды

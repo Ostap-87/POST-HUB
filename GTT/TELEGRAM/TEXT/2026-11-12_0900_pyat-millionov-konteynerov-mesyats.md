@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Shanghai.gov.cn, 04.02.2026](https://english.shanghai.gov.cn/en-Latest-WhatsNew/20260204/85da402d78854ed0a968a764ccc07872.html)
 
-#сводка #логистика #порты
+#сводка #логистика #порты #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,4 @@ Muyuan Group, крупнейший в мире производитель сви
 
 Источник: [AgNavigator, 23.09.2026](https://www.agnavigator.com/Article/2026/09/23/how-pork-giant-muyuan-group-deploys-ai-to-manage-the-worlds-largest-pig-herd/)
 
-#сводка #агро #ИИ
+#сводка #агро #AI #GTT #GlobalTechTour #Техтуризм

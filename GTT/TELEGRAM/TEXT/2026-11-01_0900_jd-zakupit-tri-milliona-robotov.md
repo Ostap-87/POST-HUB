@@ -19,4 +19,6 @@ JD Logistics объявила в Пекине пятилетний план. К�
 
 Источник: [SCMP, 09.09.2026](https://www.scmp.com/tech/big-tech/article/3366884/jdcom-deploy-3-million-robots-fully-automate-logistics)
 
-#сводка #логистика #JD
+🔗 JD Logistics в каталоге GlobalTechTour: https://globaltechtour.ru/companies/jd-logistics
+
+#сводка #логистика #JD #GTT #GlobalTechTour #Техтуризм

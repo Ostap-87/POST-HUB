@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [The Next Web, 24.09.2026](https://thenextweb.com/news/industrial-robots-world-robotics-2026-china-59-eu-falls)
 
-#сводка #роботы #статистика
+#сводка #Роботы #статистика #GTT #GlobalTechTour #Техтуризм

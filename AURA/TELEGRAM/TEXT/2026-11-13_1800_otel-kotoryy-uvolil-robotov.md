@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источники: [Guinness World Records](https://www.guinnessworldrecords.com/world-records/397696-first-robot-staffed-hotel); [Engadget, 16.01.2019](https://www.engadget.com/2019/01/16/japan-robot-hotel-fires-over-half-its-robots/)
 
-#курьёз #Япония
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Япония #Роботы #Роботизация

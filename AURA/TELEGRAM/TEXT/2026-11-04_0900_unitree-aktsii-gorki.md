@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [The Robot Report, 09.09.2026](https://www.therobotreport.com/unitree-shares-down-53-from-ipo-debut/)
 
-#сводка #Unitree #рынок
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Unitree #рынок #Роботы #технологии

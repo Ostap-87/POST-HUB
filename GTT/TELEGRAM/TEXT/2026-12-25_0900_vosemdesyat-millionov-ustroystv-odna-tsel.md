@@ -19,4 +19,4 @@ Huawei сообщила, что HarmonyOS 6 к 20 августа 2026 года �
 
 Источник: [remio, 05.09.2026](https://www.remio.ai/de/post/huawei-is-near-100-million-harmonyos-6-devices-but-the-bigger-number-tells-a-de)
 
-#сводка #электроника #Huawei
+#сводка #электроника #Huawei #GTT #GlobalTechTour #Техтуризм

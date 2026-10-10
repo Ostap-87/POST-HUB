@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [VnExpress, 16.04.2026](https://e.vnexpress.net/news/tech/enterprises/unitree-starts-selling-cheapest-humanoid-robot-from-6-800-5063068.html)
 
-#сводка #Unitree #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Unitree #Гуманоиды

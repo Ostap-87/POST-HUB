@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источники: [Unitree Robotics, Wikipedia](https://en.wikipedia.org/wiki/Unitree_Robotics), [Caixin Global, 19.08.2026](https://www.caixinglobal.com/2026-08-19/chinese-robot-maker-unitree-soars-629-in-shanghai-debut-102475578.html)
 
-#лицоотрасли #Unitree
+🔗 Unitree в каталоге GlobalTechTour: https://globaltechtour.ru/companies/unitree
+
+#лицоотрасли #Unitree #GTT #GlobalTechTour #Техтуризм

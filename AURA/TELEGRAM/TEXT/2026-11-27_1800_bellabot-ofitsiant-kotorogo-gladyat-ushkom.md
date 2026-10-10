@@ -21,4 +21,6 @@ BellaBot — робот-официант китайской Pudu Robotics с к�
 
 Источник: [SoraNews24, 26.07.2023](https://soranews24.com/2023/07/26/japans-cat-robot-waiters-meow-when-you-pat-them-and-we-find-out-why%E3%80%90video%E3%80%91/)
 
-#курьёз #Pudu #общепит
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Pudu #общепит #Роботы

@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Inside AI, 21.09.2026](https://insideai.news/news/robotics/dongfeng-xiaodong-humanoid-robot/12527/)
 
-#сводка #автопром #Dongfeng
+🔗 Dongfeng Motor в каталоге GlobalTechTour: https://globaltechtour.ru/companies/dongfeng-motor
+
+#сводка #автопром #Dongfeng #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,6 @@ Huawei несколько лет назад отрезали от половин
 
 Источник: [Huawei Central, 15.07.2026](https://www.huaweicentral.com/huawei-sold-15-2-million-smartphone-units-in-china-q2-2026/)
 
-#сводка #электроника #Huawei
+🔗 Huawei в каталоге GlobalTechTour: https://globaltechtour.ru/companies/huawei
+
+#сводка #электроника #Huawei #GTT #GlobalTechTour #Техтуризм

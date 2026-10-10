@@ -17,4 +17,6 @@ AgiBot на выставке MWC 2026 в Барселоне рассказала
 
 Источник: [Tecnoandroid, 02.03.2026](https://www.tecnoandroid.it/news/agibot-al-mwc-2026-robot-umanoidi-da-899-euro-1790471/)
 
-#сводка #AgiBot #аренда
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #AgiBot #аренда #Гуманоиды

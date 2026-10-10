@@ -17,4 +17,6 @@ Securities Star подвёл итоги того, как дешевеют гум
 
 Источник: [Securities Star / Tencent News, 14.09.2026](https://news.qq.com/rain/a/20260914A0BMLD00)
 
-#сводка #цены #Unitree #UBTech
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #цены #Unitree #UBTech #Гуманоиды

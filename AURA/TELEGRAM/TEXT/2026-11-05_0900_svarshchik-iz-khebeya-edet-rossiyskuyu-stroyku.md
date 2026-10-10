@@ -17,4 +17,6 @@ Jinshi Intelligent Robot из Жэньцю, провинция Хэбэй, пр�
 
 Источник: [ChinaPulse, 24.09.2026](https://www.chinapulse.com/data-news/2026/09/24/chinese-robot-manufacturer-expands-russian-market-share-amid-shifts-in-equipment-supply/)
 
-#сводка #сварка #Россия
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #сварка #Россия #Роботы #Роботизация

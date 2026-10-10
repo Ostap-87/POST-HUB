@@ -21,4 +21,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [DC Velocity, 20.06.2023](https://www.dcvelocity.com/articles/57826-jdcom-describes-range-of-automation-tools-in-its-massive-package-sorting-center)
 
-#отрасльнедели #логистика #JD
+#отрасльнедели #логистика #JD #GTT #GlobalTechTour #Техтуризм

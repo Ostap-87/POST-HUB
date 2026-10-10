@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источники: [Interesting Engineering, 27.08.2026](https://interestingengineering.com/ai-robotics/humanoid-robot-tiangong-ultra-100m-sprint-record), [Reuters, 10.09.2026](https://www.reuters.com/world/asia-pacific/after-outrunning-bolt-chinas-robot-champion-races-towards-real-world-work-2026-09-10/)
 
-#лицоотрасли #XHumanoid
+🔗 X-Humanoid в каталоге GlobalTechTour: https://globaltechtour.ru/companies/x-humanoid
+
+#лицоотрасли #XHumanoid #GTT #GlobalTechTour #Техтуризм

@@ -21,4 +21,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [National Geographic](https://www.nationalgeographic.com/travel/article/in-japan--a-buddhist-funeral-service-for-robot-dogs)
 
-#курьёз #Япония #робособаки
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Япония #робособаки #Роботы

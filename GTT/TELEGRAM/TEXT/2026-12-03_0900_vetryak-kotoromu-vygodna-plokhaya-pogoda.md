@@ -19,4 +19,4 @@ Goldwind, один из крупнейших в мире производите�
 
 Источник: [FilingReader, 25.08.2026](https://filingreader.com/news-wire/hongkong/2026-08-25/goldwind-reports-strong-profit-growth-in-first-half)
 
-#сводка #энергетика #Goldwind
+#сводка #энергетика #Goldwind #GTT #GlobalTechTour #Техтуризм

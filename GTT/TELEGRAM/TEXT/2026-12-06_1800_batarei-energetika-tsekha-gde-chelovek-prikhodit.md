@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [CATL / PR Newswire, 11.10.2022](https://www.aap.com.au/aapreleases/cision20221011ae99087/)
 
-#отрасльнедели #батареи #CATL
+🔗 CATL в каталоге GlobalTechTour: https://globaltechtour.ru/companies/catl
+
+#отрасльнедели #батареи #CATL #GTT #GlobalTechTour #Техтуризм

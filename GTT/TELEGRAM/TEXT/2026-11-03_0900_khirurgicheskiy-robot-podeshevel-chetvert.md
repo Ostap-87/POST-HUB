@@ -17,4 +17,4 @@ Nationwide Business Daily разобрал рынок отечественных
 
 Источник: [NBD, 20.09.2026](https://m.nbd.com.cn/articles/2026-09-20/4586668.html)
 
-#сводка #медтех #хирургия
+#сводка #медтех #хирургия #GTT #GlobalTechTour #Техтуризм

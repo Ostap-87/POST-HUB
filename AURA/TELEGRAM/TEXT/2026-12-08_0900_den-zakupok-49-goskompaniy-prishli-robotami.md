@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Tatler Asia, 23.08.2026](https://www.tatlerasia.com/power-purpose/innovation/world-robot-conference-2026-9-highlights-hi)
 
-#сводка #WRC #закупка
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #WRC #закупка #Роботизация #технологии

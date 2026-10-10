@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Wang Chuanfu, Wikipedia](https://en.wikipedia.org/wiki/Wang_Chuanfu)
 
-#лицоотрасли #BYD
+🔗 BYD в каталоге GlobalTechTour: https://globaltechtour.ru/companies/byd
+
+#лицоотрасли #BYD #GTT #GlobalTechTour #Техтуризм

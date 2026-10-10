@@ -19,4 +19,6 @@ Go2 обычно берут «для начала». Посмотреть, ка�
 
 Источник: [RobotLAB, Unitree Go2](https://www.robotlab.com/store/unitree-go2-robot-dog/)
 
-#роботнедели #Unitree #робособаки
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #Unitree #робособаки #Роботы

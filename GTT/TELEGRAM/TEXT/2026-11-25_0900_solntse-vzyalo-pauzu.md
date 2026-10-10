@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [PV Tech, 25.08.2026](https://www.pv-tech.org/china-adds-14gw-solar-pv-july-2026/)
 
-#сводка #энергетика #солнце
+#сводка #энергетика #солнце #GTT #GlobalTechTour #Техтуризм

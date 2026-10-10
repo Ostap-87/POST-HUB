@@ -19,4 +19,4 @@ Proya, один из крупнейших китайских косметиче�
 
 Источник: [FilingReader, 24.08.2026](https://filingreader.com/news-wire/shanghai/2026-08-24/proya-cosmetics-posts-46pc-profit-jump-in-h1)
 
-#сводка #бьюти #Proya
+#сводка #бьюти #Proya #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [China Daily, 07.10.2026](https://cn.chinadaily.com.cn/a/202610/07/WS6ac5df68e4b09a165c78e0a7.html)
 
-#сводка #туризм #экзоскелеты
+#сводка #туризм #экзоскелеты #GTT #GlobalTechTour #Техтуризм

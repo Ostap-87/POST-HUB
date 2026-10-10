@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Frank Wang, Wikipedia](https://en.wikipedia.org/wiki/Frank_Wang)
 
-#лицоотрасли #DJI
+🔗 DJI в каталоге GlobalTechTour: https://globaltechtour.ru/companies/dji
+
+#лицоотрасли #DJI #GTT #GlobalTechTour #Техтуризм

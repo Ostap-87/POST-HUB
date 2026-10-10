@@ -19,4 +19,6 @@ Anta Sports отчиталась за первое полугодие 2026 го�
 
 Источник: [Quartr, сводка отчёта Anta Sports, 18.09.2026](https://quartr.com/events/anta-sports-products-limited-2020-h1-2026_FGD4nm9o)
 
-#сводка #ритейл #Anta
+🔗 Anta в каталоге GlobalTechTour: https://globaltechtour.ru/companies/anta
+
+#сводка #ритейл #Anta #GTT #GlobalTechTour #Техтуризм

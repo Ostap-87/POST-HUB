@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Journal du Geek, 16.09.2026](https://www.journaldugeek.com/2026/09/16/cette-entreprise-chinoise-annonce-quelle-peut-desormais-produire-1-robot-humanoide-toutes-les-10-minutes/)
 
-#сводка #UBTech #производство
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #UBTech #производство #Гуманоиды

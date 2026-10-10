@@ -21,4 +21,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Ground News / KrASIA, 28.07.2026](https://ground.news/article/chinas-unitree-says-gpt-moment-for-robots-remains-years-away)
 
-#сводка #Unitree #ИИ
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Unitree #AI #технологии

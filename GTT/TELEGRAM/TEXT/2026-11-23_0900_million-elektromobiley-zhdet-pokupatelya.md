@@ -19,4 +19,4 @@ Rest of World собрал цифры по экспорту китайских �
 
 Источник: [Rest of World, 18.08.2026](https://restofworld.org/2026/china-ev-exports-overcapacity-global-markets/)
 
-#сводка #автопром #экспорт
+#сводка #автопром #экспорт #GTT #GlobalTechTour #Техтуризм

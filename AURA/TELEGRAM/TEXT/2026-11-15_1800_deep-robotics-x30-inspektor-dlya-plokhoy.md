@@ -19,4 +19,6 @@ X30 — промышленная робособака китайской Deep Ro
 
 Источник: [Deep Robotics, X30](https://deeprobotics.cn/en/index/x30.html)
 
-#роботнедели #DeepRobotics #инспекция
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #DeepRobotics #инспекция #Роботы

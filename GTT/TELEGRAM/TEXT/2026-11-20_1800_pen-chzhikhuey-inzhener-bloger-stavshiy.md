@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источники: [AgiBot, Wikipedia](https://en.wikipedia.org/wiki/AgiBot), [Jiemian, 2023](https://en.jiemian.com/article/9961228.html)
 
-#лицоотрасли #AgiBot
+🔗 AgiBot в каталоге GlobalTechTour: https://globaltechtour.ru/companies/agibot
+
+#лицоотрасли #AgiBot #GTT #GlobalTechTour #Техтуризм

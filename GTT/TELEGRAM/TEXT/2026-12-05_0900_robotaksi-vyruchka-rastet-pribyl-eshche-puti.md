@@ -19,4 +19,4 @@ Pony.ai отчиталась за первое полугодие 2026 года.
 
 Источник: [The Bamboo Works, 26.08.2026](https://thebambooworks.com/its-revenue-surging-can-co-built-fleets-help-pony-ai-drive-to-profits/)
 
-#сводка #транспорт #роботакси
+#сводка #транспорт #роботакси #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [SANY / PR Newswire, 07.05.2026](https://www.aap.com.au/aapreleases/cision20260507ae53974/)
 
-#отрасльнедели #стройка #SANY
+#отрасльнедели #стройка #SANY #GTT #GlobalTechTour #Техтуризм

@@ -21,4 +21,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [TechXplore / AFP, 06.2024](https://techxplore.com/news/2024-06-korea-administrative-robot-defunct-apparent.html)
 
-#курьёз #Корея
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#курьёз #Корея #Роботы

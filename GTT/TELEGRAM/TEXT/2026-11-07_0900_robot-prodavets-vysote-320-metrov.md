@@ -17,4 +17,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [The Paper / 21st Century Business Herald, 03.10.2026](https://www.21jingji.com/article/20261003/herald/b091eceedb9a9b366dd42032e6b2bd50.html)
 
-#сводка #ритейл #Шанхай
+#сводка #ритейл #Шанхай #GTT #GlobalTechTour #Техтуризм

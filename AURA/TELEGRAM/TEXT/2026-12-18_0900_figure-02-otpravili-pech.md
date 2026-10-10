@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Humanoids Daily, 30.09.2026](https://www.humanoidsdaily.com/news/figure-02-melted-arnold-schwarzenegger-finland)
 
-#сводка #Figure #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Figure #Гуманоиды

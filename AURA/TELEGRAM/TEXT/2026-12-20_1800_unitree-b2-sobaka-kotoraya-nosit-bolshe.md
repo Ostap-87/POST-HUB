@@ -19,4 +19,6 @@ Go2 берут для начала. B2 берут для дела. И цена �
 
 Источник: [Generation Robots, Unitree B2](https://www.generationrobots.com/en/404198-b2-quadruped-robot-dog.html)
 
-#роботнедели #Unitree #робособаки
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #Unitree #робособаки #Роботы

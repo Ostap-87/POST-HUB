@@ -19,4 +19,4 @@ DeepSeek 31 июля 2026 года выпустил открытую модел�
 
 Источник: [GIGAZINE, 07.08.2026](https://gigazine.net/gsc_news/en/20260807-deepseek-raise-prices/)
 
-#сводка #ИИ #DeepSeek
+#сводка #AI #DeepSeek #GTT #GlobalTechTour #Техтуризм

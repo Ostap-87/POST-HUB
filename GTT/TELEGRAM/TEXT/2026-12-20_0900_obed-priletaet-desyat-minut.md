@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [EqualOcean, 16.09.2026](https://equalocean.com/news/2026091622194)
 
-#сводка #логистика #дроны
+#сводка #логистика #дроны #GTT #GlobalTechTour #Техтуризм

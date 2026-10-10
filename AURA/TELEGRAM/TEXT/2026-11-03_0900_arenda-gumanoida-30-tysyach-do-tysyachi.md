@@ -17,4 +17,6 @@ Kuai Keji подсчитал, что стало с арендой гуманои
 
 Источник: [Kuai Keji / Sina Tech, 18.09.2026](https://finance.sina.com.cn/tech/roll/2026-09-18/doc-inisftwz3527391.shtml)
 
-#сводка #аренда #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #аренда #Гуманоиды

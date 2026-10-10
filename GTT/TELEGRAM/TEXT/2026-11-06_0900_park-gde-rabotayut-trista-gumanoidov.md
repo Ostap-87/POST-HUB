@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [CGTN, 01.10.2026](https://news.cgtn.com/news/2026-10-01/VHJhbnNjcmlwdDkyNjg1/index.html)
 
-#сводка #туризм #гуманоиды
+#сводка #туризм #Гуманоиды #GTT #GlobalTechTour #Техтуризм

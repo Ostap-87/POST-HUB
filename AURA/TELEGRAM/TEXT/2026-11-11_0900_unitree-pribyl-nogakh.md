@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [Gasgoo, 13.06.2026](https://autonews.gasgoo.com/articles/market-industry/2065702333747675136)
 
-#сводка #Unitree #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Unitree #Гуманоиды

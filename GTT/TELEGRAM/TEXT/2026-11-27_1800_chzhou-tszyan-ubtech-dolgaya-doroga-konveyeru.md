@@ -19,4 +19,6 @@ UBTech появилась в Шэньчжэне в 2012 году. Её осно�
 
 Источники: [21st Century Business Herald, 08.01.2024](https://www.sfccn.com/2024/1-8/zNMDE0NzBfMTg4ODQzNg.html), [PR Newswire / AAP, 17.11.2025](https://www.aap.com.au/aapreleases/cision20251117ae25955/)
 
-#лицоотрасли #UBTech
+🔗 UBTech в каталоге GlobalTechTour: https://globaltechtour.ru/companies/ubtech
+
+#лицоотрасли #UBTech #GTT #GlobalTechTour #Техтуризм

@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [ECNS, 17.09.2026](https://www.ecns.cn/cns-wire/2026-09-17/detail-ihfkhtke4051751.shtml)
 
-#сводка #ЮВА #торговля
+#сводка #ЮВА #торговля #GTT #GlobalTechTour #Техтуризм

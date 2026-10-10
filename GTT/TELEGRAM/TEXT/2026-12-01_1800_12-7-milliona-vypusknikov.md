@@ -19,4 +19,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [China Daily / China Services Info, 21.11.2025](https://www.chinaservicesinfo.com/s/202511/21/WS694a4679498e368550339281/china-to-have-12-7-million-new-college-graduates-next-year.html)
 
-#китайвцифрах #образование
+#китайвцифрах #образование #GTT #GlobalTechTour #Техтуризм

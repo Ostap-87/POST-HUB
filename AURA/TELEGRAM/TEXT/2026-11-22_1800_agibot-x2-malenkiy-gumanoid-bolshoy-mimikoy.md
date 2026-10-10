@@ -19,4 +19,6 @@ AgiBot X2 — гуманоид ростом около 1,31 м и весом о�
 
 Источник: [AgiBot Store, X2](https://store.agibot.com/products/x2)
 
-#роботнедели #AgiBot #гуманоиды
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#роботнедели #AgiBot #Гуманоиды

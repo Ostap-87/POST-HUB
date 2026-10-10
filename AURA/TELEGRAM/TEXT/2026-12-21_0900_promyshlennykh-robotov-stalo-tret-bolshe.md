@@ -17,4 +17,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источники: [CGTN, 15.09.2026](https://news.cgtn.com/news/2026-09-15/China-s-August-industrial-output-growth-picks-up-on-high-tech-robots-1QsuPhlyNHO/p.html); [SCMP](https://www.scmp.com/tech/tech-trends/article/3346775/chinas-industrial-robot-output-accelerates-factories-ramp-deployment)
 
-#сводка #статистика #Китай
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #статистика #Китай #Роботы #Роботизация

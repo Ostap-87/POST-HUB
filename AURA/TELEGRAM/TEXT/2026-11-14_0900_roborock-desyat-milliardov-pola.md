@@ -19,4 +19,6 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_
 
 Источник: [PR Newswire / Macau Business, 06.09.2026](https://macaubusiness.com/roborock-reports-27-6-revenue-growth-in-h1-2026-reinforcing-global-market-leadership/)
 
-#сводка #Roborock #сервисныероботы
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Roborock #сервисныероботы #Роботы #технологии

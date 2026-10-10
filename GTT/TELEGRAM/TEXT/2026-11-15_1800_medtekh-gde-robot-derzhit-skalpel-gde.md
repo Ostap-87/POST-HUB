@@ -21,4 +21,4 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_
 
 Источник: [Shanghai.gov.cn, 20.11.2024](https://english.shanghai.gov.cn/en-Latest-WhatsNew/20241120/e79163361a824891adbf5d40f40e6622.html)
 
-#отрасльнедели #медтех #хирургия
+#отрасльнедели #медтех #хирургия #GTT #GlobalTechTour #Техтуризм
