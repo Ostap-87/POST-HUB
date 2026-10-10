@@ -7,6 +7,13 @@ seo_title: "Медтех-экспедиция в Китай: производи�
 meta_description: "Деловая поездка для медицинских компаний: как устроены производство и продажи медоборудования в Китае, что изменили централизованные закупки, сколько инновационных изделий регистрируют, как выглядит цифровая больница. Маршрут и кому ехать."
 slug: "hospital-factory-distributor-one-week-medtech-expedition"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-19_hospital-factory-distributor-one-week-medtech-expedition.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "212b9ade-30c5-48b7-a5ee-3004a1b3d562"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Chinese medical equipment factory: a delegation of visitors in white coats and shoe covers watches technicians assemble portable ultrasound machines on a clean line, one visitor laughs as a smiling technician shows her a finished probe, monitors with abstract images without text, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious professional mood of a medtech expedition. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Медицинское оборудование — отрасль, где решение о покупке принимает один человек, деньги платит второй, пользуется третий, а результат получает четвёртый. И все четверо уверены, что главный — именно он.

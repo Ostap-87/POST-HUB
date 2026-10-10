@@ -6,6 +6,13 @@ title: "The Customer Is the Boss: How Haier Split Itself Into 4,000 Companies"
 meta_description: "Haier’s RenDanHeYi management model: about 4,000 microenterprises, more than 12,000 middle-management roles removed, pay “from the user”, and the GE Appliances test. What works, what does not, and what you can borrow."
 slug: "customer-is-boss-how-haier-split-itself"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-22_customer-is-boss-how-haier-split-itself.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a5fdde5e-46fe-4d6e-a93d-1847fa9519e3"
+image_cost: "0.5"
+image_logos: "Haier"
+image_prompt: "Photorealistic candid photo in a cozy apartment kitchen in China: a small team of three young engineers from a home appliance maker with notebooks listens to a smiling middle-aged woman as she shows them how she uses her large refrigerator, one engineer takes notes, another laughs, daylight from a window, appliance surfaces without logos, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, friendly attentive mood of a company where the customer is the boss. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every large company has someone who knows exactly what the customer wants. Usually it is a department head who last met a customer at the 2019 Christmas party.

@@ -7,6 +7,13 @@ seo_title: "China Medtech Study Tour: Device Makers, Hospitals and Procurement"
 meta_description: "A business trip for medical companies: how medical devices are made and sold in China, what volume-based procurement changed, how many innovative devices get approved, and what a digital hospital looks like. Route and who should go."
 slug: "hospital-factory-distributor-one-week-medtech-expedition"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-19_hospital-factory-distributor-one-week-medtech-expedition.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "212b9ade-30c5-48b7-a5ee-3004a1b3d562"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Chinese medical equipment factory: a delegation of visitors in white coats and shoe covers watches technicians assemble portable ultrasound machines on a clean line, one visitor laughs as a smiling technician shows her a finished probe, monitors with abstract images without text, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious professional mood of a medtech expedition. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Medical devices are an industry where one person decides on the purchase, a second pays, a third uses the device and a fourth gets the result. All four are sure they are the one who matters.

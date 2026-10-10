@@ -7,6 +7,13 @@ seo_title: "Bosideng’s Premium Turnaround: How China’s Down Jacket Brand Mov
 meta_description: "How Bosideng went from 11 tailors and 8 sewing machines to RMB 27 billion in revenue: the 2015 crisis, the 2018 reset, pricing, margins and what manufacturers elsewhere can learn."
 slug: "bosideng-how-down-jacket-left-mum-wardrobe"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-25_bosideng-how-down-jacket-left-mum-wardrobe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dcc115bf-00cb-4144-b524-3b35b7d9fcc0"
+image_cost: "0.5"
+image_logos: "Bosideng"
+image_prompt: "Photorealistic editorial photo in an elegant Paris department store under a grand stained-glass dome: a stylish young woman tries on a sleek long down jacket in front of a mirror and smiles, a friendly sales assistant adjusts the collar, racks of elegant down coats around, warm golden light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, upscale joyful mood of a down jacket that left mum's wardrobe. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A down jacket is an honest product. You need it three months a year. For the other nine it hangs in a wardrobe, taking up space. Building a business on it is like selling snow: demand arrives on schedule and leaves without notice.

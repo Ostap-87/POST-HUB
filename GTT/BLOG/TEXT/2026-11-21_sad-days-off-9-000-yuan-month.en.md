@@ -6,6 +6,13 @@ title: "Sad Days Off and 9,000 Yuan a Month: What the Pangdonglai Supermarket Te
 meta_description: "Pangdonglai runs 13 stores in Henan province and made 23.5 billion yuan in 2025. Its wages, “unhappy leave”, compensation for abused staff and the Yonghui makeovers, and which parts of the model actually travel."
 slug: "sad-days-off-9-000-yuan-month"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-21_sad-days-off-9-000-yuan-month.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b9cde6fc-bb71-478a-bc19-fdfe924c0e4a"
+image_cost: "0.5"
+image_logos: "Pangdonglai"
+image_prompt: "Photorealistic candid photo in a bright, very clean Chinese supermarket in a small city: a smiling young store employee in a neat uniform helps an elderly couple choose fruit from abundant displays, another employee restocking shelves laughs with a customer, warm friendly lighting, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm caring mood of a store where staff are happy and customers feel it. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There is a supermarket in China that some shoppers drive 400 kilometres to visit. Not for a shortage item, not for a sale. Just to look.

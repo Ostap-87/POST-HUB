@@ -7,6 +7,13 @@ seo_title: "Ритейл-экспедиция в Китай: Шанхай и Ч�
 meta_description: "Деловая поездка для ритейлеров в Шанхай и Чэнду: магазины-склады Hema, доставка за 30 минут, ценовая война мгновенной доставки, «экономика первых магазинов» Чэнду. Что увидеть и что из этого переносимо в Россию."
 slug: "shop-that-is-really-warehouse-retail-expedition"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-17_shop-that-is-really-warehouse-retail-expedition.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5ce6cabb-8647-4ccf-a25e-d048778941c3"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside a bright fresh-food supermarket in Shanghai that also works as a delivery warehouse: shopping bags with online orders glide along a conveyor rail under the ceiling, a smiling staff member in a uniform drops a packed bag onto a hook, shoppers browse seafood tanks and fresh produce below, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, surprising lively mood of a shop that is really a warehouse. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Российский покупатель давно избалован. Продукты привозят за полчаса, маркетплейс доставляет на следующий день, пункт выдачи стоит в каждом втором подъезде. Кажется, удивить нас уже нечем.

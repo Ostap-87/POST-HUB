@@ -7,6 +7,13 @@ seo_title: "China Auto Industry Tour: Hefei, Wuhu and Shanghai Route Guide"
 meta_description: "A business expedition through China’s auto industry: why the route starts in Hefei rather than Shanghai, what Wuhu and Shanghai add, the numbers worth knowing before you go, and who from your company should travel."
 slug: "china-auto-expedition-from-hefei-shanghai-one"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-15_china-auto-expedition-from-hefei-shanghai-one.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9cff2cf6-e15a-4b45-a75c-66f056e847b2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a sunny car factory test track in Hefei: a new electric SUV drives a smooth curve with three members of a Russian business delegation inside laughing, the factory test driver smiling at the wheel, long white factory buildings and a few new cars waiting on the side, clear blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, exciting mood of an auto expedition that starts with a test drive. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Not long ago, the mental map of automotive China had a handful of pins: Shanghai, Guangzhou, Changchun, Chongqing somewhere to the west. Hefei was not on it. Hefei was in the atlas, in small print.

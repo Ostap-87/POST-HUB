@@ -7,6 +7,13 @@ seo_title: "Автоэкспедиция в Китай: Хэфэй, Уху, Ша
 meta_description: "Деловая автоэкспедиция по Китаю: почему маршрут начинается в Хэфэе, а не в Шанхае, что дают Уху и Шанхай, какие цифры стоит знать до поездки и кому из вашей компании ехать."
 slug: "china-auto-expedition-from-hefei-shanghai-one"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-15_china-auto-expedition-from-hefei-shanghai-one.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9cff2cf6-e15a-4b45-a75c-66f056e847b2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a sunny car factory test track in Hefei: a new electric SUV drives a smooth curve with three members of a Russian business delegation inside laughing, the factory test driver smiling at the wheel, long white factory buildings and a few new cars waiting on the side, clear blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, exciting mood of an auto expedition that starts with a test drive. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Ещё недавно автомобильный Китай в головах выглядел так: Шанхай, Гуанчжоу, Чанчунь, где-то там Чунцин. Хэфэй в этом списке не значился. Хэфэй значился в учебнике географии, и то мелким шрифтом.

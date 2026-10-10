@@ -7,6 +7,13 @@ seo_title: "Nongfu Spring: бизнес-модель китайского про
 meta_description: "Как Nongfu Spring превратил бутилированную воду и холодный чай в выручку 52,6 млрд юаней и маржу 60%: источники, логистика, 2,37 млн торговых точек, кризис 2024 года и уроки для производителей FMCG."
 slug: "nongfu-spring-how-selling-water-made-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-26_nongfu-spring-how-selling-water-made-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9ea5b60e-9308-4ff9-8bc8-81598b23b7fd"
+image_cost: "0.5"
+image_logos: "Nongfu Spring"
+image_prompt: "Photorealistic landscape photo at dawn on a clear mountain lake with green forested islands in Zhejiang: soft mist over the water, on the shore a smiling technician in a light work jacket kneels to take a water sample into a glass bottle, a modern low white bottling plant among the trees in the distance, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh pure mood of water whose source is the brand. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть товары, в которых трудно отличиться. Вода — чемпион среди них. Её нельзя сделать вкуснее без того, чтобы она перестала быть водой. Её нельзя сделать технологичнее. У неё нет функций, кроме одной, и эту функцию выполняет любая лужа, если её вскипятить.

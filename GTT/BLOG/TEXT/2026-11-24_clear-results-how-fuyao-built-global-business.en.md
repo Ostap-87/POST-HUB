@@ -6,6 +6,13 @@ title: "Clear Results: How Fuyao Built a Global Business on Car Glass, and What 
 meta_description: "Fuyao Glass is the world’s largest automotive glass maker: 45.8 billion yuan in 2025 revenue, almost half from abroad. The Ohio plant, the Oscar-winning American Factory, the road from losses to profit, and lessons for companies going global."
 slug: "clear-results-how-fuyao-built-global-business"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-24_clear-results-how-fuyao-built-global-business.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d6b5bc48-04fb-47fd-9be1-66de04eb179c"
+image_cost: "0.5"
+image_logos: "Fuyao Glass America"
+image_prompt: "Photorealistic documentary photo in a bright automotive glass factory in Ohio: an American worker and a Chinese engineer in matching work uniforms and safety glasses inspect a large curved car windshield on a lit inspection table together, both smiling, rows of glass on racks and machines behind, light reflecting through the glass, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm cooperative mood of two cultures learning to work together. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Car glass is a product people notice on only two occasions: when it cracks and when they have to pay for it. The rest of the time we look straight through it. Literally.

@@ -7,6 +7,13 @@ seo_title: "China Robotics Tour: Shenzhen, Hangzhou and Beijing Compared"
 meta_description: "China’s three robotics clusters through a business traveller’s eyes: Shenzhen’s supply chain, Hangzhou’s start-ups such as Unitree, Beijing’s research centres and robot competitions. How they differ and what to see in each."
 slug: "seeing-robots-for-real-china-three-robotics"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-16_seeing-robots-for-real-china-three-robotics.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e740efb3-8b09-4751-a362-793b869bfbfb"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on a green lawn of a tech park in Hangzhou: several quadruped robot dogs trot and hop across the grass during a demonstration, a Russian business delegation with lanyards watches and films on phones, laughing, a young Chinese engineer explains with a remote controller in hand, modern glass buildings behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively curious mood of seeing robots with your own eyes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The easiest place to watch robots today is your phone. A humanoid does a backflip, a robot dog climbs stairs, a hand folds a towel. The clip lasts forty seconds, and for forty seconds the robot is perfect.

@@ -6,6 +6,13 @@ title: "Тяжёлый случай цифровизации: как Sany пре
 meta_description: "Как Sany Heavy Industry цифровизировал производство строительной техники: «маяки» ВЭФ в Пекине, Чанше и Шаошане, рост производительности, сокращение цикла с 30 до 7 дней, 64 % выручки за рубежом в 2025 году. Что из этого опыта применимо."
 slug: "heavy-lifting-how-sany-turned-construction-machinery"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-23_heavy-lifting-how-sany-turned-construction-machinery.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "521b2e7e-51e4-4467-8c40-01df433f9453"
+image_cost: "0.5"
+image_logos: "SANY"
+image_prompt: "Photorealistic industrial photo inside a vast bright heavy machinery factory: a huge concrete pump truck boom section is moved by a large automated guided vehicle along the assembly line, welding robot arms work behind with small sparks, smiling workers in uniforms and hard hats walk beside it, high clerestory windows with light beams, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, powerful proud mood of a digital factory for heavy machines. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть отрасли, в которых цифровизация выглядит естественно. Электроника, телефоны, батареи — всё маленькое, одинаковое и движется по конвейеру ровными рядами. Компьютер в таком цеху чувствует себя как дома.

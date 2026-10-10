@@ -6,6 +6,13 @@ title: "Lights Out, Everyone Present: An Energy Expedition to Ningde, Changzhou 
 meta_description: "An energy-focused business expedition in China: Ningde (CATL), Changzhou (batteries and solar), Wuxi (new-energy manufacturing equipment). What you can see on site, what “dark factories” really are, and who should go."
 slug: "lights-out-everyone-present-energy-expedition-ningde"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-20_lights-out-everyone-present-energy-expedition-ningde.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9a762e4e-7808-412c-8059-ac0faadd5010"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright solar module factory in Changzhou: long automated lines carry deep-blue solar cells and finished panels under soft light, robot arms place cells in neat grids, a small group of visitors in white cleanroom coats and caps walks along a viewing path with a smiling guide, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, clean optimistic mood of the energy that is made in factories. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 China’s energy story is usually told in numbers with a lot of zeros: gigawatt-hours, trillions of yuan, percentages of the global market. The numbers are right. Their only flaw is that you cannot touch them.

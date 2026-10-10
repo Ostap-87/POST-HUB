@@ -7,6 +7,13 @@ seo_title: "Фудтех-экспедиция в Китай: пищевые за
 meta_description: "Деловая поездка для пищевых компаний и ресторанных сетей: как устроены китайские производители соусов и ингредиентов, рынок готовых блюд и новые стандарты, автоматизация общепита. Что смотреть и кому ехать."
 slug: "from-flavour-factory-plate-foodtech-expedition-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-18_from-flavour-factory-plate-foodtech-expedition-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c5bf4d79-60b2-4565-a5fd-ba994a820b11"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in the sunny outdoor fermentation yard of a Chinese soy sauce factory in Foshan: endless rows of large clay fermentation vats with conical lids, a small group of foreign food industry visitors in hairnets walks along the rows with a smiling Chinese guide who lifts a lid to show the dark mash, blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, appetizing inspiring mood of a factory of flavor. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Китайскую кухню обычно изучают за столом. Это приятно, но малоинформативно: после восьмой перемены блюд аналитические способности снижаются, а после байцзю исчезают совсем.

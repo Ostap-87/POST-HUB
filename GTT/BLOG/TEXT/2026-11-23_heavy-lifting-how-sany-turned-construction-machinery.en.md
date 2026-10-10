@@ -6,6 +6,13 @@ title: "Heavy Lifting: How Sany Turned Construction Machinery Plants Into Lighth
 meta_description: "How Sany Heavy Industry digitised the making of construction machinery: WEF Lighthouse plants in Beijing, Changsha and Shaoshan, productivity gains, lead time cut from 30 to 7 days, and 64% of 2025 revenue earned abroad. What other manufacturers can take from it."
 slug: "heavy-lifting-how-sany-turned-construction-machinery"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-23_heavy-lifting-how-sany-turned-construction-machinery.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "521b2e7e-51e4-4467-8c40-01df433f9453"
+image_cost: "0.5"
+image_logos: "SANY"
+image_prompt: "Photorealistic industrial photo inside a vast bright heavy machinery factory: a huge concrete pump truck boom section is moved by a large automated guided vehicle along the assembly line, welding robot arms work behind with small sparks, smiling workers in uniforms and hard hats walk beside it, high clerestory windows with light beams, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, powerful proud mood of a digital factory for heavy machines. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Some industries seem made for digitisation. Electronics, phones, batteries: everything is small, identical and moves down the conveyor in neat rows. A computer feels at home there.

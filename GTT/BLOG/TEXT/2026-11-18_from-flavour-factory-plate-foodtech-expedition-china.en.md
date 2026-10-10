@@ -7,6 +7,13 @@ seo_title: "China Foodtech Study Tour: Food Plants, Ingredients, Packaging, Rest
 meta_description: "A business trip for food manufacturers and restaurant chains: how Chinese sauce and ingredient makers work, the prepared-meals market and its new standard, and automation in food service. What to see and who should go."
 slug: "from-flavour-factory-plate-foodtech-expedition-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-18_from-flavour-factory-plate-foodtech-expedition-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c5bf4d79-60b2-4565-a5fd-ba994a820b11"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in the sunny outdoor fermentation yard of a Chinese soy sauce factory in Foshan: endless rows of large clay fermentation vats with conical lids, a small group of foreign food industry visitors in hairnets walks along the rows with a smiling Chinese guide who lifts a lid to show the dark mash, blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, appetizing inspiring mood of a factory of flavor. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Chinese cuisine is usually studied at the table. It’s pleasant but not very informative: after the eighth course, analytical ability declines, and after the baijiu it disappears.
