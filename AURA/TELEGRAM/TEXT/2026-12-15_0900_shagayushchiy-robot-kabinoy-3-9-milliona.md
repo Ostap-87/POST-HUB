@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Шагающий робот с кабиной за 3,9 миллиона юаней"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-15_0900_shagayushchiy-robot-kabinoy-3-9-milliona.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "37dff108-586a-411c-8f02-7c836fcce2eb"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic documentary photo at an outdoor test ground with gravel and rough terrain: a large two-legged piloted walking robot about 2.8 m tall made of grey metal with exposed actuators and an open cockpit seat in its torso, a pilot in a helmet and harness seated inside, engineers in work jackets cheering and filming from a safe distance, bright sunny daylight, light dust kicked up by its feet, impressive exciting mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Шагающий робот с кабиной за 3,9 миллиона юаней**

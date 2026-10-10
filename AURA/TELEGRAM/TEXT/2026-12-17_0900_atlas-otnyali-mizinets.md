@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "У Atlas отняли мизинец"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-17_0900_atlas-otnyali-mizinets.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a19bb4a2-d855-4071-aa47-668dd524b4de"
+image_cost: "0.5"
+image_logos: "Boston Dynamics"
+image_prompt: "Photorealistic close-up photo on a bright engineering workbench: an engineer's hand with the little finger and ring finger taped together with grey duct tape resting next to a sleek four-fingered humanoid robot hand with dark joints, a cup of tea, small screwdrivers and cables around, soft warm window light, curious playful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **У Atlas отняли мизинец**

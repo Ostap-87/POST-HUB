@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Figure 02 отправили в печь"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-18_0900_figure-02-otpravili-pech.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ce762f5c-cea7-43ff-872a-3d199913cc24"
+image_cost: "0.5"
+image_logos: "Figure"
+image_prompt: "Photorealistic industrial photo inside a Finnish steel foundry: a large scrap bucket filled with dismantled grey-black humanoid robot bodies, arms and legs, hanging from a crane in front of a glowing electric arc furnace, a foundry worker in a silver heat-protective suit raising a gloved hand in a playful farewell wave, a small film crew filming the moment from a safe gallery, warm orange glow and sparks, good-humoured farewell mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Figure 02 отправили в печь**

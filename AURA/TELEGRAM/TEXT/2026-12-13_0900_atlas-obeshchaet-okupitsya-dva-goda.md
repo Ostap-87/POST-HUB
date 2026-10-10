@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Atlas обещает окупиться за два года"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-13_0900_atlas-obeshchaet-okupitsya-dva-goda.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "35b19190-4218-4e28-b8ab-44edc1886448"
+image_cost: "0.5"
+image_logos: "Boston Dynamics"
+image_prompt: "Photorealistic behind-the-scenes photo of a commercial film shoot inside a bright car factory: a camera operator with a cinema camera on a dolly and a crew with large softboxes filming a sleek full-size humanoid robot lifting a car part, a quadruped robot dog standing nearby, the director and a crew member grinning at the playback monitor, warm studio light on the robot, upbeat professional advertising production mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Atlas обещает окупиться за два года**

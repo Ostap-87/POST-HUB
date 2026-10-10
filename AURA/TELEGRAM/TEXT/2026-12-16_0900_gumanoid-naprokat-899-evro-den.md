@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоид напрокат за 899 евро в день"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-16_0900_gumanoid-naprokat-899-evro-den.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6b3c53e9-71d5-45c3-92a3-b244b2048e5c"
+image_cost: "0.5"
+image_logos: "AgiBot"
+image_prompt: "Photorealistic event photo at an elegant evening wedding reception in a Spanish villa garden: a human-sized humanoid robot standing at the entrance greeting guests, laughing guests in evening dress taking selfies with it, string lights overhead, warm evening glow, Mediterranean stone architecture, joyful celebratory mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоид напрокат за 899 евро в день**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: через дилера надёжнее, чем напрямую с завода"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-14_1800_mif-cherez-dilera-nadezhnee-chem-napryamuyu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bc3dc8e6-9a81-4326-871a-7645d3045bfc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a bright Chinese factory floor: a Russian buyer in a winter jacket and a Chinese factory engineer standing face to face next to a collaborative robot arm, the engineer enthusiastically pointing to a sensor on the robot while the smiling buyer takes notes in a notebook, no one else between them, production line in the background, natural daylight from high windows, open friendly trustworthy mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: через дилера надёжнее, чем напрямую с завода**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Курьёз недели"
 title: "Бокс гуманоидов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-18_1800_boks-gumanoidov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1a21b1bc-c65e-40e0-8705-bac94e7ed0be"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic sports photo of a robot boxing match in a boxing ring in Hangzhou: two compact humanoid robots about 1.3 m tall in boxing gloves and head guards, one swinging a punch into the air while the other tumbles back onto the canvas, grinning human operators with controllers at ringside, laughing spectators filming with phones, bright ring lights, fun energetic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Бокс гуманоидов**
