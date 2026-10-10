@@ -1,0 +1,64 @@
+# Кнопка «Переключить агента»: GitHub → Actions → «Переключить агента» → Run workflow.
+# Записывает выбранного агента в CONTROL/ACTIVE-AGENT.yaml и строку в журнал переключений.
+name: Переключить агента
+
+on:
+  workflow_dispatch:
+    inputs:
+      agent:
+        description: "Кто управляет POST-HUB"
+        type: choice
+        options: [claude, chatgpt, none]
+        required: true
+      note:
+        description: "Комментарий (необязательно)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: switch-agent
+  cancel-in-progress: false
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Записать активного агента
+        env:
+          AGENT: ${{ inputs.agent }}
+          NOTE: ${{ inputs.note }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          python3 - <<'PY'
+          import datetime, json, os, pathlib
+          now = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+          agent, note, actor = os.environ['AGENT'], os.environ.get('NOTE', ''), os.environ['ACTOR']
+          pathlib.Path('CONTROL/ACTIVE-AGENT.yaml').write_text(
+              "# КНОПКА: кто сейчас управляет POST-HUB.\n"
+              "# Переключать: GitHub → Actions → «Переключить агента» → Run workflow → выбрать агента.\n"
+              "# Агент, который здесь не указан, ничего не меняет в репозитории.\n"
+              f"agent: {agent}            # claude | chatgpt | none\n"
+              f"since: {json.dumps(now)}\n"
+              f"changed_by: {json.dumps(actor)}\n"
+              f"note: {json.dumps(note, ensure_ascii=False)}\n", encoding='utf-8')
+          log = pathlib.Path('CONTROL/JOURNAL/agent-switches.md')
+          if not log.exists():
+              log.write_text('# Переключения агента\n\n', encoding='utf-8')
+          with log.open('a', encoding='utf-8') as f:
+              f.write(f"- {now} · управление → **{agent}** · {actor}" + (f" · {note}" if note else '') + "\n")
+          PY
+
+      - name: Сохранить в репозиторий
+        env:
+          AGENT: ${{ inputs.agent }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CONTROL/ACTIVE-AGENT.yaml CONTROL/JOURNAL/agent-switches.md
+          git commit -m "Управление POST-HUB → $AGENT"
+          git push
