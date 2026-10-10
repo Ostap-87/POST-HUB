@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Очки, которые думают за вас"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-13_0900_ochki-kotorye-dumayut-vas.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fe922e4b-6804-4319-b89e-641b80e670f5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo inside a crowded electronics market in Shenzhen: a long glass display counter packed with dozens of different smart glasses models in neat rows, a middle-aged customer in old wire-rimmed glasses leaning over the counter and looking at them in amused bewilderment, a young saleswoman's hand offering one pair, neighboring stalls blurred, signs blurred and unreadable, bright light, lively cheerful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Очки, которые думают за вас**

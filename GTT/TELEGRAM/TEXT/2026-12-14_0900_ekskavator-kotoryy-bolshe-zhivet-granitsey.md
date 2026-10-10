@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Экскаватор, который больше живёт за границей"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-14_0900_ekskavator-kotoryy-bolshe-zhivet-granitsey.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e482f0d8-10de-47f4-89ab-b3c22e62900e"
+image_cost: "0.5"
+image_logos: "SANY"
+image_prompt: "Photorealistic documentary photo at a road construction site in East Africa: a large red-and-grey crawler excavator digging red earth in bright sunlight, local workers in hard hats and reflective vests nearby, one of them leaning on a simple shovel and grinning at the machine, acacia trees and a sunlit horizon, strong midday light, energetic cheerful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Экскаватор, который больше живёт за границей**

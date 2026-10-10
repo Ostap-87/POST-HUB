@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Увидено на заводе"
 title: "Стенд с браком: как китайцы показывают свои ошибки"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-14_1800_stend-brakom-kitaytsy-pokazyvayut-svoi-oshibki.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "87c371fa-7664-456c-aaad-53164bf24cfc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a defect display board next to a production line in a bright Chinese factory: a wall-mounted shelf with rows of bent, scratched and cracked metal and plastic parts, each with a small handwritten tag, photos of good and bad parts pinned beside them, all writing blurred and unreadable, a young worker in a cap studying one defective part with interest while a smiling older foreman points at it and explains, bright even workshop lighting, friendly instructive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Стенд с браком: как китайцы показывают свои ошибки**

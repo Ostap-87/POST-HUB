@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Билет на аэротакси: 299 юаней"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-18_0900_bilet-aerotaksi-299-yuaney.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a4604319-a83d-4a90-9772-212d88a16ccb"
+image_cost: "0.5"
+image_logos: "EHang"
+image_prompt: "Photorealistic photo of a white two-seat autonomous electric air taxi with many small rotors on arms lifting off from a landing pad beside a lake in a city park in China, a single passenger visible inside the cabin, people on the shore cheering and filming, calm water reflecting the aircraft, clear blue sky, joyful sense of adventure mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Билет на аэротакси: 299 юаней**

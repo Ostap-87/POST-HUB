@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Экскаватор на батарейке едет в Индонезию"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-17_0900_ekskavator-batareyke-edet-indoneziyu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2b386278-7725-4607-b8f1-d8d2ce1593cd"
+image_cost: "0.5"
+image_logos: "LiuGong"
+image_prompt: "Photorealistic industrial photo of a yellow electric excavator working quietly at a construction site in a tropical industrial park in West Java, Indonesia: a thick charging cable runs from the machine to a mobile charging unit, no exhaust smoke, workers in hard hats chatting cheerfully, palm trees and steel frames of new factory buildings in the background, sunshine after rain and big white clouds, fresh green colors, upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Экскаватор на батарейке едет в Индонезию**

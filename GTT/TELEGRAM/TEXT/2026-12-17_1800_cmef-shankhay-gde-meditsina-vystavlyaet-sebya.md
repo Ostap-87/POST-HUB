@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Выставки и события"
 title: "CMEF: Шанхай, где медицина выставляет себя целиком"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-17_1800_cmef-shankhay-gde-meditsina-vystavlyaet-sebya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9727b837-b147-416b-b310-695a717f921e"
+image_cost: "0.5"
+image_logos: "CMEF"
+image_prompt: "Photorealistic documentary photo at a large medical equipment fair in Shanghai: in a bright exhibition hall a white CT scanner stands on display, a group of doctors and buyers in suits listen with interested smiles to a specialist, a surgical robot console and ultrasound machines on neighboring stands, booth signs blurred and unreadable, clean bright lighting, professional upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **CMEF: Шанхай, где медицина выставляет себя целиком**
