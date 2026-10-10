@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "JD закупит три миллиона роботов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-01_0900_jd-zakupit-tri-milliona-robotov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2b54a2b8-7006-4bb6-b1fe-43955bcc6a36"
+image_cost: "0.5"
+image_logos: "JD Logistics"
+image_prompt: "Photorealistic documentary photo inside a vast bright Chinese e-commerce logistics warehouse near Beijing: a young delivery courier in a plain red work jacket kneels beside a low autonomous mobile robot cart with its service panel open, smiling eagerly as an older technician in grey overalls shows him something on a tablet; behind them dozens of identical robot carts carrying yellow totes glide across the polished floor and a small delivery drone rests on a charging rack, bright white overhead lighting, deep perspective, optimistic mood of a career changing in front of your eyes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **JD закупит три миллиона роботов**

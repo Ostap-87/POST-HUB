@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Dongfeng отправляет гуманоида на стажировку"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-02_0900_dongfeng-otpravlyaet-gumanoida-stazhirovku.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fa6aa4dc-6001-43bb-a98a-160e2c2c288d"
+image_cost: "0.5"
+image_logos: "Dongfeng Motor"
+image_prompt: "Photorealistic candid photo in a bright parts warehouse of a car plant in Wuhan: a full-size humanoid robot stands at a steel workbench, carefully moving small automotive parts from a blue plastic bin into sorting trays, while an older worker in a navy uniform and cap watches beside it with arms crossed and an amused fatherly smile like a kind but strict mentor, a clipboard on the bench, warm practical lighting, gentle humorous 'first day of the internship' mood, medium shot at eye level. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Dongfeng отправляет гуманоида на стажировку**

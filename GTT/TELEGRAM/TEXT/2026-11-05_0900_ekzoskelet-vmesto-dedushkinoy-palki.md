@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Экзоскелет вместо дедушкиной палки"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-05_0900_ekzoskelet-vmesto-dedushkinoy-palki.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "de95c9eb-d175-44a9-816e-2d372aa05fca"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic travel photo on the old stone staircase of a sacred mountain in Hunan during the October holidays: a smiling elderly Chinese couple climbs the steps wearing lightweight hip-assist exoskeletons strapped over their sportswear, the man laughing and holding a thermos, other tourists around them, misty pine forest and a temple roof in the background, soft bright daylight, cheerful holiday mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Экзоскелет вместо дедушкиной палки**

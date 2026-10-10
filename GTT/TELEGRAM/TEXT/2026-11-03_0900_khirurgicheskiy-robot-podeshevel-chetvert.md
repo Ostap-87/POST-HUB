@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Хирургический робот подешевел на четверть"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-03_0900_khirurgicheskiy-robot-podeshevel-chetvert.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "26791a9d-3c63-4a06-b030-9684ecf8ccaa"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo of a modern bright operating room in a large Chinese public hospital: a multi-arm laparoscopic surgical robot with sterile-draped arms positioned over a prepared operating table, the surgeon console standing to the side, two nurses in blue scrubs chatting cheerfully as they prepare instruments on a tray, bright clean lighting, glossy floor reflections, confident optimistic mood before surgery. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Хирургический робот подешевел на четверть**

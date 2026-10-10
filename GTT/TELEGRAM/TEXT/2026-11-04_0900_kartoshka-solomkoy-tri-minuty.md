@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Картошка соломкой за три минуты"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-04_0900_kartoshka-solomkoy-tri-minuty.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "cb77adb2-8d77-47f3-9fe6-8145aa54af76"
+image_cost: "0.5"
+image_logos: "JD.com"
+image_prompt: "Photorealistic candid photo at a busy trade fair in Beijing: a long food truck converted into a kitchen with an open serving window, inside it robotic cooking arms shake a frying basket of golden shoestring fries and stir a wok, laughing visitors line up outside holding phones and paper cones of fries, steam and warm light, the exhibition hall behind with signs blurred and unreadable, lively joyful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Картошка соломкой за три минуты**
