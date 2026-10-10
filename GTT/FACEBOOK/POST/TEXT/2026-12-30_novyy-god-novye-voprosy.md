@@ -1,6 +1,8 @@
 ---
 number: 25
-date: "2027-01-26"
+date: "2026-12-30"
+original_date: "2027-01-26"
+moved: "решение пользователя 10.10.2026"
 title: "Новый год, новые вопросы"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
 ---

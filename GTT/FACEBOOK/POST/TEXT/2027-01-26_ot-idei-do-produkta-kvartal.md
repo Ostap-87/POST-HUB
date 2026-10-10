@@ -1,6 +1,8 @@
 ---
 number: 18
-date: "2027-01-01"
+date: "2027-01-26"
+original_date: "2027-01-01"
+moved: "решение пользователя 10.10.2026"
 title: "От идеи до продукта за квартал"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
 ---
