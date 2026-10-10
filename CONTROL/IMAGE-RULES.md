@@ -64,7 +64,8 @@
 - В шапке текста записывается: `image` (файл), `image_status` (`на согласовании` / `утверждено`), `image_model`, `image_job`
   (id генерации в Higgsfield), `image_cost`, `image_logos` (какие логотипы встроены), `image_prompt`.
 - Сохранение делает `CONTROL/TOOLS/save_images.py`, лист на согласование — `CONTROL/TOOLS/contact_sheet.py`.
-- Утверждённый пост переносится в `READY/` (папка поста: `post.md` + `photo.jpg`), как описано в `CONTROL/AGENT.md`.
+- Утверждённый пост переносится в `READY/` (папка поста: `post.md` + `photo.jpg`), как описано в `CONTROL/AGENT.md`:
+  `python3 CONTROL/TOOLS/to_ready.py <ПРОЕКТ>/<СЕТЬ>`.
 
 ## 7. Согласование
 

@@ -1,0 +1,35 @@
+---
+number: 34
+date: "2026-11-17"
+time: "18:00"
+rubric: "Цифра дня"
+title: "140 ньютонов"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "17cd05bb-34df-4e3f-a3f6-daeaf6a3d61e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic macro photo on a steel workbench: the rounded gripper of a collaborative robot arm gently presses against the back of a worker's hand, beside it a handheld force-measuring gauge with its display turned away, shallow depth of field, soft neutral light, careful precise mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**140 ньютонов**
+
+Столько, по таблице технической спецификации ISO/TS 15066, коллаборативный робот может давить на кисть человека, если прижал и держит. На грудь тоже 140, на живот 110, на бёдра и колени 220. На лицо — 65.
+
+Самое нежное место человека, по мнению стандарта, лицо. Стандарт, похоже, писали люди с жизненным опытом.
+
+140 ньютонов — это примерно как груз в 14 кг. Неприятно, но до травмы не доходит.
+
+Таблица нужна, чтобы кобот работал рядом с людьми без забора. Инженер настраивает скорость и усилие так, чтобы при случайном касании робот уложился в цифры, и проверяет это измерением, а не честным словом.
+
+Покупателю важно запомнить: «коллаборативный» — свойство не робота, а всей ячейки. Тот же кобот с ножом в захвате коллаборативным быть перестаёт.
+
+Робот знает, сколько ньютонов можно. Человеку бы так.
+
+Источник: [таблица ISO/TS 15066 в статье arXiv:2311.13814](https://arxiv.org/pdf/2311.13814)
+
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#цифрадня #коботы #безопасность #Роботы #Роботизация

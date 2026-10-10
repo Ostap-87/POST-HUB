@@ -1,0 +1,29 @@
+---
+number: 93
+date: "2026-12-17"
+time: "09:00"
+rubric: "Сводка"
+title: "У Atlas отняли мизинец"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a19bb4a2-d855-4071-aa47-668dd524b4de"
+image_cost: "0.5"
+image_logos: "Boston Dynamics"
+image_prompt: "Photorealistic close-up photo on a bright engineering workbench: an engineer's hand with the little finger and ring finger taped together with grey duct tape resting next to a sleek four-fingered humanoid robot hand with dark joints, a cup of tea, small screwdrivers and cables around, soft warm window light, curious playful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**У Atlas отняли мизинец**
+
+Boston Dynamics показала новую кисть для гуманоида Atlas: четыре пальца вместо пяти, 13 степеней свободы вместо прежних семи. У большого пальца четыре сустава, у остальных по три. Мизинец убрали сознательно: по словам инженера Дилана Траша, дополнительная ловкость не стоила трёх лишних степеней свободы, лишнего места, энергии и приводов. Для проверки команду попросили на день склеить скотчем мизинец и безымянный палец. Решили, что можно обойтись.
+
+Я попробовал повторить эксперимент. Выяснил, что без мизинца прекрасно жить, но очень трудно держать чашку с чаем по-светски.
+
+Для покупателя здесь хороший урок. Рука робота — не копия человеческой, а компромисс между ловкостью, ценой и надёжностью. Каждый лишний сустав — лишний мотор, лишний датчик и лишний повод для ремонта. Выбирайте кисть под задачу, а не под красоту.
+
+Источник: [The Robot Report, 01.10.2026](https://www.therobotreport.com/boston-dynamics-drops-pinkie-on-new-humanoid-hand/)
+
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #кисти #Гуманоиды #технологии

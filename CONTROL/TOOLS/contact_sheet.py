@@ -2,8 +2,8 @@
 """Лист картинок на согласование (CONTROL/IMAGE-RULES.md, раздел 7).
 
 python3 CONTROL/TOOLS/contact_sheet.py AURA/TELEGRAM 1 12 -o лист.jpg [--title "…"] [--cols 4 --width 480]
-Берёт тексты из <сеть>/TEXT (или <сеть>/<формат>/TEXT) по номеру в плане (поле number), картинки — из PHOTO
-(поле image), рисует сетку 3 в ряд: картинка, номер, дата и время, заголовок, статус.
+Берёт тексты из <сеть>/TEXT (или <сеть>/<формат>/TEXT) и из READY/*/post.md по номеру в плане (поле number),
+картинки — из PHOTO или из папки поста (поле image), рисует сетку 3 в ряд: картинка, номер, дата и время, заголовок, статус.
 """
 import argparse
 import glob
@@ -41,6 +41,10 @@ def main():
         m = meta_of(f)
         if a.first <= int(m['number']) <= a.last and m.get('image'):
             items.append((int(m['number']), m, ch / 'PHOTO' / m['image']))
+    for f in sorted(glob.glob(str(ch / 'READY/*/post.md'))):   # посты, уже перенесённые в очередь
+        m = meta_of(f)
+        if a.first <= int(m['number']) <= a.last and m.get('image'):
+            items.append((int(m['number']), m, Path(f).parent / m['image']))
     items.sort(key=lambda x: x[0])
     cols, W, pad, cap = a.cols, a.width, 24, 70
     imgs = [Image.open(p).convert('RGB') for _, _, p in items]

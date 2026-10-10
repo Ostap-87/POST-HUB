@@ -1,0 +1,31 @@
+---
+number: 31
+date: "2026-11-16"
+time: "09:00"
+rubric: "Сводка"
+title: "Pinduoduo: выручка растёт, прибыль раздают продавцам"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "382b9d10-6b2e-4680-8e14-93303cb092c6"
+image_cost: "0.5"
+image_logos: "Pinduoduo"
+image_prompt: "Photorealistic documentary photo in a small sunny rural e-commerce packing room in China: a middle-aged farmer couple laughing together as they pack fresh peaches into cardboard boxes for online orders, a smartphone on a stand with a blurred order list, stacks of sealed parcels waiting for the courier, warm afternoon sun through the open door, joyful hardworking mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**Pinduoduo: выручка растёт, прибыль раздают продавцам**
+
+PDD Holdings, владелец Pinduoduo и Temu, отчиталась за второй квартал 2026 года. Выручка — 112,4 млрд юаней, плюс 8 %. Доходы от комиссий за сделки выросли на 13 %, до 54,7 млрд. А чистая прибыль упала на 12 %, до 27,2 млрд. В компании объяснили это вложениями в «экосистему»: главный приоритет — помогать продавцам процветать.
+
+Компания, научившая миллионы людей покупать дёшево, теперь учит продавцов зарабатывать — за счёт своей прибыли. Благородно. Акционеры, правда, плакали, но тоже благородно.
+
+Двадцать семь миллиардов прибыли за квартал — плохой результат. Хотел бы я так плохо работать хотя бы раз в жизни.
+
+Электронная коммерция в Китае — отдельная вселенная. Там скидку дают раньше, чем вы успели подумать о покупке.
+
+Источник: [PDD Holdings, отчёт за II кв. 2026, 24.08.2026](https://www.sec.gov/Archives/edgar/data/0001737806/000110465926100534/tm2623874d1_ex99-1.htm)
+
+🔗 Pinduoduo в каталоге GlobalTechTour: https://globaltechtour.ru/companies/pinduoduo
+
+#сводка #ритейл #ecommerce #GTT #GlobalTechTour #Техтуризм

@@ -1,0 +1,31 @@
+---
+number: 90
+date: "2026-12-15"
+time: "18:00"
+rubric: "Цифра дня"
+title: "2 часа против 8"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "de6dea75-f306-428d-9124-7c0421db775b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a factory break area at lunchtime: workers in overalls laughing over lunch at a table in the background, in the foreground a smiling technician pulling a battery pack out of the back of a compact humanoid robot and inserting a fresh one from a charging rack with several batteries and small green indicator lights, warm sunny midday light, practical cheerful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**2 часа против 8**
+
+Около двух часов ходьбы — столько, по данным производителей, работают на одной батарее многие компактные гуманоиды: Unitree G1, AgiBot X2, Booster T1. Смена — восемь часов. Арифметика, от которой грустнеют презентации.
+
+Вариантов три. Первый — зарядка: робот уходит к розетке, у AgiBot X2 полная зарядка занимает до полутора часов. Второй — несколько роботов посменно: один работает, другой заряжается. Цена удваивается. Третий — горячая замена: батарею меняют за минуты, человек или сам робот, как UBTech Walker S2.
+
+Для промышленного применения третий вариант почти обязателен. Иначе робот проводит у розетки заметную часть смены, а в расчёте окупаемости это очень видно.
+
+Мы, люди, кстати, тоже на горячей замене. Называется «обед».
+
+Источники: [AgiBot Store, X2](https://store.agibot.com/products/x2); [RobotShop, Booster T1](https://www.robotshop.com/products/booster-t1-humanoid-robot-standard)
+
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#цифрадня #Гуманоиды #окупаемость #Роботизация

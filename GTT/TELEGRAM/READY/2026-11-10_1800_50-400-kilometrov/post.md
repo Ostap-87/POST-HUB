@@ -1,0 +1,29 @@
+---
+number: 20
+date: "2026-11-10"
+time: "18:00"
+rubric: "Китай в цифрах"
+title: "50 400 километров"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "cfaf17fa-e40e-4384-8d2d-a71dd4b134af"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo inside a bright Chinese high-speed train carriage: a paper cup of hot tea stands perfectly steady on the fold-down table with a thin wisp of steam, next to a business traveller's laptop, while the sunny green fields and hills outside the window are a long motion blur, soft warm daylight, bright confident mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**50 400 километров**
+
+Столько, по итогам 2025 года, составила сеть высокоскоростных железных дорог Китая. В 2021-м было 37 900. Вся железнодорожная сеть страны — около 165 тысяч километров.
+
+Для понимания: длина экватора — около 40 тысяч. То есть скоростными рельсами Китай уже обмотал планету и ещё осталось на пару командировок.
+
+Для экспедиции это не абстракция. Утром завод в одном городе, вечером другой завод в другом, а между ними три часа в вагоне со столиком. Удобнее, чем самолёт: никто не просит пристегнуться.
+
+Поезд идёт триста с лишним километров в час, а кипяток в вагоне не расплёскивается. Я считаю это главным инженерным достижением.
+
+Источник: [Business Standard, 05.01.2026](https://www.business-standard.com/world-news/china-high-speed-railway-expansion-2030-five-year-plan-infrastructure-126010500716_1.html)
+
+#китайвцифрах #инфраструктура #GTT #GlobalTechTour #Техтуризм

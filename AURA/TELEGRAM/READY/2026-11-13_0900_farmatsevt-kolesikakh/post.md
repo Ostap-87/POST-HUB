@@ -1,0 +1,31 @@
+---
+number: 25
+date: "2026-11-13"
+time: "09:00"
+rubric: "Сводка"
+title: "Фармацевт на колёсиках"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1bbe008c-1f4e-466c-8696-56b2412b33a4"
+image_cost: "0.5"
+image_logos: "Galbot"
+image_prompt: "Photorealistic documentary photo inside a compact modern pharmacy in Beijing: a wheeled humanoid robot with two arms on a mobile base picks a small medicine box from floor-to-ceiling shelves densely packed with thousands of colorful boxes, a pharmacist in a white coat stands at the counter in the background, bright clean lighting, labels blurred and unreadable, calm precise mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**Фармацевт на колёсиках**
+
+В марте в пекинском районе Хайдянь заработала аптека, где лекарства подаёт гуманоид Galbot G1 на колёсной базе — по версии CGTN, первый в Китае робот-фармацевт. Он находит препарат, упаковывает и кладёт в шкаф выдачи, а заодно проверяет остатки и пополняет полки. Аптека — около 70 м², на витрине примерно 5000 наименований. Успешных захватов около 99,5 %, работает круглосуточно. По словам сотрудников, людей нужно вдвое меньше.
+
+Пять тысяч наименований на семидесяти метрах. Человек на такой площади обычно помнит, где валидол, а остальное ищет.
+
+У гуманоида колёса вместо ног, и это не недостаток, а инженерная честность: в аптеке нужна не походка, а точность у полки.
+
+Если аптека выдаёт тысячу упаковок в день, 0,5 % промахов — пять раз, когда робот что-то не взял. Поэтому рядом всё равно стоит провизор. Теперь один.
+
+Источник: [CGTN, 13.03.2026](https://news.cgtn.com/news/2026-03-13/China-s-first-pharmacy-robot-goes-into-service-in-Beijing-1LtZ7juLcZ2/share_amp.html)
+
+🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу
+
+#сводка #Galbot #ритейл #Гуманоиды #Роботизация

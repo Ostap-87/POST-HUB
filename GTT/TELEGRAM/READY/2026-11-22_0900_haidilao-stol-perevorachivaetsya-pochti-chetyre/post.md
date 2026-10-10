@@ -1,0 +1,31 @@
+---
+number: 43
+date: "2026-11-22"
+time: "09:00"
+rubric: "Сводка"
+title: "Haidilao: стол переворачивается почти четыре раза в день"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "72d7ae07-d335-4e64-bafb-35657f627655"
+image_cost: "0.5"
+image_logos: "Haidilao"
+image_prompt: "Photorealistic photo inside a busy Chinese hot pot restaurant in the evening: a table with a bubbling split pot of red chili broth and clear broth, plates of thinly sliced meat and vegetables, diners in plain aprons laughing, smiling waiters bustling between tables, steam rising, a queue of happy guests near the entrance, warm lively lighting, joyful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+**Haidilao: стол переворачивается почти четыре раза в день**
+
+Сеть ресторанов хого Haidilao отчиталась за первое полугодие 2026 года. Выручка — 22,34 млрд юаней (+7,9 %), прибыль почти не изменилась: 1,77 млрд (+0,5 %). К концу июня у сети было 1389 ресторанов Haidilao, из них 99 франчайзинговых, и ещё 183 заведения у 21 бренда поменьше. Стол в собственных ресторанах в среднем принимал гостей 3,9 раза в день, годом раньше — 3,8.
+
+Мне особенно нравятся девять десятых: значит, за четвёртым ужином кто-то пришёл, посмотрел на кипящий котёл и ушёл, не дождавшись.
+
+В Haidilao вас развлекают в очереди, делают маникюр, приносят фартук и чехол для телефона. Начинаешь стесняться, что пришёл просто поесть.
+
+Фудтех — не только роботы на кухне, но и наука о том, как посадить за тот же стол ещё одну компанию.
+
+Источник: [Zhitong Finance / Webull, 25.08.2026](https://www.webull.com/news/15463077125047296)
+
+🔗 Haidilao в каталоге GlobalTechTour: https://globaltechtour.ru/companies/haidilao
+
+#сводка #фудтех #общепит #GTT #GlobalTechTour #Техтуризм
