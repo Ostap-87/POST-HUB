@@ -20,11 +20,15 @@ Fifty pieces ago I opened this series with a running robot. I’m closing it wit
 
 Every earlier piece on peptides ran into the same word sooner or later: “synthesise.” China synthesises, India synthesises, Japan bends what’s been synthesised into rings. Time to look at how it’s actually done. No formulas, I promise. Formulas are like other people’s holiday photos: fine to look at, but not for long.
 
+## Hold the thread, add a bead
+
 A peptide is a chain of amino acids. Building one in a flask, where everything floats around, is agony: after every new link you have to isolate, purify and lose half your product. In 1959 a young American chemist, Bruce Merrifield, wrote a simple idea in his lab notebook: what if you anchored the first link to a solid particle and grew the chain right there? The particle stays in the filter and everything else washes away. Attach, rinse, add the next link. Like stringing beads: hold the thread, add a bead.
 
 His first paper, describing four amino acids, came out in 1963. The beads were cross-linked polystyrene, originally designed for ion-exchange resins. Colleagues frowned: “proper” chemists wanted to see intermediates, and here was a sea of excess reagent with uncertain results. The criticism went on for years. Merrifield won the Nobel Prize in 1984.
 
 New ideas are first called wasteful, then a method, then an industry standard. By stage two, someone has usually patented them.
+
+## Three ingredients, like in any good joke
 
 Now the ingredients. There are three, like in any good joke.
 
@@ -34,9 +38,13 @@ How much? The American Chemical Society’s Green Chemistry Institute Pharmaceut
 
 Thirteen tonnes of material per kilogram. I used to think home renovation was the most wasteful process on earth. Turns out renovation just hasn’t tried solid-phase synthesis.
 
+## Brewed like beer, strung like beads
+
 Here’s a small paradox the story needs. According to the European Medicines Agency’s product information, Novo Nordisk’s original semaglutide is produced in Saccharomyces cerevisiae yeast cells using recombinant DNA technology. Its backbone, in effect, is grown. The generics that flooded India and Canada in 2026, by contrast, are mostly built chemically, on resin, link by link: thirty-one amino acids plus a fatty acid at position 26.
 
 The original is brewed like beer. The copy is strung like beads. And the copy has its own dependency: on resins, reagents and solvents.
+
+## A warehouse where everything is in stock
 
 This is where China comes in. Not as the inventor: the method is American, the macrocycle school is Japanese. China is the one with the beads in stock.
 
@@ -49,6 +57,8 @@ Take the finished necklace. China’s Sinopep is named among the API suppliers f
 And then the solvent. Since 12 December 2023, the EU’s REACH regulation has restricted DMF, the classic solvent of peptide chemistry: it can only be used if worker exposure stays below strict limits. Europe is right to protect its workers. Judging by where capacity is being built, those workers are increasingly somewhere else.
 
 Being indispensable rarely looks like a breakthrough. More often it looks like a warehouse where everything is in stock.
+
+## Fifty pieces later
 
 Fifty pieces. I’ve written about robots that outrun world-record holders, about models that cost less than water, about peptides that became a fashion, a currency and a clause in trade agreements. And at the end, it turns out all three stories are the same story. China rarely comes up with the idea first. China is first to make sure everything the idea needs is available: motors an hour’s drive away, data in the open, resin by the tonne, reagents on the shelf. The rest of the world laughs, then buys, then writes regulations.
 

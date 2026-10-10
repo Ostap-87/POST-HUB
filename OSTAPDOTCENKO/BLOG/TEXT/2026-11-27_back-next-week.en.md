@@ -20,6 +20,8 @@ I keep a “next week” to-do list. I’ve kept it for years, and honestly it�
 
 So I have some sympathy for Jia Yueting. He has a “next week” item too. It’s just a little bigger than mine.
 
+## The ecosystem chemical reaction
+
 Let’s start at the top. It makes the fall easier to see.
 
 Jia founded LeTV, a video streaming service, in 2004. In 2010 it listed on Shenzhen’s ChiNext board. The streaming service grew into an empire called LeEco: smartphones, TVs, sports, film, cloud, and of course electric cars. It all came with a signature buzzword, the “ecosystem chemical reaction”: put the businesses together and you get more than the sum of the parts.
@@ -29,6 +31,8 @@ On May 12, 2015, LeTV shares hit 179 yuan and the company was worth close to 170
 The chemical reaction did happen. Like many chemical reactions, it turned out to be exothermic. In plain English: it blew up.
 
 In November 2016, LeEco ran out of cash. In January 2017, property developer Sunac bought into the empire for 15 billion yuan; Sunac’s chairman Sun Hongbin later acknowledged the investment had been written down to zero. That same January, at CES in Las Vegas, Jia unveiled the FF 91 electric car from his US company Faraday Future.
+
+## Back next week
 
 And on July 4, 2017, Jia flew to the United States, saying he’d be back next week.
 
@@ -40,6 +44,8 @@ A digression. In my line of work there’s a genre called “the roadmap.” It�
 
 Jia is the best roadmap artist I know. And, it seems, the only one who has managed to live inside his roadmap for nine years.
 
+## Dryly, like a court record
+
 From here the story ran on several tracks at once, and I’ll list them dryly, like a court record. This part is less funny.
 
 In 2018, Evergrande put $800 million into Faraday Future; within months the two sides were in court. In 2019, Jia filed for personal bankruptcy in the US; in 2020, a Los Angeles court approved his plan: his assets went into a trust for creditors, who were to be repaid from his stake in Faraday Future.
@@ -49,6 +55,8 @@ On July 20, 2020, LeTV was delisted. Its final price: 0.18 yuan; about 99.9% of 
 In April 2021, the CSRC fined Jia 241 million yuan and banned him from China’s securities market for life. According to the regulator, LeTV had inflated its revenue by 1.87 billion yuan between 2007 and 2016.
 
 Sometimes “next week” isn’t a promise. It’s a way of life.
+
+## Six years to launch a car
 
 In July 2021, Faraday Future went public on Nasdaq through a SPAC merger. The FF 91, unveiled in 2017, entered production in spring 2023 — six years later. In 2023 the company handed over 10 cars: four sold, six leased. According to its filings, by spring 2025 the total delivered was around sixteen. Price: about $300,000 apiece.
 
@@ -63,6 +71,8 @@ An intermission. Four lines I couldn’t help writing.
 *“I’ll be back,” he said, “in just a week — Once my car is ready for the street.”* *Nine years on, the weeks have all gone by;* *The calendar’s still waiting for that “Hi.”*
 
 (My own verse. I’m about as much of a poet as the FF 91 is a production car: technically yes, numerically no.)
+
+## Not a restart but a very long teaser
 
 These days Jia’s title is founder and global co-CEO of Faraday Future. Every week he publishes an update for investors. Every. Single. Week.
 

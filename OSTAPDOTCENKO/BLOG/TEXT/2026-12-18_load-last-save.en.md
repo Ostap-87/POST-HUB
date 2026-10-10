@@ -22,6 +22,8 @@ But games have one thing I’ve envied my whole business life. The “Load Last 
 
 Business has no such button. But one Japanese company seems to have found it anyway.
 
+## The idea was good, the name was not
+
 First there was the Wii. A console played by grandmothers, kids and whole departments at office parties. More than 101 million sold. Nintendo back then was like a guest who turns up to a party in a strange costume and becomes the most popular person in the room.
 
 In November 2012 its successor arrived: the Wii U. The big idea was a controller with its own screen. Play on the TV, or on that screen while someone else in the family watches a show.
@@ -34,11 +36,15 @@ As a marketer I know this mistake by heart. You invent something new but are so 
 
 One letter cost Nintendo several years.
 
+## A very Japanese slide down the stairs
+
 Now the dry numbers, the kind read out to shareholders with a straight face. In January 2014 Nintendo cut its Wii U forecast for the fiscal year from 9 million to 2.8 million and swapped a projected profit for a loss. It ended up selling 2.72 million that year. Operating loss: 46.4 billion yen. The third year in a row.
 
 Lifetime Wii U sales: 13.56 million. Seven and a half times fewer than the Wii. One of the biggest flops in the company’s history.
 
 People compare failure to a fall. This wasn’t a fall. It was a very polite, very Japanese slide down the stairs. One step at a time, with a bow on each.
+
+## He started the cuts with himself
 
 And now the reason I sat down to write this.
 
@@ -64,6 +70,8 @@ In March 2015 Iwata announced that Nintendo was working on a new platform codena
 
 He never saw how the story ended. That still bothers me a little, though of course I never knew him. At the 2005 Game Developers Conference he described himself this way: “On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.” A good order of things. Many executives I’ve met keep it the other way round: in their hearts, they carry a business card.
 
+## A blueprint drawn on the wreckage of the Wii U
+
 On March 3, 2017, the Nintendo Switch came out. Look at what’s in it. A screen you can take away from the TV — the very idea of the Wii U, finally carried all the way: now the console is the screen. A name you can’t confuse with anything. And games.
 
 The same day saw the release of The Legend of Zelda: Breath of the Wild, on two platforms at once: the new Switch and the old Wii U. Failure and success launched on the same day with the same game.
@@ -73,6 +81,8 @@ Mario Kart 8, released on the Wii U in 2014, was reissued for Switch as Mario Ka
 By summer 2026 the Switch had sold 156.59 million units. By the end of 2025 it had overtaken the Nintendo DS to become the best-selling console in the company’s history. Its successor, Switch 2, launched in June 2025, sold more than 23 million in just over a year.
 
 The Switch blueprint was drawn on the wreckage of the Wii U. Almost nothing was thrown away — not the ideas, not the games, not the people who made them.
+
+## Don’t delete the people who remember where the pit is
 
 I work a lot with Asian companies, and I notice that failure there is often handled differently than at home. Not “tear it all down and start over,” but “keep everything that works and redo what doesn’t.” It’s slower. It’s duller for the press. But it seems to be the only way not to lose along the way the thing it all started for.
 

@@ -20,17 +20,23 @@ In the GLP-1 story, China is writing its reply differently. Not with a slide, bu
 
 The mandatory disclaimer: I’m not a doctor and I’m not recommending anything to anyone. No drugs, no doses. Just markets, science and business.
 
+## A co-authored reply
+
 The lead character is mazdutide from Innovent, based in Suzhou. In June 2025, China’s regulator approved it for chronic weight management in adults, and in September for blood-sugar control in type 2 diabetes. It’s the world’s first approved drug acting on both the GLP-1 and glucagon receptors. Structurally it’s an analogue of oxyntomodulin, a hormone the gut produces naturally that knocks on both doors at once.
 
 Now the honest detail Chinese press releases say quietly and I’ll say out loud: the molecule was invented at Eli Lilly. Innovent licensed the China rights in 2019; Lilly kept the rest of the world. The clinical trials, the approval and the launch were done from Suzhou.
 
 So it’s a co-authored reply: the idea from Indianapolis, the handwriting from Suzhou. Like a thesis your professor came up with but you had to defend. And you defended it first in the world.
 
+## A duel with seconds in white coats
+
 Speaking of courage. Detergent commercials always compare the new product to “ordinary powder.” Ordinary powder is a nameless character that has lost every ad for forty years and never sued.
 
 Innovent did the opposite. In the DREAMS-3 trial, mazdutide went head-to-head with semaglutide — the market leader, by name. 349 adults in China with type 2 diabetes and obesity, 32 weeks. The main endpoint: the share of participants who reached blood-sugar targets and lost at least 10% of body weight. Mazdutide: 48%. Semaglutide: 21%. The results were announced in October 2025.
 
 Naming the leader isn’t marketing. It’s a duel with seconds in white coats.
+
+## Invented in China from start to finish
 
 For molecules invented in China from start to finish, you go to Hangzhou — and look at exports.
 
@@ -39,6 +45,8 @@ In March 2026, Hangzhou-based Sciwind won approval for ecnoglutide for weight ma
 The loudest Chinese replies have gone abroad by mail. In 2024 Hengrui licensed its metabolic molecules to US-based Kailera: $100 million upfront, $10 million for tech transfer, up to $6 billion in future payments, plus equity. In April 2026 Kailera listed on Nasdaq, raised $625 million, and rose about 63% on day one. Hengrui’s stake was worth about $300 million. In June 2025, Hansoh sold Regeneron the ex-China rights to its dual agonist: $80 million upfront and up to $1.93 billion more.
 
 We used to buy licenses in the West and spend years learning to make the same thing. Now the West buys licenses in China.
+
+## Five ways to reply to a market leader
 
 A list, then. Five ways to reply to a market leader, Chinese style.
 
@@ -49,6 +57,8 @@ A list, then. Five ways to reply to a market leader, Chinese style.
 5.  Don’t reply at all and wait for the leader’s patent to expire.
 
 The fifth seems to be the most popular. But I’ve written about that already.
+
+## A reply without money is a greeting card
 
 Now a little money, because a reply without money is a greeting card. L.E.K. Consulting, cited by SCMP, expects China’s GLP-1 market to reach $14 billion by 2030. Jefferies says about 80% of China’s weight-loss drugs are sold online, roughly 70% of that through JD Health. Innovent’s product revenue in the first half of 2026 was RMB 8.2 billion, up 57%. It didn’t break out mazdutide; analysts cited by the 21st Century Business Herald expect about RMB 1.8 billion in mazdutide sales for 2026.
 

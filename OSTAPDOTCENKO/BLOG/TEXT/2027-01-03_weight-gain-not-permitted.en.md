@@ -20,15 +20,21 @@ When I was a kid in the Soviet Union, the state also cared about our figures. Th
 
 Later the state lost interest in our waistlines, and frankly, we took advantage.
 
+## A year that lasts three years
+
 China went the other way. In June 2024, the National Health Commission and fifteen other agencies launched a three-year campaign called “Weight Management Year.” A year that lasts three years. Only government programs and your neighbors’ renovations work like that.
 
 The reason is simple and unpleasant. As of 2020, 34.3% of Chinese adults were overweight and 16.4% obese: more than half combined. Obesity among 6-to-17-year-olds is close to 20%. Forecasts cited by Chinese doctors and media suggest more than two-thirds of adults could be overweight or obese by 2030, with related medical costs reaching 418 billion yuan, a fifth of national health spending.
 
 A fifth of the health budget. That’s no longer a waistline. It’s a budget line.
 
+## The market heard “buy”
+
 In March 2025, Health Minister Lei Haichao discussed the campaign at a press conference during the parliamentary session, and China reacted the way it does: “the state is calling on you to lose weight” went viral. Shares in fitness app Keep rose nearly 5% the next day, and searches for semaglutide on Meituan’s pharmacy service jumped 180% in a week, according to Jing Daily.
 
 The state said “lose weight.” The market heard “buy.”
+
+## Five specialists per waistline
 
 The campaign itself proposes sharing responsibility among government, business, employers and individuals; more scales in homes and hotels; education on eating and exercise; and weight-management clinics in hospitals. In April 2025, health authorities told major national and provincial hospitals to have such clinics almost universally by the end of June. Each has a team: pediatrician, general practitioner, endocrinologist, clinical nutritionist and a traditional Chinese medicine specialist. Lifestyle first; drugs only when indicated.
 
@@ -40,6 +46,8 @@ A parody decree. Nobody issued it, but judging by social media, many people read
 
 “Order for a Single Apartment. 1. Place scales in plain sight. Do not hide them under the bathtub. 2. Weigh yourself in the morning, before tea and before the news. 3. Do not discuss the result with relatives at the holiday table. 4. Do not set the holiday table. 5. Item 4 is advisory.”
 
+## Lose weight, at your own expense
+
 Now the market, since this column is about peptides and the most famous peptides of the decade are GLP-1 drugs. Market and paperwork only; no advice.
 
 China approved Novo Nordisk’s semaglutide and Eli Lilly’s tirzepatide for weight management in mid-2024, and in June 2025 Innovent’s mazdutide, the world’s first dual GLP-1/glucagon receptor agonist approved for weight loss. Semaglutide’s patent in China expired on March 20, 2026, and more than ten local companies lined up. L.E.K. analysts think China’s GLP-1 market could reach 100 billion yuan by 2030.
@@ -47,6 +55,8 @@ China approved Novo Nordisk’s semaglutide and Eli Lilly’s tirzepatide for we
 But one detail explains everything: in China, GLP-1 drugs for weight management aren’t covered by state insurance. In July 2026 semaglutide joined the national essential medicines list, but only for type 2 diabetes.
 
 Chinese dialectics: the state says you must lose weight. And adds: at your own expense.
+
+## The state is calling on you to stock up on muscle
 
 Two years into the campaign, Xinhua ran a piece whose headline I consider the best review of any government program: “The state won’t let you get fat, but it never told you to get thin.” At one weight clinic, doctors said, fewer than a third of patients were actually obese, about 60% overweight, and nearly one in ten had a normal weight but wanted to lose more. At another hospital, a doctor said bluntly that such patients are refused. Social media, meanwhile, invented the “magic shot to slim while lying down,” and then a new meme: “the state is calling on you to stock up on muscle.”
 

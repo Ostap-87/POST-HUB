@@ -20,6 +20,8 @@ My profession loves fire. Hot deals, burning deadlines, “a product that will s
 
 Then one day the market took it literally. Ever since, whenever I type “hot offer” to a client, I pause for a second.
 
+## Energy density is a wonderful thing
+
 On August 2, 2016, Samsung unveiled the Galaxy Note 7 in New York. It went on sale on August 19. A big screen, a stylus, an iris scanner and a 3,500 mAh battery with the highest energy density of any Samsung device at the time. Reviewers loved it.
 
 Energy density is a wonderful thing. Especially when the energy stays inside.
@@ -27,6 +29,8 @@ Energy density is a wonderful thing. Especially when the energy stays inside.
 Within days, reports came in of phones overheating and catching fire. In the US alone, Samsung received 92 such reports: 26 involving burns, 55 involving property damage. On September 2, the company announced a recall of 2.5 million phones in ten markets. Owners got replacements. New, checked, safe.
 
 The safe replacements started burning too.
+
+## A phone that didn’t want to fly
 
 In early October, a Southwest flight was evacuated before takeoff after a powered-off Note 7 started smoking. On October 9, Samsung stopped exchanges and US carriers stopped sales. On October 11, Samsung announced that Note 7 production was ending for good.
 
@@ -44,6 +48,8 @@ Now some dry numbers, the kind companies read aloud with very straight backs. In
 
 The expensive part of a recall isn’t the phones. You recall trust along with the product, and trust is always out of stock.
 
+## Not the fire, but what came after
+
 Here’s what I actually sat down to write about. Not the fire. What came after.
 
 Samsung could have quietly buried the model, changed the name and moved on. Instead it ran an investigation with about 700 researchers and engineers. They tested more than 200,000 assembled phones and over 30,000 batteries. UL and Exponent in the US examined the batteries separately; Germany’s TÜV Rheinland looked at the supply chain. On January 23, 2017, in Seoul, mobile chief Koh Dong-jin faced the press, apologized and explained what they’d found.
@@ -56,6 +62,8 @@ One was too small for what it carried. The other was sloppy at the seams. Come t
 
 Koh called the episode a chance to strengthen lithium-ion battery safety for the whole industry. Coming from a man whose flagship had just gone up in smoke, it sounds odd. But it’s honest: it’s better to learn from other people’s fires than from your own, and somebody had to burn first.
 
+## The finest poem a corporation has written
+
 The main outcome was the 8-Point Battery Safety Check. I’ll list it in full because I consider it the finest poem a corporation has ever written.
 
 Durability testing: overcharging, nail puncture, extreme temperatures. Visual inspection against standard criteria. X-ray. Large-scale charge and discharge. A test for leaking volatile organic compounds. Disassembly, checking tab welds and insulation tape. Accelerated usage, as if the phone had been used for a long time without mercy. And voltage checks all the way from component to finished device.
@@ -63,6 +71,8 @@ Durability testing: overcharging, nail puncture, extreme temperatures. Visual in
 Look at point six. Disassembly, welds, insulation tape. Exactly what burned.
 
 Every line in a safety manual is somebody’s fire. You just can’t always tell whose.
+
+## To come back, it had to get a little weaker
 
 And now the epilogue, without which this column would have a different name.
 

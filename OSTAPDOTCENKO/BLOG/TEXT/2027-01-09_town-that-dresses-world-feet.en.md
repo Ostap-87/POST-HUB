@@ -28,6 +28,8 @@ You were with me at every meeting. In every factory where they hand you shoe cov
 
 I’m asking now. Honestly, I don’t know. But statistically, the odds that you’re from Datang are better than one in three.
 
+## Three pairs for every person on Earth
+
 Datang is a district of Zhuji, in Zhejiang province. According to trade publications, it produces around 25 billion pairs of socks a year — roughly 70% of China’s output and more than a third of the world’s. There are about 13,000 sock and sock-related businesses and up to 200,000 workers. Xinhua put it more simply: three pairs for every person on Earth. Every year.
 
 I checked my drawer. I’m short. Someone must be wearing mine.
@@ -40,6 +42,8 @@ The machines were hand-cranked. One pair, turn after turn, until a sock came out
 
 The town that used to knit by night now stays up officially.
 
+## The town hangs on a button
+
 Speaking of small things that hold the world together.
 
 In Yongjia County there’s a place called Qiaotou — “China’s button capital.” In the late 1970s, People’s Daily reports, a village official named Wang Suinai started selling buttons from a stall by the stone bridge, with about 500 yuan in capital. Her first week’s takings reportedly beat her family’s annual income. In 1983 a market opened on the bridge, and the first 42 households got licenses. At one point Qiaotou held around 90% of China’s button market. Today, according to the same paper, it turns out about 100 billion buttons a year.
@@ -49,6 +53,8 @@ Let’s consider what hangs on a button.
 The button holds the jacket. The jacket holds the look. The look holds the negotiation. The negotiation holds the contract. The contract holds the factory. The factory holds the town.
 
 And the town, as it turns out, hangs on a button. Full circle. Buttoned up.
+
+## Great things for history, small things for everyone
 
 Now, fire.
 
@@ -66,6 +72,8 @@ Look at your tree. You’re still decorating it, and in Yiwu it’s already last
 
 In China, the holidays start in April. They’re just celebrated in December, like everywhere else.
 
+## The best object is the one you never notice
+
 Here’s what I wanted to say before the column runs out.
 
 We look at China and see the big things. Bullet trains, humanoid robots, skyscrapers, factories the size of towns. I’ve looked that way myself. Nine times in this column I started big: a hundred million dancers, over a billion internet users, seven and a half million couriers.
@@ -75,6 +83,8 @@ But China starts in each of us with something small. A sock. A button. A lighter
 Whole towns spend their lives thinking about things nobody thinks about. So that nobody has to.
 
 The best object is the one you never notice. It means it works.
+
+## The man who watched finally looked down
 
 Now that the column is ending, I reread it and see that all nine pieces were about the same thing. People you can’t see for the scale. The granny with the speaker. The courier without a face. The old man pushing his cart home. The cashier asking, “Shall I heat that up?” The hawker with his ladle. The woman who walked into the traffic. The hand that tops up your cup.
 

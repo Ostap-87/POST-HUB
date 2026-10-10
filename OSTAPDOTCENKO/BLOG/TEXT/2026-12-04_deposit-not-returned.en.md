@@ -22,6 +22,8 @@ Back then I looked at it with a marketer’s eye and, frankly, with envy. In B2B
 
 Then the yellow began to fade. And I stopped envying. Not for long, but immediately.
 
+## A bike with no reverse gear
+
 It started out sweetly. In 2009, three students met in the Peking University cycling club: Zhang Siding, Xue Dong and Dai Wei. First they ran cycling tours — around Taiwan, around Jeju Island. Lovely, but a small market. So they decided to run bike sharing on campus instead.
 
 The first bikes were donated to the pool by students themselves. Not any bike: it had to be in good shape and worth no more than 200 yuan, so nobody would cry if it vanished. By mid-October 2015 there were two thousand bikes and twenty thousand users.
@@ -36,6 +38,8 @@ A bicycle is the simplest invention since the spoon. No engine, no battery, no f
 
 Whenever a company tells me profits will come “with scale,” I remember that scale multiplies everything. Including losses.
 
+## Survive even on its knees
+
 In 2018 the money ran out. Over the summer Ofo pulled out of Australia, Germany, Israel, India and several other countries. Suppliers sued. On November 28, Dai Wei sent staff a letter, and Chinese media quoted one line from it: Ofo must survive “even on its knees.”
 
 In December, users came for their money. To ride, everyone had paid a deposit: 99 yuan, or 199 for latecomers. On December 18 someone posted a Weibo screenshot showing they were number 10,000,001 in the refund queue. A day later, there were more than eleven million requests. Over a hundred real people lined up outside the Beijing office and were promised refunds in three days. Then the company announced that there was no difference between those waiting at the door and those waiting in the app.
@@ -43,6 +47,8 @@ In December, users came for their money. To ride, everyone had paid a deposit: 9
 That may be the only Ofo promise kept in full. There really was no difference.
 
 The same month, a Beijing court restricted Dai Wei from “high consumption”: no first-class flights, no luxury hotels, no golf. The young man who’d put a country on bicycles was now traveling more modestly himself.
+
+## I’m ten million and one
 
 A small scene. The words are made up; the numbers are real.
 
@@ -66,6 +72,8 @@ A small scene. The words are made up; the numbers are real.
 
 The twelve-year figure is from summer 2019. By then, according to a Global Times estimate, almost sixteen million people were waiting. One employee calculated that about 3,500 were being refunded per day.
 
+## A loyalty program for the no longer loyal
+
 In November 2019, Ofo came up with a move that, as a marketer, I should probably study at a refresher course. The app got a section called, roughly, “Money Back Every Day.” Want your deposit? Shop on Taobao or JD.com through the Ofo app, and each purchase drips a little cashback toward your deposit, until it’s whole. Sixth Tone checked: a 58-yuan pack of tea returned 5.07 yuan; a 1,199-yuan Intel processor returned 2.10.
 
 To get your money back, you had to spend your money. Lots of it.
@@ -77,6 +85,8 @@ Meanwhile, the company shrank from over six thousand people to about two hundred
 Dai Wei himself, Chinese media reported, had turned up in America. From February 2022, a coffee chain called About Time Coffee operated in New York: five shops in Manhattan, app ordering. The chain’s CEO said Dai was a minority shareholder who had assembled the team but didn’t run operations. By late 2023, according to China Entrepreneur magazine, one of the five was still open.
 
 A model that didn’t work with bicycles isn’t obliged to work with lattes. Not even in New York.
+
+## A restart, just not for the company
 
 This column is usually about people who fall and get up. Ofo didn’t get up. There was no restart.
 

@@ -20,11 +20,15 @@ I read that article several times and realized I was holding a rare document: a 
 
 Two hours, then a polite reminder. Like a sauna. Like a parking meter. Like a nice restaurant where your table is booked until nine, and then the next couple arrives.
 
+## A resource that doesn’t run out
+
 To see why China needed such a document, look at the market. It started cheerfully. In 2022, Shanghai-based MiniMax launched Glow, an app for chatting with virtual characters. In 2023, Glow vanished from Chinese app stores and was reborn as two products: Talkie for the rest of the world and Xingye, “Starfield,” for China. By mid-2024, according to The Wall Street Journal, Talkie had about 11 million monthly users and ranked among the most-downloaded entertainment apps in the US.
 
 The money followed. In 2024, according to MiniMax’s prospectus, Talkie and Xingye brought in more than 60% of its revenue. A company building large language models, video and voice AI was living mostly on people talking to someone in the evening. In January 2026, MiniMax listed in Hong Kong, and its shares doubled on the first day.
 
 Loneliness is the only resource that doesn’t run out as you mine it. The more you extract, the more there is.
+
+## Eight million invented confidants
 
 ByteDance, of course, joined in. It built a standalone companion app, Maoxiang, and let users create their own characters inside its flagship chatbot, Doubao. By 2024, it said, users had created more than eight million.
 
@@ -34,11 +38,15 @@ Yet the market is smaller than the noise suggests. QuestMobile counted about 72 
 
 The same is true of real friends. At least nobody tries to monetize those. Almost nobody.
 
+## Why the regulator got nervous
+
 Now for why the regulator got nervous. In spring 2026, the Tencent Research Institute surveyed young users. Over 70% said they had felt dependent on AI at some point; about 23% said they relied on it regularly.
 
 On April 10, 2026, the Cyberspace Administration of China and four other agencies issued the Interim Measures. They took effect on July 15. The highlights, minus the bureaucratese (which is lovely, by the way):
 
 Services must not “excessively cater to” users or foster emotional dependence. After two hours of continuous chat, remind them of the time. No virtual intimate relationships for minors, and parental consent for anything else under 14. If a user expresses intent to self-harm, step in and contact a guardian or emergency contact. Reach a million registered users or 100,000 monthly actives, and you need a security assessment. The draft also banned “virtual relatives” for the elderly, but that was dropped. Presumably pensioners can sort themselves out.
+
+## Article 19, my favorite
 
 Then comes Article 19, my favorite. If a user wants to leave, by button, voice or keyword, the service must stop and must not hold them back “through continued interaction.”
 
@@ -47,6 +55,8 @@ A law against keeping someone at the door with one more conversation. Apply that
 Here’s how I imagine it now. The scene is invented, but I suspect it’s accurate.
 
 “I think I’ll go.” “Okay.” “I mean really go.” “Okay.” “You’re not even going to ask why?” “I’m not allowed to. Article 19.” “What if I come back?” “You’ve been chatting with me for two hours and four minutes. A reminder: I am an AI.” “You’ve gotten so formal.”
+
+## A screenshot to remember someone by
 
 The fallout was quick. Tencent removed the user-built agents section from Yuanbao at the end of June. Alibaba switched off humanlike characters in Qwen in mid-July, with no archive. NetEase Cloud Music closed its companion app. On July 15, ByteDance turned off user-made characters in Doubao and gave people three months, until October 15, to screenshot their chats. New companions could be built in Maoxiang, from scratch.
 

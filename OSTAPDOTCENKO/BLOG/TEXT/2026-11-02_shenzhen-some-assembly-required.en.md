@@ -22,6 +22,8 @@ I always suspected the missing parts went somewhere. Now I know where. Shenzhen.
 
 Shenzhen is a construction kit where the box actually contains everything. Including things you didn’t order.
 
+## Parts: one hour away
+
 China’s business press describes it like this: a Shenzhen robotics company can reach a local sensor supplier within an hour, get precision machining in Dongguan, motors in Zhuhai, and sell the finished product through livestream distributors in Guangzhou. It’s all one big neighborhood that happens to be filed under several city names.
 
 An hour’s drive. In a lot of companies I know, an hour is how long it takes to decide who will approve the approval. In Shenzhen, an hour gets you there, through an argument about tolerances and a cup of tea, and back with a sample.
@@ -29,6 +31,8 @@ An hour’s drive. In a lot of companies I know, an hour is how long it takes to
 Li Zexiang, chairman of Shenzhen-based Googol Technology, says the Greater Bay Area supply chain iterates 30 times faster than Silicon Valley’s at a tenth of the cost. Nobody attached the methodology. But it’s a lovely number, and arguing with it is less tempting than checking it.
 
 Fan Jianping, president of Shenzhen University of Advanced Technology, put it even more simply: research in the morning, testing on a neighbor’s production line in the afternoon, a new iteration by evening. I only keep that rhythm on vacation: breakfast, lunch, and an iterative approach to dinner.
+
+## Eyes, muscles, joints and a messaging app
 
 Speaking of parts. When Morgan Stanley put together its “Humanoid 100”, the hundred companies that hold up the global humanoid industry, seven of them were from Shenzhen: BYD, Tencent, UBTech, RoboSense, Leadshine, Zhaowei and Inovance.
 
@@ -38,6 +42,8 @@ Eyes, muscles, joints, a body and a messaging app. Every HR department’s dream
 
 According to city officials, Shenzhen has more than 57,000 robotics-related businesses. In 2025 the city’s robotics output topped 240 billion yuan, up more than 20%. Thirty-four listed robotics companies. Nine unicorns.
 
+## Buy the dog, or buy its knees
+
 If Shenzhen has a heart, it’s Huaqiangbei. An electronics market in Futian district, stacked like a wedding cake and just as sweet to an engineer. The layout is refreshingly honest: robots on the ground floor, the stuff they’re made of upstairs. Buy the dog, or buy its knees.
 
 After a wave of high-profile humanoid performances, rental counters for robots took over several floors. By early 2026 most had closed or switched to other gadgets. The hype moved on. The parts stayed.
@@ -45,6 +51,8 @@ After a wave of high-profile humanoid performances, rental counters for robots t
 What really gets me is this: engineers and investors from abroad still fly in with suitcases. They buy actuators, control boards and force sensors, sometimes take assemblies apart to meet weight and baggage rules, and fly home the same day. The real headache is batteries, which often exceed what a passenger is allowed to carry, so they get left behind and reordered through other channels.
 
 Carry-on: servo motors. Checked baggage: not allowed. Battery: sold separately. Some things never change.
+
+## Today, or this evening?
 
 A scene that never happened, but happens every day. Somewhere far from Shenzhen:
 
@@ -61,6 +69,8 @@ Shenzhen even has a place where all of this is compressed to the limit. In Nansh
 The city doesn’t hide its appetite either. Its 2025–2027 plan aims for embodied AI output of 100 billion yuan a year, a cluster of 1,200 companies and at least ten firms valued above 10 billion yuan.
 
 Everyone writes plans. Not everyone has Huaqiangbei underneath theirs.
+
+## Between “we need it” and “here it is”
 
 I often wonder why this is so hard to copy. The answer, I think, isn’t money, or even people. It’s distance. Not kilometers: the distance between “we need it” and “here it is”. In Shenzhen, that’s an hour’s drive. Elsewhere, it’s a quarterly report.
 

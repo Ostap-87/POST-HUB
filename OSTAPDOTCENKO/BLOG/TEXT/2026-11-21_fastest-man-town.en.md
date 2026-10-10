@@ -22,6 +22,8 @@ But there’s a man in China who does everything faster than me. Faster than any
 
 Order accepted. He’s on his way.
 
+## Not a street but a beehive
+
 Have you seen a big office tower in Shanghai or Shenzhen at noon? It’s not a street. It’s a beehive. Yellow jackets, blue jackets, and since 2025 red ones too. Scooters parked in rows like horses at a hitching rail. Riders sprint to the pickup racks; the racks are stuffed with bags; the bags are labeled with phone numbers. Nobody talks. Everybody knows what to do.
 
 If government ministries worked like this, the country would have taken off long ago. Well — further off.
@@ -31,6 +33,8 @@ How many are there? According to Meituan itself, about 7.45 million riders earne
 The company paid them about 80 billion yuan for the year. TechNode did the division and got roughly 3.65 yuan per delivery. Less than the coffee he just brought you.
 
 That’s China in a nutshell. Enormous numbers that turn very small once you get up close.
+
+## Trapped in the system
 
 Speaking of speed.
 
@@ -44,11 +48,15 @@ Eight minutes. Eight whole minutes. A man was granted eight extra minutes of lif
 
 It made me wonder how many minutes of flexibility I’ve been given. How many times has anyone told me: it’s fine, wait for the elevator, slow down at the crossing? Not many. At least the rider got it in writing.
 
+## The shortest relationship of my life
+
 A short scene. It’s invented, but invented from things I’ve watched at building entrances.
 
 — Where are you? — Downstairs. — I can’t see you. — I’m in a yellow jacket. — Everybody’s in a yellow jacket. — I’m the one looking at his phone. — Everybody’s looking at their phone. — I’m the one who’s already leaving. Your order’s on the rack. Five stars, please.
 
 And he’s gone. I stand there holding the bag, thinking: that was the shortest relationship of my life. Fifteen seconds, three lines, and a request for a rating.
+
+## The riders held up, the servers didn’t
 
 Now, the war.
 
@@ -59,6 +67,8 @@ A hundred and twenty million orders in a day. The riders held up. The servers di
 As a summary of the balance of power between people and machines in 2025, I can’t think of a better one.
 
 That same year, the big platforms announced they would gradually provide social insurance for riders: JD for full-time riders starting March 2025, Meituan starting with its most regular riders. Slowly, in stages, with pilots. But they announced it. The fastest man in town gets his protection at the slowest possible pace. Apparently that’s how balance works.
+
+## Speed isn’t a technology, it’s a person
 
 The fastest man in town isn’t the happiest. I understand that. But he isn’t the unhappiest either. Many riders come from small towns and villages. This is their first money in a big city, their first Shanghai, seen at thirty kilometers an hour between traffic lights.
 

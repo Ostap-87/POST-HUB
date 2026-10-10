@@ -22,6 +22,8 @@ Numbers first, or this becomes a fashion column. Omdia counted 8.7 million AI gl
 
 So the world mostly wears American glasses, while China looks at the world through its own. Who sees better is an open question.
 
+## A shopping mall on the bridge of your nose
+
 Xiaomi entered the market in June 2025 the way it enters every market: at a price that makes rivals take off their glasses and rub their eyes. 1,999 yuan. In the first month, said product chief Li Chuangqi, it sold about 50,000 pairs, several times his own forecast, which he called “pessimistic.” The goal: more than five million a year within three years.
 
 I love a product manager who calls his own forecast pessimistic. It means you set the bar low so you can clear it with ceremony. In marketing, that’s called planning. Everywhere else, it’s called experience.
@@ -32,15 +34,21 @@ Huawei arrived in spring 2026: from 2,499 yuan, 35.5 grams, QR payments, first-p
 
 Progress is when judgment becomes a subscription.
 
+## The state stepped in with a gift
+
 Then the state stepped in, and in China it often steps in with a gift. From 2026, smart glasses were added to the national consumer-electronics subsidy for the first time: 15% back, up to 500 yuan, for glasses priced at 6,000 yuan or less.
 
 A government paying for your glasses is rather touching. Presumably it wants citizens to look to the future. At a discount.
+
+## The hundred glasses war that never happened
 
 China’s tech industry loves wars with numbers in their names. There was the “hundred models war,” when anyone with three programmers and a graphics card launched a chatbot. For the 618 shopping festival in 2026, the industry expected a “hundred glasses war.” Rokid founder Zhu Mingming said his company had set aside 200 to 300 million yuan for it.
 
 The war, he said, never happened.
 
 That’s my favorite story of the year. You prepare for battle, stock up on ammunition, march onto the field, and the enemy doesn’t show. You stand there with your budget like a groom with flowers. Zhu also noted that no Chinese brand yet sells a million pairs a year, and memory chips have become so expensive that some makers can’t even quote a price. Glasses that don’t know what they cost are no longer a gadget. They’re philosophy.
+
+## The impossible triangle
 
 Why no hit? Chinese business media call it the “impossible triangle”: performance, battery life, weight. Want smart glasses? You need a battery. Add the battery, and they get heavy. Make them light, and they get dumb.
 
@@ -55,6 +63,8 @@ Still, the market is growing, and that part isn’t hype. Omdia expects more tha
 Four and a half million pairs. Line them up and you get a queue of people all asking each other the same question: “Are you recording me right now?”
 
 That’s the question of our era. We used to ask, “Can you hear me?” Now we ask, “Are you filming me?” The difference is small. Living with it is not.
+
+## The humblest gadget we have
 
 Here’s what I like about glasses as an object. They’re the humblest gadget we have. People wear watches for status, phones for anxiety and headphones so they don’t have to hear anyone. Glasses are worn to see. That’s all. They’ve done one honest job for seven hundred years without asking for a single update.
 

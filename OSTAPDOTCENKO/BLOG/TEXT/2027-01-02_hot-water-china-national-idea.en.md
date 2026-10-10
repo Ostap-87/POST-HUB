@@ -26,6 +26,8 @@ In China I ask for water. I get boiling water. I ask for cold. I get warm. That�
 
 Over years of trips I have drunk, by my estimate, a tanker truck of hot water in China. The estimate is made up. The tanker truck is not.
 
+## The calmest place on the fastest train
+
 Let’s start with the train.
 
 Chinese high-speed trains have hot-water boilers. Not as a perk, as a rule: according to Sixth Tone, they’re mandatory. Offices, schools, ministries and stations have the same thing: a tap, cups beside it, a queue beside the cups.
@@ -33,6 +35,8 @@ Chinese high-speed trains have hot-water boilers. Not as a perk, as a rule: acco
 The train moves so fast that the view outside never quite settles into a landscape. Meanwhile there’s a line at the boiler. A perfectly still one. A man with a thermos, a woman with instant noodles, someone with a jar of floating leaves. The calmest place on the fastest train in the world is the queue for hot water.
 
 Progress is when the train goes twice as fast and the water still boils at the same speed.
+
+## Not a habit but a history
 
 Where does it come from? I asked. People gave me different answers, but always with the same expression, as if I’d asked why one breathes.
 
@@ -46,6 +50,8 @@ Think about it. Two parties that spent twenty years at war disagreed on everythi
 
 Ideologies change. The temperature doesn’t.
 
+## Drink more hot water
+
 Speaking of which — the phrase.
 
 China has one piece of advice for everything: duō hē rè shuǐ. “Drink more hot water.” People say it when you have a cold, when you’re tired, when you’re down. It’s been an internet meme for years.
@@ -58,6 +64,8 @@ Chinese friends told me the phrase is mocked precisely because it’s useless. A
 
 Cold water quenches thirst. Hot water quenches awkwardness.
 
+## Rock cooled to a comfortable temperature
+
 Now, the thermos.
 
 In the summer of 2017, a photographer was shooting the veteran Chinese rock band Black Panther. The drummer, Zhao Mingyi, fifty years old, leather, legend, walked toward him holding a thermos with goji berries floating inside. The photographer couldn’t help himself: unbelievable — once a man of iron, now coming at me with a thermos.
@@ -69,6 +77,8 @@ Best thermos ad campaign in history, if you ask me. And nobody paid for it.
 Most of those thermoses, incidentally, come from one place. Yongkang County in Zhejiang makes over 600 million cups and kettles a year. Together with its neighbors, that’s more than 70% of China’s output, and China makes about 60% of the world’s insulated cups. According to Economic Daily, the cluster also produces around 80% of the leading Western brands under contract.
 
 So you buy an American thermos, fill it with iced coffee and head off camping. Meanwhile, the thermos has gone home. You just didn’t notice.
+
+## The world has started drinking hot water
 
 And now the funny part. The world has started drinking hot water.
 

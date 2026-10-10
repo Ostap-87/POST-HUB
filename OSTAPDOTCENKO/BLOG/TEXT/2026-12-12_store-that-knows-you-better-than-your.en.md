@@ -20,6 +20,8 @@ It’s the first thing you hear when the door slides open. “Welcome.” Said l
 
 My Japanese consists of three words: arigato, sumimasen and irasshaimase. I say the first two. The third I only ever hear. In my whole life I’ve never once had the chance to welcome a Japanese person anywhere. They always get there first.
 
+## Several institutions folded into one room
+
 A konbini, the dictionary says, is a convenience store. Dictionaries say a lot of things. In reality it’s several institutions folded into a room the size of a generous kitchen. Let’s take a tour, department by department.
 
 **The Kitchen**
@@ -54,6 +56,8 @@ The biggest chains — Seven-Eleven, Lawson, FamilyMart — are on the Japanese 
 
 Think about that. There’s a country where the corner shop is officially part of the rescue system. In much of the world the corner shop is officially part of the “closed for stocktaking” system.
 
+## It doesn’t know your name, it knows your hour
+
 **The File on You**
 
 Now about that headline.
@@ -63,6 +67,8 @@ In accounts of Japanese konbini from the early 2000s there’s a detail that flo
 They say a spouse knows everything about you. Maybe. A spouse knows what you like. The konbini knows what you buy when you’re feeling low. Between us, those are two different lists.
 
 The store doesn’t know your name. It knows your hour.
+
+## The department that isn’t on the floor plan
 
 **The Confidant**
 
@@ -85,6 +91,8 @@ Shall I heat it up?
 And you realize that in the whole day nobody else has asked you anything. Not in the meeting, not on the train, not in your messages. Only him. Only this.
 
 Yes, you say. Please. Heat it up.
+
+## Only the konbini glows
 
 Three in the morning. The city is asleep. Windows dark, signs off, taxis cruising empty. Only the konbini glows, like an aquarium where someone left the light on for the fish.
 

@@ -24,11 +24,15 @@ A week later the yuan were still in my pocket. Every one. Untouched. Like a muse
 
 My wallet stayed at the hotel. It used to stay there before, too, but back then it was forgetfulness. Now it’s adaptation.
 
+## Who scans whom
+
 China pays by phone. All of it. Not “many people,” not “in big cities.” All of it — from the Beijing restaurant to the roasted-chestnut cart, where the vendor looks a bit like a chestnut himself and the QR code is laminated, frayed at the corners, like a family heirloom.
 
 China has almost 1.1 billion internet users. That billion-plus stopped asking “cash or card?” long ago. The question now is: “Do you scan me, or do I scan you?”
 
 That’s the great philosophical question of modern China. Not “to be or not to be.” Who scans whom.
+
+## A two-yuan bottle and a QR code
 
 About cards. A plastic card in China is like a paper business card at a startup party: technically it exists, but handing one over feels awkward. The cashier looks at it like a floppy disk. There may be a terminal somewhere. In the back room. Under a box. If the owner remembers where he put it last year.
 
@@ -50,15 +54,21 @@ An intermission. A short list of things I’ve seen paid for by QR code in China
 
 The last one isn’t for sale, actually. It turns up by itself on about day three, the first time you pay without fumbling — casually, like a local.
 
+## A dead phone, a temporary loss of citizenship
+
 Now for the unnerving part.
 
 It’s unnerving when your phone dies. Anywhere else, a dead phone is an inconvenience. In China, it’s a temporary loss of citizenship. You exist, but you don’t. You’re hungry, but you can’t pay. You’re standing in a city of millions with yuan in your pocket, and here yuan are like Latin: everybody technically understands them, but speaking them out loud feels odd.
+
+## Somebody goes back for grandma
 
 In fairness, cash is legal tender in China and refusing it is not allowed. The central bank fines businesses for it, and means it. In 2020 it fined sixteen organizations, some of them up to 500,000 yuan. In 2024 the targets included a KFC franchise in Wuxi. The country that built one of the world’s most cashless economies also makes sure nobody bullies cash.
 
 That’s very Chinese. First everyone races ahead. Then somebody goes back for grandma.
 
 Because grandma has cash. So does grandpa. So does whoever never learned to scan. Speed is wonderful as long as there’s room in it for the ones who can’t keep up.
+
+## Money you can’t see
 
 I walk around Shanghai without a wallet. Convenient. Fast. Shop, taxi, coffee, metro — all with one gesture. Life becomes smooth as a screen.
 

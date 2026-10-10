@@ -22,11 +22,15 @@ I have a complicated, respectful relationship with teachers. They’re the only 
 
 So I read the story of a teacher turned salesman as a story about a colleague. The difference is that nobody ever banned me from my profession. I left on my own, and I’m still not sure it was a promotion.
 
+## His own first struggling student
+
 Yu Minhong took the gaokao, China’s college entrance exam, three times. He failed English twice. On the third try he got into Peking University — to study English. If you think about it, that’s the best ad for tutoring ever made: the man was his own first struggling student.
 
 He taught at the university, left, founded New Oriental in 1993, prepped students for the TOEFL and the GRE, and in 2006 took the company public in New York. New Oriental had a motto that every Chinese student who ever sat in its classrooms knows by heart: “Seek hope in despair, and life will shine in the end.”
 
 Hold on to that line. We’ll need it. Mottos are written in good times and tested in bad ones.
+
+## An industry shut down in roughly one meeting
 
 The bad times arrived in the summer of 2021. China introduced its “double reduction” policy: no more for-profit tutoring in school subjects for kids in compulsory education. An industry employing hundreds of thousands of people was shut down not in a year, not in a quarter, but in roughly one meeting.
 
@@ -37,6 +41,8 @@ Sixty thousand people is a small town. Picture a town where everybody is a teach
 And then there were the desks. Classrooms closed, leases ended, and brand-new furniture sat in empty rooms. In November 2021, Yu posted that New Oriental was donating nearly 80,000 sets of desks and chairs to rural schools. Branches from Zhengzhou, Xi’an, Chengdu, Wuhan, Urumqi and a dozen other cities shipped them out to villages.
 
 The desks were the only New Oriental staff laid off that year who ended up with a better job.
+
+## Hope turned up in the grocery aisle
 
 In December 2021, at rock bottom, Yu went live on Douyin and started selling rice, cooking oil, fruit and New Year gift boxes. The new venture was called Oriental Selection. Viewers noticed he sold oddly: every product came with a geography lesson. Where this corn grows, what the soil is like, what the climate does.
 
@@ -58,6 +64,8 @@ An intermission. Five things a teacher does better than any salesperson:
 4.  Works for a salary a salesperson would take as a personal insult.
 5.  Has no idea what corn costs.
 
+## An incident at recess
+
 Then came what schools call “an incident at recess.” In December 2023, the company fell out over who actually wrote the lines Dong Yuhui delivered on air: Dong or the editors. The quarrel went public, and East Buy shares dropped 22% in a few days. CEO Sun Dongxu was removed and Yu took the job himself. A joint stream in which Yu and Dong made up on camera drew nearly 34 million viewers.
 
 They made up. But in July 2024 Dong left anyway: East Buy sold him his own spin-off, Time with Yuhui, for 76.6 million yuan, and New Oriental covered the cost. Part of the audience followed him. Caixin reported East Buy’s gross merchandise volume fell nearly 40% over the following fiscal year.
@@ -65,6 +73,8 @@ They made up. But in July 2024 Dong left anyway: East Buy sold him his own spin-
 In November 2025, Yu confirmed that Sun Dongxu was leaving too. In summer 2026, Sun and two former East Buy hosts launched their own company: fresh meat, fruit, cosmetics. Basically, the East Buy catalog.
 
 The students grew up and opened their own school. The teacher, judging by his public comments, gave them his blessing. That may be the most teacherly moment in the whole story.
+
+## Back into the building through a different door
 
 Now the part that made me sit down and write this. While everyone was watching the livestreams, New Oriental quietly walked back into the building it had been thrown out of, through a different door: test prep for studying abroad, overseas study consulting, non-academic classes, study tours, learning devices.
 

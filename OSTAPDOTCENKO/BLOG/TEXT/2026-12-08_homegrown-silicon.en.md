@@ -27,15 +27,21 @@ Item six looks out of place. It’s the most important one.
 
 I understand chips the way the average driver understands an engine: I know where the fluids go, and I can nod knowingly at a strange noise. But in the Huawei Ascend story the engine isn’t the point. The point is how you drive when every gas station has been closed to you.
 
+## It’s called global reach
+
 In May 2019 the U.S. Commerce Department put Huawei on the Entity List. The restrictions were tightened turn by turn after that: American technology, foreign fabs, equipment. In May 2025 came guidance that moved the issue from selling to existing. Using Ascend 910B, 910C or 910D chips anywhere in the world, in Washington’s view, risks violating U.S. export controls, because the chips themselves were likely made in violation of them.
 
 Anywhere in the world. As a marketer, I recognize that. It’s called global reach.
+
+## Eight thousand average chips that get along
 
 Speaking of reach. At Huawei Connect in September 2025 the company published a multi-year roadmap: Ascend 950PR in Q1 2026, 950DT in Q4, then the 960 and 970. The 950 series uses Huawei’s own HBM memory. And an Atlas 950 SuperPoD with 8,192 chips.
 
 Deputy chairman Eric Xu said something you rarely hear at a company’s own conference: a single Huawei chip still trails Nvidia. So the bet is on interconnect, on making many average chips act like one strong one.
 
 If you can’t build one strong chip, build eight thousand average ones and teach them to get along.
+
+## Paying in currencies you didn’t expect
 
 Now the price. Self-reliance is always more expensive; you just pay in currencies you didn’t expect.
 
@@ -47,6 +53,8 @@ And you pay in doubt. When DeepSeek V4 came out in April 2026, its technical rep
 
 Still, on V4’s launch day Huawei, Cambricon, Hygon, Moore Threads and several other Chinese chipmakers announced that the model already ran on their hardware. Everyone in formation, everyone reporting for duty.
 
+## Sanctions are Huawei’s best sales team
+
 The most interesting part began when the ban was no longer needed. In January 2026 the U.S. formalized terms for selling Nvidia H200s to China: inspection on U.S. soil and 25% of each sale to the Treasury. Permitted. Go ahead.
 
 China didn’t. In May, after meeting Xi Jinping, President Trump told reporters Beijing had “chose\[n\] not to” approve purchases because it wants to develop its own. Nvidia CEO Jensen Huang said the company’s China share had fallen from about 95% to nearly zero. In its report for the quarter ending in late July, Nvidia disclosed its first H200 sales to Chinese customers: a small number, under 1% of data center revenue.
@@ -54,6 +62,8 @@ China didn’t. In May, after meeting Xi Jinping, President Trump told reporters
 Sanctions are Huawei’s best sales team. They work for free, seven days a week.
 
 I’ve watched the same scene in negotiations for years. The client says they support domestic suppliers, then quietly asks whether the imported option might still be possible. This time in China there was no one to ask. Item six did its job.
+
+## A challenger pulling its deadlines forward
 
 At Huawei Connect in Shanghai in September 2026, chairman Wang Tao said the Ascend 960DT would be ready in Q1 2027, three quarters ahead of plan, with the 960PR inference chip in Q3. Then the 970 in 2028 and the 980 in 2029. One chip a year, as promised.
 

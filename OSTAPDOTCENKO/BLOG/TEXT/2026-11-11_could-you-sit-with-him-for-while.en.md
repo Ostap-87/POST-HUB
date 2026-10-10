@@ -22,6 +22,8 @@ Russian has a word for that caregiver: *sidelka*, literally “the one who sits.
 
 A robot *sidelka*, by the way, never sits. It has nothing to sit on. It has wheels.
 
+## First classify old age neatly
+
 Start with Japan, because Japan started first. As of September 2026, a record 29.6% of its population is 65 or older. Nearly one in three. The health ministry expects a shortfall of around 570,000 care workers by fiscal 2040.
 
 Japan responded the way it responds to everything: with blueprints. Since 2012, the trade and health ministries have jointly set priority areas for care technology. Since 2015, the central government has funded prefectural subsidies for care robots. By 2025 the list covered 9 areas and 16 categories: transfers, toileting, bathing, monitoring, communication, dementia care.
@@ -29,6 +31,8 @@ Japan responded the way it responds to everything: with blueprints. Since 2012, 
 By 2018 the government had spent more than $300 million on care-robot R&D alone.
 
 Very Japanese: first classify old age neatly, then automate it.
+
+## A small zoo in the nursing homes
 
 Then things got interesting. Japan’s nursing homes hosted a small zoo.
 
@@ -44,6 +48,8 @@ One number explains it all. In a 2019 national survey of more than 9,000 Japanes
 
 A very human statistic. We’ll let a machine watch over a person. Everything else, not yet.
 
+## The robot gave her time to sit down
+
 Now the part that rarely gets retold.
 
 Economists from Stanford, the University of Tokyo and Notre Dame studied hundreds of Japanese care facilities. Where robots were adopted, employment went up, not down: about 28% more care workers and 39% more nurses. Part-time staff roughly doubled, and facilities found it easier to keep people. Freed from some of the heavy lifting, caregivers spent more time on what the researchers called the “human touch.”
@@ -51,6 +57,8 @@ Economists from Stanford, the University of Tokyo and Notre Dame studied hundred
 The robot didn’t replace the caregiver. It gave her time to sit down.
 
 So Japan spent twenty years building a machine that gave the *sidelka* back her actual job. Sitting.
+
+## Chinese old age needs an assembly line
 
 Now China. Different scale, different temperament.
 
@@ -77,6 +85,8 @@ I read item nine three times. Japan built the seal separately. China wrote the s
 China also has makers who grew out of exactly this field. Shanghai-based Fourier started in 2015 with rehabilitation robots and exoskeletons that helped patients stand and walk again. The company says its equipment is used in more than 2,000 hospitals and institutions in 40 countries and regions. In August 2025 it unveiled GR-3, which it calls its first care-focused humanoid: 165 cm tall, cushioned upholstery, 31 pressure sensors to feel touch, eyes that blink. The slogan: “Love, above all functionality.”
 
 For now, Fourier candidly says, GR-3 is a companion and service assistant in public spaces; help with mobility and rehabilitation comes later.
+
+## Where the two schools meet
 
 That’s where the two schools meet. Japan said: a robot won’t replace a person, but it can free up their hands. China says: fine, then let’s build two hundred at once, teach them dialects and upholster them in car-grade leather.
 

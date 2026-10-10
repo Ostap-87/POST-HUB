@@ -20,6 +20,8 @@ When I was growing up, “Japanese” wasn’t an adjective. It was a seal of qu
 
 There’s an old line that a nation’s greatest invention is the one it forgot to sell. Japan invented the walking humanoid. Then it raised it beautifully — and let it move to another country.
 
+## The first to teach a robot to walk
+
 The timeline. In the early 1970s, Waseda University unveiled WABOT-1, the world’s first full-scale humanoid robot. It walked, talked and gripped objects. In the 1980s, WABOT-2 played a keyboard. Honda began its own research in the same decade, and in 2000 the world met ASIMO.
 
 ASIMO was a star. It climbed stairs, ran, and in 2014 kicked a ball around with the US president in Tokyo. In January 2002 it was “hired” as a demonstrator at Tokyo’s Miraikan science museum. Over twenty years it gave 15,466 demonstrations there. I checked: that’s the count as of the end of 2021.
@@ -30,6 +32,8 @@ Japan was the first to teach a robot to walk. And the first to give one a retire
 
 SoftBank’s Pepper, a semi-humanoid with a tablet on its chest, arrived in 2014 and was quietly halted in 2021 for lack of demand. From 2017 to 2021 the same SoftBank owned Boston Dynamics, then sold it to Korea’s Hyundai. Had it, held it, let it go.
 
+## The good became the enemy of the new
+
 Why? Japanese experts are refreshingly candid about it.
 
 Takaaki Shigemitsu, president of the consultancy Techshare, told the South China Morning Post that earlier Japanese humanoids “didn’t contribute to industrial work, only entertainment,” so public interest faded. Then AI arrived. Today’s robots are trained, not programmed, and Japanese universities are built around manufacturing-led engineering faculties, with too little AI talent. And success in traditional robotics made a sharp pivot almost impossible.
@@ -39,6 +43,8 @@ The perfect is the enemy of the good. In Japan, the good became the enemy of the
 Tim Hornyak, author of a book on Japanese robots, calls it “Galapagos syndrome”: Japanese inventions evolve in isolation, like tortoises on islands — beautiful, unique, and unable to swim to the mainland. “I think China has already stolen their lunch,” he adds.
 
 It was a Japanese lunch, mind you. A neat bento, the rice perfectly level. It’s just being eaten in Shenzhen.
+
+## Japan is selling shovels
 
 So what’s left? A lot. Much more than the headlines suggest.
 
@@ -54,11 +60,15 @@ I can picture the conversation. Imagined, of course:
 
 — Who are you? — I’m a G1. I’m two years old. — I’m ASIMO. I’m twenty-six. I played football with a president. — I pour drinks. — That’s… also a job. — It’s the only job. You said it yourself: entertainment isn’t enough.
 
+## Quietly and thoroughly
+
 Japan isn’t giving up; it’s just doing it the Japanese way, quietly and thoroughly. In 2025, Waseda University, tmsuk, Murata and SRE Holdings founded the Kyoto Humanoid Association to rebuild a domestic supply chain around Kyoto, starting with disaster-response robots. Kawasaki is showing Kaleido, a 191-centimeter humanoid. SoftBank agreed to buy ABB’s robotics business for $5.4 billion and announced a “physical AI” partnership with Yaskawa. And at the Humanoids Summit in Tokyo in spring 2026, Honda showed a four-fingered hand that tightens tiny screws and threads a needle.
 
 Threading a needle. In Japan, that used to be something grandmothers taught. Now they’re teaching robots. Maybe Japan’s next breakthrough won’t be faster or cheaper than China’s. It’ll be neater.
 
 Professor Hiroshi Ishiguro of Osaka University, who has built humanoids for decades, including a robot copy of himself, told AP that Japan has “a culture that’s receptive to robotics.” True. The Japanese aren’t afraid of robots. They’re polite to them. Perhaps too polite: while Japan was bowing, someone walked off with the robot.
+
+## Japan didn’t lose, it got tired first
 
 I don’t think Japan lost. I think it got tired first. That’s different. Whoever walks a road first is the first to sit down by the roadside, while those who started later and travel light rush past.
 

@@ -18,6 +18,8 @@ I grew up in a country where standing in line was a form of social life. You joi
 
 The usual disclaimer for this column: I’m not a doctor. Not a word here about who should take what, or how much. Just markets, courts, paperwork and the line.
 
+## It can’t win against the calendar
+
 First, the door. Semaglutide is Novo Nordisk’s peptide and a pillar of its business: in 2025 global semaglutide sales were about DKK 228 billion, more than 70% of the company’s revenue. China’s share was modest, around DKK 6.8 billion, roughly $1 billion. But it’s a growing billion.
 
 The core compound patent in China was filed on March 20, 2006. Twenty years. Over that time the patent went through everything you go through in middle age. In 2022 the patent office declared it invalid at the request of a Huadong Medicine subsidiary. In 2023 the Beijing IP Court reversed that. In December 2025 the Supreme People’s Court confirmed the patent would stand to the end of its term.
@@ -26,11 +28,15 @@ The term ended on March 20, 2026.
 
 A patent, like a person, can win every case in court. It can’t win against the calendar.
 
+## Twenty-one companies for one molecule
+
 By then the line had formed. According to Beijing News, ten Chinese companies had filed for approval of copies, twelve injectable products in all: United Laboratories, Jiuyuan Gene, Baike, Qilu, Fosun Wanbang, Huisheng, Livzon, Chia Tai Tianqing, Huadong Medicine and Bete. Eleven more were in Phase III.
 
 Twenty-one companies for one molecule. In the USSR, people would join a line like that without even asking what was being sold. If that many are waiting, it must be good.
 
 Industry insiders expected the first approvals as early as Q3 2026.
+
+## The door had two locks
 
 Then it turned out the door had two locks.
 
@@ -48,11 +54,15 @@ The patent’s dead — rejoice, we’re free! But at the door, a Swiss-born gua
 
 (As you can see, my poetry is also pending approval.)
 
+## The most honest advertising
+
 While the line waits, the shopkeeper isn’t idle. Novo is cutting prices. In December 2025, in Sichuan, two strengths of its drug became roughly half as expensive. By March 2026 the online price of one semaglutide pen had dropped from over 700 yuan to about 600. The weight-loss version, about 1,900 yuan a month at launch, now costs under 1,000 in hospitals in some southwestern provinces.
 
 When prices fall before the competitor even walks in, that’s the most honest advertising the competitor will ever get.
 
 Meanwhile, homegrown molecules are arriving: Innovent’s mazdutide was approved in 2025, and Hangzhou-based Sciwind’s ecnoglutide in March 2026. More on that next time.
+
+## Same day, two Asian countries
 
 In India, by the way, the patent expired on the same day, March 20. Local makers launched on March 20–21. By autumn, twelve of them were selling twenty brands. By May, Dr. Reddy’s had launched in Canada too.
 

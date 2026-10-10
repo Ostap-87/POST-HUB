@@ -20,11 +20,15 @@ That’s not a joke. Translated into plain language, it’s what happened at Sou
 
 In 2025, Korea launched a national contest for a homegrown foundation model that could compete with American and Chinese ones. Five teams were picked: Naver Cloud, SK Telecom, LG AI Research, NC AI and the startup Upstage. The state supplied GPUs, deadlines and elimination rounds. Think reality TV, except the prize isn’t a car but national pride.
 
+## Eyes borrowed from the neighbors
+
 After round one, in January 2026, two teams were out: Naver Cloud and NC AI. Naver’s exit made headlines. Its model scored well on performance and usability, but it used a pretrained vision encoder with weights from Alibaba’s open-source Qwen. The encoder is, roughly speaking, the model’s eyes: the part that turns an image into something a machine understands.
 
 The ministry was blunt. Using someone else’s pretrained weights fails the independence test; at minimum, weights must be reset and trained from scratch. Second Vice Minister Ryu Je-myung said exactly that. Naver replied that its architecture and engine were its own and the encoder could be swapped. Researchers pointed out that reusing open components is standard practice everywhere. The press mentioned, carefully, a “China factor.”
 
 Sovereignty means you can do everything yourself. Which is exactly why nobody does.
+
+## The worst suspicion is Qwen inside
 
 Two weeks earlier, Korea had staged another scene. On January 1, 2026, the head of a small AI company posted that Upstage’s Solar Open 100B looked suspiciously like a model from China’s Zhipu, citing a 96.8% similarity in one layer’s weights. Upstage didn’t argue in the comments. It offered a public review with outside experts, livestreamed on YouTube, and promised to open its code. The next day, the accuser apologized: similar layers, he conceded, don’t prove copying.
 
@@ -32,9 +36,13 @@ Accused on New Year’s Day, cleared on January 2. Some families take longer to 
 
 But notice the yardstick. Not American models. Chinese ones. In 2026, the worst suspicion an Asian AI developer can face is: “Is that Qwen in there?”
 
+## Borrowed eyes forbidden, borrowed muscles fine
+
 The contest moved on. In February, Motif Technologies took a vacant slot. In August 2026, the ministry announced round two: LG AI Research with K-EXAONE 2.0, SK Telecom with A.X K2 and Upstage with Solar Open2 advanced. Motif was cut, even though Artificial Analysis ranked its model in the global top ten; the ministry cited weaker real-world applicability. Finalists were promised about 1,000 Nvidia B200 chips for the second half of the year, with round three set for the second half of 2026 and its rules still under discussion.
 
 Note that sovereign AI is trained on American chips. Borrowed eyes are forbidden; borrowed muscles are fine. Eyes, apparently, are closer to the soul.
+
+## Quietly, politely and with fish
 
 Now Japan, where sovereignty is done the Japanese way: quietly, politely and with fish.
 
@@ -47,6 +55,8 @@ Meanwhile, the Japanese state went big. In summer 2026, the trade and industry m
 Japan’s second AI Basic Plan, adopted in July 2026, calls this an “open approach to AI sovereignty”: no dependence on any particular vendor or country.
 
 Open sovereignty. I’ve thought about that phrase a lot. I think it means you own the door but don’t install a lock. So the neighbors won’t be offended.
+
+## All this fuss is a compliment
 
 Seen from China, all this fuss is a compliment. Five years ago, sovereign AI meant “not depending on America.” Now it means “not depending on America or China,” with the second half said a little louder. Chinese open models have become so good and so accessible that the neighbors have to check whether one has moved in.
 

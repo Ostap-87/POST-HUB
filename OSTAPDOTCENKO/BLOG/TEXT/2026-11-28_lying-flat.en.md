@@ -28,6 +28,8 @@ Think about that. A man decides to lie down and finds a job that consists of lyi
 
 The post was deleted. The copies were deleted. The word survived. “Tang ping” spread across the country faster than any ad campaign I’ve ever run — and I’ve run a lot of them. None of mine ever told people to lie down.
 
+## An editorial for the man who’s down
+
 Naturally, the newspapers woke up.
 
 Nanfang Daily ran a commentary saying, in essence, that lying flat is shameful. At the end of 2021 Guangming Daily put “Lying Flat Is Not Advisable” on its front page. Merchandise printed with “tang ping” vanished from online stores.
@@ -36,6 +38,8 @@ You don’t kick a man when he’s down. You write an editorial at him.
 
 It’s a remarkable country. It built the world’s longest high-speed rail network and was rattled by one horizontal young man. Perhaps because horizontal is contagious. Vertical isn’t. Vertical just gets tired.
 
+## A theater where everyone is standing
+
 To understand why people lay down, you have to understand how they ran.
 
 China has a word for it: “neijuan,” involution. The usual explanation goes like this. A theater. Everyone is seated. One person stands up to see better. Then a second, then a third, and soon the whole house is watching on its feet. Nobody sees any better. Everybody is exhausted. But sitting down is now out of the question: sit, and you’ll see nothing.
@@ -43,6 +47,8 @@ China has a word for it: “neijuan,” involution. The usual explanation goes l
 Tang ping isn’t the man who walks out of the theater. It’s the man who sits down in a theater where everyone is standing. And stretches his legs.
 
 Running in place is the most exhausting sport there is. No medals, and you can’t drop out of the race, because there’s no finish line.
+
+## No longer fluffing the pillow
 
 Then, as genres do, it evolved.
 
@@ -53,6 +59,8 @@ As a marketing man, I see a great slogan in this. “It’s going to rot anyway,
 The numbers weren’t funny. In mid-2023 the unemployment rate for urban youth aged 16 to 24 hit a record 21.3%. Publication was then suspended, the methodology changed, students were taken out of the count — and in 2025 the figure still crept toward 19% in some months. Back in 2023, Peking University economist Zhang Dandan estimated that if you included the young people who had lain down and stopped looking, the rate for one month could have been as high as 46.5%.
 
 Forty-six and a half percent. Nearly one in two. Half the young city, horizontal.
+
+## The parents ran so their children wouldn’t have to
 
 Now the parents. Here the laughter runs out sooner.
 
@@ -71,6 +79,8 @@ The full-time child out-earns the employed one. Economists call this an anomaly.
 Grandma probably doesn’t know anyone is being paid. But she knows someone is there. Which of us would say that isn’t a job?
 
 Parents want their children to stand on their own two feet. The children reply: we tried, there’s a queue.
+
+## The same gesture filmed from two angles
 
 I’m not here to judge; I’m watching from the side. I see one generation that spent its life standing — in formation, in line, at the conveyor belt — and the next one lying down. And it looks to me like the same gesture filmed from two angles. The father stood so there would be something to lie on. The son lay down because he saw what that sofa cost his father.
 

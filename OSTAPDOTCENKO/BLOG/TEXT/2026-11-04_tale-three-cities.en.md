@@ -24,6 +24,8 @@ China’s business press drew the family map like this: Beijing handles the “b
 
 Head, torso and hands, like an anatomy textbook spread across two thousand kilometers of map. If a humanoid ever falls ill, it’ll need three different clinics.
 
+## Beijing turns its humanoids into athletes
+
 **Beijing: the scholar.** Serious, with degrees. Peking University, Tsinghua, and the Beijing Humanoid Robot Innovation Center, founded in 2023 by Xiaomi, UBTech and the local machinery group Jingcheng. The center builds the Tiangong humanoid series and in early 2026 raised over 700 million yuan in its first market round.
 
 Its main address is Yizhuang, the economic-technological development zone in the city’s southeast. More than 300 robotics companies and a 10-billion-yuan robotics fund. Local “Ten Measures” for embodied AI promise 100 million yuan a year in vouchers for data, prototyping and humanoid sales subsidies. A two-year list of deployment scenarios offers work for more than 10,000 robots, worth nearly 5 billion yuan.
@@ -31,6 +33,8 @@ Its main address is Yizhuang, the economic-technological development zone in the
 And Beijing has a passion: sport. Yizhuang hosted the world’s first humanoid half-marathon, and in August 2025 Beijing held the World Humanoid Robot Games, with 280 teams from 16 countries competing in running, long jump, football, sorting medicines and cleaning. The zone says it wants to hold competitions almost every month.
 
 Beijing turns its humanoids into athletes. So it can say: “Look how fit ours is.”
+
+## Shanghai turns its humanoids into graduates
 
 **Shanghai: the polished one.** Elegant, knows her worth and says the number out loud. Shanghai says it accounts for about a third of China’s robotics industry. Modesty, as they say, is for those with nothing else to wear.
 
@@ -40,11 +44,15 @@ The plan also has less round numbers, which I like better. The city will cover u
 
 Shanghai turns its humanoids into graduates. A dataset instead of a diploma, a training hall instead of a school.
 
+## Shenzhen turns its humanoids into workers
+
 **Shenzhen: the one with the screwdriver.** No degrees, but very good hands. I’ve written separately about its supply chain, where every part is an hour away. Its 2025–2027 plan targets 100 billion yuan of embodied AI output and a cluster of 1,200 companies. In February 2025 the city announced a 10-billion-yuan fund for AI and robotics.
 
 This is home to UBTech, whose Walker humanoids already work in car plants. To Leju, EngineAI and LimX Dynamics. To Honor, which turns out to make runners as well as phones.
 
 Shenzhen turns its humanoids into workers. They don’t need to win games. They need to show up for the shift.
+
+## Seasoned suitors courting all three
 
 Notice something, though. UBTech is a Shenzhen company and a co-founder of Beijing’s center. China’s press reports that Hangzhou’s Unitree and Deep Robotics have set up in Shenzhen, and Shanghai’s AgiBot in Zhuhai.
 
@@ -55,6 +63,8 @@ A job interview that never happened, but is easy to imagine:
 “Where are you from?” “Assembled in Shenzhen.” “Education?” “Shanghai. The training ground.” “Work experience?” “A half-marathon in Beijing.” “And your registered address?” “Hangzhou. Better tea.”
 
 That last line is invented, of course. So is the whole interview. The robots aren’t.
+
+## Competing for a robot means raising it together
 
 People tell me: it’s all subsidies, a bubble, overheating. And partly, that’s true. When three cities hand out vouchers, grants and free rent at the same time, the market stops noticing it’s a market. Not all of these hundreds of companies will live to meet their first serious customer. I’ll write about that separately.
 

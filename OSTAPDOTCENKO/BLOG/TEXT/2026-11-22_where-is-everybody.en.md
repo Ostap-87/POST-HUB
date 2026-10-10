@@ -20,6 +20,8 @@ Every article about Chinese factories opens the same way. A photo of an empty wo
 
 I wanted to open that way too. I even have the photo. But I’ve been to enough of these factories, and every time I asked the same naive question: “Where is everybody?” And every time, someone showed me. So this isn’t a piece about emptiness. It’s a piece about relocation.
 
+## The robots didn’t go anywhere, the people turned up
+
 First the numbers, for scale. According to the International Federation of Robotics, China installed 354,000 industrial robots in 2025, almost three of every five new robots in the world. More than half of them are now Chinese brands. China’s operational stock is about two million robots, four and a half times that of Japan, which is in second place.
 
 Two million robots. If each one needed a badge, the security desk would have to be the size of a train station.
@@ -32,6 +34,8 @@ The robots didn’t go anywhere. The people turned up.
 
 I consider this the best news in the history of automation. The surest way to lower robot density is to count the humans properly. We all feared robots would push people off the factory floor. They only pushed them into the denominator.
 
+## The headlines run without calculators
+
 Speaking of dark factories. In summer 2024, Xiaomi announced its smart factory in Changping, Beijing: 81,000 square meters, capacity of 10 million flagship phones a year, running around the clock with the lights off. The press immediately wrote: “a phone every second.”
 
 Being a marketer, I did the math. A year has a little over 31 million seconds. Ten million phones works out to about one phone every three seconds. Still impressive. But in the press releases it comes out three times faster.
@@ -39,6 +43,8 @@ Being a marketer, I did the math. A year has a little over 31 million seconds. T
 The factory runs without people. The headlines run without calculators.
 
 That’s not a dig at Xiaomi. It’s an observation about my profession. We marketers have worked in a dark factory for years: no lights needed, the numbers assemble themselves.
+
+## A middleman between the person and the work
 
 Here’s what I actually saw in factories and at trade shows. No names or dates, because it was the same everywhere.
 
@@ -52,6 +58,8 @@ The Chinese state, by the way, made this relocation official. Back in spring 201
 
 There you have it. A robot on the floor, a person next to the robot, and the person’s son a professional gamer. All three in the same national register of occupations.
 
+## Robots aren’t taking jobs, they’re filling vacancies
+
 And here’s the main point. In a Chinese factory, a robot often doesn’t take a person’s place. It takes a place where there’s no person anymore.
 
 Chinese ministries forecast years ago that by 2025 ten key manufacturing sectors would be short almost 30 million workers. Young people aren’t rushing to the factory. A 2023 study found that food delivery riders earned 6,803 yuan a month on average, 900 to 1,200 yuan more than factory workers, and almost two-thirds of riders named flexible hours as the main reason for their choice. The assembly line doesn’t do flexible hours. It never has.
@@ -59,6 +67,8 @@ Chinese ministries forecast years ago that by 2025 ten key manufacturing sectors
 Robots aren’t taking jobs. They’re filling vacancies.
 
 And the young man who might have stood at the machine is riding a yellow scooter around town while driverless vans smirk behind his back. But that’s another story.
+
+## Right here, just standing a little further back
 
 That’s about it. No, not quite.
 

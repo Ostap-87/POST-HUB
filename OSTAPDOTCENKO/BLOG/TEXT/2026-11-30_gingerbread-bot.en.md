@@ -20,6 +20,8 @@ ByteDance seems to be the only company that took this fairy tale literally. And 
 
 My first thought was: bad naming. Then I looked at the numbers and realized the bad call was mine. This wasn’t a bun. It was the Gingerbread Man.
 
+## The bun became a bakery
+
 You know the story. Someone bakes him, puts him by the window to cool, and off he runs. ByteDance baked Doubao in 2023 — back then the model was called Skylark, and the chatbot went public that August. In May 2024 the company’s cloud arm, Volcano Engine, unveiled a whole family of Doubao models. And off he ran.
 
 In May 2024 Doubao processed 120 billion text tokens a day. In March 2026 Volcano Engine reported 120 trillion. Same number, a thousand times bigger. The bun didn’t grow. It became a bakery.
@@ -27,6 +29,8 @@ In May 2024 Doubao processed 120 billion text tokens a day. In March 2026 Volcan
 By the end of 2025 the Chinese business press, citing several sources, reported over 100 million daily users. QuestMobile counted 382 million monthly users in the first half of 2026. Alibaba’s Qwen had 167 million, DeepSeek 130 million. Put together, still smaller than one bun.
 
 Run, run, as fast as you can. You can’t catch me.
+
+## The same way it built TikTok
 
 How did ByteDance pull it off? The same way it built TikTok. That’s the whole point of this essay; you can stop reading now. Please don’t — I worked hard on the rest.
 
@@ -38,6 +42,8 @@ And a ByteDance insider told KrAsia that of all the company’s products to cros
 
 As a marketer, I take that personally. It’s like the Gingerbread Man outrunning the fox without paying her a single compliment.
 
+## No gift, but the head of the table
+
 Then there was the holiday. Chinese New Year 2026 kicked off what people called the “Spring Festival AI war.” Tencent handed out about a billion yuan in red envelopes through Yuanbao. Alibaba announced a campaign of nearly three billion for Qwen. Baidu, around half a billion.
 
 ByteDance behaved like a guest who brings no gift but takes the head of the table. Volcano Engine became the AI cloud partner of CCTV’s Spring Festival Gala, the most-watched broadcast in China. Doubao was on air; viewers drew prizes and ordered greeting cards. That evening saw 1.9 billion AI interactions, with a peak of more than 63 billion tokens per minute.
@@ -46,11 +52,15 @@ Sixty-three billion a minute. I haven’t said that many words in my whole life,
 
 The best advertising is the kind the audience pays for. With attention.
 
+## You don’t roll in without knocking
+
 There was one moment when the bun rolled the wrong way. In December 2025 ZTE released the nubia M153 phone with a built-in “Doubao mobile assistant”: a limited run of 30,000 units at 3,499 yuan. The assistant could tap buttons inside other people’s apps — order, pay, forward.
 
 The app owners were not amused. WeChat, Taobao, Alipay and banking apps started blocking it.
 
 Even a gingerbread man knows: you don’t roll into someone else’s house without knocking. Especially a house where the money is kept.
+
+## The fox comes from Finance
 
 Now, the fox. Everyone in the story is waiting for her, except the Gingerbread Man.
 

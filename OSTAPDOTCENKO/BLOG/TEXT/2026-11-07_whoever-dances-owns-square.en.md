@@ -20,6 +20,8 @@ I come to China to work. Meetings, factories, negotiations, tea, more tea. In th
 
 I don’t dance. I stopped a long time ago, and to be fair I never really started. But nobody asks you in China after dark. After dark you either dance or you stand at the edge and watch. I watch. For the next half hour, that’s my job.
 
+## The speaker obeys only her
+
 Eight p.m. The square.
 
 First the speaker arrives. A speaker on wheels with a pull-up handle, like a suitcase packed not for a holiday but for a campaign. Then comes the woman who wheeled it in. Not the oldest, not the most glamorous. The boss. You can tell at once: the speaker obeys only her.
@@ -32,6 +34,8 @@ Chinese media once estimated that up to 100 million people dance like this. A hu
 
 Here’s what gets me. In a world where everyone wants change, there are a hundred million people who want exactly the same thing every night at eight. And get it.
 
+## Forty thousand dollars for silence
+
 Speaking of being left alone — the neighbors.
 
 The neighbors also want the same thing every night at eight. Silence. They don’t get it.
@@ -41,6 +45,8 @@ The chronicle of this war reads like an action film. In Beijing, a man fired a s
 And the women kept dancing. The gun went off, the dogs ran around, the rival speaker blared. They kept dancing.
 
 You can’t defeat someone who came to dance, not to fight. They don’t even know there’s a war on.
+
+## Twelve routines and “Little Apple”
 
 The government noticed too, of course. Governments always notice when a hundred million people do something without them.
 
@@ -54,6 +60,8 @@ I picture the conversation like this:
 
 It’s the only case I know of where grandmothers edited government policy overnight. No petition, no protest. They just didn’t stop dancing.
 
+## Negotiating the decibels
+
 Time passes. The country grows up. The grandmothers don’t.
 
 In June 2022, China’s new noise pollution law took effect. It has a special provision for dancing and fitness in streets, squares and parks: follow the venue manager’s rules on area, time and volume. Don’t crank the sound.
@@ -63,6 +71,8 @@ Look at the wording. Not “ban.” Not “disperse.” “Follow the venue’s 
 That’s the unwritten deal. The square belongs to the dancers until nine and to the sleepers after nine. Volume up to here. Speaker over there, away from the windows. Some watch, some cheat, some complain, but the square runs two shifts like a well-managed factory.
 
 That’s China in general: the law says “volume,” and life replies, “Understood. Just one more song.”
+
+## The evening is theirs by right
 
 Now, seriously, as far as I’m capable of it.
 

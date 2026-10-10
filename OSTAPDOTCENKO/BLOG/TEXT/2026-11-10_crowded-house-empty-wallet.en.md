@@ -20,6 +20,8 @@ I’m a marketer, which means I’m a professional at one sentence: “We’re n
 
 So when more than 150 Chinese companies all say “we’re not like the others” about the same two-legged robot, I don’t feel irony. I feel professional sympathy. Like an old wedding host at a party with more toasts than guests.
 
+## Entry is free, exit charges by the hour
+
 On November 27, 2025, Li Chao, spokesperson for China’s National Development and Reform Commission, said out loud what people at robotics expos had been whispering. More than 150 Chinese companies are building humanoid robots, and over half are startups or firms that switched in from other sectors. Frontier industries, he said, always struggle to balance the speed of growth against the risk of bubbles. The market must not drown in “highly similar” products.
 
 The regulator promised to improve the mechanisms for entry and exit.
@@ -32,6 +34,8 @@ The planning commission said 150-plus. Research firm GGII said 320-plus in early
 
 150, 200, 320. Like three witnesses to the same fender-bender: everyone saw it, everyone’s sure, and everyone blames a different car.
 
+## A hundred and fifty humanoids, one bed
+
 Whatever the number, they all want to sleep in the same bed.
 
 Why a bed? Walk any Chinese robotics expo and you’d think humanity’s deepest wish is for someone else to fold its towels. Humanoids fold laundry, make beds, pour tea, stack boxes. Booth after booth, all in the same pose, like a graduating class photo: different faces, one rented suit.
@@ -42,6 +46,8 @@ Split it fairly and you get a few dozen robots per company. A few dozen isn’t 
 
 A hundred and fifty humanoids can make the bed. There is one bed.
 
+## A bubble without money is just soap
+
 Now the money, because a bubble without money is just soap.
 
 GGII counts more than 58 billion yuan invested over three years, about 38 billion of it in 2025 alone. In the first half of 2026, Chinese business media report that about 93.4 billion yuan went into embodied AI. More than the whole previous year.
@@ -49,6 +55,8 @@ GGII counts more than 58 billion yuan invested over three years, about 38 billio
 So in November the regulator said “careful, bubble,” and over the next six months investors poured in more than in the entire year before the warning.
 
 I’m not mocking. I’m impressed. The warning was heard. It was just read the way investors read everything: if it’s a bubble, get in before it pops.
+
+## The battle of a hundred robots
 
 China has seen this movie before. In 2023 came the “battle of a hundred models”: more than 200 large language models, each with its own launch event and its own “world first.” A couple of years later, fewer than ten companies were still building their own foundation models.
 
@@ -64,6 +72,8 @@ A short list: “Six signs your humanoid belongs to the surplus hundred.”
 4.  It looks like the robot at the next booth. That robot looks like it. Both look like a Unitree.
 5.  A year ago its founder was building something else entirely, and was also first.
 6.  There is a sixth sign, but it’s charging.
+
+## Between a dream and a payroll
 
 The grim part is no longer forecasts. It’s court filings.
 

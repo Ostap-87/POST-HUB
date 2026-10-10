@@ -22,6 +22,8 @@ I stood there about ten minutes. Then an older woman with a shopping bag came up
 
 I followed her. It was the best Vietnamese lesson I’ve ever had. Not a single word.
 
+## Eight motorbikes for every ten people
+
 Some numbers, for scale.
 
 According to the Ministry of Public Security, by mid-2026 there were more than 84 million motorbikes on Vietnam’s roads. The population is about 102 million. That’s more than eight motorbikes for every ten people, counting babies, monks and those who are no longer in a hurry.
@@ -31,6 +33,8 @@ Hanoi alone has nearly seven million.
 Vietnamese often just call a motorbike a “Honda,” the way people once called every copier a Xerox. Fair enough: Honda holds about 83% of the petrol motorbike market.
 
 A brand that becomes a noun is marketing’s highest achievement. The only thing higher is becoming a verb.
+
+## A traffic light isn’t a law, it’s an opinion
 
 So, the guide. Compiled from my own experience and other people’s advice. I got none of it right the first time.
 
@@ -48,6 +52,8 @@ A family of four, the youngest asleep between the grown-ups. A refrigerator. A p
 
 A motorbike here isn’t transport. It’s a front hall rolled out into the street. People live in it, eat in it, haul things, court, sleep and take calls, sometimes all at once.
 
+## An entire country put on a helmet
+
 Speaking of helmets.
 
 Until the end of 2007, helmets in Vietnam were required only on certain roads, and researchers estimate about three riders in ten wore one. From December 15, 2007, helmets became mandatory for all riders and passengers on all roads. In spring 2008, researchers stood on the streets of four cities and counted helmets on 90 to 99 percent of adults.
@@ -58,6 +64,8 @@ I like this more than any GDP figure. There’s nothing harder than getting peop
 
 Children fared worse: far fewer young passengers wore helmets back then. The adults protected their own heads before their kids’. Sadly, that isn’t a Vietnamese trait. It’s a human one.
 
+## Changing its engine, not its character
+
 Now the traffic is being talked into something new.
 
 In summer 2025, the government told Hanoi to clear petrol motorbikes out of the area inside Ring Road 1 by July 2026. The city counted how many people live and ride there, how many bikes they own and what an electric one costs. Then it did what any sensible city does with an impossible order: it broke it into phases.
@@ -67,6 +75,8 @@ Since July 1, 2026, it has started small: on Friday, Saturday and Sunday evening
 Meanwhile electric bikes are selling fast. VinFast says it sold more than 406,000 electric motorbikes in Vietnam in 2025, almost six times as many as the year before.
 
 The traffic is changing its engine, not its character. I’m sure an electric bike in Hanoi will negotiate the same way. Just more quietly. The horn will stay. A horn here isn’t a threat. It means “I’m here, I see you, I’ll go around you.” The politest word on a Vietnamese street sounds like “beep.”
+
+## Not miracles, attention
 
 Now, why it all works.
 

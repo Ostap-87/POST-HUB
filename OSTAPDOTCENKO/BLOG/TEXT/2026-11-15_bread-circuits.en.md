@@ -22,11 +22,15 @@ It isn’t sport. It’s a commercial with a scoreboard.
 
 The Romans asked for bread and circuses. China’s robot industry switched the order: circuses first, bread later, if things go well. Bread is still baked by humans.
 
+## Not a fight anymore, but prime time
+
 Start with boxing. On May 25, 2025, Hangzhou hosted the first humanoid robot fighting tournament, organized by China Media Group, the country’s main state broadcaster, with Unitree as partner. In the ring: G1 robots, 1.32 meters tall and 35 kilograms — roughly the weight class of a kid with a heavy backpack. Four teams of human operators ran them with controllers.
 
 The most honest line of the day came from a member of Unitree’s marketing team: the robots, she said, fight “in a human-machine collaborative way.” Note who was sent to explain the fight. Not an engineer. Marketing. Imagine a title bout where the post-fight interview goes to the glove manufacturer.
 
 When state television airs your fight, it isn’t a fight anymore. It’s prime time.
+
+## One manufacturer who won four times
 
 Speaking of football. On June 28, 2025, Beijing hosted China’s first fully autonomous humanoid football tournament: three-a-side, no remote controls, just algorithms. Four university teams. In the final, Tsinghua beat China Agricultural University 5–3. Several players left the pitch on stretchers. Real stretchers.
 
@@ -36,6 +40,8 @@ In robot football there are no losers. Just one manufacturer who won four times.
 
 The wire services couldn’t resist noting that the robots drew more excitement than China’s men’s national team, which has made a single World Cup appearance and has already missed the next one. I’m too polite to compare. I’ll just say robots have better excuses: when they miss, it’s the code, not the grass.
 
+## Twice as fast, and tickets got cheaper
+
 Then came scale. In August 2025, Beijing held the first World Humanoid Robot Games: 280 teams from 16 countries and more than 500 robots. Tickets cost 180 to 580 yuan. The goalkeeper fell over, a striker scored after a few tries, and at one ceremony a robot had to be carried off the stage by two people.
 
 A year later, in August 2026, the Games returned to the “Ice Ribbon,” Beijing’s Olympic speed-skating oval: 666 teams, 2,056 robots, 51 events. The 1,500-meter winner finished in 2:21. The year before, it took 6:34. And tickets got cheaper, starting at 98 yuan.
@@ -43,6 +49,8 @@ A year later, in August 2026, the Games returned to the “Ice Ribbon,” Beijin
 Robots got twice as fast, and tickets got cheaper. No car dealership has ever pulled that off.
 
 Souvenir sales on opening day topped 200,000 yuan, and at the fair next door, 28 of the 70 stalls were staffed by robot vendors. Robots compete, robots sell robot merchandise, humans buy it. Humans are still needed. Someone has to pay.
+
+## Not a defect but redundancy
 
 Finally, the format where marketing stops pretending. In February 2026, Shenzhen’s EngineAI launched what it called the first commercial humanoid fighting league, the Ultimate Robot Knock-out Legend (URKL). The prize is a gold belt worth 10 million yuan. Every team fights with the same model, the T800: 1.73 meters, 75 kilograms, from 180,000 yuan. Yes, T800, like Schwarzenegger’s character in the first Terminator. That isn’t a coincidence. That’s a creative brief.
 
@@ -53,6 +61,8 @@ The organizers said this demonstrated “structural durability and the redundanc
 I’ve written press releases for twenty years, and I take my hat off. And my head.
 
 Where I come from, that’s called a defect. In Shenzhen, it’s called redundancy. The whole difference between two marketing cultures fits between those words.
+
+## Now products are sold on how they fall
 
 For the record, here is the full list of reasons a humanoid needs a ring:
 

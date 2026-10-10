@@ -22,17 +22,23 @@ So I wasn’t surprised that Korea became the country with the most robots per c
 
 What did surprise me is the math. Per capita literally means per head. Robots, technically, also have heads. But they’re not counted. Only the human ones.
 
+## One robot for every eight workers
+
 The numbers. In April 2026 the International Federation of Robotics published robot density figures for 2024. South Korea: 1,220 industrial robots per 10,000 manufacturing workers, first in the world. Singapore is second with 818, Germany has 449, Japan 446. The world average is 132.
 
 In plain terms, a Korean factory has roughly one robot for every eight workers. A crew of eight people, and a ninth member who never comes to hoesik, the after-work company dinner with mandatory soju. The most sober person on the team. Management loves him. Colleagues don’t trust him.
 
 The two biggest buyers are electronics and cars. The home of Samsung and Hyundai automated what it does best — and did it ppalli-ppalli, of course.
 
+## An apartment and a furniture warehouse
+
 And China? This is where it gets interesting. Based on updated employment data, China ranks only 22nd in density, with 166 robots per 10,000 workers. But it has about two million industrial robots in operation, and in 2024 it accounted for 54% of all new installations worldwide.
 
 Korea is the densest. China is the biggest. It’s like comparing a nicely furnished apartment to a furniture warehouse. The apartment is cozier. But somehow the furniture always comes from the warehouse.
 
 Density is many robots per person. Scale is many robots per country. The future seems to be deciding in favor of scale.
+
+## The best advertising in robotics
 
 Speaking of buying furniture in bulk. In 2021 Hyundai Motor Group bought a controlling stake in Boston Dynamics from SoftBank, valuing the company at about $1.1 billion. That’s the American firm whose robot dogs and dancing humanoids have racked up more views than plenty of pop bands.
 
@@ -42,11 +48,15 @@ At CES in January 2026, Hyundai announced the next step: capacity for 30,000 rob
 
 A Korean conglomerate, an American robot, a factory in Georgia. Globalization in a single sentence.
 
+## Into a chaebol, or inside one
+
 Samsung took a more Korean route: rather than buy a celebrity, raise your own. Rainbow Robotics spun out of the humanoid lab at KAIST, Korea’s top technical university, in 2011. Its humanoid Hubo was Korea’s first bipedal robot, and in 2015 KAIST’s Hubo team won the DARPA Robotics Challenge, beating the Americans at their own contest.
 
 Samsung took its time, like a cautious future mother-in-law. It bought just over 10% in 2023. On December 31, 2024, it raised its stake to 35% and became the largest shareholder. The same day it announced a Future Robotics Office reporting directly to the CEO, led by Rainbow co-founder Professor Oh Jun-ho.
 
 In Korea, a startup grows up in one of two ways: into a chaebol, or inside one.
+
+## The world’s most automated customer
 
 And here it’s time to look back. Because while Korea built the densest automation on earth, China built the cheapest.
 

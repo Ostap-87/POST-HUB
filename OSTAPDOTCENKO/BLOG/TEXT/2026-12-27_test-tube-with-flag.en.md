@@ -20,6 +20,8 @@ At school we were taught that chemistry is an exact science. There’s a reactio
 
 Now chemistry seems to have a client too. It sits in Washington and has an opinion on every test tube.
 
+## A law without names
+
 Start with the law. Its history is long, like any good play with a plot twist.
 
 Early drafts of the BIOSECURE Act named companies that US federal bodies couldn’t work with. The version that became law inside the defense budget, signed on December 18, 2025, names none. Instead, it has a mechanism. A “biotechnology company of concern” is either a company on the Pentagon’s 1260H list or one on a separate list from the Office of Management and Budget, which the law says must appear by December 18, 2026. As you read this, it has either just come out or is about to.
@@ -27,6 +29,8 @@ Early drafts of the BIOSECURE Act named companies that US federal bodies couldn�
 What’s banned? Federal agencies may not buy biotech equipment or services from such companies, and contractors and grantees may not use them on federal work. Existing contracts get a five-year grace period that only starts once federal procurement rules are amended. Lawyers estimate the law could take almost three years to bite fully.
 
 A law without names is like a sign saying “Would the relevant people please step inside.” Who steps in gets decided later.
+
+## Who owns what percentage of whom
 
 “Later” arrived on June 8, 2026. The Pentagon updated its 1260H list, and WuXi AppTec was on it, the largest Chinese contract manufacturer, whose TIDES unit makes peptides and oligonucleotides for global pharma. Complete Genomics and Novogene were added too.
 
@@ -38,6 +42,8 @@ The ruling is preliminary. According to trade press, the Pentagon is contesting 
 
 That’s the formula. The law isn’t in force yet, the court has paused the designation, and customers have already left. Politics in pharma works like a smell: you can’t see it, but people start leaving the room early.
 
+## Asia by seating at the negotiating table
+
 Now the tariffs, the same coach’s other hand.
 
 On April 2, 2026, the US president signed a Section 232 proclamation on pharmaceuticals. The default rate is 100% on patented drugs, their active ingredients and key starting materials. Then comes the menu. Companies with an approved plan to move production to the US pay 20% until 2030. Those that also signed a pricing deal with the government pay zero until January 2029. Goods from the EU, Japan, South Korea and Switzerland pay 15%, from the UK 10%. Generics and biosimilars are exempt for now, though Commerce has a year to reconsider. The duties hit seventeen large companies on July 31 and everyone else on September 29, 2026.
@@ -45,6 +51,8 @@ On April 2, 2026, the US president signed a Section 232 proclamation on pharmace
 I couldn’t find a separate line for China in the lawyers’ summaries. China, presumably, is expected to work out which table it’s sitting at.
 
 Look at the neighbors: Japan and Korea get 15% under their trade deals. Asia on this menu is divided not by geography but by seating at the negotiating table.
+
+## “For now” is the key phrase
 
 What does this mean for peptides? A short list helps.
 
@@ -60,6 +68,8 @@ I didn’t invent point six. It follows from the first five.
 The Chinese side, to its credit, saw this coming. Back in spring 2025, when the US raised tariffs on Chinese goods, peptide ingredient maker Sinopep said it was expanding sales into Southeast Asia, Latin America, the Middle East and Russia, adding that customers aren’t very price-sensitive because quality capacity is scarce. Translated from investor-speak: “You’ll pay anyway.”
 
 For years I’ve told Russian companies that China doesn’t answer a blow with a blow. It answers with a new route. A test tube with a flag is inconvenient. But if the flag bothers one country, you can turn it to the wall and ship to another.
+
+## A peptide has no nationality
 
 There’s something sad here, and I won’t hide it behind jokes. A peptide has no nationality. Amino acids are the same in Jiangsu, Basel and New Jersey. The chain follows the same laws of chemistry, and the patient at the end doesn’t care whose soil the reactor stood on.
 

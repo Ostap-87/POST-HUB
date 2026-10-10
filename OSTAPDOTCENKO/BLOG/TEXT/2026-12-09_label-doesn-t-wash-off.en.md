@@ -24,6 +24,8 @@ I approach regulation with an old ad man’s suspicion. My whole career people h
 
 With AI, China flipped it. The truth goes in large print.
 
+## It started with algorithms
+
 It didn’t start with AI. It started with algorithms. Since March 1, 2022, China’s rules on algorithmic recommendation have required platforms to register their algorithms. That August the Cyberspace Administration published the first list of thirty: Taobao’s recommendations, Douyin’s feed, WeChat’s recommendations, Baidu’s search filter, each with a description of what it does.
 
 I read those descriptions with professional curiosity. They said things like “recommends products based on the user’s search history and behavior.” Honest. Dull. But where else will an official document tell you that your feed knows you better than your mother does?
@@ -31,6 +33,8 @@ I read those descriptions with professional curiosity. They said things like “
 Then came the “deep synthesis” rules on deepfakes, effective January 10, 2023, followed by interim measures on generative AI on August 15, 2023. Since then, every model that talks to the Chinese public has to be registered. By June 30, 2026, according to the regulator, 988 generative AI services had completed filing, and 598 apps and features calling those models through APIs had registered locally. An app must state prominently which model it uses and that model’s registration number.
 
 Nine hundred and eighty-eight models with ID numbers. That’s not a market anymore. That’s an HR department with personnel files.
+
+## Dot, dash, dot, dot
 
 Speaking of files. The key rule took effect on September 1, 2025: measures on labeling AI-generated content, issued jointly by four agencies — the Cyberspace Administration, the Ministry of Industry and Information Technology, the Ministry of Public Security and the National Radio and Television Administration — together with a mandatory national standard.
 
@@ -44,17 +48,23 @@ Platforms have work too. They must check every upload: is there metadata, did th
 
 A label is a conscience stored in the metadata. Nobody has managed to put human conscience in metadata yet. That one you still check the old way, across the negotiating table.
 
+## It makes AI introduce itself
+
 Chinese rules aren’t written for decoration. In February 2026 the regulator ordered Weibo, Douyin, Kuaishou, Bilibili and WeChat to remove more than 13,000 accounts and 543,000 pieces of content for missing AI labels. In late April it went after the generators themselves: CapCut, Maoxiang and Dreamina. Local offices were told to summon, order fixes, issue warnings and hold the responsible people to account. An official said there was “no room for compromise or circumvention.”
 
 And since January 1, 2026, the amended Cybersecurity Law has carried its first-ever clause on artificial intelligence.
 
 China’s regulator doesn’t ban AI. It makes AI introduce itself.
 
+## Label it yourself, it’s cheaper
+
 What does it mean for business? Something dull I tell everyone who advertises in China. If a neural network drew your banner, a synthetic voice narrated your video, or your livestream host is an avatar, it must be labeled. If you don’t do it, the platform will, and “suspected AI-generated” reads like a note saying you got caught.
 
 Label it yourself. It’s cheaper than explaining.
 
 One more thing. If you build a service in China on someone else’s model, the first question isn’t which model is best. It’s which one has a registration number. A great model without one is like a great car without plates: it drives fine, just not for long.
+
+## We used to trust our eyes
 
 I can poke fun at a bureaucracy that specifies letter height as a percentage. I do. It’s an occupational habit.
 

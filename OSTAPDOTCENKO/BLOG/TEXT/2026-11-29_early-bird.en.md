@@ -20,11 +20,15 @@ Some people are always first in line. They show up the night before, write their
 
 I’m a night-before person myself. So I feel about Baidu the way you feel about a fellow sufferer.
 
+## The early bird gets up in the dark
+
 Just how early was Baidu? In May 2014 it hired Andrew Ng, a Stanford professor and one of the best-known names in machine learning, to lead its research. Back then, most business people I knew thought a neural network was something to do with medicine.
 
 In March 2019 Baidu released its ERNIE language model, which beat Google’s BERT on Chinese language tasks. That was three and a half years before ChatGPT. Baidu wasn’t just ahead. It was so far ahead nobody could see it.
 
 The early bird gets up in the dark. Nobody notices it there.
+
+## About being first and not being ready
 
 Then came November 2022 and ChatGPT, and all of China turned to look at Baidu. Who else, if not the pioneer?
 
@@ -35,6 +39,8 @@ Li said something honest: “I can’t say we are fully ready.” And then: none
 Both statements were true. That’s the awkward thing about the truth. Sometimes it’s about being first and about not being ready, at the same time.
 
 Being first didn’t mean being alone. The users came. Baidu reported 100 million Ernie Bot users in December 2023, 200 million in April 2024 and 300 million that June. From November 2023 the premium version cost 59.9 yuan a month.
+
+## Not a technical mistake but a marketing one
 
 And here, I think, Baidu made its biggest mistake. Not a technical one, a marketing one. It decided that being first meant being paid. That the model should stay closed and be sold like any good product.
 
@@ -52,6 +58,8 @@ Summer 2025. Baidu opens the weights of Ernie 4.5.
 
 One year from “closed source lets us make money” to “open source gets you attention.” I’m not mocking. I’m jealous. It usually takes me five years and someone else’s anniversary party to admit I was wrong.
 
+## A search engine now searching for an answer
+
 Now the money, and here the picture is sad and instructive at once, like your own medical checkup.
 
 Baidu made most of its money from search ads. You search, Baidu shows you ads, the advertiser pays. Then people stopped searching and started asking. A chatbot answers straight away, with no ten blue links and no ads in between.
@@ -67,6 +75,8 @@ Baidu hasn’t gone anywhere, mind you. Its main app had 644 million monthly use
 Among the AI apps that QuestMobile placed in its top tier in 2026 were Doubao, Qwen and DeepSeek. Ernie wasn’t there.
 
 Being first is an honor. Unfortunately, cashiers don’t accept honor.
+
+## The early bird lights the stove
 
 I spent a long time looking for the moral of this story and decided not to draw one. Let it stand where it is.
 

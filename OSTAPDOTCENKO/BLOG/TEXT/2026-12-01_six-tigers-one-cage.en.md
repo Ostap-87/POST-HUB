@@ -18,11 +18,15 @@ Articles about Chinese startups come in two flavors: “They’ll beat everyone�
 
 Today I’ll try a third flavor. They’re all alive. They just aren’t all tigers anymore.
 
+## The Six Little Tigers
+
 First, the menagerie. In 2023 China was in its “battle of a hundred models”: anyone with a GPU cluster and a press office released a large language model. By early 2024 six startups had emerged from the crowd, each worth over a billion dollars. The press called them the “Six Little Tigers,” a nod to the Four Asian Tigers that once raced to catch up with the West.
 
 Zhipu and Moonshot (maker of the Kimi chatbot) in Beijing, along with Baichuan and 01.AI. MiniMax and StepFun in Shanghai. Backed by Alibaba, Tencent, Meituan, venture funds and city governments.
 
 Note the word “little.” These were cubs. You could pet them. For a while.
+
+## A cage built from three sides at once
 
 Then someone built a cage, from three sides at once.
 
@@ -31,6 +35,8 @@ Wall one: the 2024 price war, when the giants cut model prices by orders of magn
 It’s hard to sell what your neighbor gives away. It’s harder still when the neighbor’s freebie is better.
 
 In a cage, it isn’t the strongest tiger that survives. It’s the first one to realize it’s a cage.
+
+## Tonight’s program
 
 From here on, it’s a circus. I can see the poster.
 
@@ -48,6 +54,8 @@ A tiger that raised ticket prices and still filled the tent. That’s rare. Usua
 
 **StepFun**, founded in 2023 by former Microsoft vice president Jiang Daxin, closed a $2.5 billion round in May 2026 and restructured for a listing. Still warming up. Judging by the warm-up, it plans to jump high.
 
+## Knowing when to change careers
+
 I like Part Two better. It’s about people who know when to change careers.
 
 **Baichuan** was founded by Wang Xiaochuan, creator of the Sogou search engine. It was the first tiger to leave the general race for healthcare. In January 2026 it open-sourced Baichuan-M3, a medical model that, by the company’s account, topped the HealthBench test. It has about 3 billion yuan in the bank, says the founder, and may list in 2027.
@@ -55,6 +63,8 @@ I like Part Two better. It’s about people who know when to change careers.
 **01.AI** was founded by Kai-Fu Lee, one of the best-known names in Chinese AI. After DeepSeek, he publicly conceded that a startup couldn’t win the foundation-model race — almost an act of heroism in our profession. Now 01.AI no longer trains its own large models. It fine-tunes others’ — DeepSeek, Qwen, Zhipu’s GLM — and deploys them for corporate clients. About 240 employees, half the business outside China, an IPO targeted for 2027.
 
 A tiger turned tamer is still in the circus. He’s just holding the whip now instead of the tail.
+
+## Not a prison but a show schedule
 
 The result? Not one of the six died. Four are jumping through hoops; two changed acts. For an industry that had over a hundred models in 2023, that’s an almost indecently good outcome.
 

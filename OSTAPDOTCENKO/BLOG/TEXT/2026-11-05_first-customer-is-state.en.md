@@ -20,6 +20,8 @@ Marketing has one sacred question: “Who is your customer?” I’ve asked it f
 
 I’m not mocking anyone. I used to believe a market was where someone wanted a thing and paid for it with their own money. It turns out there’s also a market where the city wants the thing and the province pays. Still a market. The customer just wears a suit.
 
+## Someone in the showroom waving at visitors
+
 Start with the biggest check. In summer 2025, China Mobile, the state telecom giant, awarded a humanoid robot tender worth 124 million yuan. AgiBot got 78 million for full-size bipedal robots, Unitree 46 million for smaller ones. Chinese media called it the country’s largest humanoid order to date.
 
 Why a phone company needs humanoids, the announcement didn’t say. As an ad man, I have a guess: because. When you run the world’s biggest mobile network, you want someone in the showroom waving at visitors. Ideally not an employee.
@@ -30,9 +32,13 @@ A robot guiding travelers at a border crossing. Travelers, I suspect, will be eq
 
 Speaking of customers. Morgan Stanley estimates Chinese makers booked over 2 billion yuan in humanoid orders in 2025, many from state-owned companies: power plants, data centers and, my favorite, entertainment. A state enterprise ordering a robot for entertainment is an image I keep coming back to.
 
+## A budget that doesn’t run out on Friday
+
 To be fair, the state as first buyer is an old idea, and not a Chinese one. Homemakers didn’t invent the internet or satellite navigation. New technology is always bought first by someone whose budget doesn’t run out on Friday. What’s specifically Chinese is that the first buyer is often not Beijing but a particular city, with its own mayor, its own targets and its own wish to look good at the next industry expo.
 
 The first customer isn’t the one who pays the most. It’s the one who pays first and asks the fewest questions.
+
+## A city that writes its own brief
 
 The money comes in three streams, all from the same mountain.
 
@@ -55,6 +61,8 @@ For lovers of paperwork, my imaginary spec sheet for a municipal robot:
 
 (A joke, of course. Many of these robots really do work, sorting parcels, patrolling, training. But I’d keep item six.)
 
+## A bridge over a canyon
+
 Seriously now. In China the state buyer is a bridge over a canyon: the long stretch when the robot exists and the jobs for it don’t yet. Private companies won’t jump that canyon; they have quarterly reports. Cities will, because they report on something else: development.
 
 AP put it plainly in June 2026: China can build humanoids at scale; the hard part is finding enough buyers. Officials themselves have warned of a bubble. A bubble warning from the people inflating it sounds odd, but it’s more like a parent who buys the kid a bike and shouts after him: “Not so fast!”
@@ -62,6 +70,8 @@ AP put it plainly in June 2026: China can build humanoids at scale; the hard par
 For anyone outside China looking at these robots, a big state order means the machine survived someone’s procurement process. It doesn’t mean it will pay for itself in your warehouse. State companies buy the future. You probably need the present.
 
 The state buys a robot so it exists. A business buys one so it works. Same robot, two very different purchases.
+
+## For now, the mayor is the one smiling
 
 I keep wondering who the second customer will be. The one who buys a humanoid not through a tender, but because she’s tired of hauling boxes. Every pitch deck has her: a woman with a laundry basket, smiling, the robot smiling back.
 

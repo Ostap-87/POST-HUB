@@ -22,6 +22,8 @@ I talk for a living, so I’ve always respected cab drivers professionally. They
 
 In China, you now get into a car and it’s quiet. The wheel turns by itself. Nobody asks where you’re from. Nobody tells you what to invest in. For the first time in your life you ride alone with your own thoughts. It turns out there aren’t that many.
 
+## Literature suffered a loss, transport did not
+
 China’s biggest driverless taxi fleet belongs to Baidu and is called Apollo Go. In Q4 2025 it completed 3.4 million fully driverless rides, peaking above 350,000 a week. By April 2026 it had passed 22 million rides in total, across 27 to 28 cities from Wuhan to Dubai.
 
 Twenty-two million rides. If every one of them had come with a son-in-law story, that would be a library nobody reads. Now it won’t be written. Literature suffered a loss. Transport did not.
@@ -33,6 +35,8 @@ Speaking of fares. In summer 2024, reporters from Yicai rode Apollo Go for 12 km
 Wuhan’s cab drivers were not amused. A robot that works around the clock and charges pennies, they said, isn’t fair competition. I sympathize. It’s hard to compete with a colleague who doesn’t eat, sleep or ask for a raise. I struggle to compete with the ones who do.
 
 Cab drivers used to worry about being replaced by newcomers. They were replaced by no-comers.
+
+## One-thirtieth of a driver
 
 Now the economics, which were the whole point. Robotaxi economics are like a diet: everyone knows how it should work, and almost nobody pulls it off.
 
@@ -46,6 +50,8 @@ The car pays for itself. The company doesn’t. Yet.
 
 That’s not gloating, that’s the filing. In Q2 2026, Pony.ai’s robotaxi revenue grew almost eightfold to $12.1 million, and its net loss was $45.4 million. The fleet stood at 1,975 cars at the end of June, with a target of more than 3,500 by year-end. The company itself says per-car profit doesn’t yet cover R&D and overhead. The wheels feed themselves. The head doesn’t.
 
+## The robots stopped to think
+
 Now, why none of these lines ever goes straight up.
 
 On the evening of March 31, 2026, Apollo Go cars in Wuhan stopped in the middle of the road one after another. Estimates range from a few dozen to more than 200. Some passengers were stranded on overpasses. Customer service blamed the network; industry sources said an automatic safety self-check had kicked in.
@@ -56,11 +62,15 @@ Then China did what it does best: it paused everything. According to Bloomberg, 
 
 The driver was back. Briefly. Just to sit there.
 
+## Which app?
+
 While the regulators reviewed things at home, Chinese robotaxis went abroad. By summer 2026, WeRide operated in 13 countries and more than 60 cities, with over 1,800 robotaxis, about 400 vehicles in the UAE alone, and fully driverless rides in Abu Dhabi and Dubai through Uber. Apollo Go runs driverless in Dubai and is testing in London with Uber and Lyft, in Hong Kong and in Switzerland. Pony.ai launched in Singapore, operates in Luxembourg, and Uber has contracted more than 2,000 of its cars for Europe.
 
 It makes a neat picture. A Chinese car, a Chinese autopilot, an American app, an Arabian desert. The passenger is a tourist from anywhere. The driver is one-thirtieth of a person, nationality unknown.
 
 We used to ask, “Where to?” Now we ask, “Which app?”
+
+## The best lecture I ever had
 
 That’s about it. No, not quite.
 

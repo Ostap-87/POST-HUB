@@ -24,6 +24,8 @@ China has built something in between. Height: 1.88 meters. Weight: 98 kilograms.
 
 No handcuffs included.
 
+## Kind by firmware
+
 Let’s begin with the one that actually works. Since May 1, 2026, a “robot police squadron” of 15 traffic robots has been on duty at downtown intersections in Hangzhou. Reuters later described them in detail: the T2 model from local firm SUPCON Information, 1.88 meters tall, in a vest, with arms that perform traffic-police gestures in sync with the lights.
 
 What it can do: cameras and radar spot e-bike riders without helmets, riders carrying passengers, cars over the stop line and pedestrians crossing on red. It issues a spoken warning. It tells you how to get somewhere and where to park. At West Lake, tourists press an “I want to speak” button and a large language model plans their route.
@@ -31,6 +33,8 @@ What it can do: cameras and radar spot e-bike riders without helmets, riders car
 What it can’t do: arrest anyone, fine anyone, or take anything “on the spot.” The goal, the company says, is to remind people of the rules before a violation becomes a habit, not to punish.
 
 Uncle Styopa was kind by nature. T2 is kind by firmware.
+
+## A hundred and seventy thousand reminders
 
 Now the company’s own numbers. Since May, it says, its Hangzhou robots have issued more than 170,000 warnings, and monthly cases of helmetless riding and stop-line violations have dropped by over 40%. Reuters notes it couldn’t verify the figures, and Hangzhou traffic police didn’t respond.
 
@@ -44,11 +48,15 @@ A word about weaknesses, or this would read like an ad. Strong sunlight, rain an
 
 The only difference is that a human grumbles in bad weather, while a robot quietly gets it wrong. The company does claim recognition accuracy above 95%.
 
+## A traffic cop also needs a work permit
+
 Hangzhou isn’t alone. In Wuhu, a humanoid with the badge “Intelligent Police Unit R001” stands on a traffic island. It’s made by AiMOGA, the robotics business linked to carmaker Chery. During the May 2026 holidays, robot traffic officers also worked in Kashgar and Ordos. By August, Reuters counted nearly 50 such robots across eight cities in three provinces, and SUPCON expected around 200 by year-end.
 
 AiMOGA’s Zhang Guibing made an interesting point: exporting these robots is harder than exporting a car. They have to plug into local law-enforcement IT systems, get certified and comply with data protection rules. He sees demand where it’s hot, in the Middle East, and where it rains, in Southeast Asia.
 
 You can sell a car. A traffic cop also needs a work permit.
+
+## RoboCop in elementary school
 
 Patrols are a different story.
 
@@ -65,6 +73,8 @@ A scene that never happened but practically writes itself. An intersection. A ma
 “Sir, please put on your helmet.” “Who are you?” “Traffic control.” “Show me some ID.” “Badge number R001.” “Are you going to fine me?” “No.” “Arrest me?” “No.” “So what are you going to do?” “Remember you.”
 
 He puts on the helmet. Not out of fear. Out of awkwardness.
+
+## Showpiece or worker
 
 So: showpiece or worker? I’ll answer like a marketer, which means honestly and with caveats.
 

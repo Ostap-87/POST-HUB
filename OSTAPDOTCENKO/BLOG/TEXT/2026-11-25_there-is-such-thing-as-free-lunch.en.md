@@ -20,11 +20,15 @@ Alibaba seems to have worked that out a long time ago. The loser isn’t the per
 
 In August 2023, Alibaba released Qwen-7B as open source. Seven billion parameters: download it, build it into your product, use it commercially. None of China’s tech giants did that at the time. Alibaba went first.
 
+## The meal is free, the kitchen is rented by the hour
+
 Everyone else followed grocery-store logic. Models cost a fortune, so you sell them. Goods, money, goods. Simple as a cash register.
 
 Alibaba followed cloud logic instead. A model isn’t the product. A model is the invitation. The product is the compute on which that model gets run, fine-tuned, embedded and run again. You download a model once. The cloud bill arrives every month.
 
 The meal is free. The kitchen is rented by the hour.
+
+## A soup kitchen half the world relies on
 
 And Alibaba didn’t just give, it gave generously. By August 2026, the company says, it had open-sourced more than 460 Qwen models: small and large, for text, code, images and voice. More than three billion downloads, and over 300,000 derivative models built on top of Qwen.
 
@@ -35,6 +39,8 @@ That’s not a free lunch anymore. That’s a soup kitchen half the world now re
 Speaking of who eats there. In autumn 2025, Airbnb CEO Brian Chesky told Bloomberg that his company’s customer service relies heavily on Qwen, calling it “very good” and “also fast and cheap.” An American company, an American market, a Chinese model under the hood, because the numbers work.
 
 There’s an old line in my trade: good, fast, cheap, pick any two. China apparently never got the memo.
+
+## Building the kitchen before handing out lunch
 
 Now, where’s the money? I promised myself not to take anyone’s word for it, so: the filings.
 
@@ -48,6 +54,8 @@ A short scene. No real people, just the genre.
 
 “How much is the model?” “Nothing. Download it.” “What’s the catch?” “No catch. Where will you run it?” “Um. On our own servers.” “How many GPUs is ‘our own’?” (Pause.) “Here’s the cloud contract. The model, as promised, is free.”
 
+## Not a trap, a business model with good manners
+
 Then Alibaba did something nobody expects from a soup kitchen: it opened a restaurant. The Qwen app launched in November 2025 and was downloaded more than 10 million times in its first week of public beta. By May 2026, according to QuestMobile, it had 167 million monthly active users in China, putting it in the top tier of AI apps alongside ByteDance’s Doubao (382 million) and DeepSeek (130 million).
 
 In August 2026 the app added paid tiers for its office assistant, from 19 yuan to 128 yuan a month, or 1,499 yuan a year for the top plan. Basic access stays free.
@@ -55,6 +63,8 @@ In August 2026 the app added paid tiers for its office assistant, from 19 yuan t
 First the lunch. Then the table. Then the cutlery. And only then a polite little sign: “Knives by subscription.”
 
 It’s not a trap. It’s a business model with good manners.
+
+## It shouldn’t work, and it does
 
 I tried to find a villain in this story and failed. A developer in Jakarta gets a good model for free. A startup in San Francisco saves on customer support. A student fine-tunes a model for a language the internet barely speaks. Alibaba sells all of them compute. Everyone’s happy and no one’s been fooled, which is slightly unsettling. It shouldn’t work, and it does.
 

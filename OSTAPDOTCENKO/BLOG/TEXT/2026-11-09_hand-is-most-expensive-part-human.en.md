@@ -20,17 +20,23 @@ As a kid, I was told I was all thumbs. I took it badly. Now I realize it was a c
 
 Look at your hand. Twenty-seven bones. Between your two hands, about a quarter of all the bones in your body. We use this treasure carelessly: scratching our heads, turning doorknobs, holding forks. Engineers trying to copy it look at your hand the way a small-business accountant looks at Apple’s balance sheet.
 
+## The logo has to hold a fork
+
 Money first, because money tends to tell the truth. Morgan Stanley estimated hands at roughly 17% of the hardware cost of Tesla’s Optimus. Chinese makers cite a similar range: 10–20% of the body cost, more in high-end builds. Tesla itself has said the hand accounts for about half of the robot’s engineering work.
 
 Half the work for two palms. The other half for the head, legs, torso, battery and everything else. If my ad budgets were split like that, clients would ask why the logo cost as much as the whole commercial. And I’d say: because the logo has to hold a fork.
 
 Legs are for running. Hands are for working. Running gets applause. Working gets paid.
 
+## An egg or an omelet
+
 Why is the hand so much harder? Legs do roughly one thing: carry weight, step, balance. Hands do everything. Lift a dumbbell and lift an egg. Turn a key and pet a cat. Find a coin in a pocket full of keys without looking. Each move needs its own force, angle and feel. Literally feel: without touch, a robot can’t tell whether it’s holding an egg or an omelet.
 
 And there’s no room. Motors, gearboxes, sensors and wiring all have to fit inside a palm. Chinese industry reviews list the bottlenecks: gears with a module under a millimeter, lead screws 1.4 mm thick, odd-shaped parts, and above all making the second batch identical to the first. A craftsman can build one good hand. Only an industry can build ten thousand identical ones.
 
 A human with a broken leg walks on crutches. A robot with a broken finger does nothing.
+
+## From one-off marvel to component
 
 Speaking of industry, China did what it does best: it turned a one-off marvel into a component.
 
@@ -55,11 +61,15 @@ Things my hand can do that a robot hand still can’t:
 5.  Shake hands so the partner knows the deal is off.
 6.  All of the above, free of charge, but only after coffee.
 
+## A gripper doesn’t pretend it can play the piano
+
 Now the fly in the ointment, without which this would be an ad. The same SAG analysts noticed something funny: in the first half of 2026 the share of humanoids fitted with truly dexterous hands fell, even as total shipments grew. Many early factory jobs simply don’t need five fingers. A gripper moves a box just fine. It’s cheaper, breaks less, and doesn’t pretend it can play the piano.
 
 And there’s the other side. Building a hand is getting solved. Teaching it isn’t. As Bristol professor Nathan Lepora put it, manufacturing hands is being solved; controlling them isn’t. The metal is ready. The brain that knows how to pick up an egg with it is not. That’s why China’s data centers teach robots thousands of motions, but that’s another story.
 
 Building a hand is engineering. Teaching a hand is education. China mastered the first fast and is still in class on the second. Like everyone else.
+
+## The Chinese handshake is soft
 
 I’ve shaken a lot of Chinese hands over the years. The Chinese handshake is soft and brief, none of that old Soviet urge to crush the other man’s fingers. I used to think it was courtesy. Now I wonder if people are just protecting an expensive asset.
 

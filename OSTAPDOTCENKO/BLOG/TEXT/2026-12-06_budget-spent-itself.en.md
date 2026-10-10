@@ -28,11 +28,15 @@ I’ve been in advertising a long time. Long enough to remember media plans in E
 
 In China that broker is quietly being replaced by a button. I watch it the way an old typesetter watched the first laser printer: half admiration, half “so what am I, then?”
 
+## The chain got longer, the invoice shorter
+
 About that button. In April 2024 Alimama, Alibaba’s advertising arm, launched site-wide promotion, Quanzhantui. The merchant picks a target return from a range the system suggests and sets a budget. A large model decides who sees the product, where and at what price. Paid and organic traffic are linked, so paying for ads earns you free exposure as well. Chinese business media noted that the idea came from Pinduoduo, which had launched a similar tool earlier. In China that isn’t an accusation. It’s a pedigree.
 
 Then it gets interesting. Throughout 2025 Alibaba’s quarterly reports showed customer management revenue — ads and merchant fees, roughly — growing about 10% a year, and they list the “increasing penetration of Quanzhantui” among the reasons. In plain English: once people stopped haggling over every shopper, the platform started earning more from every sale.
 
 The marketer used to buy ads. Now the marketer buys trust in a machine that buys ads. The chain got longer. The invoice got shorter.
+
+## Three departments in one tab
 
 ByteDance has its own button. E-commerce ads on Douyin run through Qianchuan, part of the Ocean Engine family. For the 618 shopping festival in 2026 it rolled out Qianchuan Chengfang, a system with three modules. One allocates budgets, sets bids and picks products. One generates creatives and diagnoses the store. One hunts for buyers across the whole platform.
 
@@ -44,6 +48,8 @@ By Double 11 in 2025, Alimama said plainly that AI now handled targeting, biddin
 
 Five million merchants. That’s a whole city, each resident running a shop and letting a machine decide when to cut the price. Most cities I know would argue. But most cities don’t sell on Taobao.
 
+## A black box is great on a plane
+
 Now the black box, because the story isn’t honest without it.
 
 Chinese analysts reviewing 618 were careful: AI’s direct lift to sales is still limited. Its value lies in “invisible increments” — slightly better conversion, slightly cheaper support, slightly sharper targeting. Merchants, they wrote, worry about the black box. The machine decided, the machine spent, and why it did so remains its own business. So platforms keep the familiar dashboards and tuck the AI behind them, like a prompter in a theater.
@@ -52,11 +58,15 @@ A black box is great on a plane. You open it when it’s too late.
 
 I sympathize. When you raised the bid yourself at midnight, you might be wrong, but you knew where. When the model raises it, all you know is that there’s less money. Sometimes there are more sales too. But hand on heart, who loves money they can’t explain? Only the platform. It understands perfectly.
 
+## A pitcher without a ball
+
 My favorite part is the job title. In China the person who buys traffic is called a toushou, 投手. Literally, a pitcher. Someone stands on the mound and throws: bids, budgets, creatives into the feed.
 
 Now the machine has the ball. And a pitcher without a ball becomes one of two things: a coach or a spectator.
 
 Coaching is on offer. Back in 2024, Alimama’s own promotional copy said specialists would stop fiddling with bids and instead analyze whole-store data, plan traffic across channels and manage more stores at once. Sounds like a promotion. I got one of those once: more reports, fewer rights, an office with no window.
+
+## Autopilot doesn’t replace the pilot
 
 What does it mean for the rest of us? Roughly this. The machine knows exactly whom to sell to. Who shouldn’t be sold to, which product you’d be ashamed to push, what price you can’t put on a label — that’s still a human job.
 

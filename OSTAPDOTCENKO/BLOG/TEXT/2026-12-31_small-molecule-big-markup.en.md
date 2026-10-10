@@ -24,6 +24,8 @@ What is this peptide, in everyday terms? Broken-down protein, made from oysters,
 
 The peptide isn’t guilty. The person talking about it on air is.
 
+## From natto to peptides
+
 Where is it sold? In November 2024, Xinhua published an investigation into health-supplement chaos on livestreams. It features a Shanghai woman whose 68-year-old mother watches health streams four to six hours a day, and a line I reread several times: “From natto capsules and compound selenium tablets to small-molecule pure peptides, she buys more and more in livestream rooms.”
 
 From natto to peptides. That’s not a shopping list. That’s a biography.
@@ -33,6 +35,8 @@ In August 2026, state TV exposed another scheme: free eggs lured seniors into gr
 A little scene. It’s invented, but assembled from what investigators describe.
 
 “Aunties, do you know why protein doesn’t get absorbed?” “Why?” “The molecule’s too big! It can’t squeeze through!” “Squeeze through where?” “In there! But our peptide is a small molecule. It squeezes through everywhere.” “Into my pension, too?” “Special discount today, just for family.”
+
+## Pressed candy
 
 Now the paperwork. In China, a supplement with an approved health claim is a “health food,” 保健食品, with state registration and a little blue hat logo. Getting one is slow and expensive. So many peptide powders reach the market as ordinary food, usually as a “solid beverage,” and tablets as “pressed candy.”
 
@@ -44,11 +48,15 @@ So you may write “small-molecule peptide.” You may not imply anything with i
 
 The scale: in August 2025 SAMR said it had opened 6,304 cases of illegitimate health-product marketing since 2020, with penalties of 260 million yuan, and named three main schemes: livestreams exaggerating benefits, “private traffic” through WeChat groups and fake health seminars, and fraudsters posing as nutritionists to win seniors’ trust.
 
+## Liquor that protects your liver
+
 My favorite find, though, was an advertorial on a major Chinese portal in November 2025: a sauce-aroma baijiu with small-molecule peptides, promising lower uric acid and liver protection, plus multi-level rewards for recruiting new buyers. No studies cited.
 
 Liquor that protects your liver. I take my hat off. Then put it back on, because I feel dizzy.
 
 Another advertorial in spring 2026 claimed small peptides are absorbed at over 90% versus 30–50% for regular protein, and listed fourteen benefits, without a source. Fourteen benefits isn’t a product. It’s a national team.
+
+## When science goes on air
 
 I feel bad for the science. Short peptides really are interesting, and researchers study how they’re absorbed and what they do. But when science goes on air, it loses its caveats first, then its methods, then its references. One word is left, sold at a high price to people with lots of time and little energy to check.
 

@@ -22,6 +22,8 @@ I always assumed “last” meant “final.” The Chinese apparently heard it a
 
 So they split the mile in two. The upper half went to drones. The lower half went to driverless vans. People got whatever was left over. More on that at the end.
 
+## Drones don’t know about traffic jams
+
 Let’s start with the sky. Meituan delivered its first real drone order in Shenzhen in early 2021. By the end of 2025 it had 70 routes across Shenzhen, Beijing, Shanghai, Guangzhou, Hong Kong and Dubai, and more than 780,000 deliveries. One site that started at about ten orders a day now handles up to 400, the company says. The cost per order is falling 40 to 50 percent a year.
 
 My favorite is the Hong Kong route. In summer 2025 a Keeta drone began flying from the Science Park in Sha Tin to the Ma On Shan promenade: 1.8 km across the water. A rider on the road would have to cover 7.8 km. The delivery costs HK$30, and a Meituan executive admitted openly that this doesn’t cover the cost.
@@ -29,6 +31,8 @@ My favorite is the Hong Kong route. In summer 2025 a Keeta drone began flying fr
 Now that’s marketing. The company pays extra so your lunch can fly. It used to be that the only way to make food fly was to drop it off a balcony.
 
 Drones don’t know about traffic jams. Traffic jams haven’t heard of drones yet.
+
+## A refrigerator that got a driver’s license
 
 Now the asphalt. The stars here are driverless vans: small, boxy, like a refrigerator that got a driver’s license.
 
@@ -38,17 +42,23 @@ Its rival Zelos says it already has about 30,000 vehicles and expects 80,000 in 
 
 A million and a half. That’s not a fleet. That’s a population. A population that never goes to the doctor, never posts in the building group chat and never parks on the lawn. Well, we’ll see about the lawn.
 
+## The robot doesn’t get bored
+
 Speaking of cost. In Shenzhen in September 2025, 432 driverless vans made 1.02 million deliveries and earned 8.7 million yuan. I did the division, because it’s my job: about 8.5 yuan a run. A Yunda manager told Xinhua the vans cut operating costs by nearly half.
 
 Out in Xinjiang, a driverless van drives 60 km to a village carrying two or three parcels. No logistics manager with a calculator would sign off on that trip. The robot doesn’t ask for sign-off. It doesn’t get bored.
 
 Boredom is the last thing that separates a courier from a machine. And not for long.
 
+## The courier couldn’t find the entrance
+
 Then there are the plans, because no Chinese story is complete without them. In autumn 2025, JD Logistics announced it would buy three million robots, a million autonomous vehicles and a hundred thousand drones over five years.
 
 I tried to picture it. A million driverless vans, a hundred thousand drones overhead, three million robots in the warehouses. And somewhere in the middle, me: a man who can’t get a parcel from the next district because the courier “couldn’t find the entrance.”
 
 If a courier can’t find the entrance, a drone certainly won’t. It can’t even ask the old lady on the bench.
+
+## What’s left for people
 
 And now, as promised, what’s left for people.
 

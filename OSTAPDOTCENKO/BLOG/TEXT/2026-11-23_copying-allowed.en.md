@@ -22,11 +22,15 @@ I copied. Let me admit that up front to avoid awkwardness later. Nobody consider
 
 China’s robotics industry today works like that class. Except the notebooks cost millions of dollars. And the top students hand them out without being asked.
 
+## The internet can’t teach you to walk
+
 Start with what robots actually need to learn from. A language model can learn from the internet: there’s endless text, and people spent forty years writing it for free. A robot doesn’t need text. It needs movement. How to pick up a mug. How to fold a towel. How not to crush an egg. None of that is on the internet. Every movement has to be recorded: a human operates the robot, the robot repeats, the sensors log it.
 
 GF Securities, cited in Chinese media, estimates that embodied AI models need at least 10 million hours of such data, and the world has collected less than 5% of that. By the end of June 2026, China had more than 70 data collection sites running and 46 more planned or under construction.
 
 The internet can teach you to talk. It can’t teach you to walk. We knew that already, from people.
+
+## The thickest notebook in human history
 
 The first serious shared textbook was the international Open X-Embodiment dataset from 2023: 22 different robots, 21 research institutions, 527 skills. A workbook pieced together from many schools, in many handwritings.
 
@@ -36,6 +40,8 @@ A million trajectories. That’s a million times someone showed a robot how to p
 
 There’s one detail I, as a marketer, like most. All hundred robots in the dataset are AgiBot’s own model. So the textbook is free. But it was written for a particular brand of desk.
 
+## Twenty million downloads
+
 Speaking of the state. The Beijing Humanoid Robot Innovation Center released its RoboMIND dataset, and at the end of 2025 a second version: more than 310,000 trajectories for two-armed robots, six robot types, over 700 tasks and a separate set of recordings with tactile sensors. In September 2026 the center said downloads had passed 20 million, doubling in the previous month.
 
 Twenty million downloads. Nobody has downloaded my slide decks that many times, and I emailed them to everyone.
@@ -43,6 +49,8 @@ Twenty million downloads. Nobody has downloaded my slide decks that many times, 
 In spring 2026, the robot maker Leju started an open embodied-AI dataset community under the OpenAtom open-source foundation and released a dataset that labels 41 robot joints. And Shanghai’s Lightwheel, together with Hugging Face, used this summer’s World Robot Conference to release 100,000 hours of first-person video: people cooking, cleaning and fixing things, with a camera on their heads recording it all. That’s no longer a textbook for robots. It’s a textbook about people, written for robots to read.
 
 Frankly, I’m a little worried. If robots learn everything from us, they’ll learn procrastination too.
+
+## The textbooks are free, the money is in the desks
 
 Now the real question. Why? Why would companies locked in a fight to the death give each other their most valuable asset?
 
@@ -57,6 +65,8 @@ Here’s an absurd answer in five points. All honest except the last.
 The textbooks are free. The money is in the desks.
 
 It’s the same logic as China’s open-weight language models, which I’ll write about separately. Except there they give away the brains, and here they give away the muscle memory.
+
+## Four or five names before yours
 
 That’s about it. No, not quite.
 

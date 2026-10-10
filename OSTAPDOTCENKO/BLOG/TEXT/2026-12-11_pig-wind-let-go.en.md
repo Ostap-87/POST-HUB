@@ -24,6 +24,8 @@ In my younger days, I confess, I made similar slides for clients. The slide was 
 
 Time does tell. Just not always what the author expected.
 
+## What happens when the wind stops
+
 In 2014 Xiaomi sold more than 61 million phones in China and became number one in the world’s biggest market, ahead of Samsung and Apple. It was valued at $45 billion. Founder Lei Jun said something that anyone in China who’s ever written a business plan knows by heart: “Stand in the eye of a storm, and even a pig can fly.”
 
 It’s an honest line with a catch. It leads to a question nobody asks while the pig is airborne: what happens when the wind stops?
@@ -32,11 +34,15 @@ In spring 2015 Lei Jun went to New Delhi to launch a new phone. At the end he an
 
 I watched the clip and, I admit, laughed. But I remember it for another reason. “Are you OK?” turned out to be a very timely question. He just asked the wrong audience.
 
+## We have demons in our hearts
+
 For 2015, Xiaomi set a target of 80 to 100 million phones. It sold more than 70 million. For any other company, a triumph. For a company used to multiplying, its first-ever miss.
 
 At the January 2016 annual meeting, Lei Jun said something remarkable for a CEO: “We have demons in our hearts.” The 80-million figure, he said, weighed on people so heavily that the smiles disappeared from their faces one by one. His top strategy for the new year was “just be happy,” and he promised to keep doing without KPIs.
 
 The plan was missed, so they decided to have fun. Either very wise or very human. As it turned out, neither helped.
+
+## Nobody had taught it to land
 
 2016. According to IDC, Xiaomi’s sales in China fell 36% to 41.5 million. Fifth place, behind OPPO, Huawei, vivo and Apple. OPPO alone doubled its sales in a year.
 
@@ -56,6 +62,8 @@ A short glossary. Five terms you need to understand this story. Definitions are 
 
 **Are you OK?** The best question in management. Provided you ask it of yourself.
 
+## Wisdom is going back to school on your own
+
 The word buke wasn’t my idea. Lei Jun chose it himself. In early 2016 he announced three slogans for the year: “focus,” “make up lessons,” “explore boldly.” Then he did something you don’t expect from a billionaire. On May 17, 2016, he personally took over the phone business and the supply chain.
 
 He split development into four blocks: product, R&D, supply chain, quality. He promoted young engineers. The hardware team grew from 300 to 595 people within the year. Then came offline retail: around twenty Mi Home stores in mid-2016, more than 120 by summer 2017.
@@ -63,6 +71,8 @@ He split development into four blocks: product, R&D, supply chain, quality. He p
 I’ve seen the same picture many times at negotiations in China: the bigger the boss, the less he wants to go into details. In 2016 Lei Jun did the opposite. The biggest boss in the company went into the smallest details. Antennas, suppliers, build quality.
 
 Humiliation is being sent back to school. Wisdom is going back on your own.
+
+## The pig has learned to build airplanes
 
 Q2 2017: 23.16 million phones. A company record, up 70% from Q1. Lei Jun later made a claim still quoted in China: no phone company in the world had ever turned around after its sales fell — except Xiaomi.
 

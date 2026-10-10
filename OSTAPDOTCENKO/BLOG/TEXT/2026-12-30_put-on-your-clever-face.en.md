@@ -24,15 +24,21 @@ First, the scale of the lab. In 2025 Korea exported a record $11.4 billion of co
 
 That minus 19% in China is worth a pause. Chinese shoppers didn’t fall out of love with science; they seem to have started buying it from their own brands, which now file peptides of their own. Korea felt it and turned toward America, where “peptide” still sounds like news.
 
+## No peptides on the list
+
 Now the trick. Korea has a “functional cosmetics” category regulated by the Ministry of Food and Drug Safety (MFDS). To claim on the box that a cream improves wrinkles, you need to be in it. For wrinkles, the regulator lists just four ingredients: retinol, retinyl palmitate, polyethoxylated retinamide and adenosine.
 
 No peptides.
 
 So a cream can be called “Peptide 9,” wear a flask on the box and star a man in a lab coat, while peptides are officially not an anti-wrinkle ingredient. A maker can prove an individual product works and get it certified, but the word “peptide” by itself isn’t a medal. It’s a jersey. Champions wear it. So do fans.
 
+## Botox in a jar
+
 The most famous cosmetic peptide wasn’t even invented in Korea. Argireline, acetyl hexapeptide-8, came from Spain’s Lipotec, now part of Lubrizol, with work starting in the late 1980s; the company calls it the first peptide on the market able to reduce muscle contractions topically. Hence the nickname you’ve surely heard: “Botox in a jar.” Take a scary word from the clinic, put it in a jar, close the lid. The scary stays outside; the science stays in.
 
 It would be unfair to say there’s only a shop window. There’s a lab too. Caregen, founded in 2001 and listed in 2015, held around 360 patents on peptide substances by 2021, according to BASF, which that January signed a global exclusive deal to supply Caregen’s cosmetic peptides. A German chemical giant buying peptides from a Korean company: that, to me, is the real Korean wave. Not a drama, not a boy band. The moment Ludwigshafen calls Gyeonggi Province to ask about an anti-acne peptide.
+
+## How a Korean jar talks to you
 
 How a Korean jar talks to you, from my shelf observations:
 
@@ -44,9 +50,13 @@ How a Korean jar talks to you, from my shelf observations:
 
 Trends are measured in searches. Olive Young, Korea’s leading beauty retailer, reported in 2025 that searches for “peptide” rose 72%. Impressive, until you read the next lines: PDRN, made from salmon DNA, rose 695%, and mask cleansers 1,700%. In Korea the peptide is already a classic. It’s being overtaken by a salmon.
 
+## To the end of the dermis
+
 Finally, the regulator watching the party through the glass. In August 2025, MFDS reviewed online ads and found 83 violations of the Cosmetics Act: 53 implied medicine (“anti-inflammatory,” “skin cell regeneration”), 25 went beyond cosmetics, such as microneedle products that “penetrate to the end of the dermis,” and 5 ordinary cosmetics posed as functional ones.
 
 “To the end of the dermis.” I’ve thought about that phrase a lot. It has precision, depth and no idea where the dermis ends.
+
+## Science in a tube sells a seat in the experiment
 
 I genuinely like the Korean approach. Koreans understood that shoppers want not only to look better but to feel clever while buying. Science in a tube sells not a result but a seat in the experiment. You’re not just putting on cream, you’re running a study. On yourself. At your own expense.
 

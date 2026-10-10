@@ -20,17 +20,23 @@ Everybody has written about DeepSeek. I held out, out of laziness, and I’m now
 
 Start with the paradox. The loudest Chinese AI company of recent years ran almost no ads, gave almost no interviews and took no outside investment until 2026. As a marketer, I find this personally offensive. We spend our careers telling clients that nothing sells without noise. DeepSeek sold everything, including other people’s shares, in total silence.
 
+## It began with trading, not AI
+
 It began with trading, not AI. In 2015 Liang Wenfeng co-founded the quant fund High-Flyer in Hangzhou. A quant fund is where the trading is done not by people with fire in their eyes but by algorithms with none. Algorithms need GPUs. By 2021, reportedly, Liang had bought around ten thousand Nvidia A100s, before the US restricted their sale to China.
 
 Foresight or simply a habit of buying in bulk? History is silent. I lean toward bulk. Some people stock up on toilet paper. Some stock up on compute. Only one of those decisions moves markets.
 
 In July 2023 the fund spun its research lab off as a separate company, DeepSeek. The fund paid; there were no outside investors. In 2025 the company had about 160 employees. That’s smaller than the marketing department at many drug companies, although, to be fair, marketing departments don’t train models. They train each other on who to cc.
 
+## Started by a company with no sales team
+
 The first time DeepSeek didn’t mean to scare anyone was May 2024. It released V2 and priced API access at 1 yuan per million input tokens and 2 yuan per million output tokens. Five days later Zhipu cut its price fivefold. ByteDance priced Doubao at 0.8 yuan. Alibaba slashed Qwen-Long by 97%. Four hours after Alibaba, Baidu made two of its models free.
 
 That’s how China’s token price war began. It was started by a company with no sales team.
 
 Some people walk into a room, say nothing, and everyone else starts apologizing.
+
+## A wedding priced as the last toast
 
 In December 2024 came V3, with a number in the technical report that everyone went on to quote: the final training run took 2.788 million H800 GPU hours, about $5.6 million. Jaws dropped. US labs were spending orders of magnitude more.
 
@@ -44,6 +50,8 @@ A hedge fund is an organization that profits from other people’s volatility. H
 
 Nobody meant to scare anyone. They just uploaded some files.
 
+## Almost everything, and almost nothing
+
 What changed afterward? Almost everything, and almost nothing.
 
 Everything, because open weights went from a hobbyist quirk to good manners in China. Even Baidu, whose CEO told staff in spring 2024 that open-source models made little sense, released its own a year later. Australia banned DeepSeek on government devices; the US defense budget for 2026 banned it on military and intelligence devices. In February 2026 Anthropic accused DeepSeek, along with Moonshot and MiniMax, of mass-harvesting Claude’s answers through fake accounts. Fame never travels alone. It brings auditors.
@@ -51,6 +59,8 @@ Everything, because open weights went from a hobbyist quirk to good manners in C
 Nothing, because the company kept doing what it always did: shipping models. V3.1 in August 2025, V3.2 in December. On April 24, 2026, V4: 1.6 trillion parameters in the larger version, a one-million-token context, open weights and, for the first time, adaptation to Huawei’s Ascend chips. Huawei announced full support the same day, and DeepSeek later made a 75% price cut on its flagship permanent.
 
 Export controls were meant as a fence. DeepSeek read them as a product spec.
+
+## Hand over money and sit quietly
 
 Then, in 2026, the unthinkable. DeepSeek took outside money. According to The Information, its first external round raised more than 50 billion yuan, about $7.4 billion, at a valuation above $50 billion. Liang himself put in about 20 billion yuan, Reuters reported. Tencent and battery maker CATL are named among the backers, and the state AI fund invested directly.
 

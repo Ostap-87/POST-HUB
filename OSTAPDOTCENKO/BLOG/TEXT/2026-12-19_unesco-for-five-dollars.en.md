@@ -26,6 +26,8 @@ Equality is when there’s no free table for anybody.
 
 In a hawker centre I’m useless. Forty stalls, forty signs, forty queues. By the time I’ve chosen, a local has eaten, cleared up and gone back to work. I stand there like a tourist in a museum where every exhibit smells wonderful and there’s no guide.
 
+## The state protects the noodles
+
 Why do noodles need protection? It took me a while. Then I read the history: they’re not protected from enemies. They’re protected from disappearing.
 
 In 1966 Singapore started licensing street hawkers; it counted about 24,000 of them. In 1971 a committee for building hawker centres was set up. They built, moved people, persuaded. The last street hawkers, about eighty of them, went indoors in early 1986. The streets emptied. There were more than a hundred centres by then.
@@ -36,6 +38,8 @@ Today hawker centres fall under the National Environment Agency. Its list for Au
 
 The state protects the noodles.
 
+## The most reliable lock in the world
+
 Speaking of property rights.
 
 If there’s a packet of tissues on an empty table, the table is taken. It’s called “chope.” The owner of the tissues is in the chicken-rice queue and can stay there as long as he likes. His claim is secure.
@@ -45,6 +49,8 @@ Not by law. By something stronger. You can challenge a law in court. You can’t
 I once watched a grown man holding a full tray stand over a table with nothing on it but tissues, looking at them as if they were a minefield. He stood there. Sighed. Moved on.
 
 The most reliable lock in the world costs less than any lock. And nobody ever picks it.
+
+## The tray is worth sixty breakfasts
 
 Now, the tray.
 
@@ -58,6 +64,8 @@ Food prices are kept low here. Bad manners are priced high. As far as I can tell
 
 The state protects the noodles. And the crockery from the diners.
 
+## The cheapest star on the planet
+
 There was a Michelin star, too. In 2016, Singapore’s first Michelin guide gave one star to a stall in Chinatown selling soy sauce chicken rice for about two Singapore dollars. The cheapest star on the planet. The queue stretched for hours.
 
 Then the investors arrived. A chain, outlets abroad, a new name, Hawker Chan, a bigger menu. In the 2021 guide, the star was gone.
@@ -65,6 +73,8 @@ Then the investors arrived. A chain, outlets abroad, a new name, Hawker Chan, a 
 The star came to the stall. The stall went off after the star. Somewhere along the way they missed each other.
 
 I’m not judging. Everyone has a right to a franchise. It’s just that heritage, it turns out, doesn’t scale. You can’t open it in a mall. It doesn’t relocate. It stands at the stove.
+
+## Everyone wants to eat, nobody wants to cook
 
 And now the main thing, which isn’t funny.
 

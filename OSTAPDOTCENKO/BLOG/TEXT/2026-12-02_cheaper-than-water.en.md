@@ -22,6 +22,8 @@ Three classic novels for a yuan — roughly fourteen cents.
 
 I wrote that line down. I’ve written ad copy for twenty years and never come up with anything that good. It has everything: price, volume, a classic and a touch of madness.
 
+## Two weeks, seven companies
+
 It would be neat to say ByteDance started it. But DeepSeek was first: on May 6 it released its V2 model at one yuan per million input tokens. On May 11 Zhipu cut its model’s price from five yuan to one. May 15: Doubao. On May 21 Alibaba slashed Qwen-Long by 97%, from 20 yuan per million tokens to 0.5. A few hours later Baidu made two Ernie models free. The next day Tencent made its light Hunyuan model free; so did iFlytek.
 
 Two weeks. Seven companies. Prices down by orders of magnitude, in places to zero.
@@ -30,11 +32,15 @@ In my line of work, a 10% discount on a banner ad can take longer than that to a
 
 Zhang Junlin, head of new-technology R&D at Sina Weibo, summed up the logic for Yicai: if one internet company cuts prices, the others have to follow or fall behind. That’s not economics. That’s physics. For every discount there is an equal and opposite discount.
 
+## Thinking became cheaper than drinking
+
 A bottle of water in a Chinese convenience store costs a couple of yuan. For the same money you could get six *Romances of the Three Kingdoms* from Doubao. You can drink the water, though. Six copies of that novel you can only survive.
 
 Hence the phrase “AI is cheaper than water.” It sounds like a metaphor. In May 2024 it was close to an accounting fact.
 
 For the first time in history, thinking became cheaper than drinking.
+
+## What came of it
 
 What came of it? I tried making a list, and as usual it came out slightly crooked.
 
@@ -43,6 +49,8 @@ What came of it? I tried making a list, and as usual it came out slightly crooke
 3.  Everything underneath the models got pricier. According to Sinolink Securities, cited by Caixin, DDR5 memory prices rose roughly sixfold in 2025.
 4.  Marketers now generate a hundred banner variants instead of one. The client still picks the first.
 5.  I started saying “thank you” to chatbots. Then I learned “thank you” costs tokens too. I keep saying it. Good manners are worth the money.
+
+## The pendulum swung back
 
 In 2026 the pendulum swung back.
 
@@ -53,6 +61,8 @@ The only free cheese is in a mousetrap. The only free tokens last until the firs
 Here’s the interesting part. Prices went up, and demand didn’t drop. After all its price hikes, Zhipu’s first-half 2026 revenue was nearly five times the year before, and most of it came from paid model access.
 
 So the price war did its job. It didn’t ruin the market. It trained it.
+
+## War always costs more than peace
 
 War always costs more than peace. Price wars too. The bill just arrives later, and not always to the ones who started it.
 

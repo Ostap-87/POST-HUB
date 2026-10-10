@@ -22,6 +22,8 @@ Writing about other people’s failures is easy and pleasant. A bit like giving 
 
 Time to clean up my own room. This last piece is about what I’ve seen over years of working with Chinese factories. No names or dates: the names don’t matter, and the dates are always the same — “again.”
 
+## A question shaped like a box
+
 Let’s start with the first time. In Chinese it’s called dayang (打样), “making a sample.”
 
 When I was younger, I honestly believed a sample was the product, just one of it. You send the spec, they send a box, you open the box, and inside is what you wanted. As logical as the times table.
@@ -32,11 +34,15 @@ A first sample isn’t a product. It’s a question shaped like a box: “Is thi
 
 The right answer to that question is almost never “yes.” That’s not failure. That’s the start of the conversation.
 
+## Mr. Chabuduo
+
 Speaking of adjectives. Chinese has the word chabuduo (差不多): “roughly,” “close enough,” “that’ll do.” In the early twentieth century, the philosopher Hu Shi wrote a satire called “The Biography of Mr. Chabuduo,” about a man for whom everything was “more or less the same,” including, at the end, life and death.
 
 I used to think this was a purely Chinese problem. Then I reread my early specs. Mr. Chabuduo had co-written every page. “Roughly this size.” “A similar shade.” “Good quality.” The factory honestly made it roughly, similar and good. By its own standards.
 
 If you don’t want “roughly,” don’t write “roughly.” A simple thought. It took me years to put it into words and a couple more to start following it.
+
+## A sample is made by a craftsman, a run by a process
 
 The second time is shichan (试产), the pilot run.
 
@@ -47,6 +53,8 @@ Note that none of these clever people expect to get it right the first time. The
 Why? Because a sample is made by a craftsman. A production run is made by a process. A craftsman can file, bend and glue until the thing works. A machine doesn’t improvise. A machine only remembers what it was told.
 
 One good unit proves the craftsman is talented. A thousand identical ones prove the process is.
+
+## A box with two signatures
 
 Between the second and third time, there’s a ritual I love most. It’s called fengyang (封样), the “sealed sample.”
 
@@ -59,6 +67,8 @@ If you ask me what the most valuable document is when working with a Chinese fac
 The third time is liangchan (量产), mass production.
 
 You’d think that’s it. But even here, the first batch is a bit of a sample. You need to see it yourself, with your own eyes, not in photos. Not because the factory will cheat you. Because between “we made two hundred good ones” and “we made twenty thousand good ones” lies one more distance, and this one is measured not in adjectives but in patience.
+
+## “Let’s start over” is a production term
 
 Now the main point. Why all this is normal.
 

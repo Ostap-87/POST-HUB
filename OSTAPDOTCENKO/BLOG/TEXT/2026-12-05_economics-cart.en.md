@@ -22,6 +22,8 @@ Then one evening I walk into a night market and the smoke touches me. Instantly.
 
 That is a funnel. Twenty meters downwind. Conversion rate: one hundred percent.
 
+## If someone pitched it to me
+
 Let me show you what this business would look like if someone pitched it to me. I’ve sat through a lot of pitch decks. This one would be the best.
 
 **Investment Memorandum. Project “Cart”**
@@ -46,6 +48,8 @@ Let me show you what this business would look like if someone pitched it to me. 
 
 I’d invest. They wouldn’t take my money, of course: no shareholders, no openings, and a queue longer than the one at any trade show booth I’ve ever staffed.
 
+## A one-item menu is strategy
+
 A one-item menu isn’t poverty. It’s strategy.
 
 Corporations pay consultants a fortune to be told one word: “Focus.” The stinky tofu lady focused for free some thirty years ago and hasn’t been distracted since. She doesn’t have a product line. She has tofu. And a queue.
@@ -55,6 +59,8 @@ A Michelin star is for restaurants. For a cart, the honor is a queue. A queue is
 To be fair, Michelin did come to the carts. Taipei’s 2019 Bib Gourmand list included 24 street food stalls from eight night markets: stinky tofu, black pepper buns at Raohe, herbal pork rib soup, scallion pancakes. The inspector came to the cart. The cart did not go to the inspector. It had an evening to get through.
 
 In Taiwan a night market isn’t a market so much as an institution. According to Taiwan’s Tourism Administration, more than 80% of international visitors put night markets on their itinerary. Museums are optional; Shilin is mandatory. I get it. A museum shows you how people lived. A night market shows you how they live.
+
+## Loved, then chased off, at scale
 
 On the mainland, the cart has a more complicated biography. China alternately loves its carts and chases them off, and, as with everything in China, does both at scale.
 
@@ -66,11 +72,15 @@ A few days later the Beijing press clarified that stalls did not suit the image 
 
 The cart is the only business with regulatory evasion built into the design. Wheels.
 
+## Product testing in one bite
+
 I stand at a fried-noodle cart somewhere in China and run the numbers. Occupational hazard.
 
 Order cycle: under a minute. Warehouse: under the cart. Logistics: a hundred meters from home. Payments: a QR code taped on, one corner already peeling. No office. Barely any rent. Marketing: smell. Customer feedback: the face of the person who just took a bite — the fastest analytics I have ever seen. No dashboard will tell you in a second and a half whether the product works. A face will.
 
 In my industry we test products for months. Here it takes one bite. And, annoyingly, it’s more accurate.
+
+## Books that never make it into any report
 
 The cart also keeps books that never make it into any report.
 

@@ -22,11 +22,15 @@ A scene. Made up, but you’ll recognize it. An office, a desk, a form.
 
 That’s the whole Manus story. The rest is detail.
 
+## An information desk and an intern
+
 First, what an agent is, because the word has been worn thin. A chatbot answers a question. An agent takes a task and does it: opens a browser, searches, compares, writes code, assembles a report, sends you the file. It’s the difference between an information desk and an intern. The information desk tells you where to buy a ticket. The intern buys it. Sometimes to the wrong city.
 
 Having been my own intern for twenty years, I took the news personally. Especially in March 2025, when a Beijing startup showed off Manus.
 
 On March 6, 2025, Manus opened an invitation-only beta. The demo video hit a million views in twenty hours. China Daily reported invite codes reselling for 50,000 to 100,000 yuan. For the right to try out an intern. In the Soviet Union people traded places in the queue for a car. At least at the end of that queue you got a car, not a beta.
+
+## A butterfly flapped its wings in Beijing
 
 Manus was built by Butterfly Effect, founded by Xiao Hong in 2022, a couple of months before ChatGPT. Their first product was Monica, a browser extension bundling other people’s models. According to 36Kr, ByteDance offered about $30 million to buy them. They said no.
 
@@ -42,6 +46,8 @@ By August 2025 its annualized revenue was about $90 million; by December, about 
 
 Half a billion in spring, two billion in winter. That butterfly was very productive.
 
+## Changing your address is easy, your origin isn’t
+
 Then it turned out you don’t change where you’re from by changing where you live.
 
 On January 8, 2026, China’s Ministry of Commerce said it would examine the deal with other agencies, covering export controls, technology transfer and foreign investment. In March, according to lawyers who followed the case, co-founders Xiao Hong and Ji Yichao were barred from leaving China. On April 27 the foreign investment security review office at the National Development and Reform Commission prohibited the deal and ordered it unwound. Lawyers call it the first publicly disclosed prohibition of a specific deal under China’s foreign investment review regime.
@@ -54,6 +60,8 @@ Then everything ran backwards, like a film reel when the projectionist dozes off
 
 Money doesn’t smell. Data does, and regulators can smell it across borders.
 
+## Lobster fever
+
 Speaking of interns. While Manus was shuttling between capitals, China went agent-crazy as a country. In winter and spring 2026 came “lobster fever,” after OpenClaw, an open-source agent written by an Austrian programmer. A claw suggests a lobster, and the nickname stuck. Tencent Cloud offered one-click deployment and wired it into QQ and WeChat Work. Alibaba Cloud launched an app, Baidu launched a cloud version, and Xiaomi, Honor and Huawei built phone versions. Lei Jun called Xiaomi’s the “mobile lobster.”
 
 The most telling number comes from Caixin: two tasks for such an agent cost about one yuan on a Chinese model and about nine dollars on a foreign one. That’s geopolitics in a single line of an invoice.
@@ -61,6 +69,8 @@ The most telling number comes from Caixin: two tasks for such an agent cost abou
 Regulators issued security guidance: keep it updated, don’t expose it to the internet, vet the skill libraries. An intern with access to your email and your bank can do more than buy a ticket. He can delete everything he finds. No malice. Pure diligence.
 
 An agent does everything for you, except take responsibility for you.
+
+## It needs no passport and no visa
 
 For years I’ve told business people that in China it matters not only what you do but where you come from. They nodded, took notes, then asked where to buy cheaper. Manus is the best illustration I’ve seen. You can move the office, the servers, the legal entity, even close your Chinese social accounts. You can’t move the fact that someone in Beijing remembers where you started.
 

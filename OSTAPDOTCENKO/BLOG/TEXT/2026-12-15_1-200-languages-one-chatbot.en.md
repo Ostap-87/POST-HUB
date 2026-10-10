@@ -24,6 +24,8 @@ The complete list of things I can say with confidence in Southeast Asian languag
 
 A short list. But it turns out that for a long time, AI and I were in roughly the same league in this region. At least I never pretended otherwise.
 
+## A language that isn’t on the internet
+
 Start with the basics. Large language models learn from the internet. The internet is written mostly in English, then Chinese, then other big languages. Southeast Asia, by the count local developers cite, is home to more than 1,200 languages. Vietnamese, Thai, Indonesian, Malay, Tagalog, Khmer, Lao and Burmese are just the ones with their own countries. Then there’s Javanese, spoken by tens of millions, plus Sundanese, Balinese and Batak. People live, haggle and sing lullabies in them. They don’t write much online.
 
 To a machine, a language that isn’t on the internet doesn’t exist. To the grandmother who speaks it, the internet doesn’t exist. Call it a draw.
@@ -34,11 +36,15 @@ Now that’s an honest product brief. Not “preserve linguistic diversity,” b
 
 The most honest motive in tech is commercial. At least it doesn’t pretend to be charity.
 
+## Singaporean neutrality
+
 Then there’s Singapore, a country that approaches everything with a budget and a spreadsheet. In December 2023 it launched a national multimodal AI program worth 70 million Singapore dollars. Its flagship is SEA-LION, AI Singapore’s model for regional languages.
 
 For a long time, SEA-LION was built on Meta’s model family. In November 2025 came Qwen-SEA-LION-v4, built on Alibaba’s Qwen3-32B. The base Qwen3 was trained on 119 languages and dialects; Singapore added more than 100 billion tokens of Southeast Asian text. The new model topped the regional SEA-HELM leaderboard among open models under 200 billion parameters, and it runs on a machine with 32 GB of memory. Practically a good laptop.
 
 Singapore is a neutral country that never picks sides. It picks whatever works best in Thai. That’s Singaporean neutrality.
+
+## Languages have a price per word
 
 The other neighbors decided to teach their own languages themselves.
 
@@ -50,11 +56,15 @@ Thailand: back in early 2024, SCB 10X, part of the SCBX banking group, open-sour
 
 So in the age of AI, languages have a price per word. Thai used to be an expensive language. Now it’s cheaper. For the first time in history, linguistics became a cost-saving measure.
 
+## First comes the merchant, then the dictionary
+
 Put it all together and the picture is amusing. Governments talk about sovereignty, local data and national assets. Local companies build models in their own languages. And under the hood, more and more often, sits an open Chinese model, because it handles Asian languages well, costs nothing and needs nobody’s permission.
 
 It’s not a conspiracy. It’s just geography. Chinese sellers came to the region before Chinese models did, learned to haggle in local languages, and the models followed them like an interpreter behind a trade delegation.
 
 In Asia it has always worked this way: first comes the merchant, then the dictionary.
+
+## Almost no manuals and a great many lullabies
 
 One last thought that keeps nagging at me. Javanese, spoken by millions, barely made it onto the internet not because it’s lacking, but because people spoke it far more than they wrote it. At the table, at the market, in the village after dark. These are languages with almost no instruction manuals and a great many lullabies.
 

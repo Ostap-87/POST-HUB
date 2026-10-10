@@ -20,9 +20,13 @@ The older you get, the more often you lose to things you used to call toys. Firs
 
 Run, robot, run. That’s not encouragement. It’s a status report.
 
+## Yangge with red handkerchiefs
+
 It all started sweetly, with a dance. At CCTV’s Spring Festival Gala in January 2025, more than a dozen Unitree H1 humanoids performed yangge, a northern Chinese folk dance with red handkerchiefs. The number was staged by Zhang Yimou, the man behind the Beijing Olympics opening ceremony. The robots wore floral vests and twirled their handkerchiefs.
 
 The world watched and said “aww.” That’s what you say about a five-year-old reciting a poem on a stool. Nobody expected the five-year-old to outrun an Olympian a year later. China did. China plans in five-year increments, quite literally: the 2026–2030 Five-Year Plan names faster development of humanoid robots as a goal.
+
+## From a retiree walking a dog to a world record
 
 Speaking of running. Beijing held the first half-marathon for humanoids in spring 2025. The winner covered 21 km in 2 hours, 40 minutes and 42 seconds — a respectable pace for a retiree walking a dog. People laughed. Robots fell over, overheated and had engineers jogging beside them like parents at a school sports day.
 
@@ -34,6 +38,8 @@ To be fair, one robot face-planted at the start line, another hit a barrier and 
 
 Last year the robot ran like a human. This year the human watches the robot run.
 
+## Every mayor’s dream
+
 When you walk the floor at a Chinese robotics expo, what gets you isn’t that robots can walk. It’s how many of them are walking, from how many different companies. Booth after booth of humanoids, robot dogs, arms, hands and heads.
 
 Omdia counted who actually ships rather than just waves. Only three companies made its top tier for general-purpose embodied AI robots, all Chinese: AgiBot, Unitree and UBTech. Each shipped over 1,000 units in a year, and the first two shipped over 5,000. Unitree itself reports more than 5,500 humanoids shipped in 2025.
@@ -44,11 +50,15 @@ A word on price, since I’m a marketer and it’s in my contract. In July 2025 
 
 I’ve thought hard about which I’d choose. The sofa doesn’t run, but you can lie on it. You can’t lie on the R1, but it might bring you the remote. Possibly. Once someone explains what a remote is. Like most questions a man asks himself before buying furniture, this one remains open.
 
+## The stock runs faster than the robot
+
 And now the finish line: the stock exchange. On August 19, 2026, Unitree listed on Shanghai’s STAR Market at 150.8 yuan a share, raising about 6.1 billion yuan at a valuation of around 61 billion. The retail tranche was oversubscribed more than 8,200 times. On day one, the shares rose 629%.
 
 For scale: Unitree’s revenue was 159 million yuan in 2023 and about 1.7 billion in 2025. The IPO priced it at roughly 219 times earnings, while its industry peers trade at about 39.
 
 The stock runs faster than the robot. The robot runs faster than the human. The human runs after the stock. That, apparently, is the economy.
+
+## The only sport where I’m still ahead
 
 I can joke about it, and I do. It’s the only sport where I’m still ahead. But seriously: in a year and a half, China’s industry went from “how cute, it dances” to “it beats the world record, and its shares are worth a small country’s budget.” In that time, I reset my email password twice. And forgot it twice.
 

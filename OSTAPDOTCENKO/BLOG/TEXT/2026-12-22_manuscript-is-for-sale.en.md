@@ -20,6 +20,8 @@ I’ve spent my career selling things that don’t exist yet. Ad space in a maga
 
 Then I watched Chinese biotechs at work and realized I’m an apprentice. They sell a molecule that isn’t a medicine yet for money that mostly hasn’t been paid yet. And the buyers form a queue.
 
+## China used to sell ingredients, now it sells recipes
+
 The numbers first, or this sounds like a joke.
 
 According to figures cited by Caixin, 54 Chinese drugmakers signed 157 out-licensing deals in 2025, worth a combined $135.7 billion. The year before: 94 deals, $51.9 billion. And in the first half of 2026, per figures CCTV attributed to China’s National Medical Products Administration, there were 81 deals worth about $110 billion. Half a year, almost a full-year record.
@@ -27,6 +29,8 @@ According to figures cited by Caixin, 54 Chinese drugmakers signed 157 out-licen
 Back in 2024, DealForma counted Chinese companies in almost 30% of Big Pharma deals with at least $50 million upfront. Five years earlier, the share was essentially zero.
 
 China used to sell the ingredients. Now it sells the recipe.
+
+## What the industry calls biobucks
 
 A word on what a “$12 billion deal” means, because the headline number and the bank number are different animals.
 
@@ -43,6 +47,8 @@ The rest is what the industry calls “biobucks”: money that arrives if the mo
 
 In my experience, number six is the least reliable.
 
+## Now to the peptides
+
 Now to the peptides.
 
 The hottest product in this market is obesity and diabetes molecules: GLP-1 agonists and their cousins. Western giants without their own hit in the class are shopping for one in China. Three stories show how fast the scale has grown.
@@ -55,6 +61,8 @@ January 2026. AstraZeneca pays CSPC Pharmaceutical $1.2 billion upfront for eigh
 
 Notice something? The inventor of Ozempic is buying the next Ozempic in China. Like Shakespeare buying sonnets from the neighbor. Perfectly legal. Slightly humbling.
 
+## They argue about the delivery date
+
 Why China? Analysts and buyers keep giving the same three reasons: molecules reach human trials sooner, it costs less, and the buyer gets an asset that has already passed its first tests. Sources disagree on the exact multiples, so I won’t quote any. But anyone who has ever ordered something complicated from China gets it: there, nobody argues about whether it can be done. They argue about the delivery date.
 
 There’s a flip side. China’s biotech venture funding shrank dramatically after 2021, and for many companies a Western license became the main way to stay alive. Selling rights abroad is a scientific triumph, and also a way to pay the lab staff next quarter.
@@ -66,6 +74,8 @@ A short scene. Fictional, but recognizable.
 “We’d like to buy your molecule.” “Wonderful. Upfront?” “Modest. But the milestones are huge.” “And if it fails the next phase?” “Then so do the milestones.” “And the rights?” “They come back to you.” “So if it goes badly, we keep the molecule, the money and the experience. And if it goes well?” “Then you’re on the cover.”
 
 Nobody in this dialogue is lying. That’s the remarkable thing about licensing.
+
+## Not a part, an idea
 
 For years I’ve told Russian businesses that China is more than a factory. They nodded and asked where to buy cheaper machine tools. Now the picture beats any slide I could make: British, Danish and American companies lining up for a Chinese idea. Not a part. An idea.
 

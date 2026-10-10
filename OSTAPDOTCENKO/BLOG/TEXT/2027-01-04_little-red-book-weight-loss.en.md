@@ -26,6 +26,8 @@ Xiaohongshu is a cross between a magazine, a review site and the friend who has 
 
 Keep scrolling.
 
+## Lose weight lying down
+
 Semaglutide was a social media star in China before it had a Chinese weight-loss label. It was approved there in 2021 for type 2 diabetes, yet the feed already called it the “internet-famous weight-loss shot.” In November 2023, China News Service collected the slogans: “lose weight lying down” and “ten jin off with a single shot.”
 
 Lose weight lying down. I’ve been lying down for years. So far only the first half works.
@@ -34,11 +36,15 @@ Platforms responded. In February 2023, Al Jazeera reported, Xiaohongshu censors 
 
 A trend you delete doesn’t shrink. It just gets quieter.
 
+## Extra pounds are a private initiative
+
 In April 2024, the National Healthcare Security Administration weighed in, in perfect bureaucratese: semaglutide is reimbursed only for two type 2 diabetes situations, and “weight loss is outside the payment scope.” It added a warning against borrowing a diabetic relative’s insurance card, with fines of two to five times the amount involved.
 
 Rarely has a state explained so clearly that extra pounds are a private initiative while diabetes is a public matter.
 
 Then things moved fast and legally. Wegovy won Chinese approval for weight management in June 2024, and Novo Nordisk launched it in November at about 1,400 yuan a month. Lilly’s Mounjaro and Innovent’s mazdutide followed in 2025. The trend got its paperwork.
+
+## You have drugs and you want to sell
 
 A short scene. Fictional, but built from real rules.
 
@@ -48,6 +54,8 @@ According to Reuters, nearly all of that actually happened in 2025–2026. Lilly
 
 A JP Morgan analyst summed it up best: on one side, they’re definitely trying to be compliant; on the other, you have drugs and you want to sell. That’s the epitaph for every marketer who ever lived. I’m keeping it for mine.
 
+## Everything Chinese social media is made of
+
 Meanwhile, regulators keep closing doors. In October 2025, Douyin reported the results of a three-month sweep: 793 sellers and tens of thousands of creators removed for promising “faster metabolism” and “full-body weight loss” from ordinary foods and supplements. In December 2025, a Shanghai district justice bureau published cases of beauty salons giving “weight-loss shots” without a licence. One story ended in intensive care, another with a fine, a third with a sentence.
 
 Then, in May 2026, the NMPA issued compliance guidelines for online prescription-drug sales. Prescription only; a licensed pharmacist, not an AI, must review it. And a separate line: no prize draws, gifts or promo codes, and no promotion via short videos, livestreams or private channels.
@@ -55,6 +63,8 @@ Then, in May 2026, the NMPA issued compliance guidelines for online prescription
 In other words, no promotion via everything Chinese social media is made of.
 
 Keep scrolling. Nothing left.
+
+## The easiest place to lose weight is in a post
 
 I enjoy watching trends being born in China, and I don’t think this story is about drugs. It’s about speed. The feed invented demand before doctors approved an indication and before regulators wrote the rules. Then all three spent months chasing each other: trend first, pharmacy second, and the inspector last, with a folder under his arm.
 

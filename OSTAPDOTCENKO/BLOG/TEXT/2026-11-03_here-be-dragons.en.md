@@ -24,6 +24,8 @@ Hangzhou isn’t where you’d expect a revolution. An old Chinese saying goes: 
 
 So dragons have lived here for a long time. They just used to live in a well and get brewed at 80 degrees.
 
+## Six Little Dragons of Hangzhou
+
 In early 2025 the Chinese internet coined the phrase “Six Little Dragons of Hangzhou.” City officials picked it up in their New Year message to local business, and since then everyone from analysts to taxi drivers repeats it. Here they are.
 
 **DeepSeek.** Grew out of Liang Wenfeng’s hedge fund High-Flyer. On January 27, 2025, after its R1 model came out, Nvidia lost about $589 billion in market value in a single trading day, the largest one-day drop in U.S. market history. A hedge fund that never meant to scare anyone ended up scaring everyone, other hedge funds included.
@@ -42,6 +44,8 @@ To sum up: artificial intelligence, a mythical monkey, a robot dog, another robo
 
 The last one only looks out of place. When the robots take over, they’ll need somewhere to live. Someone is already drawing their kitchens.
 
+## No recipe, but there are ingredients
+
 So how do you grow dragons? There’s no recipe, but there are ingredients.
 
 One: a university. Zhejiang University alumni founded three of the six. Two: Alibaba, which has spent years teaching local engineers to think at scale. Three: a city startup program launched back in 2010, whose first round backed a thousand young companies over five years, especially those founded by graduates and returnees from abroad. Four: help with rent. Xihu district waived or subsidized rent for digital content companies, including game studios, for up to three years.
@@ -53,6 +57,8 @@ Black Myth: Wukong was first shown in 2020 and released in 2024. Unitree took te
 Hangzhou’s mayor, Yao Gaoyuan, says the city wants to become an incubator for more tech dragons. Zhejiang screened nearly 400 candidates and selected 96 “new technology dragons”, most of them AI companies. The Runmiao fund, whose name means “nourishing seedlings”, has an investment horizon of up to 20 years.
 
 Twenty years. I know organizations where the only thing planned twenty years ahead is the office renovation. It still isn’t finished.
+
+## How to raise a dragon the corporate way
 
 Allow me a short how-to. “How to Raise a Dragon the Corporate Way”, based on years of observing just about everything:
 
@@ -66,6 +72,8 @@ Allow me a short how-to. “How to Raise a Dragon the Corporate Way”, based on
 I meant to write a seventh point, but by then the dragon had left for Hangzhou.
 
 To be fair, six dragons aren’t the whole fairy tale. They’re the shop window. Behind them are thousands of companies that never became dragons and never will, and China writes about those far less often than about the winners. Dragon statistics, like all statistics, count the survivors.
+
+## Dragons don’t hatch on schedule
 
 But here’s what strikes me most. Hangzhou didn’t invent its dragons. It just left them alone long enough to grow. It didn’t rush them or poke them. It gave them space, rent money and, apparently, quiet.
 

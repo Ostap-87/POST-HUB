@@ -20,11 +20,15 @@ Back in the day, every respectable family had its tailor. Nobody outside the fam
 
 He came to mind when I started looking into who actually makes peptides, the substances behind medicine’s loudest trend, from diabetes drugs to weight-loss shots. It’s the same workshop. Only the size of a city, and the label isn’t someone else’s. There’s no label at all.
 
+## Fashionable molecules aren’t made in boutiques
+
 For readers outside the industry: CDMO stands for contract development and manufacturing organization. A drug company invents a molecule and hires a contractor to work out the process and make it at scale. The contractor owns no patent, no brand and no glory. It owns reactors.
 
 Peptides are a fussy customer. They’re built one amino acid at a time, link by link, and the longer the chain, the more steps, solvents and chances to go wrong. Large volumes need huge solid-phase synthesis units, and that capacity became scarce worldwide once GLP-1 drugs went from niche medicine to mass product.
 
 Fashionable molecules aren’t made in boutiques. They’re made wherever there’s a reactor.
+
+## Somewhere in Jiangsu, a giant mixer
 
 The biggest workshop is WuXi TIDES, the WuXi AppTec unit for oligonucleotides and peptides. Its numbers deserve a second read.
 
@@ -38,6 +42,8 @@ Speaking of mixers: Asymchem, another major Chinese contract manufacturer, said 
 
 No people. I love that. Peptides that help people lose weight are made where people are absent altogether. The ultimate diet, for a factory.
 
+## One floor down, the weavers
+
 One floor down are the ingredient makers. They’re less tailors than weavers: they make the cloth that drugs, often generics, are cut from.
 
 Sinopep-Allsino of Jiangsu, which supplies ingredients for diabetes and obesity drugs, including ones used in semaglutide, grew revenue 57% in 2024 to 1.6 billion yuan, 63% of it abroad. In spring 2025, as the US raised tariffs on Chinese goods, it said it was expanding into Southeast Asia, Latin America, the Middle East and Russia. That’s how you learn your country has become someone’s risk diversification.
@@ -45,6 +51,8 @@ Sinopep-Allsino of Jiangsu, which supplies ingredients for diabetes and obesity 
 Another company, Sheng Nuo Biotec, forecast in January 2026 that its 2025 net profit would roughly triple or quadruple on semaglutide and tirzepatide ingredients. A 395-kilogram peptide line came online by the end of Q3 2025, and once a new site is finished, total capacity should exceed 10 tons a year. The same report notes analysts’ warning of possible overcapacity and price wars within a year or two.
 
 Ten tons of a substance used in fractions of a milligram per shot. I tried to picture it and failed. Arithmetic gives up; all that’s left is to tip your hat. Or, given the subject, tighten your belt a notch.
+
+## Now China tailors, and in volume
 
 And the Western tailors? Alive and well. Switzerland’s Bachem, the oldest name in peptides, grew 14.8% in 2025 to 695 million francs and guides to 35–45% growth in local currencies for 2026. Its new Building K passed regulatory inspection at the end of 2025 and is ramping up gradually.
 
@@ -55,6 +63,8 @@ A short catalogue of what an invisible factory does for global pharma:
 develops a process that will carry someone else’s name; makes the molecule for clinical trials announced in someone else’s press release; passes inspections no patient will ever hear about; adds capacity that shareholders notice; and lands on political lists that everybody notices.
 
 The last item gets its own essay. For now: in summer 2026 WuXi AppTec was added to a US list of “Chinese military companies,” called it a mistake, and in August won a court order temporarily blocking the designation. Invisibility, it turns out, has limits.
+
+## People start thinking only when it pinches
 
 My childhood tailor, honestly, is a composite. There were many, each family had its own. But I remember the feeling: a good jacket fits, and nobody thinks about who made it. People start thinking only when it pinches.
 

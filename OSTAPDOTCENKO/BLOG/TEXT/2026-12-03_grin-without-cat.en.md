@@ -20,6 +20,8 @@ In *Alice in Wonderland*, the Cheshire Cat could vanish slowly, starting with th
 
 After twenty years in marketing I can testify: people have spent entire careers trying to become exactly this kind of salesperson. Smile nonstop, answer the same question for the hundredth time, never take offense. I never managed it. Being a real person kept getting in the way.
 
+## Its whole life is a night shift
+
 Economics first, because that’s where it all started.
 
 A human livestream host means a person, lighting, a studio, a script, a backup host and, with luck, charisma. A digital host means a few minutes of video, or even a single photo, from which a neural network builds a double — plus a subscription. In March 2025 JD.com said the cost of creating a digital human had fallen from tens of thousands of yuan to double digits, and more than 9,000 merchants were using its avatars.
@@ -30,6 +32,8 @@ Baidu has its own figures: during the 2025 “Singles’ Day” sales, it says, 
 
 You don’t have to pay a digital host for the night shift. Its whole life is a night shift.
 
+## Not the Turing test but the fur coat test
+
 Now quality. Here things get more honest.
 
 Chinese business media in autumn 2026 cited industry tests: on cheap standard goods — snacks, cleaning products, small items — a digital host sells at 78–105% of a human’s level. On expensive or one-off items — premium clothing, jewelry, custom furniture — only 15–54%, with more returns.
@@ -39,6 +43,8 @@ An avatar can sell you socks. Not yet a fur coat.
 That may be the sharpest line between human and machine I’ve seen. Not the Turing test — the fur coat test. When buyers think about price, they don’t care who’s talking. When they think about themselves, they want a living person to say “that looks great on you.” Even if it’s a lie. Especially if it’s a convincing one.
 
 An avatar sells what you don’t need to think about. What you do need to think about, a person sells. For now.
+
+## A flawless woman with a flawless frying pan
 
 I can easily picture this scene. Three a.m., a livestream, a flawless young woman with a flawless frying pan. One sleepless viewer in the chat.
 
@@ -58,6 +64,8 @@ I can easily picture this scene. Three a.m., a livestream, a flawless young woma
 
 The scene is invented. The label isn’t.
 
+## One person, one code
+
 The label deserves its own section, because China has done something few others have.
 
 Since September 1, 2025, the country has had rules on labeling AI-generated content. And since February 1, 2026, rules on livestream commerce issued by the State Administration for Market Regulation and the Cyberspace Administration. Article 37 says: if a livestream uses an AI-generated person, it must not only be labeled, but viewers must be continuously reminded that the image is AI-generated. Whatever that host says, the stream operator is responsible. Refuse to fix a violation and the fine is 10,000 to 100,000 yuan. Using AI to impersonate someone else in advertising is banned outright.
@@ -69,6 +77,8 @@ One person, one code. There’s no person, of course. Just the code. But rules a
 Salespeople used to be asked for an honest face. Now they’re asked for an honest label saying there is no face.
 
 What I like here is that China didn’t ban it — it required disclosure. Like decaf: drink all you want, just say so on the jar. The buyer is an adult and can decide whether a grin without a cat is good enough.
+
+## A person finally allowed to sleep
 
 One more observation. Digital hosts haven’t killed human ones. They’ve taken the night shift. A person hosts the evening stream, when thousands are in the chat and improvisation matters; at three in the morning, the double sells the frying pan. Many merchants already work this way: human in prime time, digital the rest of the day.
 
