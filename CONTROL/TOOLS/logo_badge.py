@@ -15,6 +15,8 @@ MAX_SIDE = 1600
 LOGO_H = 0.062      # высота логотипа — доля высоты картинки
 MAX_LOGO_W = 0.26   # максимальная ширина логотипа — доля ширины картинки
 MARGIN = 0.032      # отступ плашки от краёв — доля короткой стороны
+WIDE = 4.0          # логотип уже этого (иконка, квадрат) делаем выше, чтобы на глаз был того же размера
+MAX_BOOST = 1.8     # насколько выше максимум
 
 
 def load_logo(path: Path) -> Image.Image:
@@ -36,6 +38,9 @@ def load_logo(path: Path) -> Image.Image:
 
 
 def plate(logo: Image.Image, h: int, max_w: int) -> Image.Image:
+    aspect = logo.width / logo.height
+    if aspect < WIDE:                       # равная площадь с широким логотипом 4:1
+        h = round(h * min(MAX_BOOST, (WIDE / aspect) ** 0.5))
     lw = round(logo.width * h / logo.height)
     if lw > max_w:
         h = round(h * max_w / lw); lw = max_w

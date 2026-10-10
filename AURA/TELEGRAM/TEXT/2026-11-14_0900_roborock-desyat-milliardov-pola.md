@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Roborock: десять миллиардов с пола"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-14_0900_roborock-desyat-milliardov-pola.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "52cea3f2-c879-48ef-ad41-5dfe5079ef93"
+image_cost: "0.5"
+image_logos: "Roborock"
+image_prompt: "Photorealistic low-angle product photo of a round robot vacuum cleaner returning to its charging dock in a sunlit Scandinavian-style apartment: light wooden floor, a corner of a grey sofa and a wool rug, morning sun casting long window shadows, clean minimal interior, quiet efficient mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Roborock: десять миллиардов с пола**

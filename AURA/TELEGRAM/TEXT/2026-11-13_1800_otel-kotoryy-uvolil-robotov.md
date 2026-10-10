@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Курьёз недели"
 title: "Отель, который уволил роботов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-13_1800_otel-kotoryy-uvolil-robotov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "88519b68-9fa6-431d-8f53-2317f7ed999d"
+image_cost: "0.5"
+image_logos: "Henn na Hotel"
+image_prompt: "Photorealistic editorial photo in the lobby of a quirky Japanese hotel at night: behind the reception counter stand a life-size animatronic dinosaur in a small hat and bow tie and a humanoid android receptionist with a frozen polite smile, while beside them a real human employee in uniform actually checks in a tired guest with a suitcase, an abandoned robotic luggage cart in the corner, warm lobby lights, signs blurred and unreadable, gently ironic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Отель, который уволил роботов**

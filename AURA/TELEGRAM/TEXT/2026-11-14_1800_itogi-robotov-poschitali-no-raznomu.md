@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: роботов посчитали, но по-разному"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-14_1800_itogi-robotov-poschitali-no-raznomu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3e20e82c-da44-42ff-a5b1-e44803e81c42"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on an accountant's desk in a small factory office: an old desktop calculator, stacks of paper folders, reading glasses and a glass of tea in a metal holder, and through the window behind the desk a blurred robot arm working in the workshop, soft afternoon light, papers without readable text, wry end-of-week mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: роботов посчитали, но по-разному**

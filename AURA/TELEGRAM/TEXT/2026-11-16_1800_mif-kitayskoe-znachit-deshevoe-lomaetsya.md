@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: китайское — значит дешёвое и ломается"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-16_1800_mif-kitayskoe-znachit-deshevoe-lomaetsya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "277b3a3c-f2e1-4719-85f5-2a8e3caba5a1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo in an industrial district of Shenzhen: in the foreground a cluttered street stall with cheap colorful plastic toy cars in bins, across the narrow street a modern factory with a glass wall through which clean production lines with precise robot arms are visible, scooters passing, overcast daylight, signs blurred and unreadable, contrasting mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: китайское — значит дешёвое и ломается**

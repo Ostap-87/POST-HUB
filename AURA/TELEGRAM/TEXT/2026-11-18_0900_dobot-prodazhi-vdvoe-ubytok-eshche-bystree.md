@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Dobot: продажи вдвое, убыток ещё быстрее"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-18_0900_dobot-prodazhi-vdvoe-ubytok-eshche-bystree.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "304233bd-22e0-4ceb-818d-0bf68c6d84fa"
+image_cost: "0.5"
+image_logos: "Dobot"
+image_prompt: "Photorealistic editorial photo at a busy industrial automation trade fair: a booth with a row of white collaborative robot arms doing pick-and-place demos, in the foreground a sales representative and a buyer negotiate at a small table with a calculator and brochures, visitors passing by, bright exhibition lighting, signs blurred and unreadable, energetic commercial mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Dobot: продажи вдвое, убыток ещё быстрее**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "Deep Robotics X30: инспектор для плохой погоды"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-15_1800_deep-robotics-x30-inspektor-dlya-plokhoy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "75d224b1-3d77-4bee-8188-085f248c33f7"
+image_cost: "0.5"
+image_logos: "Deep Robotics"
+image_prompt: "Photorealistic dramatic photo of a heavy industrial quadruped robot walking through an electrical substation at night in pouring rain: water splashing from its feet on wet gravel, floodlights reflecting on puddles and steel structures, transformers and insulators in the background, low camera angle, tough all-weather mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Deep Robotics X30: инспектор для плохой погоды**

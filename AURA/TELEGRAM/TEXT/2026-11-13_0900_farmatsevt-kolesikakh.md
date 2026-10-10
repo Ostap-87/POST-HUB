@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Фармацевт на колёсиках"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-13_0900_farmatsevt-kolesikakh.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1bbe008c-1f4e-466c-8696-56b2412b33a4"
+image_cost: "0.5"
+image_logos: "Galbot"
+image_prompt: "Photorealistic documentary photo inside a compact modern pharmacy in Beijing: a wheeled humanoid robot with two arms on a mobile base picks a small medicine box from floor-to-ceiling shelves densely packed with thousands of colorful boxes, a pharmacist in a white coat stands at the counter in the background, bright clean lighting, labels blurred and unreadable, calm precise mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Фармацевт на колёсиках**

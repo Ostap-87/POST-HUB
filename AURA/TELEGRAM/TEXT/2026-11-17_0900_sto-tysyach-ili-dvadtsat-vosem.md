@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Сто тысяч или двадцать восемь"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-17_0900_sto-tysyach-ili-dvadtsat-vosem.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "74773317-6838-46b7-b9fe-d02c58988f21"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside a quiet Chinese factory stockroom: dozens of humanoid robots wrapped in protective plastic film stand in rows on pallets under a light layer of dust, a buyer in a coat and a sales manager walk slowly between the rows, cold daylight from skylights, still, slightly melancholic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Сто тысяч или двадцать восемь**
