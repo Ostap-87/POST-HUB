@@ -7,6 +7,13 @@ seo_title: "Broad Group и модульное строительство в Ки
 meta_description: "Как китайская Broad Group собрала 30-этажный отель за 15 дней, 57-этажную башню за 19 дней и 10-этажный дом меньше чем за 29 часов. Почему скорость начинается на заводе, что стало с проектом Sky City и куда движется модульное строительство в Китае."
 slug: "skyscraper-from-kit-how-broad-group-builds"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-16_skyscraper-from-kit-how-broad-group-builds.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3e0450f3-b215-4f99-aabd-cf882daed761"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic construction photo of a modular high-rise going up fast: a tower crane lifts a prefabricated steel floor module onto the top of a building frame, construction workers in hard hats and harnesses guide it into place and give each other thumbs-up, more modules wait on trucks below, clear blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic mood of a skyscraper assembled like a kit. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В советских анекдотах про стройку всегда был один и тот же сюжет: дом строят десять лет, сдают с недоделками, а потом ещё десять лет доделывают. Иногда добавляли, что прораб получил орден.

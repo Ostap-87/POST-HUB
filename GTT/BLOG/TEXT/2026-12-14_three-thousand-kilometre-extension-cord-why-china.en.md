@@ -7,6 +7,13 @@ seo_title: "China’s UHV Power Lines: Moving Energy from West to East, and What
 meta_description: "46 UHV projects and over 62,000 km of lines, the record ±1,100 kV Changji–Guquan link, and State Grid’s 4 trillion yuan plan for 2026–2030. Why China’s grid decides where factories get built."
 slug: "three-thousand-kilometre-extension-cord-why-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-14_three-thousand-kilometre-extension-cord-why-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e732501e-89aa-45bb-ab8e-ea1c63c38df7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of two linemen in orange suits and harnesses sitting on the cross-arm of a giant ultra-high-voltage transmission tower, smiling and waving, the line of enormous towers stretches across dry hills toward the horizon under a deep blue sky with white clouds, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, bold optimistic mood of a three-thousand-kilometre extension cord. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 When a flat runs out of sockets, you buy an extension cord. When a country runs out of sockets, the extension cord is three thousand kilometres long and the plug weighs as much as a freight train.

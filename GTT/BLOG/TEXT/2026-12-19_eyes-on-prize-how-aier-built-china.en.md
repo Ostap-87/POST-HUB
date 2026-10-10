@@ -7,6 +7,13 @@ seo_title: "Aier Eye Hospital: Inside China’s Largest Eye-Care Chain"
 meta_description: "How Aier grew from a single hospital in Changsha into 391 hospitals in China and 179 centres abroad: a tiered network, doctors as co-owners, off-balance-sheet incubation funds, a growth slowdown, and what any chain business can borrow."
 slug: "eyes-on-prize-how-aier-built-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-19_eyes-on-prize-how-aier-built-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "53bc52f2-4f39-482f-81f9-4318e09eb24c"
+image_cost: "0.5"
+image_logos: "Aier Eye Hospital"
+image_prompt: "Photorealistic photo in a bright modern eye clinic in China: an ophthalmologist examines a smiling middle-aged patient with a slit-lamp microscope, a young nurse stands beside them, a clean consulting room with large windows and plants, light reflecting softly on the instruments, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm reassuring mood of a clinic network that grew one city at a time. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 We like to think healthcare and retail are different worlds. One heals, the other sells. One has the Hippocratic Oath, the other has sales per square foot.

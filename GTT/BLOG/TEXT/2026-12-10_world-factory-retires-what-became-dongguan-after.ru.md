@@ -7,6 +7,13 @@ seo_title: "Дунгуань: как «мировая фабрика» пере�
 meta_description: "Дунгуань начинал с давальческих фабрик 1978 года, был третьим экспортёром Китая, пережил кризис 2009-го и программу «машины вместо людей». Что стало с городом контрактного производства, когда труд подорожал."
 slug: "world-factory-retires-what-became-dongguan-after"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-10_world-factory-retires-what-became-dongguan-after.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c5fca782-3560-4623-be35-ea763c1b45e8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside a former bag factory in Dongguan converted into a robotics incubator: young engineers test a small wheeled robot on a long workbench in a high brick hall with old steel trusses and big new windows, a smiling older former factory worker now working as a guide shows visitors around, soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful mood of a world factory learning a new trade. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Слово «пенсия» в заголовке не совсем точное. Пенсионер отдыхает. Дунгуань не отдыхает, он переучивается. Это скорее тот случай, когда человек в шестьдесят лет идёт на курсы программирования, а потом через пару лет нанимает бывших однокурсников.

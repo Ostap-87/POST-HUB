@@ -7,6 +7,13 @@ seo_title: "Линии сверхвысокого напряжения (UHV) в 
 meta_description: "46 линий UHV и больше 62 тысяч километров, рекордная линия Чанцзи — Гуцюань на ±1100 кВ, 4 трлн юаней инвестиций State Grid на 2026–2030 годы. Почему китайская энергосеть решает, где строить заводы."
 slug: "three-thousand-kilometre-extension-cord-why-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-14_three-thousand-kilometre-extension-cord-why-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e732501e-89aa-45bb-ab8e-ea1c63c38df7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of two linemen in orange suits and harnesses sitting on the cross-arm of a giant ultra-high-voltage transmission tower, smiling and waving, the line of enormous towers stretches across dry hills toward the horizon under a deep blue sky with white clouds, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, bold optimistic mood of a three-thousand-kilometre extension cord. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Когда в квартире не хватает розеток, покупают удлинитель. Когда розеток не хватает целой стране, удлинитель получается длиной в три с лишним тысячи километров, а вилка у него весит как железнодорожный состав.

@@ -7,6 +7,13 @@ seo_title: "China’s Multi-Storey Pig Farms: The 26-Floor Towers in Ezhou, Muyu
 meta_description: "How China’s high-rise pig farms work: two 26-storey towers in Ezhou producing 1.2 million pigs a year, remote climate control, and Muyuan Foods selling 78 million hogs in 2025. Why livestock farming in China has become an industrial business."
 slug: "pigs-on-twenty-sixth-floor-how-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-17_pigs-on-twenty-sixth-floor-how-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8b5e7f24-3a3c-439e-9e1f-f9e41f0261e2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic architectural photo in the morning in rural Hubei: two tall modern grey 26-storey farm buildings rise above green fields like residential towers, a farm worker in white coveralls and boots walks along a path toward them with a smile, early sun and light mist, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, surprising optimistic mood of livestock farming moved into high-rises. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In picture books, a pig lives in a sty. There’s a hen house next door, a cow shed behind and a field in the distance, all on one double page. If the picture book were drawn in Hubei province in 2026, the page would have to be turned on its side. And it would need a lift.

@@ -7,6 +7,13 @@ seo_title: "China’s Volume-Based Procurement (VBP): Drug and Stent Prices Afte
 meta_description: "How China’s volume-based procurement of drugs and medical devices works, from the 2018 “4+7” pilot to the 11th round and its “anti-involution” rules. What happened to prices, who won, who lost, and what it teaches any industry facing one very large buyer."
 slug: "ninety-percent-off-what-china-centralised-procurement"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-20_ninety-percent-off-what-china-centralised-procurement.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "575581d0-5228-4609-bb3e-821dbb140dca"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a bright cardiac catheterization lab: a cardiologist's gloved fingers hold a tiny metal stent on a balloon catheter, behind in soft focus a smiling medical team in blue scrubs and lead aprons prepares the room, monitors with abstract images without text, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful mood of medical devices that became affordable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every supplier dreams of a customer who buys a lot. Every supplier fears a customer who buys everything.

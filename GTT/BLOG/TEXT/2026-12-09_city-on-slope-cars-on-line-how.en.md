@@ -7,6 +7,13 @@ seo_title: "Chongqing, China’s Car Capital: Changan, Seres and AITO, Laptops a
 meta_description: "How landlocked, hilly Chongqing became China’s top car-making city: 2.79 million vehicles in 2025, Changan and Seres, the AITO deal with Huawei, a third of the world’s laptops, freight trains to Europe and motorcycles that never went away."
 slug: "city-on-slope-cars-on-line-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-09_city-on-slope-cars-on-line-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f58a1cd1-bce8-486b-89c3-0acffe76803b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo on a steep street in Chongqing: a new compact electric car and an old motorcycle carrying a smiling delivery man climb the hill side by side, the driver of the car laughs and waves to him, tall residential towers rise on the slope behind, a monorail train runs above the street, hazy warm afternoon light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively mood of a city that moved to electric cars without leaving its motorcycles. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 When people say a city has “switched to electric cars”, they usually mean the old industry ended and a new one began. Chongqing did not get that memo. The new thing began. The old thing carried on.

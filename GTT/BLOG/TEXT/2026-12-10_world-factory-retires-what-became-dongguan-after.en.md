@@ -7,6 +7,13 @@ seo_title: "Dongguan: How China’s “World Factory” Survived Rising Wages Th
 meta_description: "Dongguan began with a 1978 processing-trade handbag factory, became China’s third-largest exporter, hit crisis in 2009 and launched “machines replace people”. What happens to a contract-manufacturing city when labour gets expensive."
 slug: "world-factory-retires-what-became-dongguan-after"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-10_world-factory-retires-what-became-dongguan-after.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c5fca782-3560-4623-be35-ea763c1b45e8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside a former bag factory in Dongguan converted into a robotics incubator: young engineers test a small wheeled robot on a long workbench in a high brick hall with old steel trusses and big new windows, a smiling older former factory worker now working as a guide shows visitors around, soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful mood of a world factory learning a new trade. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “Retires” is not quite the right word. Retirees rest. Dongguan is retraining. Think of someone who signs up for a coding course at sixty and, a couple of years later, is hiring their former classmates.

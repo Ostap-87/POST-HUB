@@ -7,6 +7,13 @@ seo_title: "Автоматизированный терминал Яншань-4
 meta_description: "Яншань-4 в Шанхае: 7 причалов, 2350 метров причальной линии, удалённое управление кранами, беспилотные тягачи, 8 млн TEU за 2025 год. Что даёт автоматизация порта и где в нём всё ещё нужен человек."
 slug: "crane-driver-came-down-from-sky-inside"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-13_crane-driver-came-down-from-sky-inside.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3dea819a-0fb9-4b7c-8de6-059b936876fc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic low-angle industrial photo at ground level in an automated container terminal near Shanghai: driverless container carriers move containers between stacks, a giant automated gantry crane lifts a container from a ship above them, a single port worker in a white helmet and reflective vest on a safe walkway smiles and watches, bright morning sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive calm mood of a port where the crane driver came down from the sky. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Раньше профессия крановщика в порту была самой романтичной на причале. Человек сидел в кабине на высоте около шестидесяти метров, смотрел вниз на палубу контейнеровоза и одним движением джойстика опускал сорок тонн груза точно в гнездо. Внизу его уважали. Наверху он был один, с термосом и ветром.

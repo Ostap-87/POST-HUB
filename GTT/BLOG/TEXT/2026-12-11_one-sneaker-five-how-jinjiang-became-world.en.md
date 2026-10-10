@@ -7,6 +7,13 @@ seo_title: "Jinjiang and Chendai: How a Fujian Cluster Makes One in Five of the 
 meta_description: "Chendai, a town in Jinjiang, makes more than a billion pairs of sports shoes a year, about a fifth of global output. How family workshops founded in 1979 grew into a 7,000-company cluster with home-grown brands such as Anta, Xtep and 361°."
 slug: "one-sneaker-five-how-jinjiang-became-world"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-11_one-sneaker-five-how-jinjiang-became-world.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2524adc8-dcf2-4a06-97fe-960c50bc7a4d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo on a bright sneaker production line in Jinjiang: rows of colorful sneaker uppers move along a conveyor, a robot arm applies glue to a sole with precision, smiling young workers in light uniforms join soles and uppers, stacks of finished sneakers without visible logos in boxes, clean even light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy vibrant mood of the town that makes every fifth sneaker in the world. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Look at your trainers. Not at the brand: at the shoes themselves. With luck, there is a label on the tongue or insole saying where they were made. Without luck, there is nothing, and even then the odds that they came from one small town in Fujian province are surprisingly good.

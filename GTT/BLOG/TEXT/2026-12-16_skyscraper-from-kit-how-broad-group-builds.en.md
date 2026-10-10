@@ -7,6 +7,13 @@ seo_title: "Broad Group and Modular Construction in China: 57 Floors in 19 Days,
 meta_description: "How China’s Broad Group assembled a 30-storey hotel in 15 days, a 57-storey tower in 19 days and a 10-storey block in under 29 hours. Why speed starts in the factory, what happened to Sky City, and where modular construction in China is heading."
 slug: "skyscraper-from-kit-how-broad-group-builds"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-16_skyscraper-from-kit-how-broad-group-builds.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3e0450f3-b215-4f99-aabd-cf882daed761"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic construction photo of a modular high-rise going up fast: a tower crane lifts a prefabricated steel floor module onto the top of a building frame, construction workers in hard hats and harnesses guide it into place and give each other thumbs-up, more modules wait on trucks below, clear blue sky, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic mood of a skyscraper assembled like a kit. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every country has its jokes about construction. The building takes ten years, opens with defects, then takes another ten years to finish. Somewhere a site manager gets a medal.

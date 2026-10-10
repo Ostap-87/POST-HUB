@@ -7,6 +7,13 @@ seo_title: "Многоэтажные свинокомплексы Китая: 26
 meta_description: "Как в Китае устроены многоэтажные свинофермы: две 26-этажные башни в Эчжоу на 1,2 млн свиней в год, удалённое управление микроклиматом, Muyuan Foods с 78 млн проданных свиней за 2025 год. Почему животноводство стало промышленным производством."
 slug: "pigs-on-twenty-sixth-floor-how-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-17_pigs-on-twenty-sixth-floor-how-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8b5e7f24-3a3c-439e-9e1f-f9e41f0261e2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic architectural photo in the morning in rural Hubei: two tall modern grey 26-storey farm buildings rise above green fields like residential towers, a farm worker in white coveralls and boots walks along a path toward them with a smile, early sun and light mist, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, surprising optimistic mood of livestock farming moved into high-rises. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В детских книжках свинья живёт в хлеву. Рядом курятник, на заднем плане коровник, вдалеке поле, и всё это помещается на одном развороте. Если бы детскую книжку рисовали в провинции Хубэй в 2026 году, разворот пришлось бы поставить вертикально. И добавить лифт.

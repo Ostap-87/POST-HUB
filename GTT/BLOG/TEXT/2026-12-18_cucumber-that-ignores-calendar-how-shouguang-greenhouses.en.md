@@ -7,6 +7,13 @@ seo_title: "Shouguang, China’s Vegetable Capital: 157,000 Greenhouses, 9 Milli
 meta_description: "Inside the greenhouse cluster of Shouguang in Shandong: from 17 greenhouses in 1989 to 157,000 today, a wholesale market handling 9 million tonnes a year, home-grown seeds, smart greenhouses and a model exported to 29 provinces and abroad."
 slug: "cucumber-that-ignores-calendar-how-shouguang-greenhouses"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-18_cucumber-that-ignores-calendar-how-shouguang-greenhouses.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fecebbd7-aea4-4ac4-b23c-ebce59003443"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo inside a large passive-solar greenhouse in Shandong in winter: lush green cucumber vines hang from wires in long rows, a smiling farmer in a padded jacket harvests a fresh cucumber into a basket, through the open end door snow lies on the fields outside, warm sunlight through the clear film, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful abundant mood of fresh vegetables in midwinter. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Ask where a fresh tomato comes from in January and in most of the northern hemisphere the honest answer is “somewhere far away, by truck or plane”. In China there is often a more precise answer, with an address: Shouguang, Shandong province. It is a county-level city within Weifang, and it is called China’s vegetable capital without any irony. We’ll have to supply the irony ourselves.

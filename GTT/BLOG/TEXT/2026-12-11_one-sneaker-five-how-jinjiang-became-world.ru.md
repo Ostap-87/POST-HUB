@@ -7,6 +7,13 @@ seo_title: "Цзиньцзян и Чэньдай: как обувной клас
 meta_description: "Городок Чэньдай в Цзиньцзяне выпускает больше миллиарда пар спортивной обуви в год, около пятой части мирового производства. Как семейные мастерские 1979 года выросли в кластер на 7000 компаний и собственные бренды Anta, Xtep и 361°."
 slug: "one-sneaker-five-how-jinjiang-became-world"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-11_one-sneaker-five-how-jinjiang-became-world.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2524adc8-dcf2-4a06-97fe-960c50bc7a4d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo on a bright sneaker production line in Jinjiang: rows of colorful sneaker uppers move along a conveyor, a robot arm applies glue to a sole with precision, smiling young workers in light uniforms join soles and uppers, stacks of finished sneakers without visible logos in boxes, clean even light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy vibrant mood of the town that makes every fifth sneaker in the world. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Посмотрите на свои кроссовки. Нет, не на бренд, а на сами кроссовки. Если повезёт, на язычке или стельке будет написано, где их сделали. Если не повезёт, не будет написано ничего, и тогда вероятность, что их сделали в одном небольшом городке в провинции Фуцзянь, всё равно довольно высока.

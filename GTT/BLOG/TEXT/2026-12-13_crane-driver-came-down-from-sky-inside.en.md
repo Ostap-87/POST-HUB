@@ -7,6 +7,13 @@ seo_title: "Yangshan Phase IV: How China’s Best-Known Automated Container Term
 meta_description: "Shanghai’s Yangshan Phase IV: 7 berths, 2,350 metres of quay, remotely operated cranes, driverless AGVs and more than 8 million TEU in 2025. What port automation delivers, and where people are still needed."
 slug: "crane-driver-came-down-from-sky-inside"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-13_crane-driver-came-down-from-sky-inside.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3dea819a-0fb9-4b7c-8de6-059b936876fc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic low-angle industrial photo at ground level in an automated container terminal near Shanghai: driverless container carriers move containers between stacks, a giant automated gantry crane lifts a container from a ship above them, a single port worker in a white helmet and reflective vest on a safe walkway smiles and watches, bright morning sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive calm mood of a port where the crane driver came down from the sky. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Crane operator used to be the most glamorous job on any quay. You sat in a cab about sixty metres up, looked down at a container ship, and with a flick of a joystick dropped forty tonnes of steel exactly into its slot. People on the ground respected you. Up there you were alone with a flask of tea and the wind.

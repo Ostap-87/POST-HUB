@@ -7,6 +7,13 @@ seo_title: "Чжэнчжоу: аэропортовая экономическа�
 meta_description: "Как Чжэнчжоу в центре Китая стал экспортёром электроники: первая в стране аэропортовая экономическая зона, 1,3 млрд телефонов к 2018 году, кризис на заводе Foxconn осенью 2022-го и грузооборот аэропорта больше миллиона тонн. Урок о зависимости от одного клиента."
 slug: "city-that-runs-on-iphone-calendar-zhengzhou"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-12_city-that-runs-on-iphone-calendar-zhengzhou.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a3858839-7a2a-4f79-b667-2ff9a243f596"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo at night on the cargo apron of a large inland Chinese airport: a big white cargo jet with its nose door open is loaded with pallets of boxed electronics by a high loader, ground crew in reflective vests work and laugh, floodlights and wet tarmac reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, dynamic proud mood of a city that lives on an airport. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В Чжэнчжоу есть два календаря. Первый — обычный, с праздниками и выходными. Второй — календарь презентаций Apple. По первому живут все. По второму — экономика целого района.

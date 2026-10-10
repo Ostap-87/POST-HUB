@@ -7,6 +7,13 @@ seo_title: "Шоугуан — овощная столица Китая: 157 т�
 meta_description: "Как устроен тепличный кластер Шоугуана в провинции Шаньдун: история с 17 теплиц 1989 года, 157 тысяч теплиц сегодня, оптовый рынок на 9 млн тонн в год, собственные семена, умные теплицы и экспорт модели в 29 провинций и за рубеж."
 slug: "cucumber-that-ignores-calendar-how-shouguang-greenhouses"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-18_cucumber-that-ignores-calendar-how-shouguang-greenhouses.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fecebbd7-aea4-4ac4-b23c-ebce59003443"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo inside a large passive-solar greenhouse in Shandong in winter: lush green cucumber vines hang from wires in long rows, a smiling farmer in a padded jacket harvests a fresh cucumber into a basket, through the open end door snow lies on the fields outside, warm sunlight through the clear film, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful abundant mood of fresh vegetables in midwinter. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Зимой в средней полосе есть два вида огурцов. Первый — солёный, из банки, который заготовили в августе. Второй — свежий, из магазина, о происхождении которого лучше не спрашивать. Первый честнее, второй дороже, и оба немного грустные.

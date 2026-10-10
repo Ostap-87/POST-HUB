@@ -7,6 +7,13 @@ seo_title: "Чунцин — автомобильная столица Кита�
 meta_description: "Как горный Чунцин без моря стал первым городом Китая по выпуску автомобилей: 2,79 млн машин в 2025 году, Changan и Seres, сделка с Huawei по AITO, треть мировых ноутбуков, поезда в Европу и мотоциклы, которые никуда не делись."
 slug: "city-on-slope-cars-on-line-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-09_city-on-slope-cars-on-line-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f58a1cd1-bce8-486b-89c3-0acffe76803b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo on a steep street in Chongqing: a new compact electric car and an old motorcycle carrying a smiling delivery man climb the hill side by side, the driver of the car laughs and waves to him, tall residential towers rise on the slope behind, a monorail train runs above the street, hazy warm afternoon light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively mood of a city that moved to electric cars without leaving its motorcycles. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Обычно, когда говорят «город пересел на электромобили», имеют в виду, что старое закончилось и началось новое. В Чунцине так не получилось. Новое началось, а старое не закончилось.

@@ -7,6 +7,13 @@ seo_title: "NIO Battery Swap Stations: 4,000 Sites, 120 Million Swaps, the Geely
 meta_description: "How NIO Power’s swap network works: more than 4,000 stations, 120 million swaps by August 2026, Battery as a Service, partnerships with CATL and other carmakers, and Geely’s 30% stake in NIO Power. Where the model works and where standards get in the way."
 slug: "rent-battery-keep-your-nerves-how-nio"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-15_rent-battery-keep-your-nerves-how-nio.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b5ac815e-1111-45b8-9108-da3829d33573"
+image_cost: "0.5"
+image_logos: "NIO, Geely"
+image_prompt: "Photorealistic documentary photo inside a bright battery swap station: an electric car stands on the platform while below it through a glass floor panel a robotic lifter removes the battery, the driver relaxes in the car with a coffee and smiles at his phone, a second car waits outside in the sunny lane, clean white interior, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, relaxed modern mood of a battery you rent and nerves you keep. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every driver knows the old line: a car is four wheels and an infinite number of things to worry about. Electric cars added a fifth, very modern one: will I make it to the next charger?
