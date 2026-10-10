@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Облако растёт быстрее магазина"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-27_0900_oblako-rastet-bystree-magazina.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "19609005-e73e-4cb1-9898-dc6755d04e34"
+image_cost: "0.5"
+image_logos: "Alibaba"
+image_prompt: "Photorealistic photo inside a vast modern data center near Hangzhou: a long aisle between tall black server racks with blinking status lights, thick cable trays overhead, a smiling technician in a grey jacket pushing a small cart with a laptop, bright clean white lighting, long symmetrical perspective, powerful confident upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Облако растёт быстрее магазина**

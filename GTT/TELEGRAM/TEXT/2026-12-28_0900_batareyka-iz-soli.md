@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Батарейка из соли"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-28_0900_batareyka-iz-soli.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "16133745-3a00-4224-bafd-b7afdc64e53a"
+image_cost: "0.5"
+image_logos: "CATL"
+image_prompt: "Photorealistic creative product photo on a light grey stone surface: a large prismatic battery cell lying next to a heap of coarse white sea salt, a few salt crystals scattered across the cell, an old wooden salt box and a glass jar of pickled cucumbers softly out of focus behind, warm side light, witty cheerful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Батарейка из соли**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: всё летает, лечит и копает без нас"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-26_1800_itogi-vse-letaet-lechit-kopaet-bez.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0d6ec653-9a10-42ec-b744-e36db3c6d7de"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a small group of business visitors with lanyards walking from a minibus toward the entrance of a modern Chinese factory in the early morning, seen from behind, one pointing up excitedly at a delivery drone flying in the sky above the building, long shadows on clean concrete, fresh sunny morning light, joyful anticipation mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: всё летает, лечит и копает без нас**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Восемьдесят миллионов устройств и одна цель"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-25_0900_vosemdesyat-millionov-ustroystv-odna-tsel.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5fa1f312-7752-4da5-93da-b12cc10fe5ae"
+image_cost: "0.5"
+image_logos: "Huawei"
+image_prompt: "Photorealistic product photo of a connected device ecosystem on a light wooden table: a smartphone, a tablet, a smartwatch, wireless earbuds, a laptop and a car dashboard screen sample, all lit up with the same abstract blue-green wallpaper, no letters or icons on the screens, an engineer's hand tapping the phone, soft bright studio daylight, clean minimal friendly mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Восемьдесят миллионов устройств и одна цель**

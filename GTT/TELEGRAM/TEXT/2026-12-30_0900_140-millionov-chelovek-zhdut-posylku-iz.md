@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "140 миллионов человек ждут посылку из-за границы"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-30_0900_140-millionov-chelovek-zhdut-posylku-iz.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "62fd663a-356b-4be8-adbe-858349ef2cb8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo inside a huge bright cross-border e-commerce warehouse: conveyor belts carrying thousands of small parcels of different sizes, smiling workers in vests scanning boxes and joking with each other, tall racks full of packages, a few modest New Year garlands hanging from the ceiling beams, labels blurred and unreadable, bright busy lighting, cheerful pre-holiday rush mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **140 миллионов человек ждут посылку из-за границы**
