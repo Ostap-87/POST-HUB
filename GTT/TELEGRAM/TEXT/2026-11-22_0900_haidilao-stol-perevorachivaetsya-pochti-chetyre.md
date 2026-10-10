@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Haidilao: стол переворачивается почти четыре раза в день"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-22_0900_haidilao-stol-perevorachivaetsya-pochti-chetyre.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "72d7ae07-d335-4e64-bafb-35657f627655"
+image_cost: "0.5"
+image_logos: "Haidilao"
+image_prompt: "Photorealistic photo inside a busy Chinese hot pot restaurant in the evening: a table with a bubbling split pot of red chili broth and clear broth, plates of thinly sliced meat and vegetables, diners in plain aprons laughing, smiling waiters bustling between tables, steam rising, a queue of happy guests near the entrance, warm lively lighting, joyful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Haidilao: стол переворачивается почти четыре раза в день**

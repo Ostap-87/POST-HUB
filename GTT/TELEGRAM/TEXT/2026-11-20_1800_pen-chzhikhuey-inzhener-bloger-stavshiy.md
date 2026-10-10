@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Лицо отрасли"
 title: "Пэн Чжихуэй: инженер-блогер, ставший сооснователем AgiBot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-20_1800_pen-chzhikhuey-inzhener-bloger-stavshiy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b04f80be-a352-430e-97ff-638885c38d1d"
+image_cost: "0.5"
+image_logos: "AgiBot"
+image_prompt: "Photorealistic macro photo on a bright engineer's workbench: tiny robotic surgical instruments carefully stitching the skin of a green grape held in a small clamp, fine suture thread visible, a blurred hand holding a controller in the background, circuit boards and tools around, bright soft daylight, playful engineering mood. No recognizable people. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Пэн Чжихуэй: инженер-блогер, ставший сооснователем AgiBot**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Увидено на заводе"
 title: "Тёмный цех: где выключили свет"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-23_1800_temnyy-tsekh-gde-vyklyuchili-svet.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0207c9a6-2f71-4808-80c6-e182812f20c8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo through the glass wall of a bright visitor gallery into a lights-out factory: robotic arms working in low light, lit by small indicator lights and the warm glow of the machines, an automated cart moving between them, no people on the factory floor, in the foreground a small group of visitors watching with fascinated smiles, one pointing excitedly, fascinated cheerful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Тёмный цех: где выключили свет**

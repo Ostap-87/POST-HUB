@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Пылесос переезжает во Вьетнам"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-24_0900_pylesos-pereezzhaet-vo-vetnam.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e8172849-2fd5-4df0-bd26-f7275b1973a1"
+image_cost: "0.5"
+image_logos: "Roborock, Dreame"
+image_prompt: "Photorealistic documentary photo inside a new bright electronics assembly plant in Vietnam: smiling Vietnamese workers in light uniforms assemble round robot vacuum cleaners on a clean production line, a worker laughing as a finished unit is tested on a short strip of carpet, tropical daylight through high windows, upbeat productive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Пылесос переезжает во Вьетнам**

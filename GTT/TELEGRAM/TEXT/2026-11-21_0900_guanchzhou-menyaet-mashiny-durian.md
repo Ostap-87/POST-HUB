@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуанчжоу меняет машины на дуриан"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-21_0900_guanchzhou-menyaet-mashiny-durian.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a0452629-79fe-484f-a162-b18087a0d322"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo at a sunny seaport in Guangzhou: in the foreground laughing dock workers unload crates of spiky durians from a refrigerated container, in the background long rows of new cars wait to be loaded onto a car-carrier ship, warm tropical sunlight, good-humoured 'cars for durians' trade mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуанчжоу меняет машины на дуриан**

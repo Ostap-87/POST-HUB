@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Миллион электромобилей ждёт покупателя"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-23_0900_million-elektromobiley-zhdet-pokupatelya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5b19b033-b5b2-4a09-9a71-fc6fd2e67792"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo of a vast overflow parking lot at a sunny seaport: endless neat rows of new unbranded electric cars in protective film, a few port workers in vests checking the rows with tablets, a car-carrier ship approaching the quay, bright blue sky, optimistic mood of cars waiting for their owners. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миллион электромобилей ждёт покупателя**

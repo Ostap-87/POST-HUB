@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Huawei вернулась на первое место"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-20_0900_huawei-vernulas-pervoe-mesto.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "10db64a2-6cee-4556-8a1d-2435f43bd829"
+image_cost: "0.5"
+image_logos: "Huawei"
+image_prompt: "Photorealistic photo inside a crowded bright smartphone flagship store in Shenzhen: customers of all ages test new phones at long light-wood display tables, a smiling sales consultant shows a foldable phone to a delighted young couple, minimalist interior with large windows and no visible signs, bright natural light, upbeat comeback mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Huawei вернулась на первое место**
