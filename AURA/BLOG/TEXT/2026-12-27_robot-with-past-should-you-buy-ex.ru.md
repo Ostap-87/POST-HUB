@@ -7,6 +7,13 @@ seo_title: "Б/у и демонстрационные роботы из Кита
 meta_description: "Выставочные образцы, восстановленные коботы и подержанные гуманоиды из Китая: где реальная выгода, где риск, и что проверить: наработку, журнал ошибок, батарею, ПО и гарантию."
 slug: "robot-with-past-should-you-buy-ex"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-27_robot-with-past-should-you-buy-ex.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d0291712-6d23-4946-85a8-1781969e98d8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a robot refurbishment workshop in China: several used industrial robot arms stand in a row — some with worn paint, some freshly repainted and gleaming — a Russian buyer and a Chinese technician inspect one used arm together, the technician shining a flashlight into an open joint while the buyer smiles and nods, tools and spare parts on carts, daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, practical optimistic mood of a robot with a past checked before buying. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У каждого робота, как у человека, есть биография. У нового она короткая: родился на заводе, прошёл тест, поехал к заказчику. У выставочного длиннее: четыре дня стоял на стенде, махал рукой посетителям, позировал для фотографий, его трогали руками, а один раз, кажется, пытались накормить. У подержанного биография такая, что лучше её прочитать до покупки, а не после.

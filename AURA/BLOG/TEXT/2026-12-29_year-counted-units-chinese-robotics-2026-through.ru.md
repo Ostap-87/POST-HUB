@@ -7,6 +7,13 @@ seo_title: "Итоги 2026 года в китайской робототехн�
 meta_description: "Главное о китайской робототехнике в 2026 году для покупателя: данные IFR о промышленных роботах, поставки гуманоидов, падение цен, IPO Unitree и национальная система стандартов. По данным на октябрь 2026 года."
 slug: "year-counted-units-chinese-robotics-2026-through"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-29_year-counted-units-chinese-robotics-2026-through.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "766dbc48-5b8e-4415-80bd-b0318124571c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic high-angle industrial photo of a vast bright car body welding hall in China: long rows of orange industrial robot arms weld car bodies with small sparks along the line, red paper lanterns hang festively from the roof trusses for the end of the year, a few engineers in white walk along a yellow walkway and chat, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, grand optimistic mood of a year counted in units. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Итоги года принято подводить в конце декабря, с бокалом в руке и чувством выполненного долга. Мы подводим их чуть раньше и без бокала, и честно об этом предупреждаем: в статье собраны данные, доступные на октябрь 2026 года. Годовые цифры по Китаю за 2026 год появятся только в 2027-м, а годовой отчёт IFR о 2026 годе выйдет, по обычному графику, осенью 2027 года. Если ждать полной статистики, итоги 2026 года придётся подводить где-то к Масленице 2028-го.

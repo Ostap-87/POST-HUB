@@ -7,6 +7,13 @@ seo_title: "Robotics Pilot Projects: Success Criteria, Timelines and the Decisio
 meta_description: "Why robot pilots stall for years and how to avoid it: success criteria before launch, a fixed timeline, one decision owner, failure conditions and a scale-up plan. A method from Aura Robotics."
 slug: "pilot-that-never-lands-how-run-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-26_pilot-that-never-lands-how-run-robot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "da5a47f4-3afc-4fba-bb49-a2b883f1b9ec"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright factory workshop: two cheerful workers wheel a mobile robot with an arm away from a quiet corner where it stood next to a potted ficus plant, toward the busy production line, colleagues on the line applaud and laugh, a manager walks ahead showing the way, daylight from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful decisive mood of a pilot that finally lands. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A pilot project has one awkward property: it is easy to start and almost impossible to finish. It starts with enthusiasm, a ribbon and a photo next to the robot. It finishes… well, it rarely does. A year later the robot is standing in a corner of the shop, everyone has got used to it like an office plant, and the answer to “how is the pilot going?” is “it’s ongoing”.

@@ -7,6 +7,13 @@ seo_title: "In-House Robot Maintenance: Daily, Monthly and Annual Routines"
 meta_description: "What to do with a robot every day, month and six months: inspections, safety tests, sensor cleaning, batteries, backups and the maintenance log. Examples from cobot, AMR and robot dog manuals."
 slug: "daily-monthly-twice-year-robot-maintenance-routine"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-25_daily-monthly-twice-year-robot-maintenance-routine.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "44cae58b-5153-4479-ac08-7051cbc43784"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up documentary photo in a factory workshop: a maintenance technician in a work jacket greases a joint of an industrial robot arm with a grease gun, a young operator beside him holds an open paper maintenance logbook with blurred unreadable entries and smiles, wipes, a torque wrench and spare filters lie on a cart, warm daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, tidy routine mood of maintenance done on schedule. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There are two kinds of robot owners. The first maintain their robot on schedule. The second maintain it on demand, meaning when it stops. The second group saves a little time every week and loses a lot of it all at once, usually at the end of the quarter.

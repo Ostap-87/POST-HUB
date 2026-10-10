@@ -7,6 +7,13 @@ seo_title: "Robot KPIs After Commissioning: OEE, MTBF, MTTR and Checking Payback
 meta_description: "Which robot metrics to record from launch day: OEE, availability, MTBF, MTTR, scrap and utilisation. How to pull data from the controller and compare actual payback with the original calculation a year later."
 slug: "robot-works-but-does-it-pay-kpis"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-22_robot-works-but-does-it-pay-kpis.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2d03bb1e-4ec7-4f74-94f1-7a19a2fafb23"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright factory: a production manager and a young engineer stand in front of a large wall monitor next to a working robot cell, the monitor shows only abstract green, yellow and gray bars and blocks with no numbers or letters, the engineer points at a growing green bar and the manager smiles broadly, a worker in the background logs data on a tablet, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, satisfied mood of measuring the payoff from day one. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every robot has two ages. One is on its nameplate, counted from the production date. The other is in a spreadsheet, counted from the day someone first asks: “Is it actually paying for itself?” That usually happens about a year in, at a budget meeting. And it turns out nobody can answer. The robot is clearly working. What it has earned is not clear at all.

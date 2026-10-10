@@ -7,6 +7,13 @@ seo_title: "Пилотный проект робототехники: крите
 meta_description: "Почему пилоты с роботами застревают на годы и как этого избежать: критерии успеха до старта, срок, ответственный, условия провала и план масштабирования. Методика Aura Robotics."
 slug: "pilot-that-never-lands-how-run-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-26_pilot-that-never-lands-how-run-robot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "da5a47f4-3afc-4fba-bb49-a2b883f1b9ec"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright factory workshop: two cheerful workers wheel a mobile robot with an arm away from a quiet corner where it stood next to a potted ficus plant, toward the busy production line, colleagues on the line applaud and laugh, a manager walks ahead showing the way, daylight from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful decisive mood of a pilot that finally lands. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У пилотного проекта есть одна неприятная особенность: его легко начать и почти невозможно закончить. Начинают его с энтузиазмом, с ленточкой и фотографией у робота. Заканчивают… А вот заканчивают редко. Через год робот стоит в углу цеха, к нему привыкли, как к фикусу, и на вопрос «что с пилотом?» отвечают: «Идёт».

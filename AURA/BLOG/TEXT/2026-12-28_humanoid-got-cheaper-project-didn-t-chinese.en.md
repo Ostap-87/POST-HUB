@@ -7,6 +7,13 @@ seo_title: "Chinese Humanoid and Cobot Prices 2024–2026: Unitree G1, R1, Bumi 
 meta_description: "How public prices for Chinese humanoids and cobots fell between 2024 and 2026: Unitree G1, R1, H1, Noetix Bumi, average cobot prices from GGII, and cost estimates from Goldman Sachs and Morgan Stanley."
 slug: "humanoid-got-cheaper-project-didn-t-chinese"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-28_humanoid-got-cheaper-project-didn-t-chinese.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dbb6a167-1ad2-45db-bf73-01b9d5815235"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at the entrance of a bright robot store in a Hangzhou shopping mall: a cheerful young couple carry out a large cardboard box with handles, the store window behind them shows a compact humanoid robot waving next to rows of boxes like consumer electronics, price tags blurred and unreadable, passers-by smiling, warm mall lighting, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light surprised mood of a humanoid that now costs like a gadget. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Some things get cheaper so slowly nobody notices. Some get cheaper so fast buyers barely have time to celebrate: TVs, phones and, it turns out, Chinese humanoids. Two years ago a humanoid robot cost as much as an apartment. Today the cheapest one costs about as much as a decent phone. Apartments, sadly, did not follow.

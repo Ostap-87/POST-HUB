@@ -7,6 +7,13 @@ seo_title: "Робот в неотапливаемом цеху и на улиц
 meta_description: "Как эксплуатировать робота в холодном цеху, на улице и в мойке: расшифровка IP по ГОСТ 14254-2015, рабочие температуры коботов и робособак, конденсат, зарядка батарей на морозе."
 slug: "unheated-workshop-robots-frost-letters-ip-on"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-23_unheated-workshop-robots-frost-letters-ip-on.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4ed08d9f-54eb-427e-91fa-eb9cadda84c3"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in an unheated Russian workshop in winter: a collaborative robot arm wearing a fitted grey protective cover works at a bench loading parts, frost patterns on the old windows, breath visible in the cold air, a smiling worker in a padded jacket and knitted hat checks the robot, a small heater glowing near the control cabinet, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, sturdy cheerful mood of a robot ready for frost. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Паспорт робота обычно пишут в тёплом офисе. Это видно по графе «рабочая температура»: от нуля до плюс пятидесяти. В Шэньчжэне такой диапазон покрывает практически весь год. В российском складе без отопления он покрывает примерно половину года, и не ту, которая нужна.

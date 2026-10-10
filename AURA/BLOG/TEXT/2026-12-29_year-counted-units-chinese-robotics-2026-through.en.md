@@ -7,6 +7,13 @@ seo_title: "Chinese Robotics in 2026: Installations, Humanoids, Prices, IPOs and
 meta_description: "The year in Chinese robotics for buyers: IFR data on industrial robots, humanoid shipments, falling prices, Unitree’s IPO and a national standards framework. Based on data available as of October 2026."
 slug: "year-counted-units-chinese-robotics-2026-through"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-29_year-counted-units-chinese-robotics-2026-through.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "766dbc48-5b8e-4415-80bd-b0318124571c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic high-angle industrial photo of a vast bright car body welding hall in China: long rows of orange industrial robot arms weld car bodies with small sparks along the line, red paper lanterns hang festively from the roof trusses for the end of the year, a few engineers in white walk along a yellow walkway and chat, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, grand optimistic mood of a year counted in units. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Year-end reviews are traditionally written in late December, glass in hand. We are writing this one a little earlier and without the glass, and we say so upfront: it uses data available as of October 2026. China’s full-year 2026 figures will not appear until 2027, and the IFR’s report on 2026 will, on its usual schedule, come out in autumn 2027. Waiting for complete statistics would mean reviewing 2026 sometime around spring 2028.

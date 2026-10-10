@@ -7,6 +7,13 @@ seo_title: "Техобслуживание робота своими силам�
 meta_description: "Что делать с роботом каждый день, месяц и полгода: осмотр, тесты безопасности, чистка датчиков, батареи, резервные копии, журнал ТО. Примеры регламентов коботов, AMR и робособак."
 slug: "daily-monthly-twice-year-robot-maintenance-routine"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-25_daily-monthly-twice-year-robot-maintenance-routine.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "44cae58b-5153-4479-ac08-7051cbc43784"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up documentary photo in a factory workshop: a maintenance technician in a work jacket greases a joint of an industrial robot arm with a grease gun, a young operator beside him holds an open paper maintenance logbook with blurred unreadable entries and smiles, wipes, a torque wrench and spare filters lie on a cart, warm daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, tidy routine mood of maintenance done on schedule. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть два типа владельцев робота. Первые обслуживают его по регламенту. Вторые обслуживают его по факту — то есть когда он остановился. Вторые экономят время на каждой неделе и теряют его разом, обычно в конце квартала.

@@ -7,6 +7,13 @@ seo_title: "How to Tell Employees About Robot Automation: Fears, Reskilling and 
 meta_description: "How to announce a robot deployment and keep your workforce: what surveys show about workers’ fears, the role of team leaders, reskilling and the first weeks after launch."
 slug: "staff-versus-robot-how-announce-automation-without"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-21_staff-versus-robot-how-announce-automation-without.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4659d5a2-dabf-4a68-864e-a8cfd2fcb712"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a Russian factory floor in the morning: a foreman in a work jacket stands next to a newly uncovered industrial robot arm and explains to a semicircle of workers in uniforms, one young worker raises a hand with a question, several others smile and nod, an older woman worker laughs, sunlight from high windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, open trusting mood of announcing automation without losing people. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The most expensive part of a robot is often missing from the spec sheet. It is the rumour. It reaches the shop floor a month before the robot does and tells everyone that “half of us will be gone by spring”. The robot is still at sea, and resignation letters are already on the desk. Usually from your best people, because they find new jobs fastest.

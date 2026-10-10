@@ -7,6 +7,13 @@ seo_title: "Какие данные отправляет китайский ро
 meta_description: "Что робот передаёт в облако производителя, как работает офлайн-режим, что показали исследования уязвимостей Unitree Go1 и G1, требования 152-ФЗ и закона о КИИ и что прописать в договоре."
 slug: "robot-phones-home-cloud-telemetry-data-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-24_robot-phones-home-cloud-telemetry-data-from.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7e8982d5-a2e9-40bc-a99f-ea4eff45b6aa"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright factory server corner next to a robot cell: a smiling young IT specialist plugs a network cable into a small industrial switch in an open network cabinet with blinking green lights, an engineer holding a laptop discusses with her, through the glass partition behind them a robot arm works, cables neatly labeled with blank tags, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm confident mood of knowing where the robot's data goes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Раньше станок в цеху был молчуном. Он стоял, работал и ни с кем не разговаривал, кроме своего токаря, да и с ним только по делу. Современный робот — существо общительное. У него Wi-Fi, облачный аккаунт, приложение на телефоне, а иногда и привычка регулярно отзваниваться производителю. Отчитывается он аккуратно, как хороший сотрудник. Вопрос лишь в том, кому именно.

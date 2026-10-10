@@ -7,6 +7,13 @@ seo_title: "What Data Does a Chinese Robot Send Home? Telemetry, Cloud, Russian 
 meta_description: "What robots send to the manufacturer’s cloud, how offline mode works, what research into Unitree Go1 and G1 found, Russian data localisation and critical infrastructure rules, and what to put in the contract."
 slug: "robot-phones-home-cloud-telemetry-data-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-24_robot-phones-home-cloud-telemetry-data-from.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7e8982d5-a2e9-40bc-a99f-ea4eff45b6aa"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright factory server corner next to a robot cell: a smiling young IT specialist plugs a network cable into a small industrial switch in an open network cabinet with blinking green lights, an engineer holding a laptop discusses with her, through the glass partition behind them a robot arm works, cables neatly labeled with blank tags, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm confident mood of knowing where the robot's data goes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The machine tools of the past were the strong, silent type. They stood in the corner, worked, and spoke to nobody except their operator, and only about business. A modern robot is more sociable. It has Wi-Fi, a cloud account, a phone app and sometimes a habit of checking in with its manufacturer. It reports diligently, like a model employee. The only question is: to whom?

@@ -7,6 +7,13 @@ seo_title: "Robots in Unheated Plants and Outdoors: IP Ratings, Temperature, Con
 meta_description: "How to run robots in cold workshops, outdoors and in washdown areas: IP codes explained (IEC 60529), operating temperatures of cobots and robot dogs, condensation and charging batteries in the cold."
 slug: "unheated-workshop-robots-frost-letters-ip-on"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-23_unheated-workshop-robots-frost-letters-ip-on.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4ed08d9f-54eb-427e-91fa-eb9cadda84c3"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in an unheated Russian workshop in winter: a collaborative robot arm wearing a fitted grey protective cover works at a bench loading parts, frost patterns on the old windows, breath visible in the cold air, a smiling worker in a padded jacket and knitted hat checks the robot, a small heater glowing near the control cabinet, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, sturdy cheerful mood of a robot ready for frost. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Robot datasheets are usually written in a warm office. You can tell from the “operating temperature” line: 0 to 50 °C. In Shenzhen that covers most of the year. In an unheated Russian warehouse it covers roughly half of it, and not the half you need.

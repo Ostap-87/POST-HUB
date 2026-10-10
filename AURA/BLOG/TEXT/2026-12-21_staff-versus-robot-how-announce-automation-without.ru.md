@@ -7,6 +7,13 @@ seo_title: "Как сообщить сотрудникам о роботизац
 meta_description: "Как объявить коллективу о внедрении робота и сохранить людей: что показывают опросы, роль бригадира, переобучение, первые недели после запуска. Практика от Aura Robotics."
 slug: "staff-versus-robot-how-announce-automation-without"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-21_staff-versus-robot-how-announce-automation-without.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4659d5a2-dabf-4a68-864e-a8cfd2fcb712"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a Russian factory floor in the morning: a foreman in a work jacket stands next to a newly uncovered industrial robot arm and explains to a semicircle of workers in uniforms, one young worker raises a hand with a question, several others smile and nod, an older woman worker laughs, sunlight from high windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, open trusting mood of announcing automation without losing people. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Самая дорогая часть робота часто не значится в спецификации. Это слух. Он приходит в цех раньше робота, обгоняет его на месяц и рассказывает всем, что «скоро половину сократят». Робот ещё едет морем, а заявления об уходе уже лежат на столе. Причём пишут их, как правило, лучшие: им проще всего найти новое место.

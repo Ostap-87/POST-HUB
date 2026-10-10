@@ -7,6 +7,13 @@ seo_title: "Выставка роботов в Китае: подготовка 
 meta_description: "Как закупщику подготовиться к выставке робототехники в Китае: что взять с собой, как отличить серийную модель от концепта и телеуправление от автономии, какие вопросы задать на стенде и что делать после выставки."
 slug: "robots-behave-better-on-stand-how-prepare"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-30_robots-behave-better-on-stand-how-prepare.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7849c6ae-7f2e-4fc6-9376-acb9e5715da6"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a robot exhibition in China: behind the back wall of a busy booth, a curious Russian buyer with a notebook peeks around the partition and finds a young operator with a remote controller guiding the humanoid robot that is waving to visitors at the front, both burst out laughing, booth lights and the crowd blurred in the background, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, good-humoured eye-opening mood of telling a demo from autonomy. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 На выставке робот ведёт себя как ребёнок в гостях: вежлив, послушен, ничего не роняет и улыбается всем подряд. Дома, то есть у вас на складе, он может оказаться совсем другим человеком. Точнее, роботом. Задача покупателя на выставке — понять, каким он будет дома.

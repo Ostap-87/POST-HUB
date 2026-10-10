@@ -7,6 +7,13 @@ seo_title: "Robotics Trade Shows in China: How to Prepare a Buying Trip and What
 meta_description: "How a buyer should prepare for a robotics trade show in China: what to bring, how to tell a production model from a concept and teleoperation from autonomy, which questions to ask on the stand and what to do afterwards."
 slug: "robots-behave-better-on-stand-how-prepare"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-30_robots-behave-better-on-stand-how-prepare.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7849c6ae-7f2e-4fc6-9376-acb9e5715da6"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a robot exhibition in China: behind the back wall of a busy booth, a curious Russian buyer with a notebook peeks around the partition and finds a young operator with a remote controller guiding the humanoid robot that is waving to visitors at the front, both burst out laughing, booth lights and the crowd blurred in the background, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, good-humoured eye-opening mood of telling a demo from autonomy. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 At a trade show a robot behaves like a child visiting relatives: polite, obedient, drops nothing and smiles at everyone. At home, meaning in your warehouse, it may turn out to be a different child. The buyer’s job at a show is to work out what it will be like at home.
