@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Аренда гуманоида: с 30 тысяч до тысячи в день"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-03_0900_arenda-gumanoida-30-tysyach-do-tysyachi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1d5c6cee-016b-4505-af7b-44fa1042e9c0"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "electronics market in Shenzhen, rental stall with half-closed shutter, idle humanoid robot among boxes"
 ---
 
 **Аренда гуманоида: с 30 тысяч до тысячи в день**

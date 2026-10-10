@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Сварщик из Хэбэя едет на российскую стройку"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-05_0900_svarshchik-iz-khebeya-edet-rossiyskuyu-stroyku.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5bb2a0d1-dd7c-4f89-bd89-4b5b99e97781"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "robotic arm welding ring-lock scaffolding parts, sparks, worker in welding mask behind screen"
 ---
 
 **Сварщик из Хэбэя едет на российскую стройку**

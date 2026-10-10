@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Вопрос покупателя"
 title: "«Как понять, что завод настоящий, если я в Китае ни разу не был?»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-05_1800_ponyat-chto-zavod-nastoyashchiy-esli-ya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e55d60b0-3882-4302-97e8-eb429db5ecaa"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "buyer in a hard hat filming an industrial robot arm and its ID plate on a smartphone, engineer nearby"
 ---
 
 **«Как понять, что завод настоящий, если я в Китае ни разу не был?»**

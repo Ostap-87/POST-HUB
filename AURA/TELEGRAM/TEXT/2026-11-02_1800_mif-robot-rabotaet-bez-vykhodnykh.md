@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: робот работает без выходных"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-02_1800_mif-robot-rabotaet-bez-vykhodnykh.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bef1b281-728e-402c-9878-fd1379b2ef19"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "humanoid robot connected to a charging station in a warehouse at night, coffee mug and gloves on bench"
 ---
 
 **Миф: робот работает без выходных**

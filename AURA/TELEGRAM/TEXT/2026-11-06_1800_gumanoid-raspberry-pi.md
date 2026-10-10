@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Курьёз недели"
 title: "Гуманоид на Raspberry Pi"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-06_1800_gumanoid-raspberry-pi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "42bfaea1-08ae-4575-9eb1-69f5717fd9e2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "small six-wheeled home robot with two arms mimicking a man who waves to teach it, living room"
 ---
 
 **Гуманоид на Raspberry Pi**

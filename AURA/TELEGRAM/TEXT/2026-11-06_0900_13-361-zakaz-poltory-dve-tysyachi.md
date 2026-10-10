@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "13 361 заказ и полторы-две тысячи поставок"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-06_0900_13-361-zakaz-poltory-dve-tysyachi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "12d6068c-9bc0-4d9a-9b36-2509fe57c4d8"
+image_cost: "0.5"
+image_logos: "ubtech"
+image_prompt: "long row of shipping crates with household humanoid robots in film, workers loading a truck"
 ---
 
 **13 361 заказ и полторы-две тысячи поставок**
