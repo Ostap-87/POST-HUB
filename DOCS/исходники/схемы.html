@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8">
+<title>POST-HUB — схемы</title>
+<style>
+@font-face { font-family: 'Inter'; font-weight: 100 900; src: url(fonts/Inter-normal-cyrillic.woff2) format('woff2'); unicode-range: U+0400-045F, U+0490-0491, U+2116; }
+@font-face { font-family: 'Inter'; font-weight: 100 900; src: url(fonts/Inter-normal-latin.woff2) format('woff2'); }
+@font-face { font-family: 'Sofia'; font-weight: 1 1000; src: url(fonts/SofiaSansCondensed-normal-cyrillic.woff2) format('woff2'); unicode-range: U+0400-045F, U+0490-0491, U+2116; }
+@font-face { font-family: 'Sofia'; font-weight: 1 1000; src: url(fonts/SofiaSansCondensed-normal-latin.woff2) format('woff2'); }
+:root { --blue: #1a73e8; --blue2: #0f5fd1; --pale: #eaf2fe; --ink: #1d2030; --mute: #5e6170; --line: #d7dfeb; --bg: #f4f6f9; --green: #1e8e5a; --amber: #c77d00; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #fff; font-family: 'Inter', sans-serif; color: var(--ink); }
+.dg { width: 1400px; padding: 44px 48px 48px; background: var(--bg); margin-bottom: 40px; }
+.dg h2 { margin: 0 0 6px; font: 900 44px/1.05 'Sofia', sans-serif; text-transform: uppercase; color: var(--blue); }
+.dg .sub { margin: 0 0 28px; font-size: 19px; color: var(--mute); }
+.box { background: #fff; border-radius: 18px; box-shadow: 0 5px 0 #dce3ec; padding: 18px 22px; }
+.box.blue { background: var(--blue); color: #fff; box-shadow: 0 5px 0 #0c4fae; }
+.box.pale { background: var(--pale); box-shadow: 0 5px 0 #cfdcf2; }
+.t { font: 900 28px/1.1 'Sofia', sans-serif; text-transform: uppercase; }
+.s { font-size: 16px; line-height: 1.45; color: var(--mute); margin-top: 6px; }
+.box.blue .s { color: #dbe8fd; }
+.row { display: flex; gap: 20px; align-items: stretch; }
+.row > * { flex: 1; }
+.arrow-down { text-align: center; font: 900 30px/1 'Sofia', sans-serif; color: var(--blue); margin: 12px 0; }
+.arrow-down small { display: block; font: 600 15px/1.3 'Inter', sans-serif; color: var(--mute); margin-top: 4px; }
+.arr { flex: 0 0 64px; display: flex; flex-direction: column; justify-content: center; align-items: center; color: var(--blue); font: 900 40px/1 'Sofia', sans-serif; }
+.arr small { font: 600 13px/1.3 'Inter', sans-serif; color: var(--mute); text-align: center; margin-top: 6px; width: 120px; }
+.chip { display: inline-block; padding: 5px 12px; margin: 4px 6px 0 0; border-radius: 14px; background: var(--pale); color: var(--blue2); font: 700 14px/1.2 'Inter', sans-serif; }
+.box.blue .chip { background: rgba(255,255,255,.18); color: #fff; }
+.chip.f { background: var(--blue); color: #fff; }
+.mono { font: 500 15px/1.6 ui-monospace, 'DejaVu Sans Mono', monospace; color: var(--ink); white-space: pre; }
+.k { font: 800 14px/1.2 'Inter', sans-serif; letter-spacing: .04em; text-transform: uppercase; color: var(--blue); margin-bottom: 6px; }
+.box.blue .k { color: #cfe0fd; }
+.tag { display: inline-block; padding: 4px 12px; border-radius: 12px; font: 800 13px/1.2 'Inter', sans-serif; text-transform: uppercase; }
+.tag.on { background: #e1f4ea; color: var(--green); } .tag.off { background: #fdf0d9; color: var(--amber); }
+.grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+.net .t { font-size: 24px; }
+.folders { font: 600 13px/1.4 'Inter', sans-serif; color: var(--mute); margin-top: 8px; }
+.step { display: flex; gap: 14px; align-items: flex-start; }
+.num { flex: 0 0 38px; height: 38px; border-radius: 50%; background: var(--blue); color: #fff; font: 900 22px/38px 'Sofia', sans-serif; text-align: center; }
+.stack .box { margin-bottom: 14px; }
+</style></head><body>
+
+<!-- 1. Общая схема -->
+<section class="dg" id="d1">
+  <h2>Как устроен POST-HUB</h2>
+  <p class="sub">Агенты сменные, контент и правила — в репозитории, публикуют скрипты по расписанию</p>
+  <div class="row">
+    <div class="box"><div class="k">Агент</div><div class="t">Claude</div><div class="s">готовит контент, ведёт очередь</div></div>
+    <div class="box"><div class="k">Агент</div><div class="t">ChatGPT / Codex</div><div class="s">то же самое по той же инструкции</div></div>
+    <div class="box blue"><div class="k">Кнопка</div><div class="t">ACTIVE-AGENT.yaml</div><div class="s">GitHub → Actions → «Переключить агента». Работает только выбранный агент</div></div>
+  </div>
+  <div class="arrow-down">▼<small>активный агент работает через пульт</small></div>
+  <div class="box pale">
+    <div class="k">Пульт</div><div class="t">CONTROL/</div>
+    <div><span class="chip">AGENT.md — единая инструкция</span><span class="chip">TASKS — задания</span><span class="chip">JOURNAL — журнал</span><span class="chip">TOOLS — команды</span></div>
+  </div>
+  <div class="arrow-down">▼<small>раскладывает контент по проектам, сетям и форматам</small></div>
+  <div class="row">
+    <div class="box"><div class="t">AURA/</div><div class="s">aura-robotics.ru · 11 сетей</div></div>
+    <div class="box"><div class="t">GTT/</div><div class="s">globaltechtour.ru · 11 сетей</div></div>
+    <div class="box"><div class="t">OSTAPDOTCENKO/</div><div class="s">личный сайт · 11 сетей</div></div>
+  </div>
+  <div class="arrow-down">▼<small>очередь READY</small></div>
+  <div class="box blue">
+    <div class="k">Без агента · время и коннекторы настроим позже</div><div class="t">Скрипты публикации по расписанию</div>
+    <div><span class="chip">Telegram</span><span class="chip">Дзен</span><span class="chip">Блог сайта</span><span class="chip">Facebook</span><span class="chip">LinkedIn</span><span class="chip">Instagram</span><span class="chip">Threads</span><span class="chip">X</span><span class="chip">YouTube</span><span class="chip">WeChat</span><span class="chip">Xiaohongshu</span></div>
+  </div>
+  <div class="arrow-down">▼<small>вышедшее переносится в архив</small></div>
+  <div class="box"><div class="t">PUBLISHED/</div><div class="s">архив по месяцам: дата, время, ссылка на пост — по нему проверяем, что контент не повторяется</div></div>
+</section>
+
+<!-- 2. Проект изнутри -->
+<section class="dg" id="d2">
+  <h2>Проект изнутри</h2>
+  <p class="sub">Одинаково у AURA, GTT и OSTAPDOTCENKO: 11 сетей, в четырёх — форматы со своими очередями</p>
+  <div class="grid">
+    <div class="box net"><div class="t">TELEGRAM</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">BLOG</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">LINKEDIN</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">THREADS</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">X</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">WECHAT</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net"><div class="t">XIAOHONGSHU</div><div class="folders">TEXT · PHOTO · VIDEO · READY · PUBLISHED</div></div>
+    <div class="box net pale"><div class="t">RULES.md</div><div class="folders">правила проекта; в каждой сети — свой RULES.md</div></div>
+  </div>
+  <div style="height:16px"></div>
+  <div class="grid">
+    <div class="box net"><div class="t">INSTAGRAM</div><span class="chip f">POST</span><span class="chip f">CAROUSEL</span><span class="chip f">REELS</span><span class="chip f">STORIES</span></div>
+    <div class="box net"><div class="t">FACEBOOK</div><span class="chip f">POST</span><span class="chip f">REELS</span><span class="chip f">STORIES</span></div>
+    <div class="box net"><div class="t">YOUTUBE</div><span class="chip f">LONG</span><span class="chip f">SHORTS</span></div>
+    <div class="box net"><div class="t">DZEN</div><span class="chip f">ARTICLE</span><span class="chip f">POST</span><span class="chip f">LONG</span><span class="chip f">SHORTS</span></div>
+  </div>
+  <div style="height:16px"></div>
+  <div class="row">
+    <div class="box"><div class="k">Внутри каждой сети или формата — одни и те же 5 папок</div>
+      <div class="mono">TEXT/        запас текстов
+PHOTO/       запас фото
+VIDEO/       запас видео (Git LFS)
+READY/       очередь: готовые посты по дням
+PUBLISHED/   архив вышедшего по месяцам</div></div>
+    <div class="box"><div class="k">Пример пути</div>
+      <div class="mono">AURA/TELEGRAM/READY/2026-11-01_0900_unitree-g1/
+AURA/INSTAGRAM/REELS/VIDEO/2026-11-03_factory.mp4
+GTT/YOUTUBE/SHORTS/PUBLISHED/2026-11/…
+OSTAPDOTCENKO/DZEN/ARTICLE/TEXT/2026-11-05_…md</div></div>
+  </div>
+</section>
+
+<!-- 3. Жизненный цикл поста -->
+<section class="dg" id="d3">
+  <h2>Путь поста</h2>
+  <p class="sub">Файлы не удаляются и не копируются — только переносятся из папки в папку</p>
+  <div class="row">
+    <div class="box"><div class="k">1 · Запас</div><div class="t">TEXT · PHOTO · VIDEO</div>
+      <div class="mono" style="margin-top:10px">TEXT/2026-11-01_unitree-g1.md
+PHOTO/2026-11-01_unitree-g1.jpg
+VIDEO/2026-11-05_factory.mp4</div>
+      <div class="s">тексты и медиа уникальны для своей сети и проекта</div></div>
+    <div class="arr">→<small>prepare + check: лимиты сети, ссылка, уникальность</small></div>
+    <div class="box blue"><div class="k">2 · Очередь</div><div class="t">READY</div>
+      <div class="mono" style="margin-top:10px;color:#fff">2026-11-01_0900_unitree-g1/
+  post.md     текст поста
+  photo.jpg   фото
+  meta.yaml   (необязательно)</div>
+      <div class="s">имя = дата и время выхода, поэтому папка сама по себе — расписание</div></div>
+    <div class="arr">→<small>publish по расписанию, затем archive</small></div>
+    <div class="box"><div class="k">3 · Архив</div><div class="t">PUBLISHED</div>
+      <div class="mono" style="margin-top:10px">2026-11/
+  2026-11-01_0900_unitree-g1/
+    post.md · photo.jpg
+    info.json  дата, время,
+               ссылка, кто</div>
+      <div class="s">по архиву проверяем, что темы и фото не повторяются</div></div>
+  </div>
+  <div style="height:18px"></div>
+  <div class="row">
+    <div class="box pale"><div class="k">Карусель и сторис</div><div class="s" style="color:var(--ink)">медиа по порядку: <b>01.jpg, 02.jpg, 03.mp4</b> …</div></div>
+    <div class="box pale"><div class="k">Видео</div><div class="s" style="color:var(--ink)"><b>video.mp4</b> + обложка <b>cover.jpg</b>; хранится в Git LFS и никогда не удаляется</div></div>
+    <div class="box pale"><div class="k">info.json</div><div class="s" style="color:var(--ink)">published_at · url · post_id · published_by (script / claude / chatgpt / user)</div></div>
+  </div>
+</section>
+
+<!-- 4. Кнопка и смена агента -->
+<section class="dg" id="d4">
+  <h2>Кнопка и смена агента</h2>
+  <p class="sub">Переключили — новый агент продолжает с того же места, контент и функции не теряются</p>
+  <div class="row">
+    <div class="box"><div class="step"><div class="num">1</div><div><div class="t" style="font-size:24px">Нажать кнопку</div><div class="s">GitHub → Actions → «Переключить агента» → Run workflow → выбрать claude / chatgpt / none. Можно с телефона</div></div></div></div>
+    <div class="box"><div class="step"><div class="num">2</div><div><div class="t" style="font-size:24px">Записывается</div><div class="s">CONTROL/ACTIVE-AGENT.yaml: кто, с какого времени, кем; строка в JOURNAL/agent-switches.md</div></div></div></div>
+    <div class="box"><div class="step"><div class="num">3</div><div><div class="t" style="font-size:24px">Новый агент читает</div><div class="s">AGENT.md → TASKS/IN-WORK → JOURNAL за последние дни → продолжает. Старый агент больше ничего не меняет</div></div></div></div>
+  </div>
+  <div class="arrow-down">▼<small>задания движутся по папкам, после каждого шага — коммит</small></div>
+  <div class="row">
+    <div class="box"><div class="k">TASKS/INBOX</div><div class="t">Новые задания</div><div class="s">от пользователя или по плану: файл на задание</div></div>
+    <div class="arr">→</div>
+    <div class="box blue"><div class="k">TASKS/IN-WORK</div><div class="t">В работе</div><div class="s">в файле: какой агент взял и когда</div></div>
+    <div class="arr">→</div>
+    <div class="box"><div class="k">TASKS/DONE</div><div class="t">Выполнено</div><div class="s">итог и где лежит результат</div></div>
+  </div>
+  <div style="height:16px"></div>
+  <div class="box pale"><div class="k">JOURNAL/ГГГГ-ММ-ДД.md</div><div class="s" style="color:var(--ink)">каждое действие одной строкой: время · агент · что сделано. Это «память» системы — она не зависит от агента</div></div>
+</section>
+
+<!-- 5. Порядок правил -->
+<section class="dg" id="d5">
+  <h2>Порядок правил</h2>
+  <p class="sub">Если правила расходятся — действует более частное</p>
+  <div class="stack">
+    <div class="box blue"><div class="k">1 · главнее всех</div><div class="t">&lt;ПРОЕКТ&gt;/&lt;СЕТЬ&gt;/RULES.md</div><div class="s">лимиты сети, форматы, время публикаций, адрес канала, особые правила проекта для этой сети</div></div>
+    <div class="box pale"><div class="k">2</div><div class="t">&lt;ПРОЕКТ&gt;/RULES.md</div><div class="s">тон и голос проекта, темы и запреты, куда ведём читателя, стиль фото и видео</div></div>
+    <div class="box"><div class="k">3 · общие</div><div class="t">CONTROL/AGENT.md</div><div class="s">как устроен репозиторий, как двигается контент, задания, журнал, уникальность, ключи, картинки Higgsfield</div></div>
+  </div>
+</section>
+</body></html>
