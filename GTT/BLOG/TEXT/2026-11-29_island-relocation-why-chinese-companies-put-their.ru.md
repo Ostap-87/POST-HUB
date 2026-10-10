@@ -7,6 +7,13 @@ seo_title: "Китайские компании в Сингапуре: поче�
 meta_description: "Почему китайские компании открывают штаб-квартиры в Сингапуре: налоги, доступ к капиталу и рынкам ЮВА, семейные офисы, ужесточение правил после 2023 года и история Manus. Что важно знать партнёрам китайского бизнеса."
 slug: "island-relocation-why-chinese-companies-put-their"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-29_island-relocation-why-chinese-companies-put-their.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e358b13e-3b66-4994-b8f4-e57d8d10d18e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a new bright office high above Singapore's business district: a small team of Chinese executives unpacks boxes and arranges plants and laptops, two of them laugh as they look out of the floor-to-ceiling window at the bay and skyscrapers, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, optimistic mood of a new headquarters on the island. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Сингапур меньше Москвы в пределах МКАД. В нём нет заводов-гигантов, нет сырья и почти нет земли. Зато в нём есть то, за чем к нему стоит очередь из китайских компаний: адрес.

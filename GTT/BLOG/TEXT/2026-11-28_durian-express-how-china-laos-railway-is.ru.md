@@ -7,6 +7,13 @@ seo_title: "Железная дорога Китай — Лаос: грузы, �
 meta_description: "Что изменила железная дорога Куньмин — Вьентьян за неполные пять лет: 90 млн тонн грузов, 66 млн пассажиров, дуриан за 29 часов, долги Лаоса и новые маршруты в Таиланд. Цифры и выводы для логистики."
 slug: "durian-express-how-china-laos-railway-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-28_durian-express-how-china-laos-railway-is.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9ebcb247-f9cb-482d-82c9-54ef86d79321"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a railway freight station in Laos surrounded by green karst mountains: smiling workers load boxes of spiky durians into a refrigerated container on a freight train, a modern passenger train passes on the next track, bright tropical sun and white clouds, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful lively mood of a railway that changed regional trade. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У Лаоса нет выхода к морю. Долгое время у него не было и нормальной железной дороги: несколько километров путей у тайской границы, и всё. Грузы шли по горным дорогам грузовиками, медленно и дорого, а слово «логистика» в Лаосе означало в основном терпение.

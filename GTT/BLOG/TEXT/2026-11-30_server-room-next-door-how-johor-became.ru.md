@@ -6,6 +6,13 @@ title: "Серверная через дорогу: как Джохор стал
 meta_description: "Почему малайзийский штат Джохор за несколько лет стал одним из самых быстрорастущих рынков дата-центров Азии: мораторий Сингапура, мегаватты, китайские операторы и клиенты, вода, электричество и экспортный контроль на чипы."
 slug: "server-room-next-door-how-johor-became"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-30_server-room-next-door-how-johor-became.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2d2edaf6-8bd9-4715-8801-c2c1b49721b2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo over Johor in Malaysia: several huge new white data center buildings rise among rows of green oil palm plantations, cooling units on the roofs, a road with trucks, and across a narrow strait the hazy skyline of Singapore on the horizon, soft morning light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive forward-looking mood of a server room next door. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Между Сингапуром и малайзийским Джохором — пролив шириной примерно в километр и одна из самых загруженных сухопутных границ в мире. Люди годами ездили через неё в одну сторону работать, в другую — жить и закупаться. Последние несколько лет туда же поехали данные.

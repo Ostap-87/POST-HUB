@@ -6,6 +6,13 @@ title: "It Dances, But Does It Ship? WAIC for Business: Telling a Demo from a Pr
 meta_description: "The World Artificial Intelligence Conference (WAIC) in Shanghai: what is on show, how it has grown since 2018, why it matters for business, and how to tell a stage demo from a finished product. Check WAIC 2027 dates with the organiser."
 slug: "it-dances-but-does-it-ship-waic"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-06_it-dances-but-does-it-ship-waic.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e292513c-7d30-4499-b315-f87e6c6e4019"
+image_cost: "0.5"
+image_logos: "WAIC"
+image_prompt: "Photorealistic editorial photo at a large AI conference exhibition in Shanghai: in the foreground a businesswoman with a notebook asks questions to a booth engineer next to a robot arm calmly sorting real parcels on a small conveyor, in the soft-focus background humanoid robots dance on a lit stage in front of a crowd with phones, signs and screens blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, smart discerning mood of telling a demonstration from a product. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 At an artificial intelligence show, natural intelligence is hard to hold on to. Robots dance, avatars talk, screens glow with “world first”, and your phone buzzes with a colleague asking what you have bought so far.

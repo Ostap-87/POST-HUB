@@ -7,6 +7,13 @@ seo_title: "Vietnam as China Plus One: Chinese Factories in Bac Ninh, FDI and Ta
 meta_description: "Why Chinese electronics suppliers are moving production to northern Vietnam, what 2025 investment and trade data show, how US tariffs fit in, and what it means for companies that source from China."
 slug: "china-plus-one-where-one-is-also"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-27_china-plus-one-where-one-is-also.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0160dcf5-c192-4175-b6cb-b86b9ceba79a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a new industrial park in northern Vietnam in the morning: Vietnamese workers in light uniforms arrive on motorbikes at the gate of large new white factory buildings, chatting and laughing, rice fields and green hills at the edge of the park, soft early sun, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy hopeful mood of production moving next door to China. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “China plus one” sounds like a diversification strategy: don’t keep all your eggs in one basket. In practice, something curious happens. There are indeed two baskets now. But the same hen is still laying the eggs for both.

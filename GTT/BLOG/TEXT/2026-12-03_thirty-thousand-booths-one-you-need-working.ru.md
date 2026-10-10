@@ -6,6 +6,13 @@ title: "Тридцать тысяч стендов и один нужный: к�
 meta_description: "Практическое руководство по Кантонской ярмарке: три фазы и что в каждой, масштаб, регистрация, подготовка, как отличить завод от торговой компании и что делать после выставки. Даты весенней сессии 2027 года уточняйте у организатора."
 slug: "thirty-thousand-booths-one-you-need-working"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-03_thirty-thousand-booths-one-you-need-working.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "51aeff56-bbc4-4aa8-9433-0ccd4dd635b0"
+image_cost: "0.5"
+image_logos: "Canton Fair"
+image_prompt: "Photorealistic editorial photo in the morning at the entrance of a gigantic exhibition complex in Guangzhou: crowds of international buyers with rolling bags and badges ride long escalators up to huge glass halls, a smiling buyer in the foreground checks a short paper list of three items with blank lines, bright sun, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused energetic mood of coming to a huge fair for one right booth. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 На Кантонскую ярмарку можно поехать двумя способами. Первый — пройти все павильоны, собрать мешок каталогов и вернуться с ощущением, что Китай производит всё. Это правда, но это не новость. Второй — приехать за тремя конкретными товарами, найти пять производителей и через неделю стоять у одного из них в цеху.

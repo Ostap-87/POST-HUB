@@ -7,6 +7,13 @@ seo_title: "«Модель Хэфэя»: как город инвестируе�
 meta_description: "Как власти Хэфэя стали инвестором, а не раздатчиком субсидий: панели BOE, память CXMT, спасение NIO в 2020 году. Чем городская ставка отличается от льготы и что из этого следует для иностранной компании."
 slug: "city-hall-with-venture-portfolio-how-hefei"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-07_city-hall-with-venture-portfolio-how-hefei.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1348a53b-90aa-404f-b652-15b6d5af85ee"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a bright modern government investment office in Hefei: two smiling local officials and a foreign businessman talk around a small table with tea and a folder of blank papers, through the floor-to-ceiling window behind them a modern skyline, a large lake and long low factory buildings in the distance, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, confident businesslike mood of a city that invests like a venture fund. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Обычно мэрия приходит к бизнесу с проверкой. В Хэфэе она приходит с term sheet.

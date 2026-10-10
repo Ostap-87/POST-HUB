@@ -6,6 +6,13 @@ title: "Больница в разобранном виде: как медици
 meta_description: "CMEF — одна из крупнейших в мире выставок медицинского оборудования: около 5 000 экспонентов и 300 000 посетителей. Как устроены весенняя и осенняя выставки, какие разделы смотреть, как готовиться медицинской компании и о чём спрашивать на стенде. Даты 2027 года уточняйте у организатора."
 slug: "hospital-kit-form-how-medical-company-should"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-05_hospital-kit-form-how-medical-company-should.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a6abfbea-e2fa-4cee-a70f-e4a42a5069a7"
+image_cost: "0.5"
+image_logos: "CMEF"
+image_prompt: "Photorealistic editorial photo at a large medical equipment fair in Shanghai: a buyer adjusts a big LED surgical lamp on a stand while two colleagues watch and smile, rows of operating tables, ICU beds and monitors with abstract images without text fill the bright hall behind, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused businesslike mood of a hospital taken apart into booths. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Представьте больницу, которую разобрали на детали и разложили по павильонам. В одном зале томографы, в другом реагенты, в третьем операционные, в четвёртом кровати, которые умеют больше, чем некоторые пациенты. Посередине стоит человек с бейджем «закупщик» и пытается понять, с чего начать.

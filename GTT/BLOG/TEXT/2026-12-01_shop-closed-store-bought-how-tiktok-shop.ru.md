@@ -6,6 +6,13 @@ title: "Закрыли витрину — купили магазин: как Ti
 meta_description: "История TikTok Shop в Индонезии: запрет торговли в соцсетях в 2023 году, сделка с Tokopedia, доля рынка, видеокоммерция и отношения с регулятором. Что китайская платформа поняла о крупнейшем рынке Юго-Восточной Азии."
 slug: "shop-closed-store-bought-how-tiktok-shop"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-01_shop-closed-store-bought-how-tiktok-shop.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2772cac7-2236-433a-896a-92db86d12c27"
+image_cost: "0.5"
+image_logos: "TikTok Shop, Tokopedia"
+image_prompt: "Photorealistic candid photo in a bright live-commerce studio in Jakarta: a cheerful young Indonesian woman host in a colorful hijab presents a dress to a smartphone on a tripod with a ring light, behind her two young assistants pack orders into boxes and laugh, racks of clothes and parcels, screen contents blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic joyful mood of video shopping coming back. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В октябре 2023 года TikTok закрыл свой магазин в Индонезии. В январе 2024-го он стал владельцем крупного индонезийского маркетплейса. Между этими событиями прошло меньше четырёх месяцев.

@@ -6,6 +6,13 @@ title: "Японская крепость с китайской розеткой
 meta_description: "Как китайские автопроизводители BYD, Chery, Wuling и Geely заходят на рынки Индонезии и Малайзии, где десятилетиями правили японские марки: продажи 2025 года, локальная сборка, новые правила импорта и ответ Toyota."
 slug: "japanese-fortress-chinese-charger-how-chinese-evs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-02_japanese-fortress-chinese-charger-how-chinese-evs.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7ece40f5-226f-441b-a20a-57cc2b483f8a"
+image_cost: "0.5"
+image_logos: "BYD"
+image_prompt: "Photorealistic street photo at a sunny shopping mall parking area in Kuala Lumpur: a Malaysian family with two laughing kids stands by a compact electric car plugged into a charging post under palm trees, the father holds the cable while the mother takes a photo, modern buildings behind, car without visible badges, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful modern mood of Chinese electric cars arriving in Southeast Asia. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Юго-Восточную Азию полвека называли японским автомобильным двором. [Toyota](/companies/toyota), Daihatsu, Honda, Mitsubishi, Suzuki строили здесь заводы, когда китайская автопромышленность ещё собирала копии чужих моделей. Японцы приучили регион к своим машинам так основательно, что слово «надёжный» здесь произносят с японским акцентом.

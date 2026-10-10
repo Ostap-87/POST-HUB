@@ -7,6 +7,13 @@ seo_title: "Вьетнам «Китай плюс один»: китайские 
 meta_description: "Почему китайские поставщики электроники переносят заводы на север Вьетнама, что показывают цифры инвестиций и торговли за 2025 год, при чём тут тарифы США и что это значит для тех, кто закупает в Китае."
 slug: "china-plus-one-where-one-is-also"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-27_china-plus-one-where-one-is-also.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0160dcf5-c192-4175-b6cb-b86b9ceba79a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a new industrial park in northern Vietnam in the morning: Vietnamese workers in light uniforms arrive on motorbikes at the gate of large new white factory buildings, chatting and laughing, rice fields and green hills at the edge of the park, soft early sun, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy hopeful mood of production moving next door to China. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Формула «Китай плюс один» звучит как стратегия диверсификации: не держать все яйца в одной корзине. На практике выясняется любопытное. Корзин действительно стало две. Но яйца в обе по-прежнему несёт одна и та же курица.

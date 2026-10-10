@@ -6,6 +6,13 @@ title: "The Server Room Next Door: How Johor Became Singapore’s Compute Backya
 meta_description: "How the Malaysian state of Johor became one of Asia’s fastest-growing data centre markets: Singapore’s moratorium, the megawatts, Chinese operators and tenants, water, power and export controls on AI chips."
 slug: "server-room-next-door-how-johor-became"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-30_server-room-next-door-how-johor-became.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2d2edaf6-8bd9-4715-8801-c2c1b49721b2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo over Johor in Malaysia: several huge new white data center buildings rise among rows of green oil palm plantations, cooling units on the roofs, a road with trucks, and across a narrow strait the hazy skyline of Singapore on the horizon, soft morning light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive forward-looking mood of a server room next door. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Between Singapore and Malaysia’s Johor lies a strait about a kilometre wide and one of the busiest land borders in the world. For years people crossed it one way to work and the other way to live and shop. In the last few years, data started making the trip too.

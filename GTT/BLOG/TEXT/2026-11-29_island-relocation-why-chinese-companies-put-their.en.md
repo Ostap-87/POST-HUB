@@ -7,6 +7,13 @@ seo_title: "Chinese Companies Moving HQ to Singapore: Tax, Capital, Markets and 
 meta_description: "Why Chinese companies set up headquarters in Singapore: tax and legal system, access to capital and Southeast Asian markets, family offices, tighter rules after 2023 and the Manus case. What partners of Chinese businesses should know."
 slug: "island-relocation-why-chinese-companies-put-their"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-29_island-relocation-why-chinese-companies-put-their.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e358b13e-3b66-4994-b8f4-e57d8d10d18e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a new bright office high above Singapore's business district: a small team of Chinese executives unpacks boxes and arranges plants and laptops, two of them laugh as they look out of the floor-to-ceiling window at the bay and skyscrapers, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, optimistic mood of a new headquarters on the island. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Singapore has no giant factories, no raw materials and very little land. What it does have, and what Chinese companies queue up for, is an address.

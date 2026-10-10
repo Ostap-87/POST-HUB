@@ -6,6 +6,13 @@ title: "Сто шестьдесят премьер и ни одной главн
 meta_description: "Auto Shanghai 2027 пройдёт 23 апреля — 2 мая в Национальном выставочном центре Шанхая. Что смотреть специалисту, кроме новых машин: батареи, электроника, комплектующие, роботы и оборудование. Расписание дней, павильоны и как совместить салон с визитами на заводы."
 slug: "163-premieres-none-them-point-what-see"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-04_163-premieres-none-them-point-what-see.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c85614df-12cb-4585-807e-0ab2402228d8"
+image_cost: "0.5"
+image_logos: "Auto Shanghai"
+image_prompt: "Photorealistic editorial photo at a huge bright auto show in Shanghai: in the foreground a business visitor with a badge examines a cut-away electric car battery pack and a bare skateboard chassis on a supplier's stand while a smiling engineer explains, in the soft-focus background glossy new cars on turntables under spotlights and crowds, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious professional mood of looking past the cars at what they are made of. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 На автосалон принято ходить смотреть автомобили. Это логично, но в Шанхае неэффективно. В 2025 году там показали 1 366 машин, из них 163 мировые премьеры. Если посвятить каждой премьере пять минут, нужно почти четырнадцать часов без обеда, без туалета и без рукопожатий. Рукопожатия, кстати, на этом салоне раздают в том числе роботы.

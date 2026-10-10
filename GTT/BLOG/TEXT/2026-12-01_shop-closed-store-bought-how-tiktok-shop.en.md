@@ -6,6 +6,13 @@ title: "Shop Closed, Store Bought: How TikTok Shop Came Back to Indonesia"
 meta_description: "The story of TikTok Shop in Indonesia: the 2023 ban on social commerce, the Tokopedia deal, market share, video commerce and the relationship with regulators. What a Chinese platform learned about South-East Asia’s largest market."
 slug: "shop-closed-store-bought-how-tiktok-shop"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-01_shop-closed-store-bought-how-tiktok-shop.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2772cac7-2236-433a-896a-92db86d12c27"
+image_cost: "0.5"
+image_logos: "TikTok Shop, Tokopedia"
+image_prompt: "Photorealistic candid photo in a bright live-commerce studio in Jakarta: a cheerful young Indonesian woman host in a colorful hijab presents a dress to a smartphone on a tripod with a ring light, behind her two young assistants pack orders into boxes and laugh, racks of clothes and parcels, screen contents blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic joyful mood of video shopping coming back. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In October 2023 TikTok shut its shop in Indonesia. In January 2024 it became the owner of one of Indonesia’s largest marketplaces. Less than four months passed between the two.

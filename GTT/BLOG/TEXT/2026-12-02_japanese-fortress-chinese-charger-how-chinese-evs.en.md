@@ -6,6 +6,13 @@ title: "A Japanese Fortress, a Chinese Charger: How Chinese EVs Are Taking On In
 meta_description: "How BYD, Chery, Wuling and Geely are entering Indonesia and Malaysia, markets Japanese brands have ruled for decades: 2025 sales, local assembly, new import rules and Toyota’s response."
 slug: "japanese-fortress-chinese-charger-how-chinese-evs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-02_japanese-fortress-chinese-charger-how-chinese-evs.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7ece40f5-226f-441b-a20a-57cc2b483f8a"
+image_cost: "0.5"
+image_logos: "BYD"
+image_prompt: "Photorealistic street photo at a sunny shopping mall parking area in Kuala Lumpur: a Malaysian family with two laughing kids stands by a compact electric car plugged into a charging post under palm trees, the father holds the cable while the mother takes a photo, modern buildings behind, car without visible badges, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful modern mood of Chinese electric cars arriving in Southeast Asia. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 For half a century South-East Asia was Japan’s automotive backyard. [Toyota](/en/companies/toyota), Daihatsu, Honda, Mitsubishi and Suzuki built plants here while China’s car industry was still assembling copies of other people’s models. The region got so used to Japanese cars that “reliable” came to be spoken with a Japanese accent.

@@ -7,6 +7,13 @@ seo_title: "Сучжоуский промышленный парк (SIP): как
 meta_description: "Китайско-сингапурский индустриальный парк в Сучжоу: соглашение 1994 года, убытки первых лет, передача контроля в 2001-м, а затем биотех, нанотехнологии и ВВП 400 млрд юаней. Урок о том, как учиться по чужой модели и не стать её копией."
 slug: "singapore-chinese-province-how-suzhou-built-industrial"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-08_singapore-chinese-province-how-suzhou-built-industrial.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e1341a64-9e7f-440d-9465-94ef9d4af2ca"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo at sunset by Jinji Lake in Suzhou Industrial Park: joggers and cyclists move along a lakeside promenade, laughing friends walk with ice creams, a modern skyline with a distinctive arched skyscraper reflects in calm water, warm golden light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, prosperous relaxed mood of an industrial park built by someone else's textbook that outgrew it. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть два способа учиться у соседа. Можно списать. А можно попросить соседа сесть рядом и объяснить, а потом, когда он уйдёт, решить задачу лучше него.

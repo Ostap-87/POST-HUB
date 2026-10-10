@@ -7,6 +7,13 @@ seo_title: "Suzhou Industrial Park (SIP): How China Borrowed Singapore’s Model
 meta_description: "The China-Singapore Suzhou Industrial Park: the 1994 agreement, early losses, the 2001 handover, then biotech, nanotech and a 400-billion-yuan economy. A lesson in learning from another country’s model without becoming a copy of it."
 slug: "singapore-chinese-province-how-suzhou-built-industrial"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-08_singapore-chinese-province-how-suzhou-built-industrial.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e1341a64-9e7f-440d-9465-94ef9d4af2ca"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo at sunset by Jinji Lake in Suzhou Industrial Park: joggers and cyclists move along a lakeside promenade, laughing friends walk with ice creams, a modern skyline with a distinctive arched skyscraper reflects in calm water, warm golden light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, prosperous relaxed mood of an industrial park built by someone else's textbook that outgrew it. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There are two ways to learn from the kid at the next desk. You can copy his homework. Or you can ask him to sit beside you and explain it, and then, once he has gone, solve the problem better than he did.

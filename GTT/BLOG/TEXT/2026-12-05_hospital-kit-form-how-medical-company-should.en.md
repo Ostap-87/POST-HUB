@@ -6,6 +6,13 @@ title: "A Hospital in Kit Form: How a Medical Company Should Prepare for CMEF 20
 meta_description: "CMEF is one of the world’s largest medical equipment fairs, with around 5,000 exhibitors and 300,000 visitors. How the spring and autumn editions work, which sections to see, how a medical company should prepare and what to ask at a booth. Check 2027 dates with the organiser."
 slug: "hospital-kit-form-how-medical-company-should"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-05_hospital-kit-form-how-medical-company-should.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a6abfbea-e2fa-4cee-a70f-e4a42a5069a7"
+image_cost: "0.5"
+image_logos: "CMEF"
+image_prompt: "Photorealistic editorial photo at a large medical equipment fair in Shanghai: a buyer adjusts a big LED surgical lamp on a stand while two colleagues watch and smile, rows of operating tables, ICU beds and monitors with abstract images without text fill the bright hall behind, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused businesslike mood of a hospital taken apart into booths. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Picture a hospital taken apart and laid out across exhibition halls. Scanners in one hall, reagents in another, operating theatres in a third, and in a fourth, beds that can do more than some patients. In the middle stands a person with a “buyer” badge, trying to work out where to start.

@@ -6,6 +6,13 @@ title: "163 Premieres and None of Them the Point: What to See at Auto Shanghai 2
 meta_description: "Auto Shanghai 2027 runs 23 April to 2 May at Shanghai’s National Exhibition and Convention Center. What a professional visitor should see beyond the new cars: batteries, electronics, components, robots and manufacturing equipment, plus the schedule and how to combine the show with factory visits."
 slug: "163-premieres-none-them-point-what-see"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-04_163-premieres-none-them-point-what-see.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c85614df-12cb-4585-807e-0ab2402228d8"
+image_cost: "0.5"
+image_logos: "Auto Shanghai"
+image_prompt: "Photorealistic editorial photo at a huge bright auto show in Shanghai: in the foreground a business visitor with a badge examines a cut-away electric car battery pack and a bare skateboard chassis on a supplier's stand while a smiling engineer explains, in the soft-focus background glossy new cars on turntables under spotlights and crowds, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious professional mood of looking past the cars at what they are made of. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 People go to motor shows to look at cars. Sensible, but in Shanghai it does not scale. The 2025 show displayed 1,366 vehicles, 163 of them world premieres. Give each premiere five minutes and you need almost fourteen hours with no lunch, no breaks and no handshakes. Some of the handshakes, by the way, are offered by robots.

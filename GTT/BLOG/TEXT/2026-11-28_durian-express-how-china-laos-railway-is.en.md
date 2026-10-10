@@ -7,6 +7,13 @@ seo_title: "China–Laos Railway: Cargo, Passengers, Fruit and Indochina Logisti
 meta_description: "What the Kunming–Vientiane railway has changed in under five years: 90 million tonnes of cargo, 66 million trips, durian in 29 hours, Laos’s debt and new links to Thailand. Numbers and takeaways for logistics."
 slug: "durian-express-how-china-laos-railway-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-28_durian-express-how-china-laos-railway-is.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9ebcb247-f9cb-482d-82c9-54ef86d79321"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a railway freight station in Laos surrounded by green karst mountains: smiling workers load boxes of spiky durians into a refrigerated container on a freight train, a modern passenger train passes on the next track, bright tropical sun and white clouds, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful lively mood of a railway that changed regional trade. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Laos has no coastline. For a long time it had no real railway either: a few kilometres of track near the Thai border, and that was it. Freight went by truck over mountain roads, slowly and expensively, and “logistics” in Laos mostly meant patience.
