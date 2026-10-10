@@ -7,6 +7,13 @@ seo_title: "Hotel Delivery Robots: Calculating Payback for a Hotel in Russia"
 meta_description: "When does a hotel delivery robot pay for itself? Room count, number of floors, lift integration, the night reception shift and an illustrative payback calculation from Aura Robotics."
 slug: "towel-delivers-itself-does-delivery-robot-pay"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-12_towel-delivers-itself-does-delivery-robot-pay.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f88306b5-c6d7-486f-a4cf-b718db1c0f83"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo late at night in a warm hotel corridor of a Russian city hotel: a hotel guest in a white bathrobe opens his door and takes a toothbrush set and a fresh towel from the open lid of a compact hotel delivery robot, smiling sleepily, soft carpet, warm wall lamps, room doors with blurred unreadable numbers, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cozy pleasant mood of a small request handled at midnight without leaving the reception desk. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 It is 11:40 p.m. A guest on the seventh floor calls reception for a toothbrush. There is one person on the night desk. They can take the toothbrush up and leave reception empty, or ask the guest to wait until someone else arrives. Someone else arrives at 8 a.m.

@@ -7,6 +7,13 @@ seo_title: "Substation Inspection Robots: ROI, Thermal Imaging and the Cost of a
 meta_description: "How to assess payback on an inspection robot for substations and industrial sites: consistent rounds, thermal imaging, cold-weather limits and the cost of a missed fault. Lessons from China and an illustrative calculation."
 slug: "inspection-round-that-never-happened-how-calculate"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-10_inspection-round-that-never-happened-how-calculate.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a8707a5d-57aa-44da-a9f1-37dd0ab6a796"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a Russian electrical substation on a crisp sunny winter morning: a wheeled outdoor inspection robot with a pan-tilt thermal camera mast rolls along a gravel path between transformers and busbar structures covered in hoarfrost, its camera pointed at a busbar connection, in the background an electrician in an orange insulated jacket with a thermos gives it a thumbs-up, long blue morning shadows and glittering frost, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, reassuring mood of a round that never gets skipped. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Equipment rounds are the most tedious job at a substation. Someone walks a route, reads gauges, listens to a transformer, and writes it all down. When everything is fine, which is nearly always, the round looks like wasted time.

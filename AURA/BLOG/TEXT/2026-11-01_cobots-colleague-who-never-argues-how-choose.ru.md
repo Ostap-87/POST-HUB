@@ -6,6 +6,13 @@ title: "Кобот: коллега, который не спорит. Как в�
 meta_description: "Как выбрать кобота: грузоподъёмность с учётом захвата, вылет, такт, безопасность, стоимость интеграции и расчёт окупаемости. Практический гид покупателя от Aura Robotics."
 slug: "cobots-colleague-who-never-argues-how-choose"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-01_cobots-colleague-who-never-argues-how-choose.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b35a1ed4-5435-4346-becb-f203986d6db8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright small Russian furniture-fittings workshop in the morning: a smiling young woman process engineer with a stopwatch and a clipboard of blank sheets times a cheerful middle-aged worker as he packs metal hinges into small cardboard boxes at a workbench, right beside them a compact white collaborative robot arm stands on a mobile steel cart with a strip of protective film still on it, waiting for its task, soft sunlight from high factory windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, practical optimistic mood of describing the job before choosing the robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 [Кобота](/catalog/cobots) обычно выбирают так же, как машину: по картинке, по цвету и по тому, что есть у соседа. С машиной это иногда работает. С роботом — никогда, потому что сосед у вас, скорее всего, делает другую деталь.

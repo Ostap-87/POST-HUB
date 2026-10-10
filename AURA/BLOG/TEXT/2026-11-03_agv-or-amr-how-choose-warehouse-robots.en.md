@@ -7,6 +7,13 @@ seo_title: "AGV vs AMR: How to Choose a Mobile Robot for Your Warehouse"
 meta_description: "AGV vs AMR explained for buyers: load type, navigation, floor requirements, doors and lifts, safety under ISO 3691-4, WMS integration and a simple formula for fleet size."
 slug: "agv-or-amr-how-choose-warehouse-robots"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-03_agv-or-amr-how-choose-warehouse-robots.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "717db1a8-1b5e-418b-87cf-5e3133fa5eab"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic low-angle industrial photo at floor level in a bright Russian distribution warehouse: an engineer in a reflective vest kneels at a wide doorway between two warehouse zones, checking a small threshold and the concrete floor flatness with a long aluminium straightedge and a feeler gauge, a low flat autonomous mobile robot carrying a yellow tote waits patiently a few meters behind, a smiling colleague with a tablet looks on, polished concrete with long reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious problem-solving mood of looking at the warehouse before choosing the robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There are two ways to automate material transport in a warehouse. One is to choose a robot and then rebuild the warehouse around it. The other is to look at the warehouse first and then choose the robot. The first is more popular. The second is cheaper.

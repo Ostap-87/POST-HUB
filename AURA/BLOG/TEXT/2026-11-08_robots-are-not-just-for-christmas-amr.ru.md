@@ -7,6 +7,13 @@ seo_title: "Окупаемость AMR на складе e-commerce: расчё�
 meta_description: "Как считать окупаемость автономных мобильных роботов (AMR) на складе интернет-торговли: пробег комплектовщика, производительность, временный персонал, размер парка под пик или под базу. Расчёт на условных цифрах."
 slug: "robots-are-not-just-for-christmas-amr"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-08_robots-are-not-just-for-christmas-amr.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d6e9e6f2-b262-4dab-b135-0f1a797ccdc6"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in an e-commerce fulfilment warehouse on an ordinary calm weekday: a cheerful young picker walks along an aisle of shelves with small boxes while a waist-high autonomous mobile robot cart carrying grey totes follows beside her, she drops an item into a tote with a smile, a forgotten strand of festive tinsel still hangs on one rack end, few people around, soft late-morning light through skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, relaxed everyday mood of a robot that works all year, not only at peak season. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Каждый ноябрь склад электронной коммерции превращается в вокзал. Временные сотрудники ищут стеллаж B-14, постоянные ищут временных, руководитель склада ищет, где поставить ещё один стол упаковки. К середине января всё затихает, и кто-нибудь на совещании говорит: «В следующем году купим роботов».

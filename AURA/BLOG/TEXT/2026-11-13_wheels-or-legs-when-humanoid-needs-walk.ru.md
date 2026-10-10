@@ -7,6 +7,13 @@ seo_title: "Колёсный или двуногий гуманоидный ро
 meta_description: "Колёсные и двуногие гуманоиды: устойчивость, время работы от батареи, грузоподъёмность рук, габариты, цена и задачи, где ноги действительно нужны. Сравнение от Aura Robotics."
 slug: "wheels-or-legs-when-humanoid-needs-walk"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-13_wheels-or-legs-when-humanoid-needs-walk.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "737f830f-8e5d-4908-bfc3-f96081fc84c8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Chinese factory at the boundary between a smooth green epoxy assembly floor and a rougher loading area: on the smooth floor a two-armed humanoid robot on a wheeled base glides with a blue parts crate, while beside it a bipedal humanoid robot steps carefully over a raised yellow cable protector and a small step toward the loading dock, two engineers with tablets watch and grin, bright daylight from the open dock gate, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious comparing mood of wheels versus legs. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Слово «гуманоид» вызывает в воображении человека из металла: две руки, две ноги, голова. С руками и головой всё понятно. А вот ноги в последние два года стали предметом серьёзного спора, потому что многие китайские производители выпускают гуманоидов, у которых ниже пояса не ноги, а колёсная платформа.

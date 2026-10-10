@@ -7,6 +7,13 @@ seo_title: "Робот-доставщик для отеля: окупаемос�
 meta_description: "Когда робот-доставщик окупается в отеле: номерной фонд, этажность, интеграция с лифтом, ночная смена ресепшена и расчёт на условных цифрах. Разбор от Aura Robotics."
 slug: "towel-delivers-itself-does-delivery-robot-pay"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-12_towel-delivers-itself-does-delivery-robot-pay.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f88306b5-c6d7-486f-a4cf-b718db1c0f83"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo late at night in a warm hotel corridor of a Russian city hotel: a hotel guest in a white bathrobe opens his door and takes a toothbrush set and a fresh towel from the open lid of a compact hotel delivery robot, smiling sleepily, soft carpet, warm wall lamps, room doors with blurred unreadable numbers, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cozy pleasant mood of a small request handled at midnight without leaving the reception desk. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Без двадцати двенадцать ночи гость из номера на седьмом этаже звонит на ресепшен. Ему нужна зубная щётка. Администратор в ночную смену один. Он может отнести щётку и оставить стойку без человека, а может попросить гостя подождать, пока придёт кто-нибудь ещё. Кто-нибудь ещё придёт в восемь утра.

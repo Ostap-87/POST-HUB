@@ -7,6 +7,13 @@ seo_title: "Robotic Welding ROI for Steel Fabrication: Arc-On Time, Batch Size, 
 meta_description: "When does robotic welding of steel structures pay back within a year, and when will it never pay back? Arc-on time, batch size, edge preparation, fixtures and the welder-operator, with an illustrative calculation."
 slug: "arc-is-on-welder-is-off-when"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-07_arc-is-on-welder-is-off-when.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "10f0de61-88ea-47e2-b266-cca655cbf99f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Russian steel-structure workshop: a welding robot arm on a two-station turntable positioner welds a steel bracket with a bright arc and a small burst of sparks on the far side, while on the near side a smiling welder-operator with his helmet flipped up clamps the next identical part into a blue fixture, a neat stack of identical welded brackets on a pallet beside them, daylight from high windows mixed with the warm arc glow, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic productive mood of an arc that keeps burning. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 [Welding](/en/catalog/welding) robots are usually bought right after someone says “we can’t find welders.” In Russia that is not a figure of speech. According to hh.ru, employers posted more than 48,000 welder vacancies in January–May 2025, about 4,000 more than a year earlier, with shortages recorded in over 35 regions.

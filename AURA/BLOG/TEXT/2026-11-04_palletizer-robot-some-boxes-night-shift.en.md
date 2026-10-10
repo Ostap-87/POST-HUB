@@ -7,6 +7,13 @@ seo_title: "How to Choose a Robotic Palletizer: Throughput, Patterns, Grippers a
 meta_description: "How to choose a robotic palletizing cell: cases per minute, cobot or industrial robot, pallet patterns, grippers, footprint, safety and a simple payback calculation."
 slug: "palletizer-robot-some-boxes-night-shift"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-04_palletizer-robot-some-boxes-night-shift.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "34cb0e10-b9e2-4464-8eef-1cef047cce0c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo at dawn at the end of a packaging line in a Russian food factory: a large four-axis palletizing robot arm places the last layer of brown cardboard boxes onto a neat pallet inside its fenced cell, a row of finished stretch-wrapped pallets stands beside it, pink sunrise light pours through high windows, two day-shift workers in work jackets arrive with paper cups of coffee and smile with surprise at the tidy stacks made overnight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh cheerful morning mood after a quiet night shift. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 End-of-line palletizing is nobody’s dream job. Lift a box, turn it, place it square, and repeat a few thousand times a shift. The night shift is the same, only worse. That is why it is the hardest job to staff, and why it is so often where factory automation begins.

@@ -7,6 +7,13 @@ seo_title: "Cleaning Robot ROI for Shopping Malls and Business Centres: Count Sh
 meta_description: "How to calculate payback on a commercial cleaning robot in malls and office buildings: real-world coverage, battery and water, night shifts, contractors, reporting, and where a robot will not pay off. An illustrative calculation."
 slug: "square-metres-night-shifts-how-calculate-payback"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-09_square-metres-night-shifts-how-calculate-payback.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0be956b5-f94d-41a4-bb7c-ce6e312f97d7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic high-angle photo from an upper-floor balcony of a large shopping mall atrium at night after closing: a commercial floor-scrubbing robot draws a long clean glossy stripe across the vast polished stone floor, near a fountain two night-shift cleaners with a manual scrubber wave and laugh, a smiling cleaning contractor supervisor on the balcony in the foreground holds a tablet with an abstract cleaning map without text, soft warm night lighting, shops dark with blurred unreadable signs, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm satisfied mood of counting shifts instead of square meters. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 [Cleaning](/en/catalog/cleaning) robot payback is usually worked out on a napkin. Divide the mall’s floor area by the brochure’s coverage rate, multiply by the robot’s price. Divide the same area by a cleaner’s norm, multiply by wages. The difference looks so good you want to sign the contract on the same napkin.

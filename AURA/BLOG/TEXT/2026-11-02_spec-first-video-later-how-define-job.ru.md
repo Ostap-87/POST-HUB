@@ -7,6 +7,13 @@ seo_title: "Как выбрать человекоподобного робот�
 meta_description: "Как составить ТЗ на гуманоидного робота: операция, вес в руке, среда, время работы от батареи, ловкость кисти, данные для обучения и сервис. Методика от Aura Robotics."
 slug: "spec-first-video-later-how-define-job"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-02_spec-first-video-later-how-define-job.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f4cef79e-3499-4883-bd21-57c09f8585f5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a glass-walled warehouse office overlooking tall pallet racks: a smiling operations manager in a fleece vest holds up a real slightly dented cardboard box and a scuffed grey plastic tote from the warehouse, while two colleagues at the table laugh and nod, on the table an open laptop shows a blurred frame of a dancing humanoid robot, a tape measure, a small parcel scale and a notebook with blurred unreadable handwriting, warm afternoon light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, good-humoured mood of turning a flashy robot video into a real down-to-earth task. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Гуманоида сегодня чаще всего выбирают по видео. На видео он делает сальто, складывает футболку, танцует с ведущим и наливает кофе. Всё это правда. Неправда только одна деталь: на видео не видно, сколько дублей было до этого, с какой скоростью ускорили запись и кто стоял за кадром с пультом.

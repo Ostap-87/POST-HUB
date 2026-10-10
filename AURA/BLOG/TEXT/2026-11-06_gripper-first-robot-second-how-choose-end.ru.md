@@ -7,6 +7,13 @@ seo_title: "Захват для робота и машинное зрение: �
 meta_description: "Как выбрать захват для промышленного робота или кобота: вакуумный или механический, расчёт удерживающей силы присоски, 2D и 3D-камеры, освещение и тест на реальных деталях."
 slug: "gripper-first-robot-second-how-choose-end"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-06_gripper-first-robot-second-how-choose-end.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5e534e32-a4e8-4252-9545-d681cd091e64"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up product photo on a light engineering workbench: an engineer's hands test a blue vacuum suction cup on an awkward oily cast metal part taken from a box of mixed irregular parts, around it a neat assortment of end effectors — two-finger parallel grippers, soft silicone fingers, a magnetic gripper and suction cups of different sizes — and a compact industrial 3D camera with a ring light on a small stand, soft diffused daylight, shallow depth of field, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused curious mood of choosing the hand before the robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Робот без захвата — это очень точная рука без пальцев. Она может с точностью до сотых долей миллиметра подвести пустоту к любой точке пространства. Впечатляет, но пользы мало.

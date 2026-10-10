@@ -7,6 +7,13 @@ seo_title: "Chinese vs European Cobots: Five-Year Total Cost of Ownership"
 meta_description: "Comparing Chinese and European cobots on five-year total cost of ownership, not list price: integration, software, spare parts, training, service and the cost of downtime. A calculation from Aura Robotics."
 slug: "cheap-cobot-expensive-cobot-what-five-years"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-14_cheap-cobot-expensive-cobot-what-five-years.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "676ba78d-8dc1-41fa-bbd4-f93c81c06871"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic top-down product photo on the light grey floor of a robot integrator's workshop: a compact white collaborative robot arm lies in the middle surrounded by everything a five-year project needs, neatly arranged in rows — a gripper, a safety laser scanner, cables, a teach pendant, a toolbox, a box of spare parts, a spare servo joint, thick manuals and a stack of training certificates with blank pages, a smiling engineer kneels at the edge placing the last item, soft even daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, clear calm mood showing that the robot is only part of the cost of ownership. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The “Chinese or European?” debate usually starts with the list price and ends there too. One side says, “It’s half the price.” The other says, “Buy cheap, buy twice.” Both are right, and neither has done the maths.

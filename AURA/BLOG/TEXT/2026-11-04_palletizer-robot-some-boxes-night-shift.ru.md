@@ -7,6 +7,13 @@ seo_title: "Как выбрать роботизированный паллет�
 meta_description: "Как выбрать роботизированную ячейку паллетирования: поток коробок в минуту, кобот или промышленный робот, схемы укладки, захваты, площадь, безопасность и расчёт окупаемости."
 slug: "palletizer-robot-some-boxes-night-shift"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-04_palletizer-robot-some-boxes-night-shift.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "34cb0e10-b9e2-4464-8eef-1cef047cce0c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo at dawn at the end of a packaging line in a Russian food factory: a large four-axis palletizing robot arm places the last layer of brown cardboard boxes onto a neat pallet inside its fenced cell, a row of finished stretch-wrapped pallets stands beside it, pink sunrise light pours through high windows, two day-shift workers in work jackets arrive with paper cups of coffee and smile with surprise at the tidy stacks made overnight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh cheerful morning mood after a quiet night shift. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Паллетирование в конце линии — работа, которую никто не выбирает добровольно. Коробку надо поднять, повернуть, поставить ровно, и так несколько тысяч раз за смену. Ночью то же самое, только хуже. Именно поэтому на неё труднее всего найти людей и именно с неё чаще всего начинают роботизацию цеха.

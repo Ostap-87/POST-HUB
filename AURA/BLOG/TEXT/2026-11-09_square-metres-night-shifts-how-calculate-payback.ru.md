@@ -7,6 +7,13 @@ seo_title: "Окупаемость робота-уборщика для торг
 meta_description: "Как посчитать окупаемость робота-уборщика в ТЦ и БЦ: реальная производительность, заряд и вода, ночные смены, подрядчик, отчётность и где робот не окупится. Расчёт на условных цифрах."
 slug: "square-metres-night-shifts-how-calculate-payback"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-09_square-metres-night-shifts-how-calculate-payback.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0be956b5-f94d-41a4-bb7c-ce6e312f97d7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic high-angle photo from an upper-floor balcony of a large shopping mall atrium at night after closing: a commercial floor-scrubbing robot draws a long clean glossy stripe across the vast polished stone floor, near a fountain two night-shift cleaners with a manual scrubber wave and laugh, a smiling cleaning contractor supervisor on the balcony in the foreground holds a tablet with an abstract cleaning map without text, soft warm night lighting, shops dark with blurred unreadable signs, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm satisfied mood of counting shifts instead of square meters. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Окупаемость робота-[уборщика](/catalog/cleaning) обычно считают на салфетке. Площадь ТЦ делят на производительность из буклета, получают число роботов и умножают на цену. Затем площадь делят на норму уборщицы, получают число уборщиц и умножают на зарплату. Разница выходит такая, что хочется подписывать договор прямо на салфетке.

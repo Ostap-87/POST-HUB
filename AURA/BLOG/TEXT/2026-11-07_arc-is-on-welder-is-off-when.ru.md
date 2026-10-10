@@ -7,6 +7,13 @@ seo_title: "Окупаемость сварочного робота для ме
 meta_description: "Когда роботизированная сварка металлоконструкций окупается за год, а когда не окупится никогда: время горения дуги, серийность, подготовка кромок, оснастка и сварщик-оператор. Расчёт на условных цифрах."
 slug: "arc-is-on-welder-is-off-when"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-07_arc-is-on-welder-is-off-when.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "10f0de61-88ea-47e2-b266-cca655cbf99f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Russian steel-structure workshop: a welding robot arm on a two-station turntable positioner welds a steel bracket with a bright arc and a small burst of sparks on the far side, while on the near side a smiling welder-operator with his helmet flipped up clamps the next identical part into a blue fixture, a neat stack of identical welded brackets on a pallet beside them, daylight from high windows mixed with the warm arc glow, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic productive mood of an arc that keeps burning. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 [Сварочного](/catalog/welding) робота обычно покупают после фразы «сварщиков нет». Фраза честная. По данным hh.ru, в январе–мае 2025 года работодатели опубликовали более 48 тысяч вакансий сварщиков, на 4 тысячи больше, чем годом раньше, а нехватка кадров была зафиксирована более чем в 35 регионах. Медиана предлагаемой зарплаты по стране составила 117,6 тысячи рублей.

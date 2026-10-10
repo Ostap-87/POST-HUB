@@ -7,6 +7,13 @@ seo_title: "AGV или AMR: как выбрать мобильного робо�
 meta_description: "Чем AGV отличается от AMR и как выбрать складского робота: тип груза, навигация, требования к полу, проёмы и лифты, безопасность, интеграция с WMS и расчёт размера парка."
 slug: "agv-or-amr-how-choose-warehouse-robots"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-03_agv-or-amr-how-choose-warehouse-robots.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "717db1a8-1b5e-418b-87cf-5e3133fa5eab"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic low-angle industrial photo at floor level in a bright Russian distribution warehouse: an engineer in a reflective vest kneels at a wide doorway between two warehouse zones, checking a small threshold and the concrete floor flatness with a long aluminium straightedge and a feeler gauge, a low flat autonomous mobile robot carrying a yellow tote waits patiently a few meters behind, a smiling colleague with a tablet looks on, polished concrete with long reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious problem-solving mood of looking at the warehouse before choosing the robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть два способа автоматизировать перевозку грузов на складе. Первый: выбрать робота, а потом перестроить под него склад. Второй: сначала посмотреть на склад, а потом выбрать робота. Первый способ популярнее. Второй дешевле.

@@ -7,6 +7,13 @@ seo_title: "Wheeled vs Bipedal Humanoid Robots: Which to Choose for a Factory or
 meta_description: "Wheeled and bipedal humanoids compared: stability, battery runtime, arm payload, footprint, price and the tasks where legs are genuinely needed. A comparison from Aura Robotics."
 slug: "wheels-or-legs-when-humanoid-needs-walk"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-13_wheels-or-legs-when-humanoid-needs-walk.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "737f830f-8e5d-4908-bfc3-f96081fc84c8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Chinese factory at the boundary between a smooth green epoxy assembly floor and a rougher loading area: on the smooth floor a two-armed humanoid robot on a wheeled base glides with a blue parts crate, while beside it a bipedal humanoid robot steps carefully over a raised yellow cable protector and a small step toward the loading dock, two engineers with tablets watch and grin, bright daylight from the open dock gate, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious comparing mood of wheels versus legs. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Say “humanoid” and people picture a metal person: two arms, two legs, a head. The arms and head are uncontroversial. The legs, over the past two years, have become a serious debate, because many Chinese manufacturers now build humanoids that have a wheeled base where the legs should be.

@@ -7,6 +7,13 @@ seo_title: "Robotic Palletizing and Case Packing for Plastics and Household Chem
 meta_description: "Why end-of-line robotic palletizing and case packing pay back faster than most projects in plastics and household chemicals plants: continuous operation, manual handling limits and an illustrative calculation."
 slug: "end-line-start-savings-why-packing-palletizing"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-11_end-line-start-savings-why-packing-palletizing.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "93498614-649f-43b3-939f-e7b203ab7ca1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo at the end of a bright household chemicals bottling line: colorful plastic canisters of detergent move on a conveyor to a robot arm with a vacuum gripper that packs them neatly into corrugated boxes, finished boxes flow to a pallet, a smiling woman operator in a blue work uniform stands at a touch panel with an abstract interface without text instead of lifting boxes, bright even factory light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light relieved mood of the heaviest job handed over to the robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every plastics or household chemicals plant has a spot where automation stops. Up to that point everything runs by itself: injection moulding machines, blow moulders, filling lines, labellers, all with sensors, PLCs and touchscreens. After it stands a person, putting canisters into cardboard cases and cases onto a pallet.

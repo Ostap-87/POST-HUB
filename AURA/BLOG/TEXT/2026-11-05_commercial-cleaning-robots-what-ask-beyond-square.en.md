@@ -7,6 +7,13 @@ seo_title: "How to Choose a Floor Cleaning Robot for Malls, Offices and Warehous
 meta_description: "How to choose a commercial floor-scrubbing robot: real-world productivity, floor types, lifts, self-service stations, consumables and cleaning reports."
 slug: "commercial-cleaning-robots-what-ask-beyond-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-05_commercial-cleaning-robots-what-ask-beyond-square.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c8cfd5cd-71c0-49ac-b886-9a2d26a7ea3f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic architectural photo in the bright marble elevator lobby of a modern business center in the morning: a compact commercial floor-scrubbing robot waits by an opening elevator door next to glass turnstiles, a smiling facility manager in a blazer holds the door and checks a tablet with an abstract floor map without text, office workers with coffee pass by, glossy stone floor with reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm organized mood of a robot that knows its way through doors and elevators. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every commercial [cleaning](/en/catalog/cleaning) robot’s datasheet opens with square metres per hour. It is a handsome number. It tells you how much the robot would clean in an empty rectangular hall with no columns, doors or people, if nothing ever stopped it.

@@ -7,6 +7,13 @@ seo_title: "AMR ROI in E-commerce Fulfilment: How to Size the Fleet for Peak and
 meta_description: "How to calculate payback on autonomous mobile robots in an e-commerce warehouse: picker travel time, productivity, temporary staff, and whether to size the fleet for peak or base load. An illustrative calculation."
 slug: "robots-are-not-just-for-christmas-amr"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-08_robots-are-not-just-for-christmas-amr.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d6e9e6f2-b262-4dab-b135-0f1a797ccdc6"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in an e-commerce fulfilment warehouse on an ordinary calm weekday: a cheerful young picker walks along an aisle of shelves with small boxes while a waist-high autonomous mobile robot cart carrying grey totes follows beside her, she drops an item into a tote with a smile, a forgotten strand of festive tinsel still hangs on one rack end, few people around, soft late-morning light through skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, relaxed everyday mood of a robot that works all year, not only at peak season. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every November, an e-commerce warehouse turns into a railway station. Orders surge, temporary staff look for aisle B-14, permanent staff look for the temporary staff, and the site manager looks for room for one more packing bench. By mid-January it all calms down, and someone in a meeting says: “Next year, we’re getting robots.”
