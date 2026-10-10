@@ -7,6 +7,9 @@ lang: "en"
 title: "Who’s Last in Line for Semaglutide?"
 subtitle: "On March 20, 2026, Novo Nordisk’s semaglutide patent expired in China. A dozen Chinese companies lined up at the door. The door turned out to have a second lock — a Swiss one."
 meta_description: "China’s semaglutide compound patent expired on March 20, 2026, and about ten local companies have filed copies, yet none has been approved: test-data protection under the China–Switzerland free trade agreement holds them back until around spring 2027. A wry essay on markets, patents and queues. No medical advice."
+excerpt: "On March 20, 2026, Novo Nordisk’s semaglutide patent expired in China. A dozen Chinese companies lined up at the door. The door turned out to have a second lock — a Swiss one."
+tag: "Peptides"
+time: "5 min"
 slug: "who-last-line-for-semaglutide"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -64,3 +67,12 @@ What moves me here: a line isn’t only about impatience. It’s about hope that
 “Who’s last?”
 
 “You are. But don’t worry. Everyone’s last until they open.”
+
+**Sources**
+
+1.  Huxiu (虎嗅), 25.04.2026 — https://www.huxiu.com/article/4853749.html (регистрация в Китае в апреле 2021 г., держатель Novo Nordisk Pharma AG, Цюрих; соглашение Китай–Швейцария, не менее 6 лет защиты данных; приостановка Jiuyuan, позиция Livzon и United Laboratories; продажи семаглутида Novo в 2025 г.; слова Чжао Хэна).
+2.  新京报 (Beijing News), 03.2026 — https://m.bjnews.com.cn/detail/1774263342168033.html (истечение патента 20.03.2026, 10 компаний и 12 продуктов, 11 компаний в III фазе, ожидания III квартала 2026 г., цены и снижение цен Novo в Сычуани).
+3.  BioPharma APAC, «Semaglutide Generics, Six Months In», 08.10.2026 — https://biopharmaapac.com/analysis/124/8540/semaglutide-generics-six-months-in-every-launch-in-india-every-price-and-where-china-stands.html (история патента и судов, ни одного одобренного аналога в Китае, приостановка Jiuyuan и веха во II кв. 2027 г., запуски в Индии, Dr. Reddy’s в Канаде).
+4.  Pink Sheet (Citeline), «Regulatory Hold For China’s Most Advanced Domestic Semaglutide Biosimilar Over ‘Data Protection’», 31.03.2026 — https://insights.citeline.com/pink-sheet/product-reviews/regulatory-hold-for-chinas-most-advanced-domestic-semaglutide-biosimilar-over-data-protection-WUC4WGLU5VA77GMP6P7ETEQ6RM/
+5.  The Star / SCMP, «China’s weight-loss drug makers take on global giants as Novo Nordisk patent expires», 27.03.2026 — https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/27/chinas-weight-loss-drug-makers-take-on-global-giants-as-novo-nordisk-patent-expires (цены около 1900 юаней в месяц на старте и ниже 1000 в юго-западных провинциях, одобрение маздутида).
+6.  BioSpace / Sciwind Biosciences, 06.03.2026 — https://www.biospace.com/press-releases/sciwind-biosciences-announces-ecnoglutide-injection-approved-by-chinas-national-medical-products-administration-nmpa-for-chronic-weight-management (одобрение экноглутида).

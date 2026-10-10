@@ -7,6 +7,9 @@ lang: "en"
 title: "The Little Red Book of Weight Loss"
 subtitle: "How Chinese social media turned a diabetes drug into a lifestyle accessory, and how regulators have spent three years trying to take it back"
 meta_description: "Xiaohongshu literally means “little red book,” and lately it has been all about getting thin. How GLP-1 drugs became China’s “internet-famous weight-loss shot,” what platforms deleted, what the NMPA banned in 2026, and how drugmakers promote what they are not allowed to advertise. No medical advice."
+excerpt: "How Chinese social media turned a diabetes drug into a lifestyle accessory, and how regulators have spent three years trying to take it back"
+tag: "Peptides"
+time: "6 min"
 slug: "little-red-book-weight-loss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,14 @@ I enjoy watching trends being born in China, and I don’t think this story is a
 The easiest place to lose weight is in a post. The hardest is in real life. That I know for sure, and unlike everything else here, I don’t need a source for it.
 
 The scale, by the way, sits in the corner. It’s very pretty. I look at it sometimes.
+
+**Sources**
+
+1.  Al Jazeera, «In China, weight-loss drugs are becoming big business», 06.06.2024 — https://www.aljazeera.com/economy/2024/6/6/in-china-weight-loss-drugs-are-becoming-big-business (удаление 5000+ постов на Xiaohongshu в феврале 2023 г., серый рынок).
+2.  中国新闻网, 21.11.2023 — https://www.chinanews.com.cn/sh/2023/11-21/10115333.shtml (одобрение семаглутида в Китае в 2021 г. для диабета, лозунги «躺着就能瘦», «一针瘦10斤»).
+3.  新华网 / 中国新闻网, «司美格鲁肽进医保了 国家医保局：用来减肥不报销», 16.04.2024 — https://www.news.cn/politics/20240416/85ecb3ac47c34a24ad55c062b711be57/c.html (позиция NHSA, штрафы 2–5 сумм).
+4.  BioSpace, «Novo’s Wegovy Launched in China at a Fraction of US Price», 18.11.2024 — https://www.biospace.com/drug-delivery/novos-wegovy-launched-in-china-at-a-fraction-of-us-price (одобрение в июне 2024 г., 1400 юаней в месяц).
+5.  BusinessDay / Reuters, «How drugmakers sidestep ad bans in China’s obesity awareness push», 24.08.2026 — https://www.businessday.co.za/world/international-companies/2026-08-24-how-drugmakers-sidestep-ad-bans-in-chinas-obesity-awareness-push/ (запрет рекламы, кампании Lilly, Innovent, Pfizer, цитата аналитика JP Morgan).
+6.  NutraIngredients, «TikTok clears nearly 800 sellers making exaggerated weight loss, health claims», 22.10.2025 — https://www.nutraingredients.com/Article/2025/10/22/tiktok-clears-nearly-800-sellers-making-exaggerated-weight-loss-health-claims (проверка Douyin, 793 продавца).
+7.  澎湃新闻 / 上海市虹口区司法局, «打“减肥针”被送进ICU！», 17.12.2025 — https://m.thepaper.cn/baijiahao_32197037 (дела салонов красоты).
+8.  Sixth Tone, «China Tightens Online Pharmacy Rules on AI Use and Prescriptions», 27.05.2026 — https://www.sixthtone.com/news/1018580/china-tightens-online-pharmacy-rules-on-ai-use-and-prescriptions; Caixin Global, 28.05.2026 — https://www.caixinglobal.com/2026-05-28/china-tightens-rules-on-online-prescription-drug-sales-102448412.html (правила NMPA, запрет продвижения через короткие видео и эфиры).

@@ -7,6 +7,9 @@ lang: "en"
 title: "The Early Bird"
 subtitle: "Baidu got into AI before anyone else in China, unveiled the country’s first answer to ChatGPT and was first to charge for it. Now it’s chasing companies that woke up later. Where exactly does the proverb go wrong?"
 meta_description: "Baidu hired Andrew Ng in 2014, released ERNIE in 2019 and in March 2023 became the first Chinese company to unveil a ChatGPT-style chatbot. Then came closed models, a paid tier, DeepSeek, a U-turn to free and open, and five straight quarters of falling revenue alongside a booming AI cloud. A wry essay on why being first is an honor, not always a business."
+excerpt: "Baidu got into AI before anyone else in China, unveiled the country’s first answer to ChatGPT and was first to charge for it. Now it’s chasing companies that woke up later. Where exactly does the proverb go wrong?"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "early-bird"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -72,3 +75,17 @@ I’ll just say this. Someone has to get up in the dark and light the stove. The
 The early bird lights the stove. The others get breakfast.
 
 That’s fine. Somebody has to get up early.
+
+**Sources**
+
+1.  The Stanford Daily, «Baidu, Chinese Internet company, hires Stanford artificial intelligence professor Andrew Ng», 19.05.2014 — https://stanforddaily.com/2014/05/19/baidu-chinese-internet-company-hires-stanford-artificial-intelligence-professor-andrew-ng/
+2.  Synced, «Baidu’s ERNIE Tops Google’s BERT in Chinese NLP Tasks», 25.03.2019 — https://syncedreview.com/2019/03/25/baidus-ernie-tops-googles-bert-in-chinese-nlp-tasks/
+3.  Business Standard, «Baidu’s shares dive 10% after pre-recorded demo of AI chatbot disappoints», 16.03.2023 — https://www.business-standard.com/amp/article/international/baidu-s-shares-dives-10-after-pre-recorded-demo-of-ai-chatbot-disappoints-123031600534_1.html (запись вместо живой демонстрации, падение до 10 %, более 4 млрд долл., цитаты Робина Ли).
+4.  Wikipedia, «Ernie Bot» — https://en.wikipedia.org/wiki/Ernie_Bot (100 млн пользователей в декабре 2023 г., 200 млн в апреле и 300 млн в июне 2024 г., подписка 59,9 юаня с 01.11.2023, бесплатный доступ с 16.03.2025).
+5.  TechNode, «Open-source models make little sense, says Baidu CEO», 15.04.2024 — https://technode.com/2024/04/15/open-source-models-make-little-sense-says-baidu-ceo/ (внутреннее письмо, цитаты).
+6.  KrASIA, «LLM prices hit rock bottom in China as Alibaba Cloud enters the fray», 05.2024 — https://kr-asia.com/llm-prices-hit-rock-bottom-in-china-as-alibaba-cloud-enters-the-fray (бесплатные Ernie Speed и Ernie Lite через четыре часа после Alibaba).
+7.  Yicai Global, «‘Innovation Can’t Be Planned,’ Baidu’s Robin Li Says After China’s DeepSeek Bursts on Global Scene», 12.02.2025 — https://yicaiglobal.com/news/innovation-cant-be-planned-baidus-robin-li-says-on-deepseek
+8.  Yicai Global, «Baidu Launches Free Ernie Bot, New Reasoning Model to Rival GPT, DeepSeek-R1», 17.03.2025 — https://www2.yicaiglobal.com/news/chinas-baidu-launches-free-version-of-ernie-bot-new-reasoning-model-to-rival-gpt-deepseek-r1 (бесплатный доступ раньше 1 апреля, X1 вдвое дешевле R1, план открыть модель 30 июня).
+9.  The Next Web, «Baidu’s revenue falls for a fifth quarter as ads keep sliding», 18.08.2026 — https://thenextweb.com/news/baidu-q2-2026-earnings-revenue-fifth-drop-ai-cloud (II кв. 2026 г.: выручка 31,3 млрд юаней, −4 %; онлайн-маркетинг 13,1 млрд, −19 %; ИИ-бизнес 12,5 млрд, +25 %; ИИ-облако 7,3 млрд, +50 %; GPU-облако +283 %; 644 млн MAU приложения Baidu; Apollo Go в 28 городах; выделение Kunlunxin).
+10. HPCwire, «Baidu Unveils ERNIE 5.0 and a Series of AI Applications at Baidu World 2025», 13.11.2025 — https://www.hpcwire.com/aiwire/2025/11/13/baidu-unveils-ernie-5-0-and-a-series-of-ai-applications-at-baidu-world-2025/
+11. TechNode, «QuestMobile: China’s AI-native apps reach 499 million monthly active users», 14.07.2026 — https://technode.com/2026/07/14/questmobile-chinas-ai-native-apps-reach-499-million-monthly-active-users/ (первый эшелон: Doubao, Qwen, DeepSeek).

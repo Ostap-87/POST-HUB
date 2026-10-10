@@ -7,6 +7,9 @@ lang: "en"
 title: "We’re All Lab Technicians Now"
 subtitle: "Four words on a vial from China — “for research use only” — have turned half a country into scientists. Regulators disagree"
 meta_description: "US imports of hormone and peptide compounds from China nearly doubled in 2025, Silicon Valley throws “peptide raves,” and the FDA, Congress and Eli Lilly are fighting the “research use only” label. A wry essay on the gray market, with zero advice on where to buy or how to use anything."
+excerpt: "Four words on a vial from China — “for research use only” — have turned half a country into scientists. Regulators disagree"
+tag: "Peptides"
+time: "6 min"
 slug: "we-re-all-lab-technicians-now"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,14 @@ Why this market exists needs no explanation from me: huge demand, expensive offi
 I’m old school. When I was young and a bottle said “not for internal use,” I believed it. Naive, perhaps. But I still have my own stomach, and I’m attached to it.
 
 We’re all lab technicians now. Except a real technician has a lab head, a protocol and a logbook. This one has a label.
+
+**Sources**
+
+1.  Reason, «The peptide gray market is already here. The FDA is just catching up», 27.07.2026 — https://reason.com/2026/07/27/the-peptide-gray-market-is-already-here-the-fda-is-just-catching-up/ (импорт из Китая 328 млн против 164 млн долларов по данным The New York Times; Кеннеди о пептидах; 12 пептидов; голосование комитета FDA).
+2.  GZERO Media, «How China is supplying America’s “biohacking” craze», 09.04.2026 — https://www.gzeromedia.com/news/analysis/how-china-is-supplying-americas-biohacking-craze (данные таможни, роль Китая как производителя).
+3.  Asia Matters for America, «Not for Human Consumption: San Francisco’s Gray-Market Peptide Culture and Its Chinese Supply Lines», 08.09.2026 — https://asiamattersforamerica.org/articles/not-for-human-consumption-san-franciscos-gray-market-peptide-culture-and-its-chinese-supply-lines (декларирование как реактивов, перепродажа, криптоплатежи по данным Chainalysis, перехват в Цинциннати).
+4.  U.S. Customs and Border Protection, «Cincinnati CBP foils scheme to smuggle over 5,000 unapproved peptides into the U.S.» — https://www.cbp.gov/newsroom/local-media-release/cincinnati-cbp-foils-scheme-smuggle-over-5000-unapproved-peptides-us
+5.  LegitScript, «“Chinese Peptides” Are the Latest Biohacking Trend», 05.01.2026 — https://www.legitscript.com/about/press/chinese-peptides-are-the-latest-biohacking-trend/ (со ссылкой на материал The New York Times от 03.01.2026).
+6.  FDA, Warning Letter to Gram Peptides, 31.03.2026 — https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gram-peptides-721806-03312026
+7.  House Select Committee on the CCP (Democrats), «Krishnamoorthi Sends Letters to Chinese Biotech Firms…», 14.01.2026 — https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/krishnamoorthi-sends-letters-chinese-biotech-firms-regarding-illicit-and
+8.  Minnesota Lawyer, «Eli Lilly sues vendors accused of hawking versions of its experimental GLP-1», 12.08.2026 — https://minnlawyer.com/2026/08/12/eli-lilly-sues-vendors-illegal-retatrutide-sales/

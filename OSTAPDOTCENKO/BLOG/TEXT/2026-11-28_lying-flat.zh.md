@@ -7,6 +7,9 @@ lang: "zh"
 title: "躺平"
 subtitle: "躺平、摆烂、全职儿女：一个外国人看那些不再奔跑的年轻人，和替他们跑了一辈子的父母"
 meta_description: "2021年的一个帖子，让“躺平”成了一代人的关键词。官方媒体说它“可耻”，网友又发明了“摆烂”和“全职儿女”。一个常年和中国打交道的俄罗斯营销人，站在旁边看：不跑的孩子，和跑了一辈子的父母。"
+excerpt: "躺平、摆烂、全职儿女：一个外国人看那些不再奔跑的年轻人，和替他们跑了一辈子的父母"
+tag: "观察"
+time: "6 分钟"
 slug: "lying-flat"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -82,3 +85,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 他们就这么坐着：一个终于坐下了，一个还没站起来。中间那张沙发，原来坐得下两个人。
 
 结尾，你们自己想吧。我先躺一会儿，不会太久。
+
+**来源**
+
+1.  Wikipedia, «Tang ping» — https://en.wikipedia.org/wiki/Tang_ping (пост «Лежать плашмя — это справедливость», апрель 2021, Baidu Tieba; удаление поста; комментарий «Наньфан жибао»; передовица «Гуанмин жибао» 27.12.2021 «Лежать плашмя не стоит»; запрет продажи товаров с «танпин»; термин «бай лань»).
+2.  South China Morning Post, «Explainer: What is ‘lying flat’, and why are Chinese officials standing up to it?», 2021 — https://amp.scmp.com/economy/china-economy/article/3153362/what-lying-flat-and-why-are-chinese-officials-standing-it (Ло Хуачжун, подработка на киностудии в Дунъяне в роли трупов, реакция «Наньфан жибао»).
+3.  The New York Times, Elsie Chen, «These Chinese Millennials Are ‘Chilling,’ and Beijing Isn’t Happy», 03.07.2021 (перепечатка: https://let.iiec.unam.mx/print/3697) — жизнь Ло Хуачжуна примерно на 60 долл. в месяц.
+4.  CNN Business, «Young Chinese are getting paid to be ‘full-time children’ as jobs become harder to find», 27.07.2023 — https://krdo.com/money/cnn-business-consumer/2023/07/27/young-chinese-are-getting-paid-to-be-full-time-children-as-jobs-become-harder-to-find/ («дети на полной ставке», группа на Douban, 6000 юаней в месяц, рекорд 21,3%, оценка Чжан Даньдань до 46,5%).
+5.  Trading Economics, China Youth Unemployment Rate — https://tradingeconomics.com/china/youth-unemployment-rate и https://tradingeconomics.com/china/youth-unemployment-rate/news/485930 (21,3% в июне 2023 по старой методике; 18,9% в августе 2025 по новой, без учёта студентов).
+6.  Language Log, «“Let it rot”» — https://languagelog.ldc.upenn.edu/nll/?p=54741 (значение «бай лань» 摆烂).

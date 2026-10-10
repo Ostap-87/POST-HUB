@@ -7,6 +7,9 @@ lang: "zh"
 title: "跑吧，铁家伙"
 subtitle: "一年半，中国人形机器人学会了扭秧歌、跑半马、上市敲钟；我只学会了惊讶"
 meta_description: "从春晚扭秧歌，到半马跑赢人类世界纪录，再到宇树科技科创板上市首日大涨629%——一个常跑中国的俄罗斯营销人，自嘲地看这场人形机器人赛跑：人类暂时只剩下掐秒表的份。"
+excerpt: "一年半，中国人形机器人学会了扭秧歌、跑半马、上市敲钟；我只学会了惊讶"
+tag: "机器人"
+time: "6 分钟"
 slug: "run-robot-run"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ Omdia 统计了谁真在卖货、而不只是挥手：全球通用具身智能�
 跑吧，铁家伙。
 
 我就坐着看。总得有人掐秒表。
+
+**来源**
+
+1.  NPR / WLRN, «A humanoid robot sprints past the human half-marathon world record in Beijing race», 20.04.2026 — https://www.wlrn.org/npr-breaking-news/2026-04-20/a-humanoid-robot-sprints-past-the-human-half-marathon-world-record-in-beijing-race (результаты полумарафонов 2025 и 2026, Honor, рекорд Киплимо, данные Omdia, пятилетний план).
+2.  Caixin Global, «Unitree to debut at 61 billion yuan valuation in closely watched Shanghai IPO», 18.08.2026 — https://www.caixinglobal.com/2026-08-18/unitree-to-debut-at-61-billion-yuan-valuation-in-closely-watched-shanghai-ipo-102475173.html (цена размещения, оценка, выручка).
+3.  Mobile World Live, «Robot maker Unitree sets date for Shanghai listing» — https://www.mobileworldlive.com/greater-china/robot-maker-unitree-sets-date-for-shanghai-listing/ (дата 19 августа, объём размещения).
+4.  eHangzhou, 18.08.2026 — https://www.ehangzhou.gov.cn/2026-08/18/c_298718.htm (5500+ гуманоидов в 2025 г., P/E 219 против 38,56).
+5.  The Asset, «Unitree Robotics soars 629% on trading debut», 19.08.2026 — https://www.theasset.com/article/56931/unitree-robotics-soars-629-on-trading-debut (рост 629 %, переподписка более 8200 раз).
+6.  Business Standard / Bloomberg, «China’s Unitree Robotics offers a humanoid robot for under $6,000», 25.07.2025 — https://www.business-standard.com/world-news/china-s-unitree-robotics-offers-a-humanoid-robot-for-under-6-000-125072501674_1.html (R1: 39 900 юаней, 25 кг).
+7.  TechNode, «Unitree Robotics humanoid robots steal the show at 2025 CCTV Spring Festival Gala», 29.01.2025 — https://technode.com/2025/01/29/unitree-robotics-humanoid-robots-steal-the-show-at-2025-cctv-spring-festival-gala-with-ai-powered-yangge-dance (номер «Yang BOT», Чжан Имоу, H1).

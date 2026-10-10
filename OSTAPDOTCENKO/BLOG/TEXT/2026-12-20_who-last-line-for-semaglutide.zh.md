@@ -7,6 +7,9 @@ lang: "zh"
 title: "司美格鲁肽，谁是最后一位？"
 subtitle: "2026年3月20日，诺和诺德的司美格鲁肽在中国专利到期，十来家中国药企在门口排好了队。结果门上还有第二把锁——瑞士产的"
 meta_description: "2026年3月20日司美格鲁肽在华化合物专利到期，约十家本土企业已递交上市申请，但至今无一获批：中国—瑞士自贸协定下的试验数据保护，让审评要等到2027年春天前后。一篇关于市场、专利和排队的随笔，不涉及任何用药建议。"
+excerpt: "2026年3月20日，诺和诺德的司美格鲁肽在中国专利到期，十来家中国药企在门口排好了队。结果门上还有第二把锁——瑞士产的"
+tag: "多肽"
+time: "5 分钟"
 slug: "who-last-line-for-semaglutide"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -64,3 +67,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 “谁是最后一位？”
 
 “您。不过别急，没开门之前，大家都是最后一位。”
+
+**来源**
+
+1.  Huxiu (虎嗅), 25.04.2026 — https://www.huxiu.com/article/4853749.html (регистрация в Китае в апреле 2021 г., держатель Novo Nordisk Pharma AG, Цюрих; соглашение Китай–Швейцария, не менее 6 лет защиты данных; приостановка Jiuyuan, позиция Livzon и United Laboratories; продажи семаглутида Novo в 2025 г.; слова Чжао Хэна).
+2.  新京报 (Beijing News), 03.2026 — https://m.bjnews.com.cn/detail/1774263342168033.html (истечение патента 20.03.2026, 10 компаний и 12 продуктов, 11 компаний в III фазе, ожидания III квартала 2026 г., цены и снижение цен Novo в Сычуани).
+3.  BioPharma APAC, «Semaglutide Generics, Six Months In», 08.10.2026 — https://biopharmaapac.com/analysis/124/8540/semaglutide-generics-six-months-in-every-launch-in-india-every-price-and-where-china-stands.html (история патента и судов, ни одного одобренного аналога в Китае, приостановка Jiuyuan и веха во II кв. 2027 г., запуски в Индии, Dr. Reddy’s в Канаде).
+4.  Pink Sheet (Citeline), «Regulatory Hold For China’s Most Advanced Domestic Semaglutide Biosimilar Over ‘Data Protection’», 31.03.2026 — https://insights.citeline.com/pink-sheet/product-reviews/regulatory-hold-for-chinas-most-advanced-domestic-semaglutide-biosimilar-over-data-protection-WUC4WGLU5VA77GMP6P7ETEQ6RM/
+5.  The Star / SCMP, «China’s weight-loss drug makers take on global giants as Novo Nordisk patent expires», 27.03.2026 — https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/27/chinas-weight-loss-drug-makers-take-on-global-giants-as-novo-nordisk-patent-expires (цены около 1900 юаней в месяц на старте и ниже 1000 в юго-западных провинциях, одобрение маздутида).
+6.  BioSpace / Sciwind Biosciences, 06.03.2026 — https://www.biospace.com/press-releases/sciwind-biosciences-announces-ecnoglutide-injection-approved-by-chinas-national-medical-products-administration-nmpa-for-chronic-weight-management (одобрение экноглутида).

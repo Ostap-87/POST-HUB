@@ -7,6 +7,9 @@ lang: "en"
 title: "Back Next Week"
 subtitle: "Jia Yueting, LeEco and Faraday Future: a comeback that has been penciled in for “next week” for nine years now"
 meta_description: "LeEco founder Jia Yueting left for the US in July 2017, promising to return soon. Since then: LeTV’s delisting, personal bankruptcy, a lifetime ban from China’s securities market, Faraday Future, roughly a dozen and a half FF 91s delivered, a minivan on pause, and robots. A wry, rueful essay about a week that has lasted nine years."
+excerpt: "Jia Yueting, LeEco and Faraday Future: a comeback that has been penciled in for “next week” for nine years now"
+tag: "Restarts"
+time: "6 min"
 slug: "back-next-week"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -74,3 +77,15 @@ A restart means admitting that the old thing is over. If you never admit it, it 
 I close my laptop and look at my own “next week” list. It’s shorter than Jia’s and a lot cheaper. But I think I’ll do something on it today.
 
 I’ll call the lawyer. The inbox, fine, can wait till next week.
+
+**Sources**
+
+1.  钛媒体 (TMTPost), обзор истории Цзя Юэтина, LeTV и Faraday Future, 2022 — https://www.tmtpost.com/6177191.html (основание LeTV в ноябре 2004 и листинг в 2010; пик 12.05.2015 — 179,03 юаня, ~170 млрд юаней; кризис ноября 2016; Sunac — 15,04 млрд юаней; CES-2017 и FF 91; отъезд 04.07.2017 и «下周回国»; список недобросовестных должников 11.12.2017; требование вернуться до 31.12.2017; Evergrande — 800 млн долл.; штраф CSRC 241,2 млн юаней и пожизненный запрет 13.04.2021; завышение выручки на 1,872 млрд юаней; делистинг 20.07.2020 по 0,18 юаня, потеря ~99,9 % капитализации от пика; SPAC-листинг FF 23.07.2021).
+2.  界面新闻 (Jiemian) — https://www.jiemian.com/article/7725818.html (отъезд в США 04.07.2017, «下周回国» как мем, требование Пекинского отделения CSRC, личное банкротство и утверждение плана судом Лос-Анджелеса в 2020 году, траст в пользу кредиторов).
+3.  Fortune, о требовании вернуться в Китай, 02.01.2018 — https://fortune.com/2018/01/02/jia-yueting-leeco-china-return.
+4.  InsideEVs, «Faraday Future Delivered 10 EVs in 2023: Four Sold, Six Leased» — https://insideevs.com/news/721871/faraday-future-ff91-sales-2023/.
+5.  InsideEVs, «Faraday Future Sold Fewer Than 20 Cars In Two Years», 2025 — https://insideevs.com/news/759297/faraday-future-sales-q1-2025/ (16 машин с начала производства в марте 2023 по данным отчётности SEC, цена ~300 тыс. долл.).
+6.  MEA Tech Watch / пресс-релиз Faraday Future, «Faraday Future Unveils FX Super One Roadmap, Enters Embodied AI Robotics Sector», 13.01.2026 — https://meatechwatch.com/2026/01/13/faraday-future-unveils-fx-super-one-roadmap-enters-embodied-ai-robotics-sector/ (план поставок FX Super One в США со II квартала 2026; YT Jia — Founder and Global Co-CEO).
+7.  Carscoops, «Faraday FX Super One paused», 07.05.2026 — https://www.carscoops.com/2026/05/faraday-fx-super-one-paused/ (пауза 400-вольтовой версии, переход на 800 В или гибрид, массовое производство зависит от финансирования, 68 роботов к концу апреля).
+8.  凤凰网科技 (iFeng Tech), 07.05.2026 — https://tech.ifeng.com/c/8svSUrqzT1k (то же по-китайски: 68 EAI-роботов на 30.04.2026, цель — более 1000 за 2026 год).
+9.  Пресс-релизы Faraday Future серии «Founder and Co-CEO YT Jia Shares Weekly Investor Update» — например, https://www.barchart.com/story/news/354909/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-update-for-eai-robotics-ff-will-officially-begin-its-first-batch-of-deliveries-next-week (еженедельные обращения к инвесторам).

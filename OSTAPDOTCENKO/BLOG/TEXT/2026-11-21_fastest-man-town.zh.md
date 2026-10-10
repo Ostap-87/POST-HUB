@@ -7,6 +7,9 @@ lang: "zh"
 title: "城里跑得最快的人"
 subtitle: "一段独白，献给那个总比你饿得更早到达的黄衣骑手"
 meta_description: "中国的外卖骑手：数百万件黄色、蓝色的骑手服，一个以分钟计算的算法，一天1.2亿单的纪录，以及“到底谁在驾驶谁”的问题。一个外国人在路边看中国城市里跑得最快的人。"
+excerpt: "一段独白，献给那个总比你饿得更早到达的黄衣骑手"
+tag: "观察"
+time: "6 分钟"
 slug: "fastest-man-town"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -70,3 +73,11 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 他提前四分钟到了。说一句“您的外卖”，转身就走。
 
 我始终没看清他的脸：头盔、口罩、骑手服。城里跑得最快的人。此刻他大概也在什么地方吃晚饭——如果他抽得出时间的话。
+
+**来源**
+
+1.  TechNode, «Meituan paid $11.3 billion to millions of delivery riders in 2023, averaging less than $0.52 per order», 19.09.2024 — https://technode.com/2024/09/19/meituan-paid-11-3-billion-to-millions-of-delivery-riders-in-2023-averaging-less-than-0-52-per-order/ (7,45 млн курьеров с доходом в 2023, 80 млрд юаней, ~3,65 юаня за заказ — расчёт TechNode).
+2.  China Digital Times (перепечатка материала журнала «Жэньу» 《人物》 «外卖骑手，困在系统里», сентябрь 2020) — https://chinadigitaltimes.net/chinese/655113.html (полгода расследования, десятки курьеров, «Мегамозг» 超级大脑 у Meituan, «Ковчег» 方舟 у Ele.me).
+3.  Digitaling (数英), заявление Meituan от 09.09.2020 — https://www.digitaling.com/articles/345953.html (восемь минут гибкости на заказ, фраза о том, что проблемы системы решают люди за системой).
+4.  The Paper (澎湃新闻), о планах JD и Meituan по социальному страхованию курьеров, февраль 2025 — https://www.thepaper.cn/newsDetail_forward_30193364 (JD — с 1 марта 2025 для штатных, Meituan — постепенно, с пилотов).
+5.  Malay Mail / Reuters, «Meituan hits record 120 million daily orders on July 5», 06.07.2025 — https://www.malaymail.com/news/money/2025/07/06/meituan-hits-record-120-million-daily-orders-on-july-5-amid-chinas-instant-delivery-price-war/183036 (рекорд 120+ млн заказов, сбой серверов, JD и Alibaba в ценовой войне).

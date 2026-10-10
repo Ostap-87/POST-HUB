@@ -7,6 +7,9 @@ lang: "zh"
 title: "比你家人更懂你的商店"
 subtitle: "日本便利店：厨房、邮局、银行、办事处、避难所，还有倾听者——最后这一项，不在岗位说明里"
 meta_description: "日本便利店：五万六千多家门店、饭团、ATM、缴费、在牛奶旁边打印的住民票、灾害时的公共职责、小说《便利店人间》，以及一种如今要靠法律来应对的孤独。一个进去买瓶水、却待了很久的外国人的观察。"
+excerpt: "日本便利店：厨房、邮局、银行、办事处、避难所，还有倾听者——最后这一项，不在岗位说明里"
+tag: "观察"
+time: "5 分钟"
 slug: "store-that-knows-you-better-than-your"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -88,3 +91,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 “いらっしゃいませ！”
 
 他不知道谁会来，却已经提前高兴了。凌晨三点，这并不少。也许，比我们很多人一整天得到的还多。
+
+**来源**
+
+1.  Nippon.com / Jiji Press, «Japan Convenience Store Sales Hit Record High in 2025», 20.01.2026 — https://www.nippon.com/en/news/yjj2026012000898 (данные Японской ассоциации франчайзинга: 56 054 магазина на конец 2025 года, продажи 12,06 трлн иен, средний чек 737,9 иены).
+2.  Кабинет министров Японии, перечень назначенных общественных организаций по Закону об основах мер против стихийных бедствий (на 23.06.2023) — https://www.bousai.go.jp/pdf/230623_kouhyou.pdf (Seven-Eleven Japan, Lawson, FamilyMart, Seven & i Holdings).
+3.  Nipponia № 19, «Convenience stores», 15.12.2001 — https://web-japan.org/nipponia/nipponia19/en/feature/feature05.html (клавиши пола и возрастной группы покупателя на кассах конбини).
+4.  The Tribune / ANI, «39% of people living in Japan feel lonely: Study», май 2025 — https://www.tribuneindia.com/news/japan/39-of-people-living-in-japan-feel-lonely-study (опрос 2024 года: 39,3%; закон, вступивший в силу в апреле 2024 года).
+5.  ISVD, «Loneliness and Isolation Act: Two Years» — https://isvd.or.jp/en/columns/loneliness-isolation-act-two-years (Закон о содействии мерам против одиночества и изоляции).
+6.  Саяка Мурата, «Человек-комбини» (コンビニ人間, 2016), премия Акутагавы 2016 года; англ. перевод «Convenience Store Woman», 2018.

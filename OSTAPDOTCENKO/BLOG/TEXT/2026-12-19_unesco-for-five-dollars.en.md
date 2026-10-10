@@ -7,6 +7,9 @@ lang: "en"
 title: "UNESCO for Five Dollars"
 subtitle: "Singapore’s hawker centres, or how a small, strict state put noodles, chicken rice and a packet of tissues on somebody else’s table under official protection"
 meta_description: "Singapore’s hawker centres: on UNESCO’s intangible heritage list since 2020, more than 120 centres, Michelin-starred chicken rice, a fine for leaving your tray and hawkers whose median age is sixty. An outsider’s look at how a country protects lunch."
+excerpt: "Singapore’s hawker centres, or how a small, strict state put noodles, chicken rice and a packet of tissues on somebody else’s table under official protection"
+tag: "Observations"
+time: "5 min"
 slug: "unesco-for-five-dollars"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -80,3 +83,14 @@ On the next table lies a packet of tissues. Somebody claimed the seat and never 
 UNESCO protects the culture. The culture is protected by a sixty-year-old man with a ladle.
 
 And the table stays taken. Until morning. Just in case.
+
+**Sources**
+
+1.  Национальное агентство по окружающей среде Сингапура (NEA), «Hawker Culture is Singapore’s First Inscription on UNESCO’s Representative List of the Intangible Cultural Heritage of Humanity», 16.12.2020 — https://www.nea.gov.sg/media/news/news/index/hawker-culture-is-singapore-s-first-inscription-on-unesco-s-representative-list-of-the-intangible-cultural-heritage-of-humanity (дата внесения, формулировка «общественные столовые»).
+2.  NEA, список хокер-центров на 17.08.2026 — https://www.nea.gov.sg/docs/default-source/hawker-centres-documents/list-of-hcs_-17-august-2026.pdf (123 центра).
+3.  National Library Board Singapore, «Hawkers and Hawker Centres After Independence» — https://curiocity.nlb.gov.sg/hawkers-after-independence (лицензирование с 1966 года, около 24 тыс. торговцев; комитет 1971 года; последние ~80 уличных торговцев переселены в начале 1986 года; около 113 центров к 1986 году; программа 2020 года и схема преемственности 2021 года; слова Он Е Куна).
+4.  NEA, «Mandatory for diners to return dirty trays, crockery and clean table litter…», 14.05.2021 — https://www.nea.gov.sg/media/news/news/index/mandatory-for-diners-to-return-dirty-trays-crockery-and-clean-table-litter-at-hawker-centres-coffeeshops-and-food-courts (с 1 июня 2021 года, принуждение с 1 сентября 2021 года, предупреждение, затем штраф 300 сингапурских долларов).
+5.  Mothership / Institute of Policy Studies, «Eating out at hawker centres, food courts & kopitiams 3 times a day costs about S$17», 14.03.2023 — https://lkyspp.nus.edu.sg/docs/default-source/ips/mothership_eating-out-at-hawker-centres-food-courts-kopitiams-3-times-a-day-costs-about-s17_-ips-study_230314.pdf (829 заведений, средний завтрак 4,81 сингапурского доллара).
+6.  CNN Style, «Famed Singaporean eatery Hawker Chan loses its Michelin star», 02.09.2021 — https://kvia.com/entertainment/cnn-style/2021/09/02/famed-singaporean-eatery-hawker-chan-loses-its-michelin-star/ (звезда 2016 года, расширение в сеть, отсутствие в гиде 2021 года).
+7.  SG Food on Foot, «Hong Kong Soya Sauce Chicken Rice & Noodle», 23.07.2016 — https://www.sgfoodonfoot.com/2016/07/hong-kong-soya-sauce-chicken-rice.html (цена порции 2 сингапурских доллара, адрес в Chinatown Complex).
+8.  LKY School of Public Policy, Global-is-Asian, «Cooking or Cooked? The Future of Singapore’s Hawker Culture», 07.10.2024 — https://lkyspp.nus.edu.sg/gia/article/cooking-or-cooked-the-future-of-singapore-s-hawker-culture (медианный возраст хокера 60 лет в 2021 году; данные опроса NEA 2020 года: 82,5% и 87,3%).

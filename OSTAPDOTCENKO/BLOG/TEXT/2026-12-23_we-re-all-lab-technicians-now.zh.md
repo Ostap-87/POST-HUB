@@ -7,6 +7,9 @@ lang: "zh"
 title: "人人都是实验员"
 subtitle: "来自中国的小瓶子上写着“仅供科研使用”，于是半个美国都成了研究人员。监管机构不这么看"
 meta_description: "2025年美国从中国进口的激素和多肽类化合物几乎翻倍，硅谷开起了“多肽派对”，FDA、国会和礼来都在跟“仅供科研使用”这几个字较劲。一篇关于灰色市场的随笔——不提供任何购买渠道和使用方法。"
+excerpt: "来自中国的小瓶子上写着“仅供科研使用”，于是半个美国都成了研究人员。监管机构不这么看"
+tag: "多肽"
+time: "6 分钟"
 slug: "we-re-all-lab-technicians-now"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,14 @@ Asia Matters for America援引Chainalysis的数据称，2026年初，流向多�
 我是老派人。年轻时瓶子上写“不可内服”，我就信。也许天真，但我的胃至今还是我自己的，我挺珍惜。
 
 人人都是实验员。只是真正的实验员有实验室主任、有操作规程、有记录本。而这些“实验员”，只有瓶子上那行字。
+
+**来源**
+
+1.  Reason, «The peptide gray market is already here. The FDA is just catching up», 27.07.2026 — https://reason.com/2026/07/27/the-peptide-gray-market-is-already-here-the-fda-is-just-catching-up/ (импорт из Китая 328 млн против 164 млн долларов по данным The New York Times; Кеннеди о пептидах; 12 пептидов; голосование комитета FDA).
+2.  GZERO Media, «How China is supplying America’s “biohacking” craze», 09.04.2026 — https://www.gzeromedia.com/news/analysis/how-china-is-supplying-americas-biohacking-craze (данные таможни, роль Китая как производителя).
+3.  Asia Matters for America, «Not for Human Consumption: San Francisco’s Gray-Market Peptide Culture and Its Chinese Supply Lines», 08.09.2026 — https://asiamattersforamerica.org/articles/not-for-human-consumption-san-franciscos-gray-market-peptide-culture-and-its-chinese-supply-lines (декларирование как реактивов, перепродажа, криптоплатежи по данным Chainalysis, перехват в Цинциннати).
+4.  U.S. Customs and Border Protection, «Cincinnati CBP foils scheme to smuggle over 5,000 unapproved peptides into the U.S.» — https://www.cbp.gov/newsroom/local-media-release/cincinnati-cbp-foils-scheme-smuggle-over-5000-unapproved-peptides-us
+5.  LegitScript, «“Chinese Peptides” Are the Latest Biohacking Trend», 05.01.2026 — https://www.legitscript.com/about/press/chinese-peptides-are-the-latest-biohacking-trend/ (со ссылкой на материал The New York Times от 03.01.2026).
+6.  FDA, Warning Letter to Gram Peptides, 31.03.2026 — https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/warning-letters/gram-peptides-721806-03312026
+7.  House Select Committee on the CCP (Democrats), «Krishnamoorthi Sends Letters to Chinese Biotech Firms…», 14.01.2026 — https://democrats-selectcommitteeontheccp.house.gov/media/press-releases/krishnamoorthi-sends-letters-chinese-biotech-firms-regarding-illicit-and
+8.  Minnesota Lawyer, «Eli Lilly sues vendors accused of hawking versions of its experimental GLP-1», 12.08.2026 — https://minnlawyer.com/2026/08/12/eli-lilly-sues-vendors-illegal-retatrutide-sales/

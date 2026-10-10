@@ -7,6 +7,9 @@ lang: "zh"
 title: "允许抄作业"
 subtitle: "中国机器人公司把花了一整座“数据工厂”才攒下的数百万条动作数据，免费公开给所有人。学霸为什么要把作业本借给全班？"
 meta_description: "智元AgiBot World超过100万条轨迹、来自100台机器人；北京人形机器人创新中心的RoboMIND下载量突破2000万次；光轮智能开源10万小时第一视角人类数据。中国公司为什么把训练机器人的数据白送给竞争对手，又换回了什么？一个俄罗斯营销人的自嘲随笔。"
+excerpt: "中国机器人公司把花了一整座“数据工厂”才攒下的数百万条动作数据，免费公开给所有人。学霸为什么要把作业本借给全班？"
+tag: "机器人"
+time: "5 分钟"
 slug: "copying-allowed"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -64,3 +67,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 中国的机器人现在读的，就是这样一本书。书里有成千上万个它永远见不到的人留下的动作：某个人拿起杯子的手，某个人叠好毛巾的手。
 
 允许抄作业。只是别忘了，是抄的谁的。
+
+**来源**
+
+1.  Global Times, сентябрь 2026 — https://www.globaltimes.cn/page/202609/1369689.shtml (RoboMIND: 20+ млн скачиваний, 300 000+ траекторий, 700+ задач; оценка GF Securities: не менее 10 млн часов, накоплено менее 5 %; 70+ тренировочных площадок к концу июня 2026 г. и 46 в планах или стройке по данным CAICT и Синьхуа).
+2.  iTiger / CLS, «Beijing Humanoid Robot Innovation Center’s Open-Source Dataset RoboMIND Surpasses 20 Million Downloads», 02.09.2026 — https://www.itiger.com/news/1122828665 (20 млн скачиваний, удвоение за месяц).
+3.  arXiv 2512.24653, «RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence», 31.12.2025 — https://arxiv.org/abs/2512.24653 (310 000+ траекторий, шесть типов роботов, 739 задач, 12 000 эпизодов с тактильными данными).
+4.  The Robot Report, «AgiBot releases humanoid manipulation dataset to enable large-scale learning», 30.12.2024 — https://www.therobotreport.com/agibot-releases-humanoid-manipulation-dataset-to-enable-large-scale-learning/ (более 1 млн траекторий, 100 роботов).
+5.  OpenDriveLab, «AgiBot World Colosseo» — https://opendrivelab.com/AgiBot-World (217 задач, 100+ однотипных роботов AgiBot G1, модель GO-1, около 30 % прироста к обучению на OXE, партнёры: Shanghai AI Lab, HKU).
+6.  arXiv 2310.08864, «Open X-Embodiment: Robotic Learning Datasets and RT-X Models», 2023 — https://arxiv.org/abs/2310.08864 (22 робота, 21 организация, 527 навыков).
+7.  iTiger, «China’s First Open-Source Community for Embodied AI Datasets Established», 19.03.2026 — https://www-web.itiger.com/news/1183769806 (сообщество открытых датасетов по инициативе Leju и OpenAtom, набор OpenLET, 41 сустав).
+8.  KuCoin News, «Global First: Guanglun Intelligence Opens Source 100,000 Hours of Human Data», 08.2026 — https://www.kucoin.com/news/flash/global-first-100-000-hours-of-human-data-open-sourced-by-guanglun-intelligence (Lightwheel, EgoSuite-Open100K, 100 000 часов, с Hugging Face, WRC 2026, несовместимость форматов разных компаний).

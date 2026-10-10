@@ -7,6 +7,9 @@ lang: "zh"
 title: "铁面交警"
 subtitle: "中国的机器人站上了路口、走上了街头，还有的干脆变成一个球滚着巡逻。谁在真干活，谁在摆拍？"
 meta_description: "杭州身高1.88米的机器人交警发出了17万多次提醒；芜湖路口站着“智能警务R001”；深圳的人形机器人跟着民警巡逻；温州的警用球形机器人能发射捕捉网。是展品还是员工？一个俄罗斯营销人的观察。"
+excerpt: "中国的机器人站上了路口、走上了街头，还有的干脆变成一个球滚着巡逻。谁在真干活，谁在摆拍？"
+tag: "机器人"
+time: "6 分钟"
 slug: "robocop-without-handcuffs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -76,3 +79,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 铁面，无私，也无权。
 
 可头盔，大家还是戴上了。
+
+**来源**
+
+1.  Reuters / CP24, «China puts robocops on traffic duty, minus the arrest powers», 20.08.2026 — https://www.cp24.com/news/world/2026/08/20/china-puts-robocops-on-traffic-duty-minus-the-arrest-powers/ (T2 компании SUPCON Information: 1,88 м, 98 кг, без права задержания, 15 роботов в Ханчжоу с мая, 170 000+ предупреждений и снижение нарушений более чем на 40 % по данным компании, работа с 7 до 18, влияние погоды, точность выше 95 %, около 50 роботов в 8 городах, план около 200 к концу года, слова Цао Хуэя и Чжан Гуйбина).
+2.  Borneo Post / Xinhua, «China’s robot police patrol cities during Labor Day holiday», 06.05.2026 — https://www.theborneopost.com/2026/05/06/chinas-robot-police-patrol-cities-during-labor-day-holiday-signaling-ai-powered-urban-governance/ (отряд из 15 роботов в Ханчжоу с 1 мая, кнопка «Хочу спросить» у Западного озера, 8 команд, 8–9 часов в день по словам Чэнь Саньчуаня, Кашгар, Ордос, Уху).
+3.  IoT M2M Council, «AI-Powered Traffic Robot debuts in Wuhu», 02.02.2026 — https://iotm2mcouncil.org/iot-library/news/smart-cities-news/ai-powered-traffic-robot-debuts-in-wuhu/ («Умный полицейский R001», AiMOGA).
+4.  Eye Shenzhen, 19.02.2025 — https://www.eyeshenzhen.com/content/2025-02/19/content_31469161.htm (PM01 EngineAI в патруле в Наньшане, 1,38 м, 40 кг).
+5.  Interesting Engineering, «Terminator-style humanoid robot cop», 01.01.2026 — https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop (гуманоид EngineAI с полицейскими у «Окна в мир», без официального статуса постоянной службы).
+6.  Fox News, «China rolls out its crime-fighting ball to chase down criminals», 03.01.2025 — https://www.foxnews.com/tech/china-rolls-out-its-crime-fighting-ball-chase-down-criminals (RT-G, Logon Technology, Вэньчжоу, 276 фунтов, до 22 миль в час, сетемёт, газ, неустойчивость на поворотах, лестницы).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "戴在脸上的AI，看得清未来吗"
 subtitle: "小米、阿里、华为、Rokid纷纷把大模型架上鼻梁：会听、会看、会付款。就差一样——爆款"
 meta_description: "1999元的小米AI眼镜、接入千问和支付宝的夸克眼镜、会算卡路里的华为眼镜、Rokid，再加上国补和没打起来的“百镜大战”——一个常跑中国的俄罗斯营销人，自嘲地看这个还在寻找“为什么要戴”的新品类。"
+excerpt: "小米、阿里、华为、Rokid纷纷把大模型架上鼻梁：会听、会看、会付款。就差一样——爆款"
+tag: "人工智能"
+time: "6 分钟"
 slug: "smart-glasses-blurry-market"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,16 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 然后，再聪明。
 
 人，其实也一样。
+
+**来源**
+
+1.  Omdia, «Global AI glasses shipments reach 8.7 million units with Mainland China emerging as the fastest-growing market», 05.03.2026 — https://omdia.tech.informa.com/pr/2026/mar/global-ai-glasses-shipments-reach-8point7-million-units-with-mainland-china-emerging-as-the-fastest-growing-market (8,7 млн, +322 %, доля Meta 85,2 %, Китай около 1 млн и 10,9 %, тройка Meta–Rokid–Xiaomi, 71 % китайских компаний в очках с экраном, прогноз более 15 млн в 2026 г.).
+2.  South China Morning Post, «Xiaomi’s AI glasses exceeding expectations amid consumer enthusiasm, says executive», 30.07.2025 — https://www.scmp.com/tech/tech-trends/article/3320008/xiaomis-ai-glasses-exceeding-expectations-amid-consumer-enthusiasm-says-executive (запуск 26.06.2025, около 50 000 продаж, «пессимистичный» прогноз, цель 5 млн в год через три года).
+3.  SMM News, «Xiaomi’s first AI glasses officially launched, starting at 1,999 yuan» — https://news.metal.com/newscontent/103399588 (цена 1999 юаней).
+4.  Yicai Global, «Alibaba begins selling Quark AI glasses in China, its first Qwen-powered wearables», 28.11.2025 — https://www2.yicaiglobal.com/news/chinas-alibaba-releases-first-quark-ai-glasses-powered-by-qwen-llm (S1 3799 юаней, G1 1899 юаней, Qwen, Alipay, Taobao, Amap, Fliggy).
+5.  South China Morning Post, «China’s Huawei debuts AI glasses to challenge Meta, Alibaba and Rokid in crowded arena», 20.04.2026 — https://www.scmp.com/tech/tech-trends/article/3350768/chinas-huawei-debuts-ai-glasses-challenge-meta-alibaba-and-rokid-crowded-arena (от 2499 юаней, 35,5 г, QR-оплата, подсчёт калорий).
+6.  Yangtse Evening Post (扬子晚报), 30.12.2025 — https://www.yzwb.net/news/ch/202512/t20251230_306069.html (смарт-очки впервые в программе субсидий 2026 г.: 15 %, до 500 юаней, цена не выше 6000).
+7.  Yicai (第一财经), 26.06.2026 — https://www.yicai.com/news/103248699.html («битва ста очков» не состоялась, бюджет Rokid 200–300 млн юаней, продажи бренда менее 1 млн в год, рост цен на память; Counterpoint о I кв. 2026).
+8.  21st Century Business Herald via 10jqka, «“百镜大战”白热化：有显示、无显示路径分野», 08.06.2026 — https://news.10jqka.com.cn/20260608/c677294795.shtml («невозможный треугольник», слова председателя Conant Optical Фэй Чжэнсяна; CINNO: 202 тыс. устройств в I кв. 2026, +108 %).
+9.  Rokid / PR Newswire, «Rokid leads global AR and AI glasses shipments as AI glasses market surges in H1 2026», 28.09.2026 — https://www.prnewswire.com/news-releases/rokid-leads-global-ar-and-ai-glasses-shipments-as-ai-glasses-market-surges-in-h1-2026-302891950.html (по данным Counterpoint: +263 % за полугодие, доля Rokid 41 % в сегменте AR и ИИ-очков; пресс-релиз компании).
+10. Startup Fortune, «China’s smart glasses sales double as Xiaomi and Rokid undercut Meta on price», 09.2026 — https://startupfortune.com/chinas-smart-glasses-sales-double-as-xiaomi-and-rokid-undercut-meta-on-price/ (прогноз IDC: около 4,5 млн умных очков в Китае в 2026 г., +77,7 %).

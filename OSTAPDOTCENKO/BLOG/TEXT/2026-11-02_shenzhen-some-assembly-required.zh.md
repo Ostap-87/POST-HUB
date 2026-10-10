@@ -7,6 +7,9 @@ lang: "zh"
 title: "深圳：一小时配齐一个机器人"
 subtitle: "在这座城市，机器人所有的零件都在一小时车程之内，唯一缺货的是耐心"
 meta_description: "为什么人形机器人和机器狗在深圳造得这么快？传感器一小时车程，电机在隔壁城市，华强北一楼卖整机、楼上卖零件。一个常跑中国的俄罗斯营销人，写给“乐高之城”的一篇自嘲小品。"
+excerpt: "在这座城市，机器人所有的零件都在一小时车程之内，唯一缺货的是耐心"
+tag: "机器人"
+time: "6 分钟"
 slug: "shenzhen-some-assembly-required"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 顺便说一句，小时候那套拼装玩具，后来再也没找到。大概是哪次搬家弄丢了，连同扳手和那台没拼完的起重机。有时我想，要是当年有人告诉我那个缺的零件在哪儿，说不定我就当了工程师。
 
 现在我知道它在哪儿了。一小时车程。只不过，不是从我这儿出发。
+
+**来源**
+
+1.  21st Century Business Herald, «Tech Unicorns Flock South: Why Guangdong Became the Robotics Mecca?», 14.04.2025 — https://www.21jingji.com/article/20250414/herald/e544a5e5dbcb9d7693eb0bad5ab509b0.html (поставщики в часе езды: Шэньчжэнь, Дунгуань, Чжухай, Гуанчжоу).
+2.  21st Century Business Herald, «The Evolution of Robots in Guangdong: From Seven Swordsmen to a Galaxy of Heroes», 23.01.2026 — https://www.21jingji.com/article/20260123/herald/54ef680ad246e15ea4330c7c76118632.html (оценка Ли Цзэсяна: в 30 раз быстрее и в 10 раз дешевле Кремниевой долины).
+3.  Shenzhen Government Online, март 2025 — https://www.sz.gov.cn/en_szgov/news/latest/content/post_12063362.html (57 000+ предприятий, 34 публичные компании и 9 «единорогов», семь шэньчжэньских компаний в Humanoid 100 Morgan Stanley, план 2025–2027).
+4.  People’s Daily Online / Xinhua, «China’s tech hub Shenzhen unveils plan to boost embodied intelligent robotics», 04.03.2025 — https://en.people.cn/n3/2025/0304/c90000-20284142.html (цели плана: 100 млрд юаней, 1200 компаний, 10 компаний с оценкой выше 10 млрд).
+5.  Shenzhen Government Online — https://www.sz.gov.cn/en_szgov/business/news/content/post_12929533.html (объём производства отрасли в 2025 году более 240 млрд юаней, рост более 20 %).
+6.  Borneo Post / Xinhua, «Shenzhen’s Robot Valley emerges as global hub of robotics innovation», 08.07.2026 — https://www.theborneopost.com/2026/07/08/shenzhens-robot-valley-emerges-as-global-hub-of-robotics-innovation/ (Долина роботов в Наньшане, 200+ компаний, EngineAI, заявка Leju на IPO, Honor, цитата Фань Цзяньпина).
+7.  TMTPost, «Robot Startups Still Rely on Suitcase Runs to Shenzhen for Critical Parts After New Restrictions», 14.08.2026 — https://www.tmtpost.com/8103636.html (Хуацянбэй, волна аренды гуманоидов, поездки за деталями с чемоданом, проблема аккумуляторов).

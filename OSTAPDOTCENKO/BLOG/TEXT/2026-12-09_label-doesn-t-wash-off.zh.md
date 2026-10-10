@@ -7,6 +7,9 @@ lang: "zh"
 title: "标识洗不掉"
 subtitle: "中国怎样让人工智能“自报家门”：算法备案、近千个完成备案的大模型、强制标识，以及给中国市场做广告的人该知道的事"
 meta_description: "在中国，平台算法要备案，生成式AI服务要备案登记，2025年9月1日起，AI生成的内容都必须带上显式和隐式标识。2026年，监管部门清理了上万个账号，还点名处罚了未标识的头部应用。一个老广告人的自嘲随笔：国家如何教会机器说一句“这是我做的”。"
+excerpt: "中国怎样让人工智能“自报家门”：算法备案、近千个完成备案的大模型、强制标识，以及给中国市场做广告的人该知道的事"
+tag: "人工智能"
+time: "5 分钟"
 slug: "label-doesn-t-wash-off"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -60,3 +63,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 以前我们相信眼睛，现在相信元数据。
 
 有点伤感，但大概是诚实的。
+
+**来源**
+
+1.  iubenda со ссылкой на CAC, «China have provided information about app algorithms», 24.08.2022 — https://www.iubenda.com/en/blog/china-have-provided-information-about-app-algorithms/ (правила об алгоритмических рекомендациях с 01.03.2022, первые 30 алгоритмов: Taobao, Douyin, WeChat, Baidu, описания).
+2.  Holistic AI, «China AI regulation» — https://www.holisticai.com/blog/china-ai-regulation (даты вступления в силу: алгоритмические рекомендации 01.03.2022, глубокий синтез 10.01.2023, генеративный ИИ 15.08.2023).
+3.  Гуанмин жибао / CCTV, 10.07.2026 — https://m.gmw.cn/2026-07/10/content_1304528476.htm (988 генеративных сервисов зарегистрированы и 598 приложений и функций учтены на 30.06.2026; обязанность указывать модель и номер).
+4.  Синьхуа, 19.03.2025 — https://www.news.cn/tech/20250319/a572ec4366f149c1b0b04a07ebf4931b/c.html (меры о маркировке ИИ-контента, четыре ведомства, вступление в силу 01.09.2025, явные и неявные метки, обязанности платформ).
+5.  PwC China, разбор мер о маркировке и стандарта GB 45438—2025, сентябрь 2025 — https://www.pwccn.com/zh/tmt/method-identifying-synthetic-content-generated-ai-sep2025.pdf (5 % высоты для изображений, 2 секунды для видео, ритм аудиосигнала, состав метаданных, проверка платформами, запрет на удаление меток).
+6.  MLex / Law360, «China cracks down on unlabeled AI content on Weibo, Douyin», 13.02.2026 — https://www.law360.com/mlex/data-privacy-security/articles/2441555/china-cracks-down-on-unlabeled-ai-content-on-weibo-douyin (13 000+ аккаунтов и 543 000 единиц контента).
+7.  TechNode, «China penalizes AI platforms over failure to label AI-generated content», 29.04.2026 — https://technode.com/2026/04/29/china-penalizes-ai-platforms-over-failure-to-label-ai-generated-content/ (CapCut, Maoxiang, Dreamina; меры воздействия; «нет места для компромисса»).
+8.  Caixin Global, «China amends Cybersecurity Law to add first-ever AI clause», 29.10.2025 — https://www.caixinglobal.com/2025-10-29/china-amends-cybersecurity-law-to-add-first-ever-ai-clause-102376988.html (поправки приняты 28.10.2025, вступают в силу 01.01.2026).

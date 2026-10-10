@@ -7,6 +7,9 @@ lang: "en"
 title: "The Label Doesn’t Wash Off"
 subtitle: "How China made artificial intelligence introduce itself: an algorithm registry, nearly a thousand registered models, mandatory labels, and what anyone advertising in China should know"
 meta_description: "In China, platform algorithms go into a registry, generative AI services must be registered, and since September 1, 2025, everything AI creates must carry visible and hidden labels. In 2026 regulators removed tens of thousands of accounts and disciplined major apps for missing labels. A wry essay on teaching a machine to say “I made this.”"
+excerpt: "How China made artificial intelligence introduce itself: an algorithm registry, nearly a thousand registered models, mandatory labels, and what anyone advertising in China should know"
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "label-doesn-t-wash-off"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -60,3 +63,14 @@ But sometimes I scroll through a feed, see someone’s face, someone’s voice, 
 We used to trust our eyes. Now we trust metadata.
 
 Sad, but probably honest.
+
+**Sources**
+
+1.  iubenda со ссылкой на CAC, «China have provided information about app algorithms», 24.08.2022 — https://www.iubenda.com/en/blog/china-have-provided-information-about-app-algorithms/ (правила об алгоритмических рекомендациях с 01.03.2022, первые 30 алгоритмов: Taobao, Douyin, WeChat, Baidu, описания).
+2.  Holistic AI, «China AI regulation» — https://www.holisticai.com/blog/china-ai-regulation (даты вступления в силу: алгоритмические рекомендации 01.03.2022, глубокий синтез 10.01.2023, генеративный ИИ 15.08.2023).
+3.  Гуанмин жибао / CCTV, 10.07.2026 — https://m.gmw.cn/2026-07/10/content_1304528476.htm (988 генеративных сервисов зарегистрированы и 598 приложений и функций учтены на 30.06.2026; обязанность указывать модель и номер).
+4.  Синьхуа, 19.03.2025 — https://www.news.cn/tech/20250319/a572ec4366f149c1b0b04a07ebf4931b/c.html (меры о маркировке ИИ-контента, четыре ведомства, вступление в силу 01.09.2025, явные и неявные метки, обязанности платформ).
+5.  PwC China, разбор мер о маркировке и стандарта GB 45438—2025, сентябрь 2025 — https://www.pwccn.com/zh/tmt/method-identifying-synthetic-content-generated-ai-sep2025.pdf (5 % высоты для изображений, 2 секунды для видео, ритм аудиосигнала, состав метаданных, проверка платформами, запрет на удаление меток).
+6.  MLex / Law360, «China cracks down on unlabeled AI content on Weibo, Douyin», 13.02.2026 — https://www.law360.com/mlex/data-privacy-security/articles/2441555/china-cracks-down-on-unlabeled-ai-content-on-weibo-douyin (13 000+ аккаунтов и 543 000 единиц контента).
+7.  TechNode, «China penalizes AI platforms over failure to label AI-generated content», 29.04.2026 — https://technode.com/2026/04/29/china-penalizes-ai-platforms-over-failure-to-label-ai-generated-content/ (CapCut, Maoxiang, Dreamina; меры воздействия; «нет места для компромисса»).
+8.  Caixin Global, «China amends Cybersecurity Law to add first-ever AI clause», 29.10.2025 — https://www.caixinglobal.com/2025-10-29/china-amends-cybersecurity-law-to-add-first-ever-ai-clause-102376988.html (поправки приняты 28.10.2025, вступают в силу 01.01.2026).

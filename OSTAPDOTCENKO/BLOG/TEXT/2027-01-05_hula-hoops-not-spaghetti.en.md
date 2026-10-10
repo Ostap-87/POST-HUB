@@ -7,6 +7,9 @@ lang: "en"
 title: "Hula Hoops, Not Spaghetti"
 subtitle: "How a Tokyo professor and would-be guitarist taught the ribosome to build rings from “wrong” amino acids, and why big pharma keeps knocking on his company’s door"
 meta_description: "Japan’s PeptiDream: Professor Hiroaki Suga’s flexizyme, the PDPS platform, a trillion peptides in one test tube, a $2.7 billion Novartis deal, radiopharma and a tough 2025. A wry essay on Japanese science that bends molecules into rings. No medical advice."
+excerpt: "How a Tokyo professor and would-be guitarist taught the ribosome to build rings from “wrong” amino acids, and why big pharma keeps knocking on his company’s door"
+tag: "Peptides"
+time: "5 min"
 slug: "hula-hoops-not-spaghetti"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -50,3 +53,13 @@ And where does China come in, a regular reader might ask. Rings have to be made 
 For now, just this. Science sometimes goes in circles, and not because it’s lost. Sometimes a ring isn’t a dead end. It’s the most stable shape there is.
 
 I never did master the hula hoop. But now I know it wasn’t my waist. I just have the wrong amino acids.
+
+**Sources**
+
+1.  Bloomberg (перепечатка Macau Daily Times), «Science: Failed guitarist seeking life’s roots makes USD3b drug firm», 27.06.2016 — https://macaudailytimes.com.mo/science-failed-guitarist-seeking-lifes-roots-makes-usd3b-drug-firm.html (биография Суги, «хулахуп вместо спагетти», ускорение поиска с трёх дней до четырёх часов, «Everybody comes to PeptiDream»).
+2.  UTEC, «PeptiDream» (история компании) — https://www.ut-ec.co.jp/english/story/pepti-dream (основание в 2006 г., инвестиции 2008 г., флексизим, FIT, RaPID, PDPS, триллион пептидов в пробирке, листинг на Mothers в июне 2013 г.).
+3.  Wolf Fund, «Hiroaki Suga» — https://wolffund.org.il/hiroaki-suga/ (премия Вольфа по химии 2023 г., формулировка).
+4.  The BioStartups, «Japan-based PeptiDream inks $2.71B deal with Novartis», 03.05.2024 — https://thebiostartups.com/news/8/880/japan-based-peptidream-inks-2-71-b-deal-with-novartis.html (180 млн долларов аванса, до 2,71 млрд, радиолиганды, история сотрудничества).
+5.  BioWorld, «Peptidream, Genentech ink $1B deal for peptide-radioisotope drug conjugates», 26.09.2023 — https://www.bioworld.com/articles/keyword/7851-peptidream-inc?page=2
+6.  The Shashi, «Buying the radiopharmaceutical business of Fujifilm Toyama Chemical» — https://the-shashi.com/en/tse/4587/decisions/pdrpharma-acquisition-2022/ (покупка 2021–2022 гг., итоги 2025 г.).
+7.  TCTMD, «FDA Approves Enlicitide, an Oral PCSK9 Inhibitor, for LDL-Lowering», 16.07.2026 — https://www.tctmd.com/news/fda-approves-enlicitide-oral-pcsk9-inhibitor-ldl-lowering (одобрение, макроциклический пептид).

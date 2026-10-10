@@ -7,6 +7,9 @@ lang: "en"
 title: "Cheaper Than Water"
 subtitle: "In May 2024 Chinese companies took two weeks to drive the price of AI almost to zero. In 2026 they started raising it. Who paid the bill?"
 meta_description: "In May 2024 ByteDance sold 1.25 million tokens for one yuan, Alibaba cut prices by 97%, and Baidu and Tencent made some models free. Two years later, Tencent, Alibaba and Zhipu are raising prices. A wry essay on the price war that made thinking cheaper than water, and how it ended."
+excerpt: "In May 2024 Chinese companies took two weeks to drive the price of AI almost to zero. In 2026 they started raising it. Who paid the bill?"
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "cheaper-than-water"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,17 @@ I understand why it was done. In marketing we call it “lowering the barrier to
 I’ll miss that era a little. It lasted less than two years and had something of student life about it: everything cheap, everyone experimenting, nobody thinking about the bill. Such eras are lovely to remember and painful to pay for.
 
 Three classic novels for a yuan. I confess I didn’t read a single one in that time. But I know exactly what it would have cost.
+
+**Sources**
+
+1.  ifanr, «字节发布豆包大模型家族，一块钱生成三本《三国演义》», 15.05.2024 — https://www.ifanr.com/1585486 (цена 0,0008 юаня за 1000 токенов, 99,3 %, слова Тань Дая про 1,25 млн токенов и три «Троецарствия», 120 млрд токенов в сутки).
+2.  KrAsia, «LLM prices hit rock bottom in China as Alibaba Cloud enters the fray», май 2024 — https://kr-asia.com/llm-prices-hit-rock-bottom-in-china-as-alibaba-cloud-enters-the-fray (хронология: DeepSeek V2 6 мая, Zhipu 11 мая, Doubao 15 мая, Alibaba 21 мая, Baidu).
+3.  Yicai Global, «Tencent, iFlytek Join China’s LLM Price War», 23.05.2024 — https://yicaiglobal.com/news/tencent-and-iflytek-join-chinas-llm-price-wars-to-gain-ai-users (Tencent Hunyuan-Lite и iFlytek Spark Lite бесплатно, цитата Чжан Цзюньлиня).
+4.  TechNode, «Doubao surpasses 120 trillion daily tokens as usage doubles in three months», 07.04.2026 — https://technode.com/2026/04/07/doubao-surpasses-120-trillion-daily-tokens-as-usage-doubles-in-three-months/ (120 трлн токенов в сутки).
+5.  The Next Web, о стратегии 01.AI, июль 2026 — https://thenextweb.com/news/01ai-kai-fu-lee-hong-kong-ipo-2027-palantir-china (отказ от собственных базовых моделей).
+6.  Caixin Global, «Alibaba, Tencent hike cloud prices as AI boom drives up hardware costs», 19.03.2026 — https://www.caixinglobal.com/2026-03-19/alibaba-tencent-hike-cloud-prices-as-ai-boom-drives-up-hardware-costs-102424744.html (Tencent Cloud 11 марта, рост цен Hunyuan 2.0 более чем на 400 %, Alibaba Cloud 5–34 % с 18 апреля, данные Sinolink по памяти).
+7.  TechNode, «Alibaba Cloud raises AI computing and storage prices by up to 34% amid surging demand», 18.03.2026 — https://technode.com/2026/03/18/alibaba-cloud-raises-ai-computing-and-storage-prices-by-up-to-34-amid-surging-demand/ (причины повышения).
+8.  Techloy, «China’s Zhipu AI launches GLM-5 with 30% price increase», 13.02.2026 — https://techloy.com/chinas-zhipu-ai-launches-glm-5-with-30-price-increase-as-stock-jumps-34
+9.  Yahoo Finance / Bloomberg, «Zhipu raises AI model prices 8%–17% as GLM-5.1 launches», 08.04.2026 — https://finance.yahoo.com/sectors/technology/articles/zhipu-raises-ai-model-prices-131652529.html
+10. TechNode, «ByteDance tests paid subscriptions for AI app Doubao», 06.05.2026 — https://technode.com/2026/05/06/bytedance-tests-paid-subscriptions-for-ai-app-doubao-in-push-toward-monetization/
+11. 36Kr, обзор Zhipu и MiniMax, сентябрь 2026 — https://eu.36kr.com/zh/p/3971481903306372 (выручка Zhipu за первое полугодие 2026 года и доля платного доступа к моделям).

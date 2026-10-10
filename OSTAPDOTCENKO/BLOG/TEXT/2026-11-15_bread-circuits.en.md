@@ -7,6 +7,9 @@ lang: "en"
 title: "Bread and Circuits"
 subtitle: "Why Chinese humanoids need a boxing ring, a football pitch and a championship belt — and why the people in the stands are really customers"
 meta_description: "Robot boxing on state TV, a football tournament where every team plays on the same maker’s robot, the World Humanoid Robot Games and a fight league with a 10-million-yuan belt. A marketer’s wry look at why Chinese robots enter the ring before they enter the catalog."
+excerpt: "Why Chinese humanoids need a boxing ring, a football pitch and a championship belt — and why the people in the stands are really customers"
+tag: "Robots"
+time: "6 min"
 slug: "bread-circuits"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -70,3 +73,15 @@ When I look at those stands, I don’t think about the robots. I think about the
 Bread and circuits. There’s plenty of circuitry now.
 
 The bread is still baked by someone who never makes it onto TV.
+
+**Sources**
+
+1.  eHangzhou, «China Media Group World Robot Competition — Mecha Fighting Series kicks off in Hangzhou», 26.05.2025 — https://www.ehangzhou.gov.cn/2025-05/26/c_293755.htm (дата, организатор CMG, Unitree G1 1,32 м и 35 кг, четыре команды операторов, цитата Чэнь Сиюнь из отдела маркетинга Unitree).
+2.  MarketBeat / AP, «China’s humanoid robots generate more soccer excitement than their human counterparts», 28.06.2025 — https://www.marketbeat.com/articles/chinas-humanoid-robots-generate-more-soccer-excitement-than-their-human-counterparts-2025-06-28 (автономный футбол 3×3, Booster T1 у всех команд, финал 5:3, носилки, сборная Китая, слова Чэн Хао).
+3.  Canberra Times / AAP, о первых Всемирных играх гуманоидов, 08.2025 — https://www.canberratimes.com.au/story/9041497/ (280 команд, 16 стран, 500+ роботов, билеты 180–580 юаней, падения).
+4.  Times of AI, «World Humanoid Robot Games 2025: this is how world’s first robot Olympics went» — https://www.timesofai.com/news/world-humanoid-robot-games-2025-this-is-how-worlds-first-robot-olympics-went/ (даты, виды программы).
+5.  Beijing Municipal Government, «2nd World Humanoid Robot Games: Highlights & Ticket Info», 15.08.2026 — https://english.beijing.gov.cn/latest/news/202608/t20260815_4824032.html (22–26 августа, «Ледяная лента», 666 команд, 2056 роботов, 51 вид, билеты от 98 юаней).
+6.  Beijing Municipal Government, «2nd World Humanoid Robot Games Conclude», 28.08.2026 — https://english.beijing.gov.cn/beijinginfo/sci/latesttrends/202608/t20260828_4840947.html (1500 м: 2:21.64 против 6:34.40, сувениры на 200 тыс. юаней, 28 из 70 прилавков с роботами-продавцами).
+7.  Yicai Global, «World’s First Commercial Humanoid Robot Fighting League Launches in China», 10.02.2026 — https://www2.yicaiglobal.com/news/worlds-first-commercial-humanoid-robot-fighting-league-launches-in-china (URKL, пояс 10 млн юаней, T800: 1,73 м, 75 кг, от 180 тыс. юаней).
+8.  PC Guide, «China’s EngineAI hosts world’s first robot MMA competition: T800 loses head and keeps on fighting», 07.2026 — https://www.pcguide.com/pro/news-pro/chinas-engineai-hosts-worlds-first-robot-mma-competition-t800-loses-head-and-keeps-on-fighting/ (команды, Донни Йен, потеря головы, комментарий организаторов о резервировании).
+9.  South China Morning Post, «Robot wars: MMA bout between humanoids leaves 1 without a head, fans stunned», 18.07.2026 — https://www.scmp.com/sport/china/article/3361044/robot-wars-mma-bout-between-humanoids-leaves-1-without-head-fans-stunned (место: Наньшань, шестиугольная клетка).

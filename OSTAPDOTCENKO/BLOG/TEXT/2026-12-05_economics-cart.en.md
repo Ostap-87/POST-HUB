@@ -7,6 +7,9 @@ lang: "en"
 title: "The Economics of a Cart"
 subtitle: "Night markets in China and Taiwan through the eyes of a marketer who has spent his life drawing sales funnels and finally met one made of smoke"
 meta_description: "Night markets in China and Taiwan as a business model: a cart, a wok, a one-item menu, the 2020 “street stall economy,” 36,000 stalls in Chengdu, street stalls in the Michelin Guide, and a business that shuts down every morning and reopens every night."
+excerpt: "Night markets in China and Taiwan through the eyes of a marketer who has spent his life drawing sales funnels and finally met one made of smoke"
+tag: "Observations"
+time: "5 min"
 slug: "economics-cart"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -78,3 +81,11 @@ I’ve seen how it ends. By midnight the market thins out. The bulbs go off one 
 And I, a man who draws business models for a living, suddenly realize that the most resilient business model I’ve seen in Asia doesn’t rest on investors or algorithms. It rests on one man’s back.
 
 In the morning this spot will be a parking space. In the evening, smoke again.
+
+**Sources**
+
+1.  South China Morning Post, «China turns to ‘street vendor economy’ to help manage unemployment crisis», июнь 2020 — https://amp.scmp.com/economy/china-economy/article/3087770/china-turns-street-vendor-economy-help-manage-unemployment (выступление премьера Ли Кэцяна в Яньтае, пример Чэнду: 36 тыс. лотков и 100 тыс. рабочих мест).
+2.  Caixin Global, «Premier Promises Government Support for Street Vendors», 02.06.2020 — https://www.caixinglobal.com/2020-06-02/premier-promises-government-support-for-street-vendors-101562239.html (поддержка уличной торговли со стороны премьера).
+3.  The World of Chinese, «Stalled Economy», июнь 2020 — https://www.theworldofchinese.com/2020/06/stalled-economy/ (термин «экономика лотков» 地摊经济; рост акций производителей оборудования и фургонов до дневного лимита; позиция пекинской прессы о том, что лотки не подходят столице).
+4.  Michelin Guide, «Michelin Guide Taipei 2019 Bib Gourmand Selection: Street Foods», 02.04.2019 — https://guide.michelin.com/en/article/news-and-views/michelin-guide-taipei-2019-bib-gourmand-selection-street-foods (24 уличных лотка с 8 ночных рынков Тайбэя).
+5.  Retail Insight Network, «Night markets drive Taiwan retail tourism», 06.10.2025 — https://www.retail-insight-network.com/newsletters/night-markets-drive-taiwan-retail-tourism (данные Туристической администрации Тайваня: более 80% иностранных гостей посещают ночные рынки).

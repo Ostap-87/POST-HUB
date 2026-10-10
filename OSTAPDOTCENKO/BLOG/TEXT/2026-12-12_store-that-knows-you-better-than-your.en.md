@@ -7,6 +7,9 @@ lang: "en"
 title: "The Store That Knows You Better Than Your Spouse"
 subtitle: "The Japanese konbini as kitchen, post office, bank, records office, shelter and confidant. That last one isn’t in the job description"
 meta_description: "Japan’s convenience stores, or konbini: over 56,000 stores, onigiri, ATMs, bill payments, official certificates printed next to the milk, a formal role in disaster response, the novel “Convenience Store Woman,” and a loneliness Japan now addresses by law. A foreigner who pops in for water and stays a while."
+excerpt: "The Japanese konbini as kitchen, post office, bank, records office, shelter and confidant. That last one isn’t in the job description"
+tag: "Observations"
+time: "5 min"
 slug: "store-that-knows-you-better-than-your"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -90,3 +93,12 @@ I walk out with water, an onigiri and something else I hadn’t meant to buy. Th
 “Irasshaimase!”
 
 He doesn’t know who’s coming. He’s glad in advance. At three in the morning that’s not nothing. It may be more than many of us get all day.
+
+**Sources**
+
+1.  Nippon.com / Jiji Press, «Japan Convenience Store Sales Hit Record High in 2025», 20.01.2026 — https://www.nippon.com/en/news/yjj2026012000898 (данные Японской ассоциации франчайзинга: 56 054 магазина на конец 2025 года, продажи 12,06 трлн иен, средний чек 737,9 иены).
+2.  Кабинет министров Японии, перечень назначенных общественных организаций по Закону об основах мер против стихийных бедствий (на 23.06.2023) — https://www.bousai.go.jp/pdf/230623_kouhyou.pdf (Seven-Eleven Japan, Lawson, FamilyMart, Seven & i Holdings).
+3.  Nipponia № 19, «Convenience stores», 15.12.2001 — https://web-japan.org/nipponia/nipponia19/en/feature/feature05.html (клавиши пола и возрастной группы покупателя на кассах конбини).
+4.  The Tribune / ANI, «39% of people living in Japan feel lonely: Study», май 2025 — https://www.tribuneindia.com/news/japan/39-of-people-living-in-japan-feel-lonely-study (опрос 2024 года: 39,3%; закон, вступивший в силу в апреле 2024 года).
+5.  ISVD, «Loneliness and Isolation Act: Two Years» — https://isvd.or.jp/en/columns/loneliness-isolation-act-two-years (Закон о содействии мерам против одиночества и изоляции).
+6.  Саяка Мурата, «Человек-комбини» (コンビニ人間, 2016), премия Акутагавы 2016 года; англ. перевод «Convenience Store Woman», 2018.

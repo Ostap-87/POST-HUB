@@ -7,6 +7,9 @@ lang: "en"
 title: "Lying Flat"
 subtitle: "Tang ping, bai lan and “full-time children”: watching the young people who stopped running, and the parents who ran for them"
 meta_description: "“Tang ping,” or lying flat: how a 2021 forum post became a generation’s catchword, why state newspapers called it shameful, what “let it rot” and “full-time children” mean, and how it all looks to parents who never stopped running. An outsider’s observation."
+excerpt: "Tang ping, bai lan and “full-time children”: watching the young people who stopped running, and the parents who ran for them"
+tag: "Observations"
+time: "6 min"
 slug: "lying-flat"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -82,3 +85,12 @@ Not because he agrees. Just his legs.
 They sit there. One has finally sat down, the other hasn’t got up yet. Between them is a sofa that, it turns out, has room for both.
 
 You can write the ending yourselves. I’m going to lie down for a bit. Not long.
+
+**Sources**
+
+1.  Wikipedia, «Tang ping» — https://en.wikipedia.org/wiki/Tang_ping (пост «Лежать плашмя — это справедливость», апрель 2021, Baidu Tieba; удаление поста; комментарий «Наньфан жибао»; передовица «Гуанмин жибао» 27.12.2021 «Лежать плашмя не стоит»; запрет продажи товаров с «танпин»; термин «бай лань»).
+2.  South China Morning Post, «Explainer: What is ‘lying flat’, and why are Chinese officials standing up to it?», 2021 — https://amp.scmp.com/economy/china-economy/article/3153362/what-lying-flat-and-why-are-chinese-officials-standing-it (Ло Хуачжун, подработка на киностудии в Дунъяне в роли трупов, реакция «Наньфан жибао»).
+3.  The New York Times, Elsie Chen, «These Chinese Millennials Are ‘Chilling,’ and Beijing Isn’t Happy», 03.07.2021 (перепечатка: https://let.iiec.unam.mx/print/3697) — жизнь Ло Хуачжуна примерно на 60 долл. в месяц.
+4.  CNN Business, «Young Chinese are getting paid to be ‘full-time children’ as jobs become harder to find», 27.07.2023 — https://krdo.com/money/cnn-business-consumer/2023/07/27/young-chinese-are-getting-paid-to-be-full-time-children-as-jobs-become-harder-to-find/ («дети на полной ставке», группа на Douban, 6000 юаней в месяц, рекорд 21,3%, оценка Чжан Даньдань до 46,5%).
+5.  Trading Economics, China Youth Unemployment Rate — https://tradingeconomics.com/china/youth-unemployment-rate и https://tradingeconomics.com/china/youth-unemployment-rate/news/485930 (21,3% в июне 2023 по старой методике; 18,9% в августе 2025 по новой, без учёта студентов).
+6.  Language Log, «“Let it rot”» — https://languagelog.ldc.upenn.edu/nll/?p=54741 (значение «бай лань» 摆烂).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "一张床，一百五十个机器人"
 subtitle: "中国有一百五十多家公司在造人形机器人，都在教它叠被子铺床。可床，好像只有一张"
 meta_description: "国家发改委提示人形机器人产业泡沫风险：150多家企业扎堆，产品高度相似。到底有多少家？钱流向了哪里？“百模大战”的结局能告诉我们什么？谁能熬到天亮？一个俄罗斯营销人的自嘲式观察。"
+excerpt: "中国有一百五十多家公司在造人形机器人，都在教它叠被子铺床。可床，好像只有一张"
+tag: "机器人"
+time: "6 分钟"
 slug: "crowded-house-empty-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -77,3 +80,11 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 人多力量大，说的是人。
 
 机器人嘛，目前只做到了“多”。
+
+**来源**
+
+1.  Interesting Engineering, «China warns of bubble risk in humanoid robotics», 27.11.2025 — https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning (заявление Ли Чао, ГКРР: более 150 компаний, больше половины — стартапы и пришедшие из других отраслей, риск «очень похожих» продуктов, механизмы входа и выхода).
+2.  Bloomberg, «China Warns of Bubble Risks in Booming Humanoid Robots Arena», 27.11.2025 — https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry.
+3.  36Kr / Phoenix Tech, 03.03.2026 — https://eu.36kr.com/en/p/3707071692435588 (GGII: рост числа компаний со 120+ до 320+, 58 млрд юаней за три года и 38 млрд в 2025 году; IDC: около 18 000 отгрузок в 2025 году, Unitree и AgiBot — почти 60 %; оценка Xinding Capital; слова Цзян Лэя; «битва ста моделей»).
+4.  Deep News / Tiger Brokers, 22.09.2026 — https://www.itiger.com/news/1147229483 (банкротство DeepBlue Robotics, долг более 23 млн юаней перед 100+ сотрудниками; 200–300 компаний воплощённого ИИ по оценке венчурного инвестора; 93,4 млрд юаней инвестиций в первом полугодии 2026 года).
+5.  36Kr / Pencil News, 18.09.2026 — https://eu.36kr.com/en/p/3988842701208581 (ликвидация CloudMinds Robotics (Пекин) принята судом 10.10.2025, привлечено около 5,4 млрд юаней, оценка свыше 20 млрд; позиция материнской группы DeepBlue).

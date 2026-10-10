@@ -7,6 +7,9 @@ lang: "en"
 title: "A Test Tube With a Flag"
 subtitle: "How a US biosecurity law, a Pentagon list of “Chinese military companies” and 100% tariffs reached molecules built one amino acid at a time"
 meta_description: "The BIOSECURE Act became law in December 2025, WuXi AppTec landed on a Pentagon list in June 2026 and won a court injunction in August, and US tariffs of up to 100% on patented drugs and their ingredients took effect this autumn. A wry essay on how politics got inside China’s peptide supply chains."
+excerpt: "How a US biosecurity law, a Pentagon list of “Chinese military companies” and 100% tariffs reached molecules built one amino acid at a time"
+tag: "Peptides"
+time: "6 min"
 slug: "test-tube-with-flag"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -63,3 +66,13 @@ There’s something sad here, and I won’t hide it behind jokes. A peptide has 
 But it’s no longer the laws of chemistry that decide. It’s laws with a number, a signing date and a grace period.
 
 At school we learned that changing the order of the addends doesn’t change the sum. In 2026 pharma, it does. A lot.
+
+**Sources**
+
+1.  Ropes & Gray, «BIOSECURE Act Enacted», январь 2026 — https://www.ropesgray.com/en/insights/alerts/2026/01/biosecure-act-enacted (дата подписания, механизм списков, срок для списка OMB, переходный период).
+2.  FDA Law Blog (Hyman, Phelps & McNamara), «WuXi AppTec’s 1260H Listing Brings the BIOSECURE Act Back to Center Stage», июнь 2026 — https://www.thefdalawblog.com/2026/06/wuxi-apptecs-1260h-listing-brings-the-biosecure-act-back-to-center-stage/ (включение 8 июня 2026, заявление WuXi, сроки вступления в силу).
+3.  Greenberg Traurig, «BIOSECURE Act Update: Court Enjoins WuXi AppTec’s 1260H Designation…», 03.09.2026 — https://www.gtlaw.com/en/insights/2026/9/biosecure-act-update-court-enjoins-wuxi-apptecs-1260h-designation-but-strategic-and-compliance-clocks-keep-running (решение суда 7 августа 2026, доля 5,32 % и 0,001 %, уход клиентов, Complete Genomics и Novogene).
+4.  BioWorld, «Uncertainty continues as Wuxi Apptec haunted by listing», 22.09.2026 — https://www.bioworld.com/articles/734270-uncertainty-continues-as-wuxi-apptec-haunted-by-listing
+5.  Thompson Hine SmartTrade, «President Trump Announces Section 232 Tariffs on Pharmaceuticals and Active Pharmaceutical Ingredients», апрель 2026 — https://www.thompsonhinesmartrade.com/2026/04/president-trump-announces-section-232-tariffs-on-pharmaceuticals-and-active-pharmaceutical-ingredients/
+6.  Mallory Group, «100% Duties, Two Deadlines: Section 232 Pharmaceutical Tariffs Take Effect July 31, 2026» — https://www.mallorygroup.com/blog-posts/100-duties-two-deadlines-section-232-pharmaceutical-tariffs-take-effect-july-31-2026 (ставки, сроки 31 июля и 29 сентября, исключения).
+7.  Yicai Global, «Sinopep Points to Chinese Biopharma Firm’s Competitive Edge Amid Higher US Tariffs», 25.04.2025 — https://www2.yicaiglobal.com/news/sinopep-retains-advantages-despite-us-tariffs-chinese-weight-loss-drug-ingredient-supplier-says

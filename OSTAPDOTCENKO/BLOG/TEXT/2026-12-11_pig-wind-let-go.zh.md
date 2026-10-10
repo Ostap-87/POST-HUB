@@ -7,6 +7,9 @@ lang: "zh"
 title: "风停了以后"
 subtitle: "小米被唱衰的那两年，雷军没有写悼词，而是回去“补课”"
 meta_description: "2015—2016年的小米：没完成的目标，国内出货量下滑36%，跌至第五，被外媒称为“unicorpse”，雷军亲自接管手机业务。然后是创纪录的季度、港股上市、造车，以及2025年4573亿元的营收。一个俄罗斯营销人写风停之后该做什么。"
+excerpt: "小米被唱衰的那两年，雷军没有写悼词，而是回去“补课”"
+tag: "重新来过"
+time: "7 分钟"
 slug: "pig-wind-let-go"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -80,3 +83,18 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_
 Are you OK?
 
 不OK。但明天，接着补课。
+
+**来源**
+
+1.  CKGSB Knowledge, «Can Xiaomi Get Its Mojo Back?», 20.06.2016 — https://english.ckgsb.edu.cn/knowledge/article/can-xiaomi-get-its-mojo-back/ (61 млн телефонов в Китае в 2014 году и первое место; оценка 45 млрд долл.; цитата Лэй Цзюня о свинье и урагане; причины спада: офлайн-сети OPPO и vivo, тонкая маржа, жалобы на качество, экосистема; план расширить Mi Home с 20 до 50 магазинов; Лэй Цзюнь берёт телефоны и поставки в мае 2016).
+2.  Global Voices, «A Viral Music Video in China Pokes Fun at Xiaomi CEO’s Imperfect English», 15.05.2015 — https://globalvoices.org/2015/05/15/a-viral-music-video-in-china-pokes-fun-at-xiaomi-ceos-imperfect-english/ («Are you OK?» в Нью-Дели 24.04.2015, ремикс на Bilibili на мотив «Angelina», ответ Лэй Цзюня в Weibo).
+3.  爱范儿 (ifanr), 15.01.2016 — https://www.ifanr.com/609149 (цель 2015 года 80–100 млн, продано больше 70 млн; ежегодное собрание: «我们内心有心魔», улыбки исчезали, стратегия «开心就好», отказ от KPI).
+4.  Business Today / PTI по данным IDC, 08.02.2017 — https://www.businesstoday.in/technology/news/story/apple-finally-haults-xiaomis-dream-run-in-china-72314-2017-02-08 (Китай, 2016: Xiaomi 41,5 млн, −36 %, пятое место; OPPO 78,4 млн, Huawei 76 млн, vivo 69 млн, Apple 44,9 млн).
+5.  The Transnational, перепечатка статьи Wired «Behind the Fall and Rise of China’s Xiaomi», 31.12.2017 — https://transnational.live/2017/12/31/behind-the-fall-and-rise-of-chinas-xiaomi/ (прозвище «unicorpse»).
+6.  36氪 (36Kr), 11.08.2021 — https://www.36kr.com/p/1349095816848902 (лозунги 2016 года «聚焦、补课、大胆探索»; Лэй Цзюнь возглавил телефонное направление 17.05.2016; четыре блока; рост хардверной команды с 300 до 595 человек).
+7.  CNBC, «Flagging Chinese smartphone maker Xiaomi rebounds with record second-quarter shipments», 07.07.2017 — https://www.cnbc.com/2017/07/07/flagging-chinese-smartphone-maker-xiaomi-rebounds-with-record-second-quarter-shipments.html (23,16 млн во II квартале 2017, +70 %; 123 магазина Mi Home; уход Хьюго Барры в январе 2017).
+8.  IT之家 (ITHome), 30.10.2018 — https://www.ithome.com/0/391/640.htm (слова Лэй Цзюня: «世界上没有任何一家手机公司，销量下滑之后还能够成功逆转，除了小米！»).
+9.  Business Standard / Reuters, 09.07.2018 — https://www.business-standard.com/amp/article/reuters/smartphone-maker-xiaomi-s-weak-hong-kong-debut-casts-shadow-on-tech-listings-118070900114_1.html (листинг в Гонконге по 17 гонконгских долларов, оценка ~54 млрд долл., привлечено 4,72 млрд).
+10. Gulf News / Bloomberg — https://gulfnews.com/business/sectors/markets/china-start-up-eyeing-100-billion-ipo-vows-to-limit-profits-1.2211852 (обязательство держать чистую маржу на «железе» не выше 5 %).
+11. CnEVPost, «Xiaomi’s Lei Jun on car-making: “This is my last venture, I will be all in”», 31.03.2021 — https://cnevpost.com/2021/03/31/xiaomis-lei-jun-on-car-making-this-is-my-last-venture-i-will-be-all-in/.
+12. Tech Coffee House, итоги Xiaomi за 2025 год, 28.03.2026 — https://techcoffeehouse.com/2026/03/28/xiaomi-revenue-hits-rmb457-billion-as-ev-and-ai-drive-record-growth/ (выручка 457,3 млрд юаней, 165,2 млн смартфонов, пятый год в тройке по Omdia); CnEVPost, 24.03.2026 — https://cnevpost.com/2026/03/24/xiaomi-ev-and-ai-unit-posts-1st-annual-profit/ (411 082 автомобиля, первая годовая операционная прибыль направления — 0,9 млрд юаней).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "下周回国"
 subtitle: "贾跃亭、乐视与法拉第未来：一场排在“下周”的重启，已经排了九年"
 meta_description: "2017年7月，乐视创始人贾跃亭赴美，说“下周回国”。此后：乐视网退市、美国个人破产重组、被证监会终身市场禁入、FF上市、FF 91累计交付十几台、FX Super One暂停、开始卖机器人。一个俄罗斯营销人关于“一周有九年那么长”的随笔。"
+excerpt: "贾跃亭、乐视与法拉第未来：一场排在“下周”的重启，已经排了九年"
+tag: "重新来过"
+time: "6 分钟"
 slug: "back-next-week"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -74,3 +77,15 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_
 我合上电脑，看看自己的“下周”清单。比贾跃亭的短，也便宜得多。不过今天，我想从里面挑一件办掉。
 
 给律师打个电话。邮箱嘛，就留到下周吧。
+
+**来源**
+
+1.  钛媒体 (TMTPost), обзор истории Цзя Юэтина, LeTV и Faraday Future, 2022 — https://www.tmtpost.com/6177191.html (основание LeTV в ноябре 2004 и листинг в 2010; пик 12.05.2015 — 179,03 юаня, ~170 млрд юаней; кризис ноября 2016; Sunac — 15,04 млрд юаней; CES-2017 и FF 91; отъезд 04.07.2017 и «下周回国»; список недобросовестных должников 11.12.2017; требование вернуться до 31.12.2017; Evergrande — 800 млн долл.; штраф CSRC 241,2 млн юаней и пожизненный запрет 13.04.2021; завышение выручки на 1,872 млрд юаней; делистинг 20.07.2020 по 0,18 юаня, потеря ~99,9 % капитализации от пика; SPAC-листинг FF 23.07.2021).
+2.  界面新闻 (Jiemian) — https://www.jiemian.com/article/7725818.html (отъезд в США 04.07.2017, «下周回国» как мем, требование Пекинского отделения CSRC, личное банкротство и утверждение плана судом Лос-Анджелеса в 2020 году, траст в пользу кредиторов).
+3.  Fortune, о требовании вернуться в Китай, 02.01.2018 — https://fortune.com/2018/01/02/jia-yueting-leeco-china-return.
+4.  InsideEVs, «Faraday Future Delivered 10 EVs in 2023: Four Sold, Six Leased» — https://insideevs.com/news/721871/faraday-future-ff91-sales-2023/.
+5.  InsideEVs, «Faraday Future Sold Fewer Than 20 Cars In Two Years», 2025 — https://insideevs.com/news/759297/faraday-future-sales-q1-2025/ (16 машин с начала производства в марте 2023 по данным отчётности SEC, цена ~300 тыс. долл.).
+6.  MEA Tech Watch / пресс-релиз Faraday Future, «Faraday Future Unveils FX Super One Roadmap, Enters Embodied AI Robotics Sector», 13.01.2026 — https://meatechwatch.com/2026/01/13/faraday-future-unveils-fx-super-one-roadmap-enters-embodied-ai-robotics-sector/ (план поставок FX Super One в США со II квартала 2026; YT Jia — Founder and Global Co-CEO).
+7.  Carscoops, «Faraday FX Super One paused», 07.05.2026 — https://www.carscoops.com/2026/05/faraday-fx-super-one-paused/ (пауза 400-вольтовой версии, переход на 800 В или гибрид, массовое производство зависит от финансирования, 68 роботов к концу апреля).
+8.  凤凰网科技 (iFeng Tech), 07.05.2026 — https://tech.ifeng.com/c/8svSUrqzT1k (то же по-китайски: 68 EAI-роботов на 30.04.2026, цель — более 1000 за 2026 год).
+9.  Пресс-релизы Faraday Future серии «Founder and Co-CEO YT Jia Shares Weekly Investor Update» — например, https://www.barchart.com/story/news/354909/faraday-future-founder-and-co-ceo-yt-jia-shares-weekly-investor-update-for-eai-robotics-ff-will-officially-begin-its-first-batch-of-deliveries-next-week (еженедельные обращения к инвесторам).

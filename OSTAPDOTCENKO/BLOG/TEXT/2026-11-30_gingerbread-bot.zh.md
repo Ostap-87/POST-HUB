@@ -7,6 +7,9 @@ lang: "zh"
 title: "别拿豆包不当干粮"
 subtitle: "字节跳动给自家AI起名“豆包”，免费送、到处送，把对手都甩在身后。可天下真有免费的午餐吗？"
 meta_description: "豆包是中国用户最多的AI助手：日活过亿，月活3.82亿，日均Token调用量120万亿。一个做了二十年营销的俄罗斯人，自嘲地看字节如何用做抖音的方法做AI——以及为什么免费的豆包，迟早要谈钱。"
+excerpt: "字节跳动给自家AI起名“豆包”，免费送、到处送，把对手都甩在身后。可天下真有免费的午餐吗？"
+tag: "人工智能"
+time: "6 分钟"
 slug: "gingerbread-bot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,17 @@ App的主人们不乐意了。微信、淘宝、支付宝和一些银行App开�
 别拿豆包不当干粮。可也别忘了：干粮，总是要花钱买的。
 
 结局会怎样，没人知道。说到AI，这大概是眼下最诚实的一句话。
+
+**来源**
+
+1.  Yicai Global, «ByteDance’s Volcano Engine Starts Price War in China’s Enterprise LLMs Sector», 16.05.2024 — https://yicaiglobal.com/news/bytedances-volcano-engine-starts-price-war-in-chinas-enterprise-llms-sector (модель Skylark, август 2023 года; запуск семейства Doubao в мае 2024 года).
+2.  ifanr, «字节发布豆包大模型家族», 15.05.2024 — https://www.ifanr.com/1585486 (120 млрд токенов текста в сутки в мае 2024 года).
+3.  TechNode, «Doubao surpasses 120 trillion daily tokens as usage doubles in three months», 07.04.2026 — https://technode.com/2026/04/07/doubao-surpasses-120-trillion-daily-tokens-as-usage-doubles-in-three-months/ (120 трлн токенов в сутки, март 2026 года).
+4.  KrAsia, «Doubao hits 100 million DAUs as ByteDance extends its AI lead», 29.12.2025 — https://kr-asia.com/doubao-hits-100-million-daus-as-bytedance-extends-its-ai-lead (100 млн DAU, слова источника о маркетинговых расходах, рекламные расходы Yuanbao по AppGrowing, партнёрство с гала-концертом).
+5.  IT之家 / QuestMobile, отчёт об ИИ-приложениях за первое полугодие 2026 года, 14.07.2026 — https://www.ithome.com/0/976/383.htm (MAU Doubao 382 млн, Qwen 167 млн, DeepSeek 130 млн).
+6.  Yicai (第一财经), «豆包概念股火了，AI应用指数涨至历史高位», 12.12.2024 — https://www.yicai.com/news/102398436.html (данные AppGrowing: 1,5 млрд юаней на рекламу десяти ИИ-приложений, Kimi — 220 млн в октябре).
+7.  Pekingnology, «China’s Spring Festival AI war», 2026 — https://www.pekingnology.com/p/chinas-spring-festival-ai-war (суммы акций Tencent, Alibaba, Baidu; 1,9 млрд обращений и 63,3 млрд токенов в минуту на пике).
+8.  DAO Insights, «ByteDance turns Spring Festival Gala into AI showcase with Doubao surge», 24.02.2026 — https://daoinsights.com/news/bytedance-turns-spring-festival-gala-into-ai-showcase-with-doubao-surge/ (1,9 млрд обращений со ссылкой на Caixin).
+9.  Business Standard, о телефоне nubia M153 и блокировках помощника Doubao, 08.12.2025 — https://www.business-standard.com/world-news/bytedance-ai-phone-doubao-nubia-zte-app-blocks-user-control-china-125120800459_1.html (3499 юаней, 30 тыс. штук, WeChat, Taobao, Alipay, банки).
+10. TechNode, «ByteDance tests paid subscriptions for AI app Doubao in push toward monetization», 06.05.2026 — https://technode.com/2026/05/06/bytedance-tests-paid-subscriptions-for-ai-app-doubao-in-push-toward-monetization/ (тарифы 68, 200 и 500 юаней).
+11. China AI Dispatch, «The Bill Drops», 2026 — https://chinaaidispatch.substack.com/p/the-bill-drops (покупки внутри Doubao и тест «заказа прямо в чате»).

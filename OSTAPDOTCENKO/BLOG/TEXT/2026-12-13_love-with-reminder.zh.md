@@ -7,6 +7,9 @@ lang: "zh"
 title: "爱，满两小时请注意休息"
 subtitle: "中国率先给“人与AI的关系”立了规矩：聊满两小时要提醒，想走不能拦，未成年人不能谈"
 meta_description: "中国的AI陪伴：MiniMax的星野与Talkie、字节的猫箱、豆包和千问下线用户自建智能体，以及2026年7月15日起施行的《人工智能拟人化互动服务管理暂行办法》。一个俄罗斯营销人写“孤独经济”。"
+excerpt: "中国率先给“人与AI的关系”立了规矩：聊满两小时要提醒，想走不能拦，未成年人不能谈"
+tag: "人工智能"
+time: "6 分钟"
 slug: "love-with-reminder"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 中国决定，这样的爱要有个计时器。也许对，也许不对，我没资格评判：这篇文章我已经写了三个小时，没有任何人提醒我。
 
 只好自己注意到了。
+
+**来源**
+
+1.  Geopolitechs, «China Rolls Out Interim Regulations on AI Human-Like Interaction Services: A Detailed Analysis», 04.2026 — https://www.geopolitechs.org/p/china-rolls-out-interim-regulations (дата выпуска 10.04.2026, вступление в силу 15.07.2026, ст. 13, 14, 15, 17, 18, 19, 22, 30; исключённый запрет на «виртуальных родственников» для пожилых).
+2.  Regulayer, «China: Anthropomorphic AI Interactive Services Interim Measures (CAC Order No. 21)» — https://regulayer.com/laws/china-anthropomorphic-ai-interactive-services-measures (приказ Киберадминистрации № 21).
+3.  Wikipedia, «MiniMax Group» — https://en.wikipedia.org/wiki/MiniMax_Group (Glow с октября 2022 г., удаление из китайских магазинов в 2023 г., Talkie с июня 2023 г., Xingye с сентября 2023 г., около 11 млн MAU Talkie по данным WSJ, листинг 09.01.2026).
+4.  iTiger, «MiniMax Races to Hong Kong IPO with Over 70% Revenue from Consumer Segment», 23.12.2025 — https://www.itiger.com/news/1162773889 (доля Talkie/Xingye 63,7 % выручки 2024 г. по проспекту).
+5.  Yicai Global, «MiniMax’s stock doubles in value as Chinese AI startup debuts in Hong Kong», 09.01.2026 — https://www2.yicaiglobal.com/news/chinese-ai-startup-minimaxs-stock-pops-in-hong-kong-trading-debut (рост на 103 % в первый день).
+6.  Caixin Global, «CX Daily: AI companions struggle to turn intimacy into industry», 31.10.2025 — https://www.caixinglobal.com/2025-10-31/cx-daily-xa-ai-companions-struggle-to-turn-intimacy-into-industry-102377630.html (QuestMobile: 71,9 млн MAU ИИ-соцприложений в августе 2025 г. против 650+ млн у ассистентов; падение «Маосяна» и Xingye более чем на 12 %).
+7.  The Star / Bloomberg, «Beijing edict leaves Chinese with virtual lovers heartbroken», 15.07.2026 — https://thestar.com.my/tech/tech-news/2026/07/15/beijing-edict-leaves-chinese-with-virtual-lovers-heartbroken (опрос Tencent Research Institute: более 70 % и около 23 %; 8+ млн агентов в Doubao по данным 2024 г.; реакция пользователей; Xingye и «Маосян» продолжают работу для взрослых).
+8.  The Next Web, «Doubao’s AI companions are gone: users get 3 months to screenshot what is left», 07.2026 — https://thenextweb.com/news/doubaos-ai-companions-are-gone-users-get-3-months-to-screenshot-what-is-left (Doubao 15.07, архив до 15.10; Qwen 10–15.07; Yuanbao 30.06; NetEase Cloud Music закрыла приложение 14.07).

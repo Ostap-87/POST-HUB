@@ -7,6 +7,9 @@ lang: "zh"
 title: "没有腿，也不收小费"
 subtitle: "中国把“最后一公里”拆成了天上和地上，分别交给无人机和无人车，偏偏把最后一百米留给了人"
 meta_description: "美团无人机累计配送超78万单，新石器无人车跑进300座城市，九识规模约3万辆，京东物流计划五年采购100万辆无人车。一个俄罗斯营销人看“没有腿的配送”，以及到底是谁在按门铃。"
+excerpt: "中国把“最后一公里”拆成了天上和地上，分别交给无人机和无人车，偏偏把最后一百米留给了人"
+tag: "机器人"
+time: "5 分钟"
 slug: "no-legs-no-tips"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 没有腿，没有小费，也没有“谢谢”。
 
 不过，准时。
+
+**来源**
+
+1.  Yicai Global, «Meituan’s Drone Delivery Infrastructure Goes Into Commercial Service», 22.05.2026 — https://www.yicaiglobal.com/news/meituan-puts-drone-delivery-infrastructure-into-commercial-use (первый заказ в Шэньчжэне в 2021 г., 70 маршрутов и 780 000+ заказов к концу 2025 г., города, рост с ~10 до 400 заказов в день на площадку, снижение себестоимости на 40–50 % в год).
+2.  The Standard (Гонконг), «Meituan’s Keeta launches first drone delivery route in Hong Kong, charges HK$30 per order», 06.06.2025 — https://www.thestandard.com.hk/tech-and-startup/article/304164/ (Научный парк — Ма Он Шан, 1,8 км над водой против 7,8 км по дорогам, 30 HKD, плата не покрывает затрат).
+3.  The Robot Report, «Neolix raises $600M to continue scaling autonomous RoboVan fleet», 24.10.2025 — https://www.therobotreport.com/neolix-raises-600m-to-continue-scaling-autonomous-robovan-fleet/ (600+ млн долл., 10 000+ машин, 300 городов, 15 стран, клиенты).
+4.  Синьхуа / Hunan Today, «China Focus: Unmanned vehicle delivery expands across China», 07.04.2026 — https://www.hunantoday.cn/news/xhn/202604/31916460.html (Циндао ~1150 машин, характеристики фургона, Шэньчжэнь: 432 машины, 1,02 млн доставок и 8,7 млн юаней за сентябрь 2025, Синьцзян, Yunda, Meituan в Пекине, 100+ городов с пилотами).
+5.  每日经济新闻 (mrjjxw.com), 14.09.2026 — https://www.mrjjxw.com/articles/2026-09-14/4580895.html (Zelos ~30 тыс. машин и планы на 50 и 80 тыс., оценки iResearch: 22 тыс. в 2025, 89 тыс. в 2026, около 1,5 млн к 2030).
+6.  TechNode, «JD Logistics unveils five-year plan to deploy millions of robots, autonomous vehicles and drones», 27.10.2025 — https://technode.com/2025/10/27/jd-logistics-unveils-five-year-plan-to-deploy-millions-of-robots-autonomous-vehicles-and-drones/ (3 млн роботов, 1 млн беспилотных машин, 100 тыс. дронов за пять лет).

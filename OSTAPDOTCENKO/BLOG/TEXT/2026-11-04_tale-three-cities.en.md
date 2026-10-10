@@ -7,6 +7,9 @@ lang: "en"
 title: "A Tale of Three Cities"
 subtitle: "Beijing, Shanghai and Shenzhen are splitting China’s humanoid robot between them: one gets the head, one the education, one the hands"
 meta_description: "Beijing, Shanghai and Shenzhen are competing to be the capital of China’s humanoid robots, with funds, vouchers, subsidies, innovation centers and their own schools of robotics. A wry look at how three cities are raising one robot, and how they differ."
+excerpt: "Beijing, Shanghai and Shenzhen are splitting China’s humanoid robot between them: one gets the head, one the education, one the hands"
+tag: "Robots"
+time: "6 min"
 slug: "tale-three-cities"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,16 @@ China’s three cities have chosen a less dramatic plot. Nobody sacrifices anyth
 I watch this family from the side, like a distant relative at someone else’s wedding. A little envious. A little happy for them. And a little sad that where I come from, we still tend to have one capital, and one plan.
 
 It was the best of times. For robots, at least.
+
+**Sources**
+
+1.  21st Century Business Herald, «Tech Unicorns Flock South: Why Guangdong Became the Robotics Mecca?», 14.04.2025 — https://www.21jingji.com/article/20250414/herald/e544a5e5dbcb9d7693eb0bad5ab509b0.html (распределение ролей: Пекин — «мозги», Дельта Янцзы — «тело», Дельта Жемчужной реки — интеграция).
+2.  Caixin Global, «Beijing Humanoid Robotics Hub Raises $100 Million in First Funding Round», 04.02.2026 — https://www.caixinglobal.com/2026-02-04/beijing-humanoid-robotics-hub-raises-100-million-in-first-funding-round-102411145.html (основатели центра, раунд более 700 млн юаней, «Тяньгун»).
+3.  People’s Daily / PR Newswire, «Over 300 robotics companies cluster in Beijing’s Yizhuang», 10.02.2026 — https://www.aap.com.au/aapreleases/cision20260210ae84702 (300+ компаний, «Десять мер», ваучеры на 100 млн юаней в год, сценарии на 10 000+ роботов, фонд 10 млрд юаней, соревнования почти ежемесячно).
+4.  The State Council of the PRC, «World Humanoid Robot Games opens in Beijing», 15.08.2025 — https://english.www.gov.cn/news/202508/15/content_WS689e6c46c6d0868f4e8f4d3a.html (280 команд из 16 стран, 26 дисциплин).
+5.  Shanghai Municipal People’s Government, «Shanghai maps out plan for embodied AI», 06.08.2025 — https://english.shanghai.gov.cn/en-PolicyInsights/20250806/b21cae94df984faabea7478774f24e69.html (треть отрасли, цели 100/100/100 и 50 млрд юаней к 2027 году, гранты до 50 % и до 20 млн, пилоты до 20 % и до 10 млн, 70+ компаний в Чжанцзяне, AgiBot World).
+6.  Mike Kalil, «Shanghai’s New Humanoid Robot Training Hub Aims for 1K Capacity» — https://mikekalil.com/blog/shanghai-humanoid-robot-training-ground/ (тренировочная площадка, «Цинлун», 100 роботов и план на 1000 к 2027 году).
+7.  People’s Daily Online / Xinhua, «China’s tech hub Shenzhen unveils plan to boost embodied intelligent robotics», 04.03.2025 — https://en.people.cn/n3/2025/0304/c90000-20284142.html (план Шэньчжэня на 2025–2027 годы).
+8.  China Briefing, «The Chinese Humanoid Robot AI Market – Investor Opportunities» — https://www.china-briefing.com/news/chinese-humanoid-robot-market-opportunities/ (фонд Шэньчжэня на 10 млрд юаней, февраль 2025; компании по городам).
+9.  Shenzhen Government Online, март 2025 — https://www.sz.gov.cn/en_szgov/news/latest/content/post_12063362.html (UBTech, Leju, EngineAI, LimX Dynamics).
+10. 21st Century Business Herald, «The Evolution of Robots in Guangdong», 23.01.2026 — https://www.21jingji.com/article/20260123/herald/54ef680ad246e15ea4330c7c76118632.html (Unitree и Deep Robotics в Шэньчжэне, AgiBot в Чжухае).

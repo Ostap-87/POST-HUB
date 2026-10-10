@@ -7,6 +7,9 @@ lang: "en"
 title: "Put On Your Clever Face"
 subtitle: "Korean skincare learned to sell peptides as technology and to treat its customers as researchers. How much of it is lab and how much is shop window?"
 meta_description: "Korea exported a record $11.4 billion of cosmetics in 2025, overtaking the US. Peptides in K-beauty: why they’re missing from the official anti-wrinkle list, who Caregen is, what Olive Young’s search data shows and which ads Korea’s regulator flagged. A wry essay."
+excerpt: "Korean skincare learned to sell peptides as technology and to treat its customers as researchers. How much of it is lab and how much is shop window?"
+tag: "Peptides"
+time: "5 min"
 slug: "put-on-your-clever-face"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -52,3 +55,13 @@ Science is when it’s been proven. Science marketing is when the customer is ha
 The regulator in Seoul gets it too. That’s why its anti-wrinkle list has four words, and the ads have a hundred.
 
 A clever face is still a face. It needs looking after, too.
+
+**Sources**
+
+1.  Korea JoongAng Daily, «Korea surpasses U.S. in cosmetics exports with record $11.4 billion», 23.05.2026 — https://www.koreajoongangdaily.com/business/korea-surpasses-us-in-cosmetics-exports-with-record-114-billion/12713991 (экспорт 11,4 млрд долл., +11,8 %, Франция 24,3, США 10,8; США 2,2 млрд, Китай 2 млрд, −19 %; данные MFDS).
+2.  ELLE Korea, статья о функциональной косметике против морщин — https://www.elle.co.kr/article/72075 (четыре ингредиента в списке MFDS: ретинол, ретинил пальмитат, полиэтоксилированный ретинамид, аденозин; пептиды могут получить признание на уровне продукта).
+3.  Lubrizol, «Innovation and Revolution: The Journey to Argireline Amplified Peptide», 01.2025 — https://lubrizol.com/Personal-Care/Blog/2025/01/Innovation-and-Revolution-The-Journey-to-Argireline-Amplified-Peptide (Lipotec, разработка с конца 1980-х, «первый пептид, местно снижающий мышечные сокращения»).
+4.  CB Insights, Caregen — https://www.cbinsights.com/company/caregen (основана в 2001 г., IPO 17.11.2015).
+5.  BASF Korea, пресс-релиз о договоре с Caregen, 20.01.2021 — https://www.basf.com/kr/ko/media/news-releases/kr/2021/01/P-21-05 (глобальный эксклюзивный договор на косметические пептиды, около 360 патентов на пептидные вещества).
+6.  The Monodist, «From PDRN to mask cleansers: the biggest Korean beauty trends reported by Olive Young», 09.09.2025 — https://themonodist.com/from-pdrn-to-mask-cleansers-the-biggest-korean-beauty-trends-reported-by-olive-young/ (рост поиска: пептиды +72 %, PDRN +695 %, очищающие маски +1700 %).
+7.  ChemLinked, «South Korea Cracks Down on Misleading Cosmetic Advertising», 06.08.2025 — https://cosmetic.chemlinked.com/news/cosmetic-news/south-korea-cracks-down-on-misleading-cosmetic-advertising (83 нарушения: 53, 25 и 5 случаев, «проникает до конца дермы»).

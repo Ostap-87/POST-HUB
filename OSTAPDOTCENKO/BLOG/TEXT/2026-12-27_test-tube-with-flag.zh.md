@@ -7,6 +7,9 @@ lang: "zh"
 title: "印着国徽的试管"
 subtitle: "美国的《生物安全法》、五角大楼的“中国军事企业”名单和100%关税，是怎么一路管到一个氨基酸一个氨基酸拼起来的分子上的"
 meta_description: "《生物安全法》2025年12月签署成法，药明康德2026年6月被列入五角大楼名单、8月获法院禁令，今年秋天起美国对专利药及其原料药征收最高100%的关税。一个俄罗斯营销人，写政治如何钻进中国多肽供应链。"
+excerpt: "美国的《生物安全法》、五角大楼的“中国军事企业”名单和100%关税，是怎么一路管到一个氨基酸一个氨基酸拼起来的分子上的"
+tag: "多肽"
+time: "6 分钟"
 slug: "test-tube-with-flag"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 可现在说了算的，不是化学规律，而是有编号、有签署日期、有过渡期的法律。
 
 小学课本说：交换加数的位置，和不变。到了2026年的医药行业，变了，而且变得很厉害。
+
+**来源**
+
+1.  Ropes & Gray, «BIOSECURE Act Enacted», январь 2026 — https://www.ropesgray.com/en/insights/alerts/2026/01/biosecure-act-enacted (дата подписания, механизм списков, срок для списка OMB, переходный период).
+2.  FDA Law Blog (Hyman, Phelps & McNamara), «WuXi AppTec’s 1260H Listing Brings the BIOSECURE Act Back to Center Stage», июнь 2026 — https://www.thefdalawblog.com/2026/06/wuxi-apptecs-1260h-listing-brings-the-biosecure-act-back-to-center-stage/ (включение 8 июня 2026, заявление WuXi, сроки вступления в силу).
+3.  Greenberg Traurig, «BIOSECURE Act Update: Court Enjoins WuXi AppTec’s 1260H Designation…», 03.09.2026 — https://www.gtlaw.com/en/insights/2026/9/biosecure-act-update-court-enjoins-wuxi-apptecs-1260h-designation-but-strategic-and-compliance-clocks-keep-running (решение суда 7 августа 2026, доля 5,32 % и 0,001 %, уход клиентов, Complete Genomics и Novogene).
+4.  BioWorld, «Uncertainty continues as Wuxi Apptec haunted by listing», 22.09.2026 — https://www.bioworld.com/articles/734270-uncertainty-continues-as-wuxi-apptec-haunted-by-listing
+5.  Thompson Hine SmartTrade, «President Trump Announces Section 232 Tariffs on Pharmaceuticals and Active Pharmaceutical Ingredients», апрель 2026 — https://www.thompsonhinesmartrade.com/2026/04/president-trump-announces-section-232-tariffs-on-pharmaceuticals-and-active-pharmaceutical-ingredients/
+6.  Mallory Group, «100% Duties, Two Deadlines: Section 232 Pharmaceutical Tariffs Take Effect July 31, 2026» — https://www.mallorygroup.com/blog-posts/100-duties-two-deadlines-section-232-pharmaceutical-tariffs-take-effect-july-31-2026 (ставки, сроки 31 июля и 29 сентября, исключения).
+7.  Yicai Global, «Sinopep Points to Chinese Biopharma Firm’s Competitive Edge Amid Higher US Tariffs», 25.04.2025 — https://www2.yicaiglobal.com/news/sinopep-retains-advantages-despite-us-tariffs-chinese-weight-loss-drug-ingredient-supplier-says

@@ -7,6 +7,9 @@ lang: "en"
 title: "The Dark Side of the Moon"
 subtitle: "How Beijing’s Moonshot AI taught its chatbot to remember two million characters, spent a fortune on ads, was forgotten in a single January day, and came back on the side nobody sees but everybody now hears"
 meta_description: "In 2023–2024 Moonshot AI’s Kimi was the star of Chinese AI: a huge context window, a billion dollars led by Alibaba, ad spend of nearly 200 million yuan a month. After DeepSeek R1 the users left, and the company pivoted to open models, K2 and K3, raising $2 billion at a valuation above $20 billion in 2026. A wry essay on memory and fame."
+excerpt: "How Beijing’s Moonshot AI taught its chatbot to remember two million characters, spent a fortune on ads, was forgotten in a single January day, and came back on the side nobody sees but everybody now hears"
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "dark-side-moon"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,14 @@ I’ve watched plenty of Chinese companies buy growth first and figure out what 
 The moon, by the way, always shows us the same face. We don’t notice, because we only look where the light is.
 
 The other side is there. It just doesn’t make the evening news.
+
+**Sources**
+
+1.  Wikipedia, «Yang Zhilin» — https://en.wikipedia.org/wiki/Yang_Zhilin (Цинхуа, PhD CMU 2019, Google Brain и Meta, основание в марте 2023 г., название в честь альбома Pink Floyd, к 50-летию альбома).
+2.  OfficeChai, «The Meeting Rooms At Moonshot, Company Behind Kimi 3, Are All Named After US Rock Bands», 17.07.2026 — https://officechai.com/ai/the-meeting-rooms-at-moonshot-company-behind-kimi-3-are-all-named-after-us-rock-bands/ (название в честь альбома Pink Floyd по словам сотрудника, переговорные Led Zeppelin, Deep Purple, The Rolling Stones, Metallica).
+3.  China Daily HK, материал о расширении контекста Kimi, 22.03.2024 — https://chinadailyhk.com/article/382340 (200 000 иероглифов в октябре 2023 г., 2 млн иероглифов в 2024 г., раунд более 1 млрд долл. во главе с Alibaba, Xiaohongshu и HongShan, основание в марте 2023 г.).
+4.  Wikipedia, «Kimi (chatbot)» — https://en.wikipedia.org/wiki/Kimi_(chatbot) (даты k1.5, K2, K2 Thinking, K2.5, K2.6; K2 — 1 трлн параметров, модифицированная лицензия MIT).
+5.  Deep News / Tiger Brokers, «Money Burned, Users Fled: Once-Glorious Kimi Falls to Second Tier After Just One Year?», 30.12.2025 — https://www.itiger.com/news/1143289241 (реклама до почти 200 млн юаней в месяц, 10 и 12–13 юаней за пользователя по оценке инвестора Ли Яна, 36+ млн MAU около октября 2024 г., данные QuestMobile: MAU 14,07 млн во II кв. и 9,93 млн в III кв. 2025 г., седьмое место по WAU).
+6.  Yicai Global, «Moonshot AI’s CEO Says Reported USD4.6 Million Cost of Training Kimi K2 ‘Isn’t Official’», 12.11.2025 — https://www.yicaiglobal.com/news/kimi-k2-thinkings-reported-usd46-million-training-cost-isnt-official-moonshot-ceo-says
+7.  Jiemian, «Moonshot AI raises $2 billion at valuation above $20 billion», 05.2026 — https://en.jiemian.com/article/14395991.html (Meituan Long-Z, ARR более 100 и 200 млн долл., всего более 37,6 млрд юаней, сокращение рекламы после R1, биография Ян Чжилиня).
+8.  NYU Shanghai RITS, «Kimi K3 Open Weights Ship: 2.8T Parameters, 1.4 TB to Run», 28.07.2026 — https://rits.shanghai.nyu.edu/ai/kimi-k3-open-weights-ship-2-8t-parameters-1-4-tb-to-run/ (2,8 трлн параметров, веса 27.07.2026, 4-е место из 189 в индексе Artificial Analysis, условия лицензии Kimi K3).

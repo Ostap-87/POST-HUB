@@ -7,6 +7,9 @@ lang: "en"
 title: "Pearls Before Pharma"
 subtitle: "Peptides are built on plastic beads, one amino acid at a time, like a necklace. The beads, the string and the glue increasingly come from China. The final piece in this series"
 meta_description: "How solid-phase peptide synthesis works: Merrifield’s beads, resins, protected amino acids, coupling reagents and tonnes of solvent per kilogram of product. Why generic semaglutide is built chemically while the original is grown in yeast, and where China is indispensable: Sunresin, Highfine, Sinopep. The closing essay of the Tech series."
+excerpt: "Peptides are built on plastic beads, one amino acid at a time, like a necklace. The beads, the string and the glue increasingly come from China. The final piece in this series"
+tag: "Peptides"
+time: "5 min"
 slug: "pearls-before-pharma"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -52,3 +55,15 @@ Fifty pieces. I’ve written about robots that outrun world-record holders, abou
 I’ve watched this from the sidelines with a notebook and a sense of humour. The notebook is full. The sense of humour isn’t. Not yet.
 
 Thank you for reading. The necklace is finished. I’m still holding the thread.
+
+**Sources**
+
+1.  Chemistry World, «The story of solid phase peptide synthesis shows the wisdom of embracing new ideas» — https://www.chemistryworld.com/opinion/merrifields-resin/1017386.article (запись 1959 г., статья 1963 г., полистирольные бусины, критика метода).
+2.  The Rockefeller University, «Part XVIII: Robert Bruce Merrifield, 1984 Prize in Chemistry» — https://selections.rockefeller.edu/?p=2524 (Нобелевская премия 1984 г.).
+3.  ACS GCI Pharmaceutical Roundtable, «Peptides» — https://acsgcipr.org/focus-areas/peptides/ (PMI ≈ 13 000 для SPPS, 168–308 для малых молекул, ≈ 8300 для биопрепаратов).
+4.  EMA, Ozempic: EPAR — Product Information — https://www.ema.europa.eu/en/documents/product-information/ozempic-epar-product-information_en.pdf (семаглутид производится в Saccharomyces cerevisiae методом рекомбинантной ДНК).
+5.  Chemistry World, «India’s generic GLP-1 drugs are mostly booming», 2026 — https://www.chemistryworld.com/news/indias-generic-glp-1-drugs-are-mostly-booming/4023975.article (химический синтез дженериков, жирная кислота в позиции 26, Sinopep среди поставщиков субстанции).
+6.  Sunresin, «Sunresin advances global peptide and oligonucleotide innovation with breakthrough solid phase synthesis carriers» — https://www.seplite.com/sunresin-advances-global-peptide-and-oligonucleotide-innovation-with-breakthrough-solid-phase-synthesis-carriers/ (типы носителей, мощность более 120 т/год, данные компании).
+7.  钛媒体, «蓝晓科技业绩劲增，GLP-1药物供应链是否有望爆发？» — https://www.tmtpost.com/6635898.html (прогноз прибыли за 1-е полугодие 2023 г. +70–80 %, роль носителей и GLP-1).
+8.  证券之星 / 浙商证券, обзор 昊帆生物, 28.07.2023 — https://stock.stockstar.com/JC2023072800010123.shtml (листинг 12.07.2023, 160+ реагентов, 1900+ клиентов, первое место в Китае по фосфониевым и урониевым реагентам).
+9.  Eurofins, «Amending for N,N-dimethylformamide in Annex XVII to REACH Regulation» — https://eurofins.com/consumer-product-testing/media-centre/news/amending-for-n-n-dimethylformamide-in-annex-xvii-to-reach-regulation (ограничение ДМФА с 12.12.2023).

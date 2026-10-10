@@ -7,6 +7,9 @@ lang: "zh"
 title: "来自苏州的回信"
 subtitle: "苏州的玛仕度肽、杭州的埃诺格鲁肽，还有恒瑞、翰森远渡重洋的分子——中国在GLP-1上不再只做仿制，开始写“回信”。有时是合写的"
 meta_description: "不只是仿制的中国GLP-1：信达玛仕度肽，全球首个获批的GLP-1/胰高血糖素受体双激动剂；先为达埃诺格鲁肽；恒瑞授权Kailera、翰森授权再生元。一篇讨论“中国这封回信到底是谁写的”的随笔，不涉及用药建议。"
+excerpt: "苏州的玛仕度肽、杭州的埃诺格鲁肽，还有恒瑞、翰森远渡重洋的分子——中国在GLP-1上不再只做仿制，开始写“回信”。有时是合写的"
+tag: "多肽"
+time: "5 分钟"
 slug: "china-writes-back"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -56,3 +59,16 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 有些回信，从来没人读。
 
 这一封，会有人读的。
+
+**来源**
+
+1.  Fierce Pharma, «With China approval, Lilly and Innovent’s mazdutide breaks into new class for GLP-1 obesity drugs», 06.2025 — https://www.fiercepharma.com/pharma/china-approval-lilly-and-innovents-mazdutide-breaks-new-class-glp-1-obesity-drugs (одобрение 27.06.2025, лицензия Lilly 2019 г., права Lilly вне Китая).
+2.  Innovent / PR Newswire, 19.09.2025 — https://www.prnewswire.com/news-releases/innovent-announces-mazdutide-received-approval-from-chinas-nmpa-for-glycemic-control-in-adults-with-type-2-diabetes-302561434.html (одобрение при диабете 2 типа, первый двойной агонист GCG/GLP-1, аналог оксинтомодулина).
+3.  Innovent / PR Newswire, 26.10.2025 — https://www.prnewswire.com/news-releases/innovents-mazdutide-shows-superiority-in-glycemic-control-with-weight-loss-over-semaglutide-in-a-head-to-head-phase-3-clinical-trial-dreams-3-302594633.html (DREAMS-3: 349 участников, 32 недели, 48,0 % против 21,0 %).
+4.  BioSpace / Sciwind Biosciences, 06.03.2026 — https://www.biospace.com/press-releases/sciwind-biosciences-announces-ecnoglutide-injection-approved-by-chinas-national-medical-products-administration-nmpa-for-chronic-weight-management (одобрение экноглутида, собственная разработка, «первый одобренный cAMP-смещённый GLP-1» по заявлению компании).
+5.  MedCity News, 03.2026 — https://medcitynews.com/2026/03/kailera-ipo-obesity-weight-loss-ribupatide-dual-glp-1-gip-receptor-agonist-zepbound-klra/ (условия лицензии Hengrui — Kailera: 100 + 10 млн долларов).
+6.  The Bamboo Works, «Drug spin-off trend gains traction with IPO by Hengrui offshoot», 23.04.2026 — https://thebambooworks.com/drug-spin-off-trend-gains-traction-with-ipo-by-hengrui-offshoot/ (IPO Kailera: 625 млн долларов, +63 % в первый день, доля Hengrui около 9,8 % и около 300 млн долларов, до 6 млрд долларов платежей).
+7.  FilingReader, «Hansoh Pharma licenses drug to Regeneron in $2bn deal», 02.06.2025 — https://filingreader.com/news-wire/hongkong/2025-06-02/hansoh-pharma-licenses-drug-to-regeneron-in-2bn-deal (HS-20094: 80 млн долларов авансом, до 1,93 млрд).
+8.  The Star / SCMP, 27.03.2026 — https://www.thestar.com.my/aseanplus/aseanplus-news/2026/03/27/chinas-weight-loss-drug-makers-take-on-global-giants-as-novo-nordisk-patent-expires (оценка L.E.K. в 14 млрд долларов к 2030 г., данные Jefferies об онлайн-продажах и JD Health).
+9.  Innovent / PR Newswire, «Innovent Announces 2026 Interim Results» — https://www.prnewswire.com/news-releases/innovent-announces-2026-interim-results-and-business-updates-302859305.html (продуктовая выручка 8,2 млрд юаней, +57 %).
+10. 21世纪经济报道 (21st Century Business Herald), 05.08.2026 — https://m.sfccn.com/2026/8-5/1MMDE1MjZfMjIwMDE1Mg.html (ожидания около 1,8 млрд юаней продаж маздутида в 2026 г.).

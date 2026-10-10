@@ -7,6 +7,9 @@ lang: "en"
 title: "Could You Sit With Him for a While?"
 subtitle: "Japan spent two decades teaching robots to care for the elderly and learned they don’t replace people. China is taking that lesson and multiplying it by 320 million"
 meta_description: "A robot bear, a robot seal, and a humanoid exercise coach that the staff had to copy so residents would follow along. What Japan learned about care robots, why they created jobs instead of cutting them, and how China is running pilots of 200 robots that chat in local dialects."
+excerpt: "Japan spent two decades teaching robots to care for the elderly and learned they don’t replace people. China is taking that lesson and multiplying it by 320 million"
+tag: "Robots"
+time: "6 min"
 slug: "could-you-sit-with-him-for-while"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -86,3 +89,16 @@ You can teach a machine to lift, feed, read the paper and recognize a face. The 
 Could you sit with him for a while?
 
 Even on wheels.
+
+**Sources**
+
+1.  The Star / Kyodo, «Japan’s elderly population hits a record 29.6 per cent, highest among major nations», 20.09.2026 — https://www.thestar.com.my/aseanplus/aseanplus-news/2026/09/20/japan039s-elderly-population-hits-a-record-296-per-cent-highest-among-major-nations.
+2.  Viet Nam News / The Japan News, «Japan to actively recruit nursing care staff from overseas», 17.12.2024 — https://vietnamnews.vn/world/1689173/japan-to-actively-recruit-nursing-care-staff-from-overseas.html (нехватка около 570 тыс. работников по уходу к 2040 финансовому году).
+3.  MIT Technology Review, J. Wright, «Inside Japan’s long experiment in automating elder care», 09.01.2023 — https://www.technologyreview.com/2023/01/09/1065135/japan-automating-eldercare-robots/ (более 300 млн долларов на НИОКР к 2018 году, опрос 2019 года — около 10 % учреждений, Robear, Paro, Pepper).
+4.  Association for Advancing Automation, «Robots were supposed to replace workers in Japan’s nursing homes. The opposite happened» (2026) — https://www.automate.org/robotics/industry-insights/robots-were-supposed-to-replace-workers-in-japans-nursing-homes-the-opposite-happened (исследование Eggleston, Iizuka, Lee, Xi: +28 % сиделок, +39 % медсестёр; политика METI и Минздрава с 2012 года, субсидии с 2015 года, 9 направлений и 16 категорий).
+5.  International Trade Administration, «Japan Healthcare Caregiving Technologies», 05.02.2025 — https://www.trade.gov/market-intelligence/japan-healthcare-caregiving-technologies (внедрение: наблюдение около 30 %, туалет 0,5 %).
+6.  Caixin Global, «China’s elderly population tops 323 million as aging pressures mount», 01.08.2026 — https://www.caixinglobal.com/2026-08-01/chinas-elderly-population-tops-323-million-as-aging-pressures-mount-102470288.html.
+7.  The Register, «China orders trial of aged care robots that can cook, clean, and provide emotional support», 10.06.2025 — https://www.theregister.com/2025/06/10/china_aged_care_robot_trials/ (условия пилота: 200 роботов, 20 мест, два года, перечень функций).
+8.  Yangtse Evening Post (yzwb.net), 05.09.2025 — https://www.yzwb.net/news/ch/202509/t20250905_259687.html (32 проекта по стране, пилот 2025–2027, МПИИ и министерство гражданской администрации).
+9.  WIPO, «Fourier: Healthcare Robots with Humanoid Designs» — https://www.wipo.int/web/ip-advantage/w/stories/fourier-healthcare-robots-with-humanoid-designs (основана в 2015 году, начинала с реабилитационной робототехники).
+10. PR Newswire / ANP, «Meet GR-3: Beyond Function, Designed to Care», 06.08.2025 — https://persportaal.anp.nl/artikel/CSN-060825085/-meet-gr-3-beyond-function-designed-to-care-fourier-to-unveil-its-first-care-centric-humanoid.

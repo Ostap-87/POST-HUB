@@ -7,6 +7,9 @@ lang: "zh"
 title: "小红书瘦身记"
 subtitle: "中国社交媒体如何把一款降糖药变成时尚单品，监管部门又花了三年想把它“收回去”"
 meta_description: "小红书里人人在瘦身。GLP-1药物怎样成了“网红减肥针”，平台删了什么，国家药监局2026年又禁止了什么，药企如何在“不许打广告”的规则下做宣传——一个俄罗斯营销人的旁观随笔，不含任何用药建议。"
+excerpt: "中国社交媒体如何把一款降糖药变成时尚单品，监管部门又花了三年想把它“收回去”"
+tag: "多肽"
+time: "6 分钟"
 slug: "little-red-book-weight-loss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 最容易瘦的地方是笔记里，最难瘦的地方是生活里。这一点我非常确定，而且跟全文其他内容不同，不需要任何出处。
 
 那台体重秤还在墙角。挺好看的。我偶尔看它一眼。
+
+**来源**
+
+1.  Al Jazeera, «In China, weight-loss drugs are becoming big business», 06.06.2024 — https://www.aljazeera.com/economy/2024/6/6/in-china-weight-loss-drugs-are-becoming-big-business (удаление 5000+ постов на Xiaohongshu в феврале 2023 г., серый рынок).
+2.  中国新闻网, 21.11.2023 — https://www.chinanews.com.cn/sh/2023/11-21/10115333.shtml (одобрение семаглутида в Китае в 2021 г. для диабета, лозунги «躺着就能瘦», «一针瘦10斤»).
+3.  新华网 / 中国新闻网, «司美格鲁肽进医保了 国家医保局：用来减肥不报销», 16.04.2024 — https://www.news.cn/politics/20240416/85ecb3ac47c34a24ad55c062b711be57/c.html (позиция NHSA, штрафы 2–5 сумм).
+4.  BioSpace, «Novo’s Wegovy Launched in China at a Fraction of US Price», 18.11.2024 — https://www.biospace.com/drug-delivery/novos-wegovy-launched-in-china-at-a-fraction-of-us-price (одобрение в июне 2024 г., 1400 юаней в месяц).
+5.  BusinessDay / Reuters, «How drugmakers sidestep ad bans in China’s obesity awareness push», 24.08.2026 — https://www.businessday.co.za/world/international-companies/2026-08-24-how-drugmakers-sidestep-ad-bans-in-chinas-obesity-awareness-push/ (запрет рекламы, кампании Lilly, Innovent, Pfizer, цитата аналитика JP Morgan).
+6.  NutraIngredients, «TikTok clears nearly 800 sellers making exaggerated weight loss, health claims», 22.10.2025 — https://www.nutraingredients.com/Article/2025/10/22/tiktok-clears-nearly-800-sellers-making-exaggerated-weight-loss-health-claims (проверка Douyin, 793 продавца).
+7.  澎湃新闻 / 上海市虹口区司法局, «打“减肥针”被送进ICU！», 17.12.2025 — https://m.thepaper.cn/baijiahao_32197037 (дела салонов красоты).
+8.  Sixth Tone, «China Tightens Online Pharmacy Rules on AI Use and Prescriptions», 27.05.2026 — https://www.sixthtone.com/news/1018580/china-tightens-online-pharmacy-rules-on-ai-use-and-prescriptions; Caixin Global, 28.05.2026 — https://www.caixinglobal.com/2026-05-28/china-tightens-rules-on-online-prescription-drug-sales-102448412.html (правила NMPA, запрет продвижения через короткие видео и эфиры).

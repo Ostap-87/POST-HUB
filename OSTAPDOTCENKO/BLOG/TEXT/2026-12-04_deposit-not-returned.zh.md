@@ -7,6 +7,9 @@ lang: "zh"
 title: "押金去哪儿了"
 subtitle: "小黄车骑遍了二十个国家，一千六百万人却一直站在原地排队"
 meta_description: "ofo和戴威的故事：北大校园里的项目、阿里和滴滴的几十亿融资、上千万辆单车、按当时速度要排十二年的退押金队伍、“购物返现退押金”，以及纽约的咖啡店。一个常跑中国的俄罗斯营销人，写一次没有发生在公司身上、却发生在用户身上的“重启”。"
+excerpt: "小黄车骑遍了二十个国家，一千六百万人却一直站在原地排队"
+tag: "重新来过"
+time: "7 分钟"
 slug: "deposit-not-returned"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -86,3 +89,16 @@ logo设计得很巧：“ofo”三个字母像一个骑车的小人，两个o是
 那片地里，也许就躺着2015年北大第一位同学贡献出来的那辆车。第一辆，价值不超过两百元。
 
 它要是能退押金，一定很乐意。只是从来没有人问过它。
+
+**来源**
+
+1.  Peking University News, история основания Ofo — https://english.pku.edu.cn/news_events/news/campus/4059.htm (велоклуб ПКУ, 2009; Чжан Сыдин, Дай Вэй, Сюэ Дун; велотуры по Тайваню и Чеджу; велосипеды студентов стоимостью до 200 юаней; регистрация через WeChat; к середине октября 2015 — 2000 велосипедов и 20 000 пользователей; логотип — велосипедист, жёлтый цвет).
+2.  Wikipedia, «Ofo (company)» — https://en.wikipedia.org/wiki/Ofo_(company) (раунды: Xiaomi и Didi 2016; Didi и DST, оценка 1 млрд долл., февраль 2017; Alibaba, 866 млн долл., март 2018; 10+ млн велосипедов, 250 городов, 20 стран в 2017; уход из стран летом 2018). Ключевые цифры сверены с источниками ниже.
+3.  界面新闻 (Jiemian), «退不出押金 留不住用户 ofo该如何”跪着活下去”?» — https://m.jiemian.com/article/2671863.html (письмо Дай Вэя от 28.11.2018: «哪怕是跪着也要活下去»).
+4.  TechNode, «More than 10 million ofo users request deposit refunds», 19.12.2018 — https://technode.com/2018/12/19/ofo-deposits-10-million/ (скриншот «10 000 001-й», больше 11 млн заявок, залоги 99 и 199 юаней, очередь у пекинского офиса, обещание вернуть за три дня).
+5.  Caixin Global, «Ofo Founder Blacklisted by Court Amid Debt Woes», 21.12.2018 — https://www.caixinglobal.com/2018-12-21/ofo-founder-blacklisted-by-court-amid-debt-woes-101365681.html (решение суда района Хайдянь, ограничения для Дай Вэя).
+6.  Yicai Global, «Chinese Bike-Sharer Ofo to Need 12 Years to Refund up to USD465 Million in Deposits», 05.07.2019 — https://yicaiglobal.com/news/chinese-bike-sharer-ofo-to-need-12-years-to-refund-up-to-usd465-million-in-deposits (почти 16 млн в очереди по оценке Global Times, около 3500 возвратов в день, «последний будет ждать 12 лет»).
+7.  Sixth Tone, «Want Your Ofo Deposit Back? It’s Going to Cost You», 29.11.2019 — https://www.sixthtone.com/news/1004899 (раздел «天天返钱», кешбэк с покупок, вывод от 20 юаней, чай за 58 юаней — 5,07 юаня, процессор Intel за 1199 — 2,10 юаня, штат сократился с 6000+ до ~200, оценка больше 2 млрд долл.).
+8.  光明网 (Guangming Online), 22.02.2023 — https://m.gmw.cn/baijia/2023-02/22/1303291711.html (приложение перестало принимать СМС-коды, иск Tmall к оператору Ofo более чем на 530 млн юаней с требованием солидарной ответственности Дай Вэя).
+9.  IT之家 (ITHome), 16.05.2023 — https://www.ithome.com/0/692/901.htm (About Time Coffee: первая кофейня в Грамерси-парке в феврале 2022, пять точек на Манхэттене; слова гендиректора Мэриан Чэнь о роли Дай Вэя; стартап по аренде пауэрбанков в Сиэтле по данным анонимных источников).
+10. 界面新闻 (Jiemian), 25.12.2023 — https://www.jiemian.com/article/10585726.html (со ссылкой на «中国企业家»: из пяти кофеен работает одна, на Мэдисон-авеню).

@@ -7,6 +7,9 @@ lang: "en"
 title: "1,400 Jars, One Sea Snail"
 subtitle: "Chinese skincare stopped borrowing its science from abroad and started registering its own peptides. It also learned that a name still travels faster than a molecule."
 meta_description: "New cosmetic ingredients filed with China’s NMPA rose from 6 in 2021 to 169 in 2025, with peptides among the hottest. The tale of the “cone snail peptide” and its 1,400 namesakes, and the stock-market debut of supplier Weiqi: a wry essay on Chinese beauty going to science school."
+excerpt: "Chinese skincare stopped borrowing its science from abroad and started registering its own peptides. It also learned that a name still travels faster than a molecule."
+tag: "Peptides"
+time: "5 min"
 slug: "1-400-jars-one-sea-snail"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ I watch all this with the kind of envy polite people call respect. Not long ago,
 Science in a jar isn’t a molecule. It’s the habit of checking what’s written on the jar.
 
 I do feel for the snail, though. Fourteen hundred creams named after it, and not one free sample.
+
+**Sources**
+
+1.  CIRS Group, «China New Cosmetic Ingredient Registration and Filing» — https://www.cirs-group.com/en/cosmetics/china-new-cosmetic-ingredient-registration-and-filing (регистрация для ингредиентов высокого риска, нотификация для остальных, трёхлетний мониторинг безопасности).
+2.  36Kr / 聚美丽, «备案半年破百，谁在领跑2026新原料”上半场”？», 27.07.2026 — https://www.36kr.com/p/3912464227685513 (6, 42, 69, 90 и 169 ингредиентов в 2021–2025 гг., 124 к 15.07.2026, больше 500 всего, доля иностранных заявителей около 14 %, Botanee и Weiqi по 23).
+3.  CBNData / 聚美丽, «一年90个，化妆品新原料透露哪些趋势？», 06.01.2025 — https://www.cbndata.com/information/293509 (пептиды — самая горячая категория 2024 г.: 8 заявок от 7 компаний, примеры ингредиентов и заявителей).
+4.  CIRS Group, «Analysis Report on the Filing and Registration Status of New Cosmetic Ingredients in China — October 2025» — https://www.cirs-group.com/en/cosmetics/analysis-report-on-the-filing-and-registration-status-of-new-cosmetic-ingredients-in-china-october-2025 (пептиды Fuerjia, Weiqi, Proya; 16 из 17 заявок китайские).
+5.  界面新闻 / 青眼, «一大批”芋螺肽”化妆品要下架了？» (2023) — https://m.jiemian.com/article/9568717.html (оформление «пептида конуса» Weiqi, номер 20230010, концентрация 0,0025 %, 1400+ продуктов, 6 авторизованных, полипептид аргинина и лизина).
+6.  36Kr, «珀莱雅、巨子生物投的原料商上市了», 27.07.2026 — https://www.36kr.com/p/3913244302578825 (листинг Weiqi на Пекинской бирже, выручка, маржа, инвесторы, основатель, 23 ингредиента).
+7.  同花顺, «敷尔佳获2家机构调研…», 04.03.2026 — https://stock.10jqka.com.cn/20260304/c675053456.shtml (два пептидных ингредиента Fuerjia в 2025 г.).

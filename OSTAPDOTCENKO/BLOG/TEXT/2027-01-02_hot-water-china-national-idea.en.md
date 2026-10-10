@@ -7,6 +7,9 @@ lang: "en"
 title: "Hot Water: China’s National Idea"
 subtitle: "A boiler on every train, a thermos in a rock drummer’s hand and a century of public health campaigns: the small habit of a very large country"
 meta_description: "Why China drinks hot water: dispensers on trains and in offices, the 1862 cholera outbreak, boiled water in both Nationalist and Communist campaigns, the thermos as a midlife meme, 600 million cups from one county, and Westerners “becoming Chinese” with a glass of hot water in 2026. An outsider’s observation."
+excerpt: "A boiler on every train, a thermos in a rock drummer’s hand and a century of public health campaigns: the small habit of a very large country"
+tag: "Observations"
+time: "6 min"
 slug: "hot-water-china-national-idea"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -86,3 +89,14 @@ They don’t know you yet. They don’t trust you yet. The contract isn’t sign
 A national idea is the thing nobody argues about. Nobody in China argues about hot water.
 
 They just top you up.
+
+**Sources**
+
+1.  Sixth Tone, Zhang Guowei, «The History Behind China’s Obsession With Hot Water», 28.09.2017 — https://www.sixthtone.com/news/1000919 (медицинская традиция с IV в. до н. э.; «тигриные печки» с 1830-х; холера в Шанхае 1862 года, до 3 тыс. смертей в день и почтовые лодки; «Движение за новую жизнь» 1934 года; кипячёная вода в советских районах КПК и в Яньане; Патриотическая санитарная кампания 1952 года; обязательные бойлеры в высокоскоростных поездах; молодёжь и холодные напитки).
+2.  Duke University, Intersections, «Why Do Chinese People Love Hot Water?», 2021 — https://sites.duke.edu/intersections/cultures-explained/why-do-chinese-people-love-hot-water/ («Движение за новую жизнь», бойлерные, холера 1862 года).
+3.  PONARS Eurasia, «In Response to a “Russian Idea” Channeled from Above…» — https://www.ponarseurasia.org/in-response-to-a-russian-idea-channeled-from-above-another-version-of-patriotism-is-emerging-from-below/ (летом 1996 года Ельцин поручил группе интеллектуалов разработать национальную идею).
+4.  National Business Daily (每日经济新闻), о фотографии Чжао Минъи с термосом, 23.08.2017 — https://www.nbd.com.cn/articles/2017-08-23/1141248.html (барабанщик группы «Хэй Бао», термос с годжи, фраза фотографа).
+5.  Table.Media, «To the language: 多喝热水», 05.10.2021 — https://schulung.table.media/en/china/to-the-language/10-5-2021_to-the-language (совет «пей больше горячей воды» как устойчивая фраза и интернет-мем).
+6.  China News Service / «Экономическая газета» (经济日报), «中国保温杯温暖美好生活», 14.08.2026 — https://www.chinanews.com.cn/cj/2026/08-14/10677489.shtml (Юнкан: более 600 млн кружек и чайников в год; кластер Юнкан–Уи–Цзиньюнь — более 70% производства и экспорта; Китай — около 800 млн термокружек, около 60% мирового выпуска; около 80% ведущих западных брендов производятся там по контракту).
+7.  China News Service / «Жэньминь жибао», зарубежное издание, «保温杯等商品在多国热销 “中式生活”带动中国产品出海», 12.05.2026 — https://www.chinanews.com.cn/cj/2026/05-12/10619592.shtml (экспорт за I квартал 2026 года: термокружки около 5 млрд юаней, электрочайники и годжи около 200 млн юаней каждые; мода «становиться китайцем»; грелки во французских супермаркетах).
+8.  South China Morning Post, «How to become a real ‘Chinese baddie’? It’s a lot more than just drinking hot water», 05.02.2026 — https://www.scmp.com/lifestyle/food-drink/article/3342360/how-become-real-chinese-baddie-its-lot-more-just-drinking-hot-water (тренд в TikTok с конца 2025 года, горячая вода как главный символ).

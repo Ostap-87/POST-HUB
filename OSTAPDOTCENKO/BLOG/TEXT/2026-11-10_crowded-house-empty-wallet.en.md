@@ -7,6 +7,9 @@ lang: "en"
 title: "Crowded House, Empty Wallet"
 subtitle: "Over 150 Chinese companies are building humanoid robots and teaching them to make the bed. There seems to be only one bed"
 meta_description: "China’s top economic planner has warned of a bubble: more than 150 companies are building humanoids, many of them nearly identical. How many there really are, where the billions are going, what the “battle of a hundred models” teaches, and who will still be around in the morning."
+excerpt: "Over 150 Chinese companies are building humanoid robots and teaching them to make the bed. There seems to be only one bed"
+tag: "Robots"
+time: "6 min"
 slug: "crowded-house-empty-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -77,3 +80,11 @@ But I’m not thinking about the survivors. I’m thinking about the engineers w
 The more, the merrier. That’s true of people.
 
 For robots, so far, it’s just “the more.”
+
+**Sources**
+
+1.  Interesting Engineering, «China warns of bubble risk in humanoid robotics», 27.11.2025 — https://interestingengineering.com/ai-robotics/china-humanoid-robotics-bubble-warning (заявление Ли Чао, ГКРР: более 150 компаний, больше половины — стартапы и пришедшие из других отраслей, риск «очень похожих» продуктов, механизмы входа и выхода).
+2.  Bloomberg, «China Warns of Bubble Risks in Booming Humanoid Robots Arena», 27.11.2025 — https://www.bloomberg.com/news/articles/2025-11-27/china-warns-of-bubble-risk-in-booming-humanoid-robotics-industry.
+3.  36Kr / Phoenix Tech, 03.03.2026 — https://eu.36kr.com/en/p/3707071692435588 (GGII: рост числа компаний со 120+ до 320+, 58 млрд юаней за три года и 38 млрд в 2025 году; IDC: около 18 000 отгрузок в 2025 году, Unitree и AgiBot — почти 60 %; оценка Xinding Capital; слова Цзян Лэя; «битва ста моделей»).
+4.  Deep News / Tiger Brokers, 22.09.2026 — https://www.itiger.com/news/1147229483 (банкротство DeepBlue Robotics, долг более 23 млн юаней перед 100+ сотрудниками; 200–300 компаний воплощённого ИИ по оценке венчурного инвестора; 93,4 млрд юаней инвестиций в первом полугодии 2026 года).
+5.  36Kr / Pencil News, 18.09.2026 — https://eu.36kr.com/en/p/3988842701208581 (ликвидация CloudMinds Robotics (Пекин) принята судом 10.10.2025, привлечено около 5,4 млрд юаней, оценка свыше 20 млрд; позиция материнской группы DeepBlue).

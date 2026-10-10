@@ -7,6 +7,9 @@ lang: "en"
 title: "The Motorbike as a Way of Life"
 subtitle: "A guide to crossing the street in Hanoi, written by a man who still crosses it holding his breath"
 meta_description: "Vietnam on two wheels: 84 million motorbikes for 102 million people, “Honda” as the word for motorbike, the 2007 helmet law, Hanoi’s first limits on petrol bikes, and streets where traffic negotiates without lights. Notes from a pedestrian who made it across."
+excerpt: "A guide to crossing the street in Hanoi, written by a man who still crosses it holding his breath"
+tag: "Observations"
+time: "6 min"
 slug: "motorbike-as-way-life"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -80,3 +83,14 @@ A motorbike goes by. A man in front, a woman behind, a child between them, aslee
 The strongest structures aren’t held together by bolts. They’re held together by nobody braking hard.
 
 The bike melts into the stream. The stream doesn’t end. I finally take a step.
+
+**Sources**
+
+1.  Dan Tri International (DTiNews), «Vietnam registers more than 2.1 million new vehicles in first half», 08.07.2026 — https://dtinews.dantri.com.vn/vietnam-today/vietnam-registers-more-than-21-million-new-vehicles-in-first-half-20260708082318830.htm (данные МОБ: 84 003 180 мотоциклов на дорогах).
+2.  Портал правительства Вьетнама, о численности населения, 09.01.2026 — https://en.baochinhphu.vn/viet-nams-working-age-population-accounts-for-almost-63-111260109111947185.htm (население 102,3 млн в 2025 году).
+3.  Southeast Asia (seasia.co), «Inside Viet Nam’s shift from gasoline to electric motorcycles», 27.07.2026 — https://seasia.co/2026/07/27/inside-viet-nams-shift-from-gasoline-to-electric-motorcycles (почти 7 млн мотоциклов в Ханое; продажи VinFast в 2025 году: более 406 тыс. электромотоциклов, +473%).
+4.  The Investor, «Motorbike ‘king’ Honda and the race towards electric two-wheelers», 21.07.2025 — https://theinvestor.vn/motorbike-king-honda-and-the-race-towards-electric-two-wheelers-d16396.html (доля Honda Vietnam около 83% рынка бензиновых мотоциклов; «мотоцикл» как синоним «хонды»).
+5.  Bulletin of the World Health Organization, 2009, Vol. 87, № 5, «Helmet use among motorcycle riders and passengers in Viet Nam after the new law» — https://scielosp.org/article/bwho/2009.v87n5/369-373 (закон с 15.12.2007; около 30% до закона; 90–99% взрослых весной 2008 года; заметно ниже у детей).
+6.  VietNamNet, «Hanoi drops proposal for outright petrol motorbike ban around Hoan Kiem Lake», 31.05.2026 — https://vietnamnet.vn/en/hanoi-drops-proposal-for-outright-petrol-motorbike-ban-around-hoan-kiem-lake-2521274.html (поэтапный план: с 01.07.2026 вечерние ограничения по пятницам–воскресеньям вокруг Хоанкьема; с 2028 года всё первое кольцо).
+7.  Viet Nam News, «Hà Nội to pilot petrol motorbike ban in Old Quarter from July», 23.04.2026 — https://vietnamnews.vn/society/1780020/ha-noi-to-pilot-petrol-motorbike-ban-in-old-quarter-from-july.html (этапы пилота).
+8.  VOV, «Hanoi to ban petrol motorbikes within Ring Road 1 starting July 2026» — https://english.vov.vn/en/society/hanoi-to-ban-petrol-motorbikes-within-ring-road-1-starting-july-2026-post1214350.vov (исходное поручение 2025 года по первому кольцу).

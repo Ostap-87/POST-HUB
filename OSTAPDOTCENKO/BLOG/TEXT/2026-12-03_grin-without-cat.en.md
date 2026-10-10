@@ -7,6 +7,9 @@ lang: "en"
 title: "A Grin Without a Cat"
 subtitle: "China’s digital livestream hosts sell around the clock, cost a tenth of a human and must keep reminding you they don’t exist. The economics of a salesperson who isn’t there"
 meta_description: "Over 70,000 JD.com merchants run livestreams with AI avatars that cost a tenth of a human host. Since February 1, 2026, Chinese law requires such hosts to keep telling viewers they are AI-generated. A wry essay on what avatars can sell, what they can’t, and why they need a label."
+excerpt: "China’s digital livestream hosts sell around the clock, cost a tenth of a human and must keep reminding you they don’t exist. The economics of a salesperson who isn’t there"
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "grin-without-cat"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -74,3 +77,13 @@ Is that hurtful for human hosts? Probably. In their shoes, I wouldn’t take it 
 At the end of the story the Cheshire Cat vanishes and the grin lingers in the air a while. In Chinese e-commerce it’s the other way around: the grin hangs in the air around the clock, and the cat — the human seller — has finally gone to bed.
 
 Maybe that’s what progress is. Not a machine replacing a person. A person finally being allowed to sleep.
+
+**Sources**
+
+1.  Yicai (第一财经), интервью JD.com о цифровых людях, 25.03.2025 — https://www.yicai.com/news/102533448.html (снижение стоимости цифрового человека более чем на 90 %, больше 9000 продавцов).
+2.  Yicai Global, «Over 70,000 Sellers Use JD.Com’s Digital Humans for Hosting E-Commerce Livestreams», 25.03.2026 — https://www.yicaiglobal.com/news/jdcom-reveals-over-70000-sellers-use-its-digital-human-livestreaming-hosts (70 тыс. продавцов, десятая часть стоимости, бесплатно с декабря 2025 года, десятки миллиардов юаней оборота в 2025 году).
+3.  China.com (中华网), о данных Baidu за «11.11» 2025 года, 21.11.2025 — https://m.tech.china.com/redian/2025/1121/112025_1769219.html (83 % продавцов, +119 % эфиров, +91 % оборота).
+4.  PEdaily (投资界), материал о цифровых ведущих, 29.09.2026 — https://news.pedaily.cn/202609/569764.shtml (отраслевые замеры конверсии по типам товаров).
+5.  Управление киберпространства КНР (CAC), «直播电商监督管理办法» (приказ ГАРР № 117), опубликовано 07.01.2026 — https://www.cac.gov.cn/2026-01/07/c_1769516655383334.htm (вступление в силу 1 февраля 2026 года, статьи 34, 37 и 59).
+6.  Синьхуа, «《人工智能生成合成内容标识办法》发布», 14.03.2025 — https://www.news.cn/tech/20250314/f8b96305ff274e0cb70031c2819092ee/c.html (правила маркировки ИИ-контента, с 1 сентября 2025 года).
+7.  Синьхуа, о проекте стандарта идентификации цифровых людей МПИИ, 23.01.2026 — https://www.news.cn/politics/20260123/7ab4fbfe7743499abdb8d4f59fe547db/c.html (принцип «один человек — один код»).

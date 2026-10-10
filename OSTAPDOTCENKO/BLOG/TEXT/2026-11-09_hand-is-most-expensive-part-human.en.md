@@ -7,6 +7,9 @@ lang: "en"
 title: "The Hand Is the Most Expensive Part of a Human"
 subtitle: "Why a humanoid can run a half-marathon before it can button a shirt, and how China became the world’s robot-hand supplier"
 meta_description: "A dexterous hand can account for up to a fifth of a humanoid’s cost and, by Tesla’s account, half the engineering work. Chinese firms like Inspire Robots, Linkerbot and BrainCo now ship nearly all the world’s dexterous hands and have cut prices several times over. A wry essay on robots that have legs and are still growing hands."
+excerpt: "Why a humanoid can run a half-marathon before it can button a shirt, and how China became the world’s robot-hand supplier"
+tag: "Robots"
+time: "6 min"
 slug: "hand-is-most-expensive-part-human"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -63,3 +66,12 @@ I’ve shaken a lot of Chinese hands over the years. The Chinese handshake is so
 Seriously, though, I like that the hardest part of a robot is the part we use to stroke a child’s hair, write letters and hold someone’s hand in a hospital. It means we were right to value it.
 
 The hand is the most expensive part of a human. Even when the spreadsheet says otherwise.
+
+**Sources**
+
+1.  ITES Shenzhen, «Dexterous Hands: 70,000 Units of Annual Demand, Fewer Than 20,000 in Production», 20.08.2026 — https://global.iteschina.com/en/news/details/2994 (оценка Morgan Stanley 17,3 % BOM Optimus; 10–20 % по оценкам отрасли; цены BrainCo и Inspire; закупки кистей Unitree в январе–сентябре 2025 г.; микрошестерни и винты 1,4 мм; продажи 19,2 тыс. кистей в 2025 г. по GGII).
+2.  Caixin Global, «The misguided quest for a human-like robot hand», 07.10.2025 — https://www.caixinglobal.com/2025-10-07/the-misguided-quest-for-a-human-like-robot-hand-102369319.html (кисти — около 17 % стоимости «железа» Optimus Gen2; у Tesla на кисть — около половины инженерной работы).
+3.  Gasgoo, «Smart Drive & Capital Talks \| No Overnight Miracles, Clearing Up the “Math” for Dexterous Hands», 11.03.2026 — https://autonews.gasgoo.com/articles/market-industry/smart-drive-capital-talks-no-overnight-miracles-clearing-up-the-math-for-dexterous-hands-2031720624269938689 (история продаж Inspire Robots: запуск в 2020 г., ~2000 шт. в 2024 г., 10 000+ в 2025 г.).
+4.  Humanoid.guide со ссылкой на Reuters, «Linkerbot targets $6 billion valuation as humanoid robot hands scale», 04.05.2026 — https://humanoid.guide/?p=11200 (оценка 3 млрд долл., ~5000 кистей в месяц, заявленные 80 % рынка, модель O6).
+5.  AI Business, «China leads dexterous hand supply for humanoids», 25.09.2026 — https://aibusiness.com/robotics/china-leads-dexterous-hand-supply (данные SAG: 96 % поставок кистей с 6+ активными степенями свободы в I полугодии 2026 г.; снижение доли ловких кистей).
+6.  Humanoid.guide со ссылкой на The Guardian, «China’s humanoid robot hands race targets useful manipulation», 07.07.2026 — https://humanoid.guide/?p=14309 (мнение Натана Лепоры об управлении кистями).

@@ -7,6 +7,9 @@ lang: "en"
 title: "Third Time’s the Factory"
 subtitle: "Sample, pilot run, mass production: why everything with a Chinese factory gets made three times, and why that’s a method, not a disaster"
 meta_description: "Lessons from years of working with Chinese manufacturers: what dayang, shichan and liangchan mean, why hardware engineers invented EVT, DVT and PVT, what a “sealed sample” is, and why the first version almost always gets redone. A warm, wry essay that closes the “Start Over” column."
+excerpt: "Sample, pilot run, mass production: why everything with a Chinese factory gets made three times, and why that’s a method, not a disaster"
+tag: "Restarts"
+time: "7 min"
 slug: "third-time-factory"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -86,3 +89,9 @@ When I started this column, I thought I was writing about failures. It turned ou
 The box is what went wrong. Starting over is what people do.
 
 This column ends here. But I suspect this was only the sample.
+
+**Sources**
+
+1.  Instrumental, «EVT, DVT, PVT: The Build Better Handbook» — https://instrumental.com/build-better-handbook/evt-dvt-pvt (этапы EVT, DVT, PVT и MP, что проверяет каждый, типичные объёмы: EVT — примерно 100–1000 штук, DVT — 300–2000, PVT — 1000–20 000, все единицы PVT предназначены для продажи).
+2.  Ху Ши, «Биография господина Чабудо» (胡适《差不多先生传》) — сатирическое эссе начала XX века, входит в китайские школьные хрестоматии; текст широко доступен в открытых источниках.
+3.  Термины 打样 (образец), 试产 (пробное производство), 封样 (запечатанный образец), 量产 (серийное производство) — общеупотребительная лексика китайской промышленности и закупок; описание практики дано по обобщённому опыту автора.

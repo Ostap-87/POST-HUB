@@ -7,6 +7,9 @@ lang: "en"
 title: "An Agent Without a Fixed Address"
 subtitle: "How Manus moved from Beijing to Singapore, sold itself to Meta for $2 billion and learned that you don’t change where you’re from by changing where you live"
 meta_description: "Manus, the Chinese AI agent that took the internet by storm in March 2025, moved its headquarters to Singapore, sold to Meta and then saw Beijing block the deal in April 2026. A wry essay on why an AI agent can work from anywhere while its founders can’t, plus China’s “lobster fever.”"
+excerpt: "How Manus moved from Beijing to Singapore, sold itself to Meta for $2 billion and learned that you don’t change where you’re from by changing where you live"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "agent-without-fixed-address"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,13 @@ An AI agent can work from anywhere. It needs no passport and no visa. Nobody sto
 Its creators, they stop.
 
 I don’t find that funny. I feel for people who built a very good intern and ended up as the ones who aren’t allowed to leave.
+
+**Sources**
+
+1.  Wikipedia, «Manus (AI agent)» (сводная хронология со ссылками на China Daily, WSJ, 36Kr, Bloomberg, Reuters) — https://en.wikipedia.org/wiki/Manus_(AI_agent) (запуск 06.03.2025, просмотры ролика, цены инвайтов, Butterfly Effect, Monica, предложение ByteDance, раунд Benchmark, проверка Минфина США, переезд в Сингапур, сокращения, закрытие китайских аккаунтов, выручка 90 и 125 млн долл.).
+2.  Dahui Lawyers, «China’s First Public Foreign Investment Security Review Prohibition: The Meta–Manus Decision», 29.04.2026 — https://www.dahuilawyers.com/en/news-insights/chinas-first-public-foreign-investment-security-review-prohibition-the-metamanus-decision/ (объявление сделки 29.12.2025, заявление Минкоммерции 08.01.2026, запрет 27.04.2026, правовые основания).
+3.  Shumaker, Loop & Kendrick, «China Made Meta Give Back a $2 Billion Artificial Intelligence Acquisition», 01.07.2026 — https://www.shumaker.com/insight/china-made-meta-give-back-a-2-billion-artificial-intelligence-acquisition-what-it-means-for-your-next-cross-border-deal/ (сумма более 2 млрд долл., запрет на выезд сооснователей в марте 2026, 40 инженеров в Сингапуре, около 80 сокращённых, разделение в июне).
+4.  CNBC, «Meta faces China probe over acquisition of AI agent startup Manus», 08.01.2026 — https://www.cnbc.com/2026/01/08/china-investigate-meta-acquisition-manus-export.html (начало проверки).
+5.  Mobile World Live, «Tencent leads chase to end Manus-Meta saga», 10.07.2026 — https://www.mobileworldlive.com/regulation/tencent-leads-chase-to-end-manus-meta-saga/ (переговоры Tencent, ZhenFund, HSG; идея основателей вложить 1 млрд долл.).
+6.  South China Morning Post, «Manus resumes solo operations after collapse of US$2 billion Meta deal», 01.09.2026 — https://scmp.com/tech/big-tech/article/3365986/manus-resumes-solo-operations-after-collapse-us2-billion-meta-deal (возобновление самостоятельной работы, удаление данных после 29.12).
+7.  Caixin Global, «In Depth: OpenClaw Craze Fuels Fresh AI Ambitions, Fears in China», 20.03.2026 — https://www.caixinglobal.com/2026-03-20/in-depth-openclaw-craze-fuels-fresh-ai-ambitions-fears-in-china-102425383.html (OpenClaw в Китае, продукты Tencent, Alibaba, Baidu, Xiaomi, Honor, Huawei; «мобильный лобстер»; стоимость задач; рекомендации регуляторов по безопасности).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "老师改行去卖货"
 subtitle: "俞敏洪：市值跌去九成，捐出八万套课桌椅，然后教全国人民边买玉米边学单词"
 meta_description: "一个常跑中国的俄罗斯营销人，看新东方和俞敏洪的“绝望与希望”：2021年“双减”、六万人离职、近八万套课桌椅捐给乡村学校、东方甄选双语带货、董宇辉“小作文”风波与“与辉同行”，以及新东方悄悄回到教育主业。"
+excerpt: "俞敏洪：市值跌去九成，捐出八万套课桌椅，然后教全国人民边买玉米边学单词"
+tag: "重新来过"
+time: "7 分钟"
 slug: "teacher-who-went-into-retail"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -76,3 +79,16 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_
 也许此刻，在甘肃或新疆的某个乡村，孩子们还坐在贴着新东方标签的课桌前。他们不知道这些桌子从哪儿来，不知道那六万名老师，也不知道在什么样的绝望里，人才需要寻找希望。
 
 不知道也好。好好念书就行。
+
+**来源**
+
+1.  Sixth Tone, «New Oriental Fired 60,000 Staff After Education Clampdown, CEO Says», 10.01.2022 — https://www.sixthtone.com/news/1009411 (60 тыс. уволенных, падение выручки на 80 % и капитализации на 90 % за 2021 год, почти 20 млрд юаней на возвраты, пособия и аренду).
+2.  每日经济新闻 (NBD), 04.11.2021 — https://www.nbd.com.cn/articles/2021-11-04/1981400.html (пост Юй Миньхуна о «почти восьмидесяти тысячах» комплектов парт и стульев для сельских школ; список филиалов).
+3.  每日经济新闻 (NBD), 29.12.2021 — https://www.nbd.com.cn/articles/2021-12-29/2063692.html (первый эфир Юя в Oriental Selection 28.12.2021, сельхозпродукция, «как урок»).
+4.  Yicai Global, «Koolearn Sinks After Soaring Over 500% on Viral Mix of English Lessons With Live Sales», 17.06.2022 — https://yicaiglobal.com/news/koolearn-stock-sinks-after-soaring-over-four-times-on-viral-english-livestreaming-this-week (рост подписчиков с ~1 млн до 10 млн, рост акций Koolearn больше чем на 500 %).
+5.  Caixin Global, «In Depth: East Buy’s Earnings Fizzle With the Exit of One Livestreamer» — https://www.caixinglobal.com/2025-09-02/in-depth-east-buys-earnings-fizzle-with-the-exit-of-one-livestreamer-102358198.html (переименование Koolearn в East Buy в марте 2023, прибыль 971 млн юаней, конфликт декабря 2023, падение акций на 22 %, эфир на 34 млн зрителей, продажа «Времени с Юйхуэем» за 76,6 млн юаней, падение GMV почти на 40 %).
+6.  新京报 (Beijing News), 06.11.2025 — https://www.bjnews.com.cn/detail/1762415985168368.html (Юй Миньхун подтверждает уход Сунь Дунсюя; Юй стал CEO в декабре 2023).
+7.  IT之家 (ITHome), 14.07.2026 — https://www.ithome.com/0/976/288.htm (новая компания Сунь Дунсюя и двух бывших ведущих East Buy, июль 2026).
+8.  界面新闻 (Jiemian) — https://www.jiemian.com/article/7609791.html (три попытки гаокао, поступление в Пекинский университет в 1980 году, листинг New Oriental на NYSE в 2006 году).
+9.  New Oriental Education & Technology Group, годовой отчёт (Form 20-F, выдержка, 6-K) за финансовый год, закончившийся 31.05.2026 — https://www.sec.gov/Archives/edgar/data/0001372920/000119312526397313/d214865dex991.pdf (выручка 5,66 млрд долл.; новые направления бизнеса).
+10. EqualOcean, «New Oriental Records USD 4.27 billion Revenue in FY 2021», 26.09.2021 — https://equalocean.com/news/2021092616654-new-oriental-records-usd-4-27-billion-revenue-fy-2021 (выручка за финансовый 2021 год).

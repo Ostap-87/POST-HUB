@@ -7,6 +7,9 @@ lang: "en"
 title: "Here Be Dragons"
 subtitle: "How Hangzhou, a city of poets, tea and West Lake, raised six tech stars, and why you shouldn’t rush a dragon"
 meta_description: "DeepSeek, Unitree, Game Science, Deep Robotics, BrainCo and Manycore: Hangzhou’s “Six Little Dragons”. Where they came from, which ones have listed, and what the city did to avoid scaring them off. A wry essay on patience as an investment strategy."
+excerpt: "How Hangzhou, a city of poets, tea and West Lake, raised six tech stars, and why you shouldn’t rush a dragon"
+tag: "Robots"
+time: "6 min"
 slug: "here-be-dragons"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -73,3 +76,16 @@ Someday I’ll go back to Hangzhou, sit by West Lake and order a cup of Longjing
 And I’ll think that the most valuable thing you can give a dragon isn’t money.
 
 It’s time. The one thing we never seem to have, and they somehow do.
+
+**Sources**
+
+1.  Wikipedia, «Six Little Dragons» — https://en.wikipedia.org/wiki/Six_Little_Dragons (происхождение выражения, состав шестёрки, программа поддержки стартапов 2010 года, выпускники Чжэцзянского университета — трое из шести).
+2.  Jamestown Foundation, «DeepSeek, Unitree, and the Six Dragons: Hangzhou’s Plan to Shape Technology’s Future», 19.03.2025 — https://jamestown.org/deepseek-unitree-and-the-six-dragons-hangzhous-plan-to-shape-technologys-future/ (программа 2010 года и тысяча стартапов, субсидии Биньцзяна, льготы по аренде в районе Сиху).
+3.  South China Morning Post, «Hangzhou emerges as new tech hub with ‘little dragons’ DeepSeek, Unitree» — https://www.scmp.com/tech/tech-trends/article/3297898/hangzhou-emerges-new-tech-hub-little-dragons-deepseek-unitree (новогоднее обращение властей, Alibaba).
+4.  Bloomberg, «Nvidia’s $589 Billion DeepSeek Rout Is Largest in Market History», 27.01.2025 — https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks.
+5.  Gematsu, «Black Myth: Wukong sales top 10 million» (август 2024) — https://www.gematsu.com/2024/08/black-myth-wukong-sales-top-10-million.
+6.  Yicai Global, «Embodied AI Startup Deep Robotics Moves Closer to Shanghai Listing», 19.05.2026 — https://www.yicaiglobal.com/news/embodied-ai-little-dragon-deep-robotics-moves-toward-star-market-listing (основатели, выручка и прибыль 2025 года, заявка на STAR Market).
+7.  eHangzhou, «Hard-tech firms spearhead new IPO listing wave», 13.01.2026 — https://www.ehangzhou.gov.cn/2026-01/13/c_296687.htm (BrainCo: основана в 2015 году, раунд около 2 млрд юаней, заявка на IPO в Гонконге).
+8.  36Kr, «BrainCo: Racing Towards Becoming the First Brain-Computer Interface Stock» — https://eu.36kr.com/en/p/3671128673821320 (Хань Бичэн, Гарвардская инновационная лаборатория, продукты).
+9.  eHangzhou, 17.04.2026 — https://www.ehangzhou.gov.cn/2026-04/17/c_297375.htm (листинг Manycore: дата, цена 7,62 HK$, рост более 170 %, переподписка в 1591 раз, основана в 2011 году).
+10. eHangzhou, «Zhejiang steps up to cultivate more ‘new technology dragons’», 10.03.2026 — https://www.ehangzhou.gov.cn/2026-03/10/c_296992.htm (цитата мэра Яо Гаоюаня, 96 «новых драконов» из почти 400 кандидатов, фонд «Жуньмяо» с горизонтом до 20 лет).

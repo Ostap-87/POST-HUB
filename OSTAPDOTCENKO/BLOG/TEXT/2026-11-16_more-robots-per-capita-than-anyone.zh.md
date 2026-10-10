@@ -7,6 +7,9 @@ lang: "zh"
 title: "人均机器人冠军"
 subtitle: "韩国如何成为全球机器人密度最高的国家，买下波士顿动力、控股彩虹机器人——却还是忍不住回头看中国"
 meta_description: "韩国每万名制造业工人拥有1220台工业机器人，全球第一。现代汽车拥有波士顿动力，计划年产3万台Atlas；三星控股彩虹机器人。但中国企业已经拿下韩国服务机器人市场七成以上份额。一个常跑亚洲的俄罗斯营销人的自嘲随笔。"
+excerpt: "韩国如何成为全球机器人密度最高的国家，买下波士顿动力、控股彩虹机器人——却还是忍不住回头看中国"
+tag: "机器人"
+time: "6 分钟"
 slug: "more-robots-per-capita-than-anyone"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -64,3 +67,15 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 只不过，这一次，在跑的不止它一个。
 
 빨리빨리。电梯门已经在关了。关键是看清楚：谁在里面，谁还站在外面。
+
+**来源**
+
+1.  IFR, «Robot Density Surges in Europe, Asia, and Americas», 08.04.2026 — https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas (плотность роботизации за 2024 год: Корея 1220, Сингапур 818, Германия 449, Япония 446, Китай 166 и 22-е место, мир 132; ~2 млн роботов в Китае, 54 % установок; электроника и автопром как главные заказчики в Корее).
+2.  Engadget, «Hyundai confirms its $1.1 billion acquisition of Boston Dynamics», 06.2021 — https://www.engadget.com/hyundai-acquires-boston-dynamics-1-1-billion-110901223.html (покупка у SoftBank, оценка 1,1 млрд долларов).
+3.  Axios, «Hyundai plans 30,000 humanoid robots a year for factories by 2028», 05.01.2026 — https://www.axios.com/2026/01/05/hyundai-humanoid-robots-boston-dynamics (30 тыс. роботов в год, Atlas на Metaplant в Джорджии с 2028 года, сборка к 2030-му).
+4.  Korea Economic Daily, «Samsung joins humanoid robots race with larger stake in Rainbow Robotics», 31.12.2024 — http://www.kedglobal.com/robotics/newsView/ked202412310001 (доля 35 %, Офис будущей робототехники, Он Джунхо, Rainbow из лаборатории KAIST, Hubo).
+5.  DVIDS / DARPA, «Robots from South Korea, U.S. Win DARPA Finals», 06.2015 — https://www.dvidshub.net/news/printable/503827 (победа команды KAIST с DRC-HUBO в 2015 году).
+6.  Samsung Newsroom, «Samsung Electronics to Become Largest Shareholder in Rainbow Robotics» — https://news.samsung.com/global/samsung-electronics-to-become-largest-shareholder-in-rainbow-robotics (официальное объявление).
+7.  The Korea Times, «China increases presence in Korea’s advanced robot market», 05.03.2026 — https://www.koreatimes.co.kr/business/tech-science/20260305/china-increases-presence-in-koreas-advanced-robot-market (70 % рынка сервисных роботов, 54 % роботов-пылесосов, Unitree в Emart, цены G1 и Go2, цитата о «горизонтальной конкуренции»).
+8.  The Korea Herald, «Korea’s patent share falls to 4.6%, the US to 21.8%, as China advances in robot AI and core technologies», 28.09.2026 — https://www.koreaherald.com/article/10886376 (доли патентов на гуманоидов в первом полугодии 2026 года).
+9.  Seoulz, «Korea robot density 2026» — https://www.seoulz.com/korea-robot-density-2026/ (K-Humanoid Alliance, апрель 2025 года).

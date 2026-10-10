@@ -7,6 +7,9 @@ lang: "en"
 title: "Small Molecule, Big Markup"
 subtitle: "How “small-molecule peptide” became the hottest phrase in China’s health livestreams for the elderly, why peptide powders are sold as “solid beverages” and “pressed candy,” and what market regulators think about it"
 meta_description: "“Small-molecule peptide” is a star of China’s health livestreams: oyster, soy, marine, even in baijiu. How the market works, why peptide powder is labeled a “solid beverage,” what regulators require, and how many illegal health-marketing cases they’ve opened since 2020. No medical advice."
+excerpt: "How “small-molecule peptide” became the hottest phrase in China’s health livestreams for the elderly, why peptide powders are sold as “solid beverages” and “pressed candy,” and what market regulators think about it"
+tag: "Peptides"
+time: "5 min"
 slug: "small-molecule-big-markup"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -52,3 +55,15 @@ I feel bad for the science. Short peptides really are interesting, and researche
 Small molecule, big markup.
 
 I keep thinking of that Shanghai mother watching six hours of streams a day. She doesn’t need a peptide. She needs someone to talk to her for six hours a day. The host figured that out before her daughter did.
+
+**Sources**
+
+1.  ChemLinked, GB 31645-2018 «食品安全国家标准 胶原蛋白肽» — https://food.chemlinked.com/database/view/1085 (национальный стандарт на коллагеновые пептиды, действует с 21.12.2018).
+2.  新华网, «新华视点｜直播间保健品乱象调查», 29.11.2024 — https://www.news.cn/fortune/20241129/43c21a0dbcaf423792a42498a6cc59b8/c.html (68-летняя мать, 4–6 часов эфиров в день, «от капсул натто… до чистого малого молекулярного пептида»).
+3.  新浪财经, «央视揭私域直播骗局：免费送鸡蛋拉老人进群，维生素吹成诺奖神药», 11.08.2026 — https://t.cj.sina.com.cn/articles/view/1826017320/6cd6d02802001uwou (схема с бесплатными яйцами, наказаны 6 компаний в районе Миньхан).
+4.  李云涛 и др., «人参鹿鞭牡蛎肽片(压片糖果)配方设计及制备工艺», 食品工业, 2024, 45(8): 32–34 — https://search.napstic.cn/literature/periodical/010spgy202408008 (таблетки с устричным пептидом в категории «прессованная конфета»).
+5.  China Daily / 北京青年报, «“大头娃娃”事件消费者获赔百万», 20.02.2021 — https://cn.chinadaily.com.cn/a/202102/20/WS603066f1a3101e7ce974038c.html (белковый твёрдый напиток, штраф 2 млн юаней).
+6.  中国证券网, «市场监管总局：进一步规范固体饮料标签标注», 07.01.2022 — https://www.cs.com.cn/xwzx/hg/202201/t20220107_6233717.html (предупреждение не менее 20 % площади, запрет намёков через названия ингредиентов).
+7.  NutraIngredients, «China regulator to tighten control on health foods marketed to seniors», 03.09.2025 — https://www.nutraingredients.com/Article/2025/09/03/china-regulator-to-tighten-control-on-health-foods-marketed-to-seniors (6304 дела с 2020 г., 260 млн юаней, три схемы).
+8.  中华网, рекламный материал о байцзю с малыми пептидами, 06.11.2025 — https://mtz.china.com/touzi/2025/1106/201368.html (обещания по мочевой кислоте и печени, бонусы за привлечение).
+9.  中华网 / 财讯网, «从吸收机制看小分子肽的营养优势», 16.04.2026 — https://m.tech.china.com/hea/articles/20260416/202604161849015.html (заявленное усвоение 90 %+, 14 свойств, без источников).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "一辆推车的经济学"
 subtitle: "一个画了一辈子销售漏斗的营销人，在中国和台湾的夜市里，遇见了一个用烟做成的漏斗"
 meta_description: "把中国大陆和台湾的夜市当成商业模式来看：一辆推车、一口锅、只卖一样东西；2020年的“地摊经济”、成都的3.6万个摊位、入选米其林必比登的夜市小吃，以及一门每天早上清盘、每天晚上重新开张的生意。"
+excerpt: "一个画了一辈子销售漏斗的营销人，在中国和台湾的夜市里，遇见了一个用烟做成的漏斗"
+tag: "观察"
+time: "5 分钟"
 slug: "economics-cart"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -78,3 +81,11 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 我这个画了一辈子商业模式的人，忽然明白：我在亚洲见过的最稳的商业模式，不靠投资人，也不靠算法。它靠的是一个人的背。
 
 明天早上，这里是停车位。到了晚上，又是一片烟火。
+
+**来源**
+
+1.  South China Morning Post, «China turns to ‘street vendor economy’ to help manage unemployment crisis», июнь 2020 — https://amp.scmp.com/economy/china-economy/article/3087770/china-turns-street-vendor-economy-help-manage-unemployment (выступление премьера Ли Кэцяна в Яньтае, пример Чэнду: 36 тыс. лотков и 100 тыс. рабочих мест).
+2.  Caixin Global, «Premier Promises Government Support for Street Vendors», 02.06.2020 — https://www.caixinglobal.com/2020-06-02/premier-promises-government-support-for-street-vendors-101562239.html (поддержка уличной торговли со стороны премьера).
+3.  The World of Chinese, «Stalled Economy», июнь 2020 — https://www.theworldofchinese.com/2020/06/stalled-economy/ (термин «экономика лотков» 地摊经济; рост акций производителей оборудования и фургонов до дневного лимита; позиция пекинской прессы о том, что лотки не подходят столице).
+4.  Michelin Guide, «Michelin Guide Taipei 2019 Bib Gourmand Selection: Street Foods», 02.04.2019 — https://guide.michelin.com/en/article/news-and-views/michelin-guide-taipei-2019-bib-gourmand-selection-street-foods (24 уличных лотка с 8 ночных рынков Тайбэя).
+5.  Retail Insight Network, «Night markets drive Taiwan retail tourism», 06.10.2025 — https://www.retail-insight-network.com/newsletters/night-markets-drive-taiwan-retail-tourism (данные Туристической администрации Тайваня: более 80% иностранных гостей посещают ночные рынки).

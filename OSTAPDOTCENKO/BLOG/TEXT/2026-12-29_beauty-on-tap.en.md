@@ -7,6 +7,9 @@ lang: "en"
 title: "Beauty on Tap"
 subtitle: "For three decades Japan has drunk collagen from little bottles and eaten it from hotpots and turtles, while scientists argue over whether any of it reaches the face"
 meta_description: "Shiseido has sold collagen supplements since 1996 and shipped some 350 million bottles of The Collagen; Japan went through collagen hotpots and soft-shell turtle; Japanese researchers found collagen peptides in the blood, and a 2025 meta-analysis found no proven skin benefit. A wry essay about a drink that sells hope."
+excerpt: "For three decades Japan has drunk collagen from little bottles and eaten it from hotpots and turtles, while scientists argue over whether any of it reaches the face"
+tag: "Peptides"
+time: "6 min"
 slug: "beauty-on-tap"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -42,3 +45,16 @@ I won’t judge whether collagen in a glass works. I’ll judge something else: 
 You can’t drink youth. But you can drink to youth, and that, Japan discovered, is a big market too.
 
 I still side with the woman at the turtle restaurant. Effect unconfirmed. But warm.
+
+**Sources**
+
+1.  Shiseido, The Collagen — https://corp.shiseido.com/en/brands/the-collagen/ (первые коллагеновые добавки Shiseido в 1996 г., около 350 млн бутылочек с 03.2009 по 04.2025, первое место среди коллагеновых напитков по данным INTAGE).
+2.  Meiji, Amino Collagen — https://www.meiji.co.jp/health/amicolla/en/standard/ («любимец 23 года», первое место по данным INTAGE за 2024 г.).
+3.  Web Japan, «Hotpots for Health and Beauty», март 2010 — https://web-japan.org/trends/09_lifestyle/lif100304.html (мода на коллагеновые набэ, бульон в бутылках).
+4.  Reuters / FashionNetwork, «Pigs feet and turtle blood fuel Japan beauty trend», 04.03.2008 — https://gr.fashionnetwork.com/news/Pigs-feet-and-turtle-blood-fuel-Japan-beauty-trend,40341.html (суппон, 70 % посетительниц, цитата «эффект не подтверждён»).
+5.  Iwai K. et al., «Identification of food-derived collagen peptides in human blood after oral ingestion of gelatin hydrolysates», Journal of Agricultural and Food Chemistry, 2005, 53(16): 6531–6536 — https://pubmed.ncbi.nlm.nih.gov/16076145/ (Pro-Hyp в крови, пик через 1–2 часа).
+6.  NutraIngredients, «Industry pushes back on meta-analysis concluding collagen supplements show no benefit for skin aging», 26.08.2025 — https://nutraingredients.com/Article/2025/08/26/industry-reacts-to-meta-analysis-concluding-collagen-supplements-show-no-proven-benefit-for-skin-aging (метаанализ Myung и Park, 23 РКИ, 1474 участника, реакция индустрии).
+7.  NutraIngredients, «Kobayashi knock-on effect: Japanese functional foods businesses legally bound to four new rules from Sep», 08.07.2024 — https://www.nutraingredients.com/Article/2024/07/08/japanese-functional-foods-businesses-legally-bound-to-four-new-rules-from-sep/ (новые правила с 01.09.2024, GMP с 01.09.2026).
+8.  日本食糧新聞, «ディープチャージ コラーゲン ＜2種の葡萄ゼリー＞（ファンケル）», 2026 — https://news.nissyoku.co.jp/foodsnews/260810-38 (продукт с заявленной функцией, выход 18.08.2026, трипептиды).
+9.  ChemLinked, GB 31645-2018 «食品安全国家标准 胶原蛋白肽» — https://food.chemlinked.com/database/view/1085 (стандарт на коллагеновые пептиды, действует с 21.12.2018).
+10. 澎湃新闻, «口服胶原蛋白肽，是美容智商税吗？», 08.03.2023 — https://m.thepaper.cn/newsDetail_forward_22177063 (китайская дискуссия об эффективности).

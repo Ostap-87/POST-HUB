@@ -7,6 +7,9 @@ lang: "zh"
 title: "人呢？"
 subtitle: "我在中国工厂里看懂的“机器换人”：车间里的人少了，但人没消失，只是挪了个地方——有的，挪进了统计数据"
 meta_description: "全球每五台新装工业机器人里，近三台装在中国；按新口径统计，中国的机器人密度“降”了三分之二；黑灯工厂造手机的速度，比新闻稿算得还快。一个常跑中国工厂的俄罗斯营销人，聊聊车间里的人都去哪儿了、现在在干什么。"
+excerpt: "我在中国工厂里看懂的“机器换人”：车间里的人少了，但人没消失，只是挪了个地方——有的，挪进了统计数据"
+tag: "机器人"
+time: "5 分钟"
 slug: "where-is-everybody"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 人呢？
 
 都在。只是站得稍远了一点。
+
+**来源**
+
+1.  IFR, пресс-релиз World Robotics 2026 по Китаю, 24.09.2026 — https://ifr.org/downloads/press_docs/EN-2026-SEP-24-IFR_Press_Release_WR-CHINA.pdf (354 000 установок в 2025 г., почти 3 из 5 в мире, 55 % у китайских производителей).
+2.  IFR, «Robot Density Surges in Europe, Asia and Americas», 08.04.2026 — https://ifr.org/ifr-press-releases/news/robot-density-surges-in-europe-asia-and-americas (166 роботов на 10 000 работников по обновлённым данным Национального бюро статистики Китая, +17 %, 22-е место, около 2 млн роботов, в 4,5 раза больше Японии, 54 % мировых установок в 2024 г.).
+3.  IFR / Business Wire, «China Overtakes Germany and Japan in Robot Density», 20.11.2024 — https://www.businesswire.com/news/home/20241120789594/en/China-Overtakes-Germany-and-Japan-in-Robot-Density-IFR-reports (470 роботов на 10 000 работников по данным за 2023 г.).
+4.  Gizmochina, «Xiaomi smart factory can operate 24 hours a day without people», 09.07.2024 — https://gizmochina.com/2024/07/09/xiaomi-smart-factory-can-operate-24-hours-a-day-without-people (Чанпин, 81 000 м², 10 млн смартфонов в год, «телефон в секунду»).
+5.  每日经济新闻 (nbd.com.cn), 05.04.2019 — https://www.nbd.com.cn/articles/2019-04-05/1318292.html (13 новых профессий, в т. ч. операторы и специалисты по обслуживанию промышленных роботов, киберспортсмены, операторы дронов).
+6.  The Paper (澎湃新闻) — https://www.thepaper.cn/newsDetail_forward_29020236 («Руководство по развитию кадров обрабатывающей промышленности»: дефицит почти 30 млн к 2025 г.; исследование 2023 г.: доход курьеров 6803 юаня, разница с рабочими 900–1200 юаней, 62,8 % выбрали за свободный график).

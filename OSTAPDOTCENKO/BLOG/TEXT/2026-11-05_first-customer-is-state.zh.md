@@ -7,6 +7,9 @@ lang: "zh"
 title: "第一个买家，是政府"
 subtitle: "在家庭用户还在犹豫的时候，到底是谁在买中国的人形机器人"
 meta_description: "中国移动的亿元招标、各地具身智能数据采集中心、中越边境的防城港，加上市级与国家级产业基金——一个做营销的俄罗斯人，自嘲地聊聊：为什么中国机器人的第一个客户，带的不是钱包，是公章。"
+excerpt: "在家庭用户还在犹豫的时候，到底是谁在买中国的人形机器人"
+tag: "机器人"
+time: "6 分钟"
 slug: "first-customer-is-state"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -65,3 +68,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 她还没出现。现在微笑的，是市长。
 
 不过说实话，市长也是人，也需要有人搭把手——哪怕只是帮忙接待代表团。
+
+**来源**
+
+1.  Yicai Global, «China Mobile Awards Record USD17 Million Robot Tender to AgiBot and Unitree», 14.07.2025 — https://www.yicaiglobal.com/news/china-mobile-awards-record-usd17-million-robot-tender-to-agibot-and-unitree (124 млн юаней; AgiBot 78 млн, Unitree 46 млн).
+2.  TechNode, «UBTech’s Walker series humanoid robot orders exceed 630 million yuan in 2025», 20.10.2025 — https://technode.com/2025/10/20/ubtechs-walker-series-humanoid-robot-orders-exceed-630-million-yuan-in-2025/ (заказ 250 млн юаней в сентябре, 126 млн юаней на центр сбора данных в Гуанси).
+3.  South China Morning Post, «UBTech wins US$37 million deal to deploy humanoid robots at China-Vietnam border crossings», 25.11.2025 — https://www.scmp.com/tech/big-tech/article/3334081/ubtech-wins-us37-million-deal-deploy-humanoid-robots-china-vietnam-border-crossings (264 млн юаней, Фанчэнган, функции роботов).
+4.  AP, «China can build humanoids at scale. The hard part is finding enough buyers», 06.2026 (перепечатка WSLS) — https://www.wsls.com/business/2026/06/06/china-can-build-humanoids-at-scale-the-hard-part-is-finding-enough-buyers/ (оценка Morgan Stanley: заказов более 2 млрд юаней в 2025 г., многие от госкомпаний; предупреждения властей о пузыре).
+5.  Gov.cn (english), «Shenzhen unveils 10 bln yuan plan to boost AI, robotics», 24.02.2025 — https://english.www.gov.cn/news/202502/24/content_WS67bd2946c6d0868f4e8eff2c.html (фонд 10 млрд юаней, компенсация до 60 % вычислений, 100 сценариев).
+6.  IFR, «China to invest 1 trillion yuan in robotics and high-tech industries», 03.2025 — https://ifr.org/news/china-to-invest-1-trillion-yuan-in-robotics-and-high-tech-industries/ (национальный венчурный фонд-ориентир, около 1 трлн юаней, горизонт 20 лет).
+7.  Dealroom, «Robot Era raises funding as Chinese state funds pile into embodied AI», 06.07.2026 — https://dealroom.co/news/137033-robot-era-raises-147m-as-chinese-state-funds-pile-into-embodied-ai/ (Chengtong Fund, Hangzhou Capital, Jiangxi State Holding; более 20 госинвесторов и отраслевых инвесторов).
+8.  Jamestown Foundation, «Embodied Intelligence: The PRC’s Whole-of-Nation Push into Robotics» — https://jamestown.org/embodied-intelligence-the-prcs-whole-of-nation-push-into-robotics/ (обзор региональных субсидий и программ).

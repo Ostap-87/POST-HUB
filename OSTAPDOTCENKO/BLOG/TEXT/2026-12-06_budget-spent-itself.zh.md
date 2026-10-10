@@ -7,6 +7,9 @@ lang: "zh"
 title: "预算自己花完了"
 subtitle: "阿里和字节教会了广告自己买自己。营销人手里只剩一个按钮，外加一点自尊"
 meta_description: "阿里妈妈的“全站推广”、抖音的“千川·乘方”：在中国电商里，出价、分预算、做素材，AI已经一手包办。一位做了多年广告的俄罗斯营销人，自嘲地聊聊自动驾驶的广告、黑盒，以及一个从办公室搬进按钮里的职业。"
+excerpt: "阿里和字节教会了广告自己买自己。营销人手里只剩一个按钮，外加一点自尊"
+tag: "人工智能"
+time: "6 分钟"
 slug: "budget-spent-itself"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,15 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 现在，预算自己花完了。悄无声息，天亮之前。
 
 我还在。总得有人跟客户解释，钱去哪儿了。
+
+**来源**
+
+1.  36Kr, «2024年商家想要做好淘系电商，阿里妈妈全站推广这一增长新杠杆一定要会用» (спецпроект с Alimama), 17.04.2024 — https://www.36kr.com/p/2737289861327360 (запуск «全站推广» 16.04.2024, выбор целевой окупаемости и бюджета, модель LMA, связка платного и бесплатного трафика, новая роль специалиста по трафику).
+2.  Цземянь / 大V商业, «阿里妈妈，“奶不动”淘宝了», 19.04.2024 — https://www.jiemian.com/article/11068346.html (механика «全站推广», связь с аналогичным инструментом Pinduoduo).
+3.  Alibaba Group, June Quarter 2025 Results, август 2025 — https://www.businesswire.com/news/home/20250828875486/en/Alibaba-Group-Announces-June-Quarter-2025-Results (выручка customer management +10 %, рост take rate, проникновение Quanzhantui).
+4.  Alibaba Group, September Quarter 2025 Results, ноябрь 2025 — https://www.businesswire.com/news/home/20251124757764/en/Alibaba-Group-Announces-September-Quarter-2025-Results-and-Interim-Results-for-the-Six-Months-Ended-September-30-2025 (то же за сентябрьский квартал).
+5.  iTiger, «This Double 11, 5 Million Merchants Have Embraced AI», 04.11.2025 — https://www.itiger.com/news/1107996700 (ИИ в таргетинге, ставках, аукционе и креативах Alimama; 1 млн+ товаров с ростом продаж от 30 %; 5 млн+ продавцов с ИИ-инструментами).
+6.  36Kr Europe / 深响, «618 Preview: Fewer Traditional Promotions, More AI Integration», 21.05.2026 — https://eu.36kr.com/en/p/3818580792050565 (система «千川·乘方», три модуля, опасения продавцов насчёт «чёрного ящика»).
+7.  36Kr Europe / 零售商业评论, «AI Takes the Lead: 618 Adopts a New Strategy», 06.06.2026 — https://eu.36kr.com/en/p/3835998714016904 (модули «千川·乘方»; ограниченный прямой эффект ИИ на продажи, «невидимые приращения»).
+8.  Digitaling, статья о «全域推广» в 巨量千川 — https://www.digitaling.com/articles/1074709.html (настройка меньше чем за минуту: окупаемость, время, дневной бюджет, видео, одна кнопка).
+9.  Best Practice AI со ссылкой на Alizila, «Alibaba’s marketing arm is producing 20,000 lines of copywriting per second» — https://bestpractice.ai/ai-use-cases/case-studies/consumer-retail/alibaba-s-marketing-arm-is-producing-20-000-lines-of-copywriting-per-second-with-machine-learning-and-natural-language-processing (ИИ-копирайтер Alimama, 20 000 строк в секунду).

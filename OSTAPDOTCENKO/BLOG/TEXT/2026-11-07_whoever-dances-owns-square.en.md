@@ -7,6 +7,9 @@ lang: "en"
 title: "Whoever Dances Owns the Square"
 subtitle: "A monologue by a foreigner who steps out of his hotel every evening and lands in somebody else’s disco"
 meta_description: "Guangchangwu, China’s public square dancing: tens of millions of retirees, portable speakers, “Little Apple,” neighbors with shotguns and a noise law. An outsider’s look at who owns the evening in China."
+excerpt: "A monologue by a foreigner who steps out of his hotel every evening and lands in somebody else’s disco"
+tag: "Observations"
+time: "5 min"
 slug: "whoever-dances-owns-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -76,3 +79,10 @@ Nine p.m. The boss switches off the speaker. The rows dissolve into people. The 
 I walk back to the hotel with “Little Apple” stuck in my head. I don’t know the words. I’ll never forget the tune.
 
 Tomorrow at eight they’ll be back. I may already be in another city. There’ll be a square there, too. And a speaker. And someone dancing because nobody else is going to ask them to.
+
+**Sources**
+
+1.  NBC News, «Do-Si-Don’t: China Issues Rules for Square-Dancing Grannies», март 2015 — https://www.nbcnews.com/news/world/do-si-dont-china-issues-rules-square-dancing-grannies-n329571 (двенадцать программ, Генеральное управление по делам спорта и Министерство культуры, «десятки миллионов» танцующих, споры о шуме).
+2.  Noema / WorldPost, «Wrath of Dancing Grandmothers Forces Chinese Government to Backtrack», 25.03.2015 — https://www.noemamag.com/wrath-of-dancing-grandmothers-forces-chinese-government-to-backtrack/ (оценка до 100 млн танцующих, «Маленькое яблочко», уточнение о необязательности программ, ружьё и собаки в Пекине, пакеты из окон, соседская колонка за 40+ тыс. долл.).
+3.  China Justice Observer, Закон КНР о предотвращении и контроле шумового загрязнения (принят 24.12.2021, вступил в силу 05.06.2022) — https://chinajusticeobserver.com/law/x/law-on-noise-pollution-prevention-and-control-20211224 (правила для танцев и фитнеса на улицах, площадях и в парках: место, время, громкость).
+4.  Фадада (法大大), разбор нового закона о шуме — https://www.fadada.com/notice/detail-10835.html (дата вступления в силу, обязанности управляющих площадками).

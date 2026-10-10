@@ -7,6 +7,9 @@ lang: "en"
 title: "The City Where Nobody Carries a Wallet"
 subtitle: "A monologue about a country where everyone has money and nobody has seen it"
 meta_description: "China has all but stopped using cash: Alipay, WeChat Pay, a QR code on every stall, foreign visitors learning to pay with a phone, and a central bank that fines businesses for refusing paper yuan. A visitor’s view: convenient, fast and slightly unnerving."
+excerpt: "A monologue about a country where everyone has money and nobody has seen it"
+tag: "Observations"
+time: "5 min"
 slug: "city-where-nobody-carries-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -70,3 +73,11 @@ I fly home from China and bring back those same yuan. Red, intact, with the port
 Next time I’ll take them along again. Not because I’ll need them. Because there should be something in my pocket that doesn’t depend on a battery.
 
 Everything else, it seems, already does.
+
+**Sources**
+
+1.  Портал правительства КНР (english.www.gov.cn), статистика CNNIC, август 2024 — https://english.www.gov.cn/archive/statistics/202408/29/content_WS66d01325c6d0868f4e8ea52f.html (почти 1,1 млрд интернет-пользователей на июнь 2024; более 5 млн иностранцев использовали мобильные платежи в I полугодии 2024).
+2.  MNI Markets, «China Visitor Mobile Payments Surge in H1», 2024 — https://www.mnimarkets.com/articles/mni-brief-china-visitor-mobile-payments-surge-in-h1 (5+ млн иностранных пользователей, вчетверо больше; 90+ млн транзакций и 14+ млрд юаней, в семь раз больше; упрощение привязки зарубежных карт).
+3.  Портал правительства КНР, «Payment service guide for overseas visitors to China», апрель 2024 — https://english.www.gov.cn/news/202404/11/content_WS6617c858c6d0868f4e8e5f4d.html (меры по упрощению платежей для иностранцев: привязка Visa и Mastercard к Alipay и WeChat Pay, повышение лимитов с 1 до 5 тыс. долл. за операцию).
+4.  Cash Matters, «China’s Central Bank Defends the Right to Pay Cash», 2021 — https://www.cashmatters.org/blog/chinas-central-bank-defends-the-right-to-pay-cash (штрафы 16 организациям в 2020 году, до 500 тыс. юаней).
+5.  Caixin Global, «China Fines KFC and Other Businesses for Rejecting Cash Payments», 15.05.2024 — https://www.caixinglobal.com/2024-05-15/china-fines-kfc-and-other-businesses-for-rejecting-cash-payments-102196668.html (штраф франчайзи KFC в Уси и другим компаниям за отказ от наличных).

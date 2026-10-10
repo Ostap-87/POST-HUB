@@ -7,6 +7,9 @@ lang: "en"
 title: "AI, Please Leave the Exam Hall"
 subtitle: "For four days every June, China’s chatbots refuse to recognize an exam paper. On day five, journalists sit them down at the same desk and hand out top marks."
 meta_description: "During the gaokao, Doubao, Qwen, Kimi, Yuanbao and other Chinese AI apps switch off photo-based problem solving, security gates hunt for smart glasses — and once the exam is over, the same models score 137 to 150 out of 150 on the math paper. A wry essay on how China raises AI and then shows it the door."
+excerpt: "For four days every June, China’s chatbots refuse to recognize an exam paper. On day five, journalists sit them down at the same desk and hand out top marks."
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "ai-please-leave-exam-hall"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -56,3 +59,13 @@ AI, please leave the exam hall.
 You’ll be back. They’ll need you at university, at work, for the rest of their lives.
 
 But these four days are theirs.
+
+**Sources**
+
+1.  Fortune / Bloomberg, «Alibaba, Tencent freeze AI tools during high-stakes China college exam», 09.06.2025 — https://fortune.com/asia/2025/06/09/alibaba-tencent-freeze-ai-tools-gaokao-china-exam (Yuanbao и Kimi отключили распознавание фото, Qwen с 7 по 10 июня, реакция Doubao, ответ ботов, 13,4 млн участников, правила Минобразования мая 2025 г.).
+2.  新京报 (Beijing News), 03.06.2026 — https://www.bjnews.com.cn/detail/1780460956129787.html (12,9 млн заявок на гаокао-2026, модернизация «умных рамок» для поиска телефонов и умных очков).
+3.  中华网 (China.com), 07.06.2026 — https://news.china.com/socialgd/10000169/20260607/49534771.html (начало экзамена 7 июня, «временный замок» у Doubao, Qianwen, Quark, Kimi, позиция Baidu).
+4.  界面新闻 (Jiemian), 27.05.2026 — https://www.jiemian.com/article/14490571.html (ответ Doubao «до и после, но не во время», план «ИИ + образование» апреля 2026 г., тест Southern Metropolis Daily 2025 г.).
+5.  网易 / China Daily, 27.05.2026 — https://www.163.com/dy/article/KTV844R90530SFP3.html (сообщение «此项功能在高考时段无法使用», предупреждение Минобразования об «ИИ-прогнозах заданий»).
+6.  新京报 (Beijing News), тест моделей на математике гаокао-2026 — https://www.bjnews.com.cn/detail/1780914137169182.html (iFlytek Spark 148, Kimi 145, DeepSeek 144, Zhipu 143, MiniMax 142, ChatGPT 137).
+7.  新浪财经 / 智东西 (Zhidongxi), 17.06.2026 — https://finance.sina.cn/2026-06-17/detail-inictnum7014254.d.html (Yuanbao: математика 150, китайский 142, оценка сочинения Шэнь И).

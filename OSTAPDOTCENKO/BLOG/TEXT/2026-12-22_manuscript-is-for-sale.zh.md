@@ -7,6 +7,9 @@ lang: "zh"
 title: "手稿可以卖"
 subtitle: "中国药企卖给西方大药厂的，不再是药片，而是药片的“构想”。减重多肽，是货架上最抢手的那一类"
 meta_description: "2025年中国创新药对外授权交易总额达1357亿美元，2026年上半年几乎追平。恒瑞、石药、联邦制药把GLP-1等多肽分子授权给GSK、阿斯利康、诺和诺德——一个俄罗斯营销人，自嘲地看西方为什么来中国买“手稿”。"
+excerpt: "中国药企卖给西方大药厂的，不再是药片，而是药片的“构想”。减重多肽，是货架上最抢手的那一类"
+tag: "多肽"
+time: "6 分钟"
 slug: "manuscript-is-for-sale"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -69,3 +72,14 @@ DealForma的数据显示，早在2024年，大药厂首付款5000万美元以上
 我们习惯在杯底看到“中国制造”。也许很快，它会出现在专利的第一页。
 
 顺便说一句，普希金的手稿也卖了。卖得对。灵感还在他自己手里。
+
+**来源**
+
+1.  Caixin Global, «Chinese drugmakers strike record $136 billion in cross-border licensing deals», 14.01.2026 — https://www.caixinglobal.com/2026-01-14/chinese-drugmakers-strike-record-136-billion-in-cross-border-licensing-deals-102403540.html (135,7 млрд долларов, 157 сделок, 54 компании; 2024: 51,9 млрд и 94 сделки; Hengrui 16,7 млрд; сделка GSK).
+2.  The Standard / Reuters, «China innovative drug out-licensing deal value reaches new high in first half of 2026, says CCTV», 13.07.2026 — https://www.thestandard.com.hk/finance/article/337073/China-innovative-drug-out-licensing-deal-value-reaches-new-high-in-first-half-of-2026-says-CCTV (около 110 млрд долларов, 81 сделка).
+3.  CNBC / NBC Los Angeles, «U.S. investors, Big Pharma race to find new medicines in China», 13.02.2025 — https://www.nbclosangeles.com/news/business/money-report/u-s-investors-big-pharma-race-to-find-new-medicines-in-china/3631974 (почти 30 % сделок с авансом от 50 млн, DealForma; спад венчурного финансирования).
+4.  STAT, «GSK, Jiangsu Hengrui licensing deal», 28.07.2025 — https://www.statnews.com/2025/07/28/gsk-jiangsu-hengrui-licensing-deal-copd-china/ (500 млн аванса, до 12 млрд, 11 программ).
+5.  Patsnap Synapse, «Hengrui Licenses GLP-1 Portfolio to Hercules in $6 Billion Deal», 27.06.2024 — https://synapse.patsnap.com/article/hengrui-licenses-glp-1-portfolio-to-hercules-in-6-billion-deal (110 млн, вехи, доля 19,9 %).
+6.  Yahoo Finance / BioPharma Dive, «Kailera nets $625M in one of biotech’s biggest-ever IPOs», 16.04.2026 — https://finance.yahoo.com/sectors/healthcare/articles/kailera-nets-625m-one-biotech-203800407.html (IPO, ribupatide, сроки исследований).
+7.  The United Laboratories / Novo Nordisk, пресс-релиз о UBT251, 24.03.2025 — https://www.biospace.com/press-releases/the-united-laboratories-and-novo-nordisk-announce-exclusive-license-agreement-for-ubt251-a-glp-1-gip-glucagon-triple-receptor-agonist
+8.  Pharmaceutical Technology, «AstraZeneca signs $18.5bn weight-loss drug deal with CSPC», 30.01.2026 — https://www.pharmaceutical-technology.com/newsletters/astrazeneca-signs-18-5bn-weight-loss-drug-deal-with-cspc/

@@ -7,6 +7,9 @@ lang: "en"
 title: "The Chef Never Comes Out"
 subtitle: "The world argues about fashionable peptide drugs. Much of the active ingredient is cooked in China — in Changzhou, Taixing and Shenzhen. Notes on a kitchen the diner never sees."
 meta_description: "China as the world’s peptide kitchen: WuXi TIDES with over 100,000 liters of solid-phase reactors and RMB 11.4 billion in revenue, Hybio and Indian generic makers, and Goldman Sachs on China’s lead in synthetic peptide APIs. A wry market essay, with no medical advice."
+excerpt: "The world argues about fashionable peptide drugs. Much of the active ingredient is cooked in China — in Changzhou, Taixing and Shenzhen. Notes on a kitchen the diner never sees."
+tag: "Peptides"
+time: "5 min"
 slug: "chef-never-comes-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ A good chef is praised for the dish. A great one, for going unnoticed.
 The chef never comes out. He stands at the stove somewhere between Shanghai and the Yangtze, stringing his beads.
 
 And in the dining room, as always, they discuss the taste.
+
+**Sources**
+
+1.  WuXi AppTec, «WuXi AppTec Beat Full-Year Guidance and Achieved Record Performance in 2025» — https://wuxiapptec.com/news/wuxi-news/ukp6jpdhyncifp8ovk4kv1z6 (выручка TIDES 11,37 млрд юаней, +96 %, объём реакторов более 100 000 л на конец 2025 г., мощности в Тайсине в сентябре 2025 г.).
+2.  KrASIA / 36Kr, «Riding GLP-1 wave, China set to lead the charge in peptide industry growth», 26.06.2024 — https://kr-asia.com/riding-glp-1-wave-china-set-to-lead-the-charge-in-peptide-industry-growth (32 000 л в Чанчжоу и Тайсине на начало 2024 г., синтез более двух недель для цепочек от 30 звеньев).
+3.  ANI News, «Generic semaglutide race hinges on API supply as China leads, global peptide demand to hit 99,000 kg by 2030: Goldman Sachs», 07.06.2026 — https://aninews.in/news/business/generic-semaglutide-race-hinges-on-api-supply-as-china-leads-global-peptide-demand-to-hit-99000-kg-by-2030-goldman-sachs20260607102911/ (лидерство Китая в синтетических субстанциях, 99 000 кг к 2030 г., синтез против ферментации, низкая прозрачность мощностей).
+4.  Huxiu (虎嗅), 19.01.2026 — https://www.huxiu.com/article/4827853.html (заказ на 30 млн долларов от американского покупателя в 2023 г., история Hybio).
+5.  NetEase (网易), 26.12.2025 — https://www.163.com/dy/article/KHNGV06F05565EU3.html (необязывающий протокол Hybio и Dr. Reddy’s).
+6.  Eastmoney (东方财富), 26.06.2026 — https://finance.eastmoney.com/a/202606263785041380.html (рамочные заказы Hybio на 180 и 327 млн юаней в I полугодии 2026 г.).
+7.  Partnership for Safe Medicines, «FDA launches an import alert listing safe GLP-1 manufacturers», 08.09.2025 — https://www.safemedicines.org/2025/09/sept-8-2025.html («зелёный список» FDA).

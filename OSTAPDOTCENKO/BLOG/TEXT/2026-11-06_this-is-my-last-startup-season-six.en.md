@@ -7,6 +7,9 @@ lang: "en"
 title: "This Is My Last Startup. Season Six"
 subtitle: "Luo Yonghao failed so often that he turned failing into a business model"
 meta_description: "Smartisan founder Luo Yonghao is China’s champion of the comeback: hundreds of millions in debt, livestreams on Douyin, an AR startup billed as his “last venture,” a digital twin on Baidu and a war on reheated food. A bittersweet essay on starting over."
+excerpt: "Luo Yonghao failed so often that he turned failing into a business model"
+tag: "Restarts"
+time: "6 min"
 slug: "this-is-my-last-startup-season-six"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -62,3 +65,13 @@ Luo is now in his fifties. His last startup is still looking for its product. Hi
 And I look at my own last times. They’re smaller. None of them cost 600 million. None of them started a national conversation about broccoli.
 
 Maybe that’s for the best. Or maybe my last time just hasn’t come yet.
+
+**Sources**
+
+1.  TechNode, «Smartisan founder Luo Yonghao shifts focus from AR to AI assistant in his “last venture”», 24.12.2024 — https://technode.com/2024/12/24/smartisan-founder-luo-yonghao-shifts-focus-from-ar-to-ai-assistant-in-his-last-venture/ (история Smartisan, покупка патентов ByteDance, стримы с апреля 2020, команда ~150 при плане 1000).
+2.  Jiemian (界面新闻), обзор истории Ло Юнхао и «Тонкой красной линии» — https://www.jiemian.com/article/12174612.html (цитата «последний стартап», «Нюбо», «Лао Ло», TNT, «Пуля» — 198 дней, электронная сигарета, тяжёлый прототип, сокращения 2024).
+3.  Jiemian (界面新闻), о найме и финансировании «Тонкой красной линии», март 2025 — https://www.jiemian.com/article/12448395.html (основана в июне 2022, ангельский раунд ~50 млн долл., оценка ~200 млн, инвесторы).
+4.  Jiemian (界面新闻), январь 2022 — https://www.jiemian.com/article/6993217.html (долги ~600 млн юаней, личное поручительство, ограничения, первый эфир — 15 млн юаней, обнуление исполнительных производств и комментарий команды).
+5.  36Kr Europe — https://eu.36kr.com/en/p/3192833956077955 (бета ИИ-ассистента J1, январь 2025).
+6.  TechNode, «Luo Yonghao’s digital avatar draws over 13 million viewers in AI-powered Baidu live commerce debut», 17.06.2025 — https://technode.com/2025/06/17/luo-yonghaos-digital-avatar-draws-over-13-million-viewers-in-ai-powered-baidu-live-commerce-debut/ (13 млн просмотров, 55 млн юаней, 6+ часов, 97 тыс. слов).
+7.  Sixth Tone, «Feud Between Chinese Restaurant and Celebrity Leads to Change», 16.09.2025 — https://www.sixthtone.com/news/1017616 (конфликт с Xibei: награда 100 тыс. юаней, брокколи с двухлетним сроком, извинения, восемь блюд, проект стандарта).

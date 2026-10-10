@@ -7,6 +7,9 @@ lang: "zh"
 title: "免费的午餐，在云上"
 subtitle: "阿里开源了460多个通义千问模型，下载量超过30亿次，钱却源源不断流进阿里云。一个外国营销人想弄明白：这顿免费午餐，到底谁买单"
 meta_description: "阿里是中国科技大厂里第一个开源大模型的。到2026年，千问下载量超过30亿次，衍生模型超过30万个；与此同时，阿里云AI收入高速增长，千问App也开始卖会员。一篇自嘲随笔：免费，怎么就成了最赚钱的价格。"
+excerpt: "阿里开源了460多个通义千问模型，下载量超过30亿次，钱却源源不断流进阿里云。一个外国营销人想弄明白：这顿免费午餐，到底谁买单"
+tag: "人工智能"
+time: "5 分钟"
 slug: "there-is-such-thing-as-free-lunch"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,14 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 这让我想起中国普通的菜市场。每个摊位都让你尝：一瓣橘子，一片柿饼，一口茶。尝一尝，笑一笑，往前走。可不知怎么的，回家时手里提着满满一袋，一次也没觉得有人在向你推销。
 
 免费的午餐是有的。前提是，厨房得是你的。
+
+**来源**
+
+1.  CNBC / NBC Los Angeles, «Chinese tech giant Alibaba challenges Meta with open-sourced AI model launch», 03.08.2023 — https://www.nbclosangeles.com/news/business/money-report/chinese-tech-giant-alibaba-challenges-meta-with-open-sourced-a-i-model-launch/3199280/ (открытие Qwen-7B, коммерческое использование); 36Kr Japan, 08.2023 — https://36kr.jp/246200/ (первым среди китайских техгигантов).
+2.  eWeek, «Alibaba’s Qwen Passes 3 Billion Downloads, Ahead of Meta and Google», 18.08.2026 — https://www.eweek.com/news/alibaba-qwen-3-billion-downloads-apac-china/ (3 млрд скачиваний, 300 000+ производных, 460+ открытых моделей; отчёт Hugging Face «State of Open Models» от 14.08.2026: 2,045 млрд скачиваний за 7 месяцев 2026 г., Google 418 млн, Meta 227 млн, 151 448 производных, в 2,6 раза больше Meta).
+3.  South China Morning Post, «Airbnb picks Alibaba’s Qwen over ChatGPT in a win for Chinese open-source AI», 22.10.2025 — https://www.scmp.com/tech/tech-trends/article/3329921/airbnb-picks-alibabas-qwen-over-chatgpt-win-chinese-open-source-ai (слова Брайана Чески по данным Bloomberg).
+4.  Bloomberg, «Alibaba Plans to Spend $53 Billion on AI in a Major Pivot», 24.02.2025 — https://www.bloomberg.com/news/articles/2025-02-24/alibaba-to-spend-53-billion-on-ai-infrastructure-in-big-pivot (380 млрд юаней за три года).
+5.  Alibaba Group, «Alibaba’s Full-Stack AI Accelerates Monetization with 22-Quarter-High Cloud Growth», 20.08.2026 — https://www.alibabagroup.com/document-2027233133950140416 (7,1 млрд долл., +45 %, трёхзначный рост ИИ-продуктов 12-й квартал подряд, капзатраты почти 10 млрд долл., платные тарифы в приложении Qwen).
+6.  Alibaba Group, «Alibaba’ Qwen App Surpasses 10 Million Downloads within the First Week of Public Beta Launch», 25.11.2025 — https://www.alibabagroup.com/document-1928528945544691712 (открытое тестирование с 17.11.2025).
+7.  TechNode, «QuestMobile: China’s AI-native apps reach 499 million monthly active users», 14.07.2026 — https://technode.com/2026/07/14/questmobile-chinas-ai-native-apps-reach-499-million-monthly-active-users/ (Doubao 382 млн, Qwen 167 млн, DeepSeek 130 млн MAU).
+8.  TechNode, «Alibaba’s Qwen app introduces paid office assistant plans up to RMB1,499 a year», 11.08.2026 — https://technode.com/2026/08/11/alibabas-qwen-app-introduces-paid-office-assistant-plans-up-to-rmb1499-a-year/ (тарифы 19, 49 и 128 юаней в месяц, базовый доступ бесплатный).

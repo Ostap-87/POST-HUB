@@ -7,6 +7,9 @@ lang: "zh"
 title: "人形机器人的故乡"
 subtitle: "第一个教会机器人走路的国家，让它退了休、错过了热潮，如今在给中国的人形机器人供应关节"
 meta_description: "日本造出了世界上第一台全尺寸人形机器人，后来又有ASIMO和Pepper，再后来项目接连收摊，错过了由中国领跑的这一波热潮。但全球38%的工业机器人仍由日本企业生产，中国人形机器人体内也装着日本精密零部件。一篇自嘲随笔。"
+excerpt: "第一个教会机器人走路的国家，让它退了休、错过了热潮，如今在给中国的人形机器人供应关节"
+tag: "机器人"
+time: "6 分钟"
 slug: "birthplace-humanoids"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,13 @@ ASIMO是明星：会上楼梯，会跑，2014年还在东京跟美国总统踢�
 ASIMO上台15466次。第15467次，没人再叫它。可今天每一台奔跑、格斗、倒酒的中国人形机器人身上，都有那最初一步的影子——迟疑的、日本的、很久以前迈出的一步。
 
 日本是人形机器人的故乡。不是最响亮的那个。但故乡总认得自己的孩子——看关节就知道。
+
+**来源**
+
+1.  South China Morning Post / Yahoo Tech, «Stuck in the factory: how robotics pioneer Japan missed the AI-driven humanoid boom», 14.12.2025 — https://tech.yahoo.com/ai/articles/stuck-factory-robotics-pioneer-japan-093000771.html (WABOT-1 и WABOT-2, ASIMO 2000–2018, футбол с Обамой в 2014-м, Pepper 2014–2021, SoftBank и Boston Dynamics 2017–2021, слова Сигэмицу, 38 % производства, IREX: Fanuc, Yaskawa, Kawasaki, Nachi, 84 китайских участника, бар GMO с Unitree, 295 тыс. установок и 57 % местных производителей в Китае, Kaleido, Yaskawa и SoftBank).
+2.  Miraikan, «About the End of Demonstrations by Humanoid Robot ASIMO» — https://www.miraikan.jst.go.jp/en/news/general/202201313101.html (с января 2002 года, 15 466 демонстраций по состоянию на конец 2021 года, окончание 31 марта 2022 года).
+3.  IFR / Business Wire, «Japan’s Car Industry Has Highest Robot Installations in Five Years», 14.07.2025 — https://www.businesswire.com/news/home/20250714601866/en/Japans-Car-Industry-Has-Highest-Robot-Installations-in-Five-Years (Япония — 38 % мирового производства роботов, цитата президента IFR).
+4.  AP / WTOP, «Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese», 28.05.2026 — https://wtop.com/lifestyle/2026/05/humanoids-dance-and-thread-needles-as-japanese-robotics-developers-look-to-outdo-chinese/ (Humanoids Summit Tokyo, «синдром Галапагосов» и цитата Тима Хорняка, рука Honda, слова Хироси Исигуро).
+5.  IT Business Today, «Waseda, tmsuk, Murata, SRE form Kyoto humanoid group», 21.07.2025 — https://itbusinesstoday.com/industrial-tech/manufacturing/waseda-tmsuk-murata-sre-form-kyoto-humanoid-group/ (состав и цели Киотской ассоциации гуманоидов).
+6.  SoftBank Group, «Acquisition of ABB Ltd’s Robotics Business», 08.10.2025 — https://group.softbank/en/news/press/20251008 (сделка по покупке робототехнического бизнеса ABB).
+7.  TechRepublic, «SoftBank Acquires ABB’s Robotics Business for $5.4B» — https://www.techrepublic.com/article/news-softbank-acquires-abb-robotics/ (сумма сделки).

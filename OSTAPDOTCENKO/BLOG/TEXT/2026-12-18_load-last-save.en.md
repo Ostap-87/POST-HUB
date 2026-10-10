@@ -7,6 +7,9 @@ lang: "en"
 title: "Load Last Save"
 subtitle: "How Nintendo flopped with the Wii U, refused to cut staff, and turned its mistake into the best-selling console in its history"
 meta_description: "The Wii U: 13.56 million units against the Wii’s 101 million, a confusing name, three years of operating losses, and president Satoru Iwata, who halved his own pay and refused to cut staff. Then came the Nintendo Switch — over 156 million sold. A bittersweet essay on how a failure becomes a blueprint."
+excerpt: "How Nintendo flopped with the Wii U, refused to cut staff, and turned its mistake into the best-selling console in its history"
+tag: "Restarts"
+time: "6 min"
 slug: "load-last-save"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -76,3 +79,19 @@ I work a lot with Asian companies, and I notice that failure there is often hand
 Business has no “Load Last Save” button. But you can build one by hand. All it takes is not deleting the people who remember where the pit is.
 
 Iwata saved the game. Others got to load it.
+
+**Sources**
+
+1.  Nintendo, IR Information, «Dedicated Video Game Sales Units» — https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html (на 30.06.2026: Wii U — 13,56 млн, Wii — 101,63 млн, Nintendo Switch — 156,59 млн, Nintendo Switch 2 — 23,68 млн, Nintendo DS — 154,02 млн).
+2.  Nintendo, IR Information, «Top Selling Title Sales Units: Nintendo Switch» — https://www.nintendo.co.jp/ir/en/finance/software/switch.html (Mario Kart 8 Deluxe — 71,53 млн на 30.06.2026).
+3.  Softpedia со ссылкой на Gematsu, 26.04.2013 — https://games.softpedia.com/blog/Nintendo-Admits-Not-Trying-Hard-Enough-to-Differentiate-Wii-U-versus-Wii-348887.shtml (слова Иваты об ответственности и о том, что геймпад принимают за аксессуар к Wii).
+4.  Bloomberg, «Nintendo Mulls New Business Model After Forecasting Loss», 17.01.2014 — https://www.bloomberg.com/news/articles/2014-01-17/nintendo-forecasts-net-loss-on-stagnating-sales-of-wii-u-games (прогноз продаж Wii U снижен с 9 до 2,8 млн, прогноз убытка вместо прибыли).
+5.  Stevivor, «Nintendo reports operating loss third year running», 08.05.2014 — https://stevivor.com/news/nintendo-reports-operating-loss-third-year-running/ (операционный убыток 46,4 млрд иен, 2,72 млн Wii U за финансовый год).
+6.  CNBC, «Nintendo to end Wii U production: report», март 2016 — https://www.cnbc.com/2016/03/23/nintendo-to-end-wii-u-production-report.html (запуск Wii U в ноябре 2012; около 12,6 млн проданных к марту 2016; сообщение Nikkei о прекращении производства).
+7.  GameSpot, «Nintendo: Layoffs not needed for profitability», 08.07.2013 — https://www.gamespot.com/articles/nintendo-layoffs-not-needed-for-profitability/1100-6411143 (ответ Иваты на собрании акционеров о сокращениях).
+8.  Gaming Nexus, 29.01.2014 — https://gamingnexus.com/FullNews/Nintendo-CEO-Satoru-Iwata-takes-a-pay-cut-after-poor-Wii-U-sales/Item31997.aspx (Ивата −50 %, Миямото −30 %, другие директора −20 %).
+9.  PCWorld, «Nintendo president Iwata’s death comes as firm tries to move to mobile», 12.07.2015 — https://www.pcworld.com/article/428525/nintendo-president-iwatas-death-comes-as-firm-tries-to-move-to-mobile.html (возраст 55 лет; снижение собственной зарплаты вдвое в 2011 году после снижения цены 3DS); Fortune, 12.07.2015 — https://fortune.com/2015/07/12/nintendo-ceo-satoru-iwata-has-died-aged-55 (смерть 11.07.2015).
+10. Engadget, «Nintendo’s next-generation console is codenamed “NX”», 17.03.2015 — https://www.engadget.com/2015-03-17-nintendo-nx-console.html.
+11. MCV/Develop, о выступлении Иваты на GDC 2005 — https://www.mcvuk.com/business/video-watch-iwatas-famous-2005-gdc-keynote (цитата «On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer»).
+12. Engadget, 13.01.2017 — https://engadget.com/2017/01/13/legend-of-zelda-breath-of-the-wild-lands-on-switch-at-launch (запуск Switch 3 марта и выход Breath of the Wild в тот же день на Switch и Wii U).
+13. Gigazine, 04.02.2026 — https://gigazine.net/gsc_news/en/20260204-switch-selling-ds (Switch обогнала DS и стала самой продаваемой приставкой Nintendo; выход Switch 2 05.06.2025).

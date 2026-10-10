@@ -7,6 +7,9 @@ lang: "zh"
 title: "一千二百种语言，一个聊天机器人"
 subtitle: "AI为什么说不好泰语和爪哇语？谁在教它东南亚的语言？阿里巴巴又在其中扮演什么角色？"
 meta_description: "东南亚语言在互联网上存在感很低，在大模型里也一样。阿里达摩院的SeaLLMs、改用千问底座的新加坡SEA-LION、印尼的Sahabat-AI、马来西亚的ILMU、泰国的Typhoon——谁在教AI说本地话，又是为了什么。一篇自嘲随笔。"
+excerpt: "AI为什么说不好泰语和爪哇语？谁在教它东南亚的语言？阿里巴巴又在其中扮演什么角色？"
+tag: "人工智能"
+time: "6 分钟"
 slug: "1-200-languages-one-chatbot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,12 @@ SEA-LION过去一直基于Meta的模型家族。2025年11月发布的Qwen-SEA-LI
 现在，机器开始学它们了。我愿意相信，这不只是为了收银台。愿意相信总有一天，日惹的某个孩子会用奶奶的语言问手机一个问题，而手机会回答。不完美，带口音，但会回答。
 
 顺便说一句，我说“谢谢”到现在也带口音。大家照样听得懂。
+
+**来源**
+
+1.  Yicai Global, «Alibaba’s Damo Academy unveils AI models geared to Southeast Asia», 13.12.2023 — https://www2.yicaiglobal.com/news/alibabas-damo-academy-debuts-llms-made-for-southeast-asia (SeaLLMs: 7 и 13 млрд параметров, восемь языков, мотивация китайской e-commerce и логистики).
+2.  TechNode, «Singapore’s national AI program drops Meta model and switches to Alibaba’s Qwen», 25.11.2025 — https://technode.com/2025/11/25/singapores-national-ai-program-drops-meta-model-and-switches-to-alibabas-qwen/ (Qwen-SEA-LION-v4 на Qwen3-32B, 119 языков, 100+ млрд токенов, первое место в SEA-HELM, программа на 70 млн сингапурских долларов с декабря 2023 г.).
+3.  eCommerceNews Asia, «AI Singapore & Alibaba unveil regional model for 1,200 languages», 25.11.2025 — https://ecommercenews.asia/story/ai-singapore-alibaba-unveil-regional-model-for-1-200-languages (более 1200 языков в регионе, 32 ГБ памяти).
+4.  FutureCIO, «Indosat and GoTo launch a new 70-billion-parameter model with a multilingual chat service», 06.06.2025 — https://futurecio.tech/indosat-and-goto-launch-a-new-70-billion-parameter-model-with-a-multilingual-chat-service/ (Sahabat-AI с ноября 2024 г., 70 млрд параметров, индонезийский, яванский, сунданский, балийский, батакский; данные в Индонезии; слова Викрама Синхи).
+5.  Malay Mail, «PM Anwar launches ILMU, Malaysia’s first home-grown multimodal AI», 12.08.2025 — https://www.malaymail.com/news/malaysia/2025/08/12/pm-anwar-launches-ilmu-malaysias-first-home-grown-multimodal-ai/187359 (YTL AI Labs и Университет Малайя, расшифровка названия, заявления о MalayMMLU).
+6.  SCB, «SCB 10X Typhoon», 01.2024 — https://www.scb.co.th/en/about-us/news/jan-2024/scb-10x-typhoon (Typhoon-7B, Apache 2.0, обработка тайского в 2,62 раза быстрее GPT-3.5).

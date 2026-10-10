@@ -7,6 +7,9 @@ lang: "zh"
 title: "一杯带着“审计味”的咖啡"
 subtitle: "瑞幸虚构了22亿元销售额，被纳斯达克摘牌，几年后又在中国超过了星巴克——谈谈审计有多提神"
 meta_description: "一个俄罗斯营销人眼中的瑞幸：史上最快的IPO之一、2019年财务造假、纳斯达克退市、向美国SEC缴纳1.8亿美元罚款、破产重组，再到逆袭——三万多家门店、酱香拿铁、开进纽约曼哈顿。关于“一家公司什么都不剩时，还剩下什么”的随笔。"
+excerpt: "瑞幸虚构了22亿元销售额，被纳斯达克摘牌，几年后又在中国超过了星巴克——谈谈审计有多提神"
+tag: "重新来过"
+time: "6 分钟"
 slug: "coffee-with-hint-audit"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -72,3 +75,16 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_
 每一次失败里，都有一部分是能用的。只要有勇气把其余的扔掉，就能从这一部分重新开始。
 
 至于那份董事会纪要，我这辈子是看不到了。也好。就让这个故事里，留一点无法证实的东西吧。
+
+**来源**
+
+1.  Wikipedia, «Luckin Coffee» — https://en.wikipedia.org/wiki/Luckin_Coffee (основание в октябре 2017, IPO по 17 долл., отчёт Muddy Waters 31.01.2020, признание 02.04.2020, делистинг 29.06.2020, глава 15, реструктуризация на 460 млн долл., Centurium, 240 млн долл., кофейни в Манхэттене с июля 2025). Ключевые факты сверены с первоисточниками ниже.
+2.  QSR Magazine, «Luckin Coffee Fires CEO, COO After Fraud Investigation», 12.05.2020 — https://www.qsrmagazine.com/uncategorized/luckin-coffee-fires-ceo-coo-after-fraud-investigation/ (увольнение Дженни Цянь и Лю Цзяня, IPO на ~645 млн долл., анонимный отчёт у Muddy Waters).
+3.  Caixin Global, «Luckin Coffee’s Shares Plunge 76% on News of $310 Million Fraud», 03.04.2020 — https://www.caixinglobal.com/2020-04-03/luckin-coffees-shares-plunge-76-on-news-of-310-million-fraud-101538057.html.
+4.  CNBC, «China’s Luckin Coffee to pay $180 million penalty to settle fraud case», 17.12.2020 — https://www.cnbc.com/2020/12/17/chinas-luckin-coffee-to-pay-180-million-penalty-to-settle-fraud-case.html.
+5.  Nation’s Restaurant News, «Luckin overtakes Starbucks as top coffee chain in China», 20.11.2023 — https://www.nrn.com/restaurant-segments/luckin-overtakes-starbucks-as-top-coffee-chain-in-china (квартальная выручка 855 млн против 822 млн долл.).
+6.  World Coffee Portal, «Luckin Coffee’s Moutai alcohol-infused latte delivers $13.7m in first-day sales», сентябрь 2023 — https://www.worldcoffeeportal.com/news/luckin-coffees-moutai-alcohol-infused-latte-delivers-13-7m-in-first-day-sales/ (4 сентября 2023, 5,42 млн чашек, более 100 млн юаней).
+7.  Luckin Coffee, «Luckin Coffee Announces Fourth Quarter and Fiscal Year 2025 Financial Results» — https://investor.lkcoffee.com/news-releases/news-release-details/luckin-coffee-announces-fourth-quarter-and-fiscal-year-2025 (выручка 49,29 млрд юаней, +43 %; 31 048 кофеен; открытия в Сингапуре, Малайзии, США).
+8.  Jiemian (界面新闻), «Luckin Coffee CEO says company aims to relist in the US, but no timetable yet», ноябрь 2025 — https://en.jiemian.com/article/13633562.html (цитата Го Цзиньи о «новой компании»).
+9.  Caixin Global, «Luckin Backer Centurium Capital to Buy Blue Bottle Coffee From Nestlé», 05.03.2026 — https://www.caixinglobal.com/2026-03-05/luckin-backer-centurium-capital-to-buy-blue-bottle-coffee-from-nestl-102419511.html.
+10. Jiemian (界面新闻), «Ousted Luckin Coffee founder rivals Luckin with almost exactly the same chain» — https://en.jiemian.com/article/9081765.html (Cotti Coffee, Лу Чжэнъяо и Цянь Чжия).

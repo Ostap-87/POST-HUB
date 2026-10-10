@@ -7,6 +7,9 @@ lang: "en"
 title: "The Town That Dresses the World’s Feet"
 subtitle: "The last monologue in this column: socks, buttons, lighters, Christmas baubles, and the people who spend their lives thinking about things nobody else thinks about"
 meta_description: "China’s one-product towns: Datang, which makes over a third of the world’s socks; Qiaotou, with some 100 billion buttons a year; Shaodong, with 70% of the world’s lighters; and Yiwu, where next Christmas is ordered in April. The final entry in the Watching What Happens column — on the things you always wear and never see."
+excerpt: "The last monologue in this column: socks, buttons, lighters, Christmas baubles, and the people who spend their lives thinking about things nobody else thinks about"
+tag: "Observations"
+time: "6 min"
 slug: "town-that-dresses-world-feet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -84,3 +87,12 @@ I take off my shoes. I look at my sock. Ordinary. Dark. No label.
 The man who watched what happens has finally looked down.
 
 Thank you for walking this column with me.
+
+**Sources**
+
+1.  Global Sources, «Datang secures place as world’s top socks hub», обновлено 01.12.2023 — https://www.globalsources.com/knowledge/datang-secures-place-as-world-s-top-socks-hub/ (около 70% производства носков в Китае и более трети мирового рынка; около 25 млрд пар в год; около 13 тыс. предприятий; до 200 тыс. работников).
+2.  Синьхуа, «浙江诸暨：一个县级市何以拥有两个”产业冠军”？», 06.01.2026 — https://www.news.cn/fortune/20260106/fae2ebff5da641c4a4c5230ee3d0a8a6/c.html (Датан — крупнейший носочный кластер мира, более 10 тыс. предприятий; более 25 млрд пар в год, три пары на каждого жителя Земли).
+3.  China News Service, «中国人的脚脖子，被这个小镇包了！», 04.08.2023 — https://www.chinanews.com.cn/cj/2023/08-04/10055200.shtml (конец 1970-х: днём в бригаде, ночью вязание; пара носков — 1 юань, день в бригаде — около 4 цзяо; ручные машинки; к середине 1980-х около 70% жителей в отрасли; первый рынок 1991 года: 397 прилавков сырья и 1515 готовой продукции).
+4.  China News Service / «Жэньминь жибао», «一粒小纽扣，如何联动大市场», 20.04.2026 — https://www.chinanews.com.cn/cj/2026/04-20/10607122.shtml (Цяотоу, «пуговичная столица Китая»; Ван Суйнай и лоток у каменного моста, около 500 юаней капитала; рынок 1983 года, 42 хозяйства; около 90% рынка Китая в прошлом; около 100 млрд пуговиц в год).
+5.  Синьхуа / «Жэньминь жибао», «好产品到哪里都会有好市场——“打火机之乡”湖南邵东一线观察», 04.05.2025 — https://www.news.cn/politics/20250504/125f638104ea4161b3db8cdc76d7a571/c.html (более 15 млрд зажигалок в год, около 70% мирового производства; 114 производителей; более 200 деталей в радиусе 20 км; линия: 40 человек вместо 200, выпуск ×9).
+6.  Xinhua, «Economic Watch: China’s Yiwu sets global rhythm for Christmas trade», 24.12.2025 — https://eng.yidaiyilu.gov.cn/p/06MUM5EU.html (около двух третей праздничной продукции мира; более 20 тыс. наименований в 100+ стран; заказы с апреля 2025 года; кувейтский покупатель выбирает колпаки на следующее Рождество).

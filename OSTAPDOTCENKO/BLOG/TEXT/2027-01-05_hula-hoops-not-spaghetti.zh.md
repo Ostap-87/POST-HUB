@@ -7,6 +7,9 @@ lang: "zh"
 title: "要呼啦圈，不要意大利面"
 subtitle: "一位没当成吉他手的东京教授，如何教会核糖体用“非天然”氨基酸拼出环状分子，为什么全球大药企都去敲他公司的门"
 meta_description: "日本PeptiDream：菅裕明教授的Flexizyme、PDPS平台、一支试管里约一万亿种肽、与诺华最高27亿美元的合作、放射性药物和艰难的2025年。一篇关于日本“环肽科学”的自嘲随笔，不含任何用药建议。"
+excerpt: "一位没当成吉他手的东京教授，如何教会核糖体用“非天然”氨基酸拼出环状分子，为什么全球大药企都去敲他公司的门"
+tag: "多肽"
+time: "5 分钟"
 slug: "hula-hoops-not-spaghetti"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -50,3 +53,13 @@ PeptiDream成立于2006年：技术由菅裕明发明，生意由联合创始人
 先说一句：科学有时绕圈子，不是因为迷了路。有时候，圈不是死胡同，而是最稳定的形状。
 
 呼啦圈我到现在也没学会。不过现在我知道了，问题不在腰，而在于我的氨基酸不对。
+
+**来源**
+
+1.  Bloomberg (перепечатка Macau Daily Times), «Science: Failed guitarist seeking life’s roots makes USD3b drug firm», 27.06.2016 — https://macaudailytimes.com.mo/science-failed-guitarist-seeking-lifes-roots-makes-usd3b-drug-firm.html (биография Суги, «хулахуп вместо спагетти», ускорение поиска с трёх дней до четырёх часов, «Everybody comes to PeptiDream»).
+2.  UTEC, «PeptiDream» (история компании) — https://www.ut-ec.co.jp/english/story/pepti-dream (основание в 2006 г., инвестиции 2008 г., флексизим, FIT, RaPID, PDPS, триллион пептидов в пробирке, листинг на Mothers в июне 2013 г.).
+3.  Wolf Fund, «Hiroaki Suga» — https://wolffund.org.il/hiroaki-suga/ (премия Вольфа по химии 2023 г., формулировка).
+4.  The BioStartups, «Japan-based PeptiDream inks $2.71B deal with Novartis», 03.05.2024 — https://thebiostartups.com/news/8/880/japan-based-peptidream-inks-2-71-b-deal-with-novartis.html (180 млн долларов аванса, до 2,71 млрд, радиолиганды, история сотрудничества).
+5.  BioWorld, «Peptidream, Genentech ink $1B deal for peptide-radioisotope drug conjugates», 26.09.2023 — https://www.bioworld.com/articles/keyword/7851-peptidream-inc?page=2
+6.  The Shashi, «Buying the radiopharmaceutical business of Fujifilm Toyama Chemical» — https://the-shashi.com/en/tse/4587/decisions/pdrpharma-acquisition-2022/ (покупка 2021–2022 гг., итоги 2025 г.).
+7.  TCTMD, «FDA Approves Enlicitide, an Oral PCSK9 Inhibitor, for LDL-Lowering», 16.07.2026 — https://www.tctmd.com/news/fda-approves-enlicitide-oral-pcsk9-inhibitor-ldl-lowering (одобрение, макроциклический пептид).

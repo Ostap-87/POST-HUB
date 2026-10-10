@@ -7,6 +7,9 @@ lang: "en"
 title: "Shenzhen: Some Assembly Required"
 subtitle: "A city where every part of a robot is an hour’s drive away, and the only thing in short supply is patience"
 meta_description: "Why humanoids and robot dogs get built so fast in Shenzhen: sensors an hour away, motors in the next city, and Huaqiangbei, where robots sit on the ground floor and their parts one floor up. A wry essay about a city that works like a construction kit."
+excerpt: "A city where every part of a robot is an hour’s drive away, and the only thing in short supply is patience"
+tag: "Robots"
+time: "6 min"
 slug: "shenzhen-some-assembly-required"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -66,3 +69,13 @@ You can design a robot anywhere. You can only build one in a week where the part
 My childhood construction set never turned up, by the way. It probably got lost in a move, along with the wrench and the half-built crane. Sometimes I think if someone had told me back then where that missing part was, I might have become an engineer.
 
 Now I know where it is. An hour away. Just not from me.
+
+**Sources**
+
+1.  21st Century Business Herald, «Tech Unicorns Flock South: Why Guangdong Became the Robotics Mecca?», 14.04.2025 — https://www.21jingji.com/article/20250414/herald/e544a5e5dbcb9d7693eb0bad5ab509b0.html (поставщики в часе езды: Шэньчжэнь, Дунгуань, Чжухай, Гуанчжоу).
+2.  21st Century Business Herald, «The Evolution of Robots in Guangdong: From Seven Swordsmen to a Galaxy of Heroes», 23.01.2026 — https://www.21jingji.com/article/20260123/herald/54ef680ad246e15ea4330c7c76118632.html (оценка Ли Цзэсяна: в 30 раз быстрее и в 10 раз дешевле Кремниевой долины).
+3.  Shenzhen Government Online, март 2025 — https://www.sz.gov.cn/en_szgov/news/latest/content/post_12063362.html (57 000+ предприятий, 34 публичные компании и 9 «единорогов», семь шэньчжэньских компаний в Humanoid 100 Morgan Stanley, план 2025–2027).
+4.  People’s Daily Online / Xinhua, «China’s tech hub Shenzhen unveils plan to boost embodied intelligent robotics», 04.03.2025 — https://en.people.cn/n3/2025/0304/c90000-20284142.html (цели плана: 100 млрд юаней, 1200 компаний, 10 компаний с оценкой выше 10 млрд).
+5.  Shenzhen Government Online — https://www.sz.gov.cn/en_szgov/business/news/content/post_12929533.html (объём производства отрасли в 2025 году более 240 млрд юаней, рост более 20 %).
+6.  Borneo Post / Xinhua, «Shenzhen’s Robot Valley emerges as global hub of robotics innovation», 08.07.2026 — https://www.theborneopost.com/2026/07/08/shenzhens-robot-valley-emerges-as-global-hub-of-robotics-innovation/ (Долина роботов в Наньшане, 200+ компаний, EngineAI, заявка Leju на IPO, Honor, цитата Фань Цзяньпина).
+7.  TMTPost, «Robot Startups Still Rely on Suitcase Runs to Shenzhen for Critical Parts After New Restrictions», 14.08.2026 — https://www.tmtpost.com/8103636.html (Хуацянбэй, волна аренды гуманоидов, поездки за деталями с чемоданом, проблема аккумуляторов).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "广场，属于跳舞的人"
 subtitle: "一个外国人的独白：每晚走出酒店，都会误入别人的舞会"
 meta_description: "广场舞——成千上万的退休阿姨、拉杆音箱、《小苹果》、邻居的猎枪和一部噪声法。一个常跑中国的俄罗斯营销人，站在广场边上，看中国的夜晚属于谁。"
+excerpt: "一个外国人的独白：每晚走出酒店，都会误入别人的舞会"
+tag: "观察"
+time: "5 分钟"
 slug: "whoever-dances-owns-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -76,3 +79,10 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 我走回酒店，脑子里循环着《小苹果》。歌词我不会，旋律是忘不掉了。
 
 明晚八点，她们还会来。我也许已经在另一座城市。那里也有广场，也有音箱，也有人在跳舞——因为除了音乐，没有别人会来邀请她们。
+
+**来源**
+
+1.  NBC News, «Do-Si-Don’t: China Issues Rules for Square-Dancing Grannies», март 2015 — https://www.nbcnews.com/news/world/do-si-dont-china-issues-rules-square-dancing-grannies-n329571 (двенадцать программ, Генеральное управление по делам спорта и Министерство культуры, «десятки миллионов» танцующих, споры о шуме).
+2.  Noema / WorldPost, «Wrath of Dancing Grandmothers Forces Chinese Government to Backtrack», 25.03.2015 — https://www.noemamag.com/wrath-of-dancing-grandmothers-forces-chinese-government-to-backtrack/ (оценка до 100 млн танцующих, «Маленькое яблочко», уточнение о необязательности программ, ружьё и собаки в Пекине, пакеты из окон, соседская колонка за 40+ тыс. долл.).
+3.  China Justice Observer, Закон КНР о предотвращении и контроле шумового загрязнения (принят 24.12.2021, вступил в силу 05.06.2022) — https://chinajusticeobserver.com/law/x/law-on-noise-pollution-prevention-and-control-20211224 (правила для танцев и фитнеса на улицах, площадях и в парках: место, время, громкость).
+4.  Фадада (法大大), разбор нового закона о шуме — https://www.fadada.com/notice/detail-10835.html (дата вступления в силу, обязанности управляющих площадками).

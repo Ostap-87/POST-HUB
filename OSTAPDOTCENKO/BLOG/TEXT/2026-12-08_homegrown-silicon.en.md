@@ -7,6 +7,9 @@ lang: "en"
 title: "Homegrown Silicon"
 subtitle: "How Huawei builds AI accelerators under sanctions, why Beijing is in no hurry to buy the Nvidia chips it’s now allowed to have, and what self-reliance costs when you count it in megawatts rather than yuan"
 meta_description: "Huawei has been on the U.S. Entity List since 2019, and Washington says using its Ascend chips anywhere in the world is risky. Yet DeepSeek V4 ran on Ascend on day one, Huawei promises a new chip every year, and China has been slow to buy the H200s it’s now allowed. A wry essay on tech self-reliance and its price."
+excerpt: "How Huawei builds AI accelerators under sanctions, why Beijing is in no hurry to buy the Nvidia chips it’s now allowed to have, and what self-reliance costs when you count it in megawatts rather than yuan"
+tag: "Artificial Intelligence"
+time: "5 min"
 slug: "homegrown-silicon"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -61,3 +64,14 @@ So who wins? I won’t pretend to know. A single Chinese chip is still weaker, a
 Self-reliance means paying more, but paying yourself.
 
 I sometimes think the strongest engineering schools grow not where everything is allowed, but where everything is banned and the work still has to be done. That isn’t praise for bans. It’s a sad observation about people: we learn best when no one is waiting for us.
+
+**Sources**
+
+1.  Akin Gump, «Commerce Adds Huawei, Its Non-US Affiliates Worldwide and Others to the Entity List», май 2019 — https://www.akingump.com/en/insights/alerts/commerce-adds-huawei-its-non-us-affiliates-worldwide-and-others (внесение Huawei в Entity List).
+2.  Miller & Chevalier, «Key Takeaways: BIS Announcements and Guidance Related to Advanced Computing», май 2025 — https://www.millerchevalier.com/publication/trade-compliance-flash-key-takeaways-bis-announcements-and-guidance-related-advanced (разъяснение BIS от 13.05.2025: Ascend 910B, 910C, 910D, риск использования в любой точке мира).
+3.  TrendForce, «Huawei Unveils Ascend 950 with In-House HBM in 2026, Touts SuperPoD to Rival NVIDIA», 18.09.2025 — https://www.trendforce.com/news/2025/09/18/news-huawei-unveils-ascend-950-with-in-house-hbm-in-2026-touts-superpod-to-rival-nvidia/ (дорожная карта 950PR/950DT/960/970, собственная HBM, Atlas 950 на 8192 чипа, признание Эрика Сюя).
+4.  The Register, «DeepSeek V4», 24.04.2026 — https://www.theregister.com/2026/04/24/deepseek_v4/ (проверка на Nvidia и Ascend; модель не обязательно обучена на Huawei; прежняя неудачная попытка).
+5.  TrendForce, «Huawei Ascend, Cambricon and Hygon Completed Day 0 Adaptation to DeepSeek-V4», 29.04.2026 — https://www.trendforce.com/news/2026/04/29/news-huawei-ascend-cambricon-and-hygon-completed-day-0-adaptation-to-deepseek-v4/ (адаптация в день выхода у китайских производителей).
+6.  Tom’s Hardware, «Trump says China is blocking H200 purchases», 15.05.2026 — https://www.tomshardware.com/tech-industry/trump-says-china-is-blocking-h200-purchases (условия января 2026: проверка в США, 25 %; слова Трампа; оценка Хуанга о доле 95 % → почти ноль).
+7.  Bloomberg Tax / Bloomberg, «Nvidia Steps Back Into China Market With First H200 Chip Sales», 26.08.2026 — https://news.bloombergtax.com/international-trade/nvidia-steps-back-into-china-market-with-first-h200-chip-sales (небольшие продажи H200, менее 1 % выручки дата-центров).
+8.  South China Morning Post, «Huawei quickens AI chip pace, promises next entrant 3 quarters early», 17.09.2026 — https://scmp.com/tech/big-tech/article/3367832/huawei-quickens-ai-chip-pace-promises-next-entrant-3-quarters-early (Ascend 960DT в I кв. 2027, 960PR в III кв. 2027, 970 и 980, ежегодный цикл).

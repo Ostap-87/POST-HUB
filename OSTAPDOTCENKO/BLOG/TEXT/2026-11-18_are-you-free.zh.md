@@ -7,6 +7,9 @@ lang: "zh"
 title: "师傅，走吗？"
 subtitle: "中国的无人驾驶出租车已经拉了几千万单，比出租车便宜，路上一句闲话都没有。没有司机、只剩“三十分之一个人”的一趟车，账该怎么算？"
 meta_description: "百度萝卜快跑、小马智行、文远知行：武汉、深圳、广州数千万次无人驾驶出行，出海迪拜、阿布扎比、新加坡和欧洲；单车首次打平，武汉“趴窝”之后全国暂停新牌照三个月。一个俄罗斯营销人，自嘲地算算没有司机的这笔账。"
+excerpt: "中国的无人驾驶出租车已经拉了几千万单，比出租车便宜，路上一句闲话都没有。没有司机、只剩“三十分之一个人”的一趟车，账该怎么算？"
+tag: "机器人"
+time: "6 分钟"
 slug: "are-you-free"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -70,3 +73,18 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 “走。”
 
 我说的就是这个。
+
+**来源**
+
+1.  Baidu, отчёт за I квартал 2026 г. (Form 6-K), 18.05.2026 — https://www.sec.gov/Archives/edgar/data/0001329099/000119312526228123/d156481dex991.htm (3,2 млн поездок без водителя в I кв., пик более 350 тыс. в неделю в марте, более 22 млн поездок к апрелю 2026, 27 городов).
+2.  CnEVPost, «Baidu’s Apollo Go robotaxi hits 300,000 weekly rides as service expands to South Korea», 27.02.2026 — https://cnevpost.com/2026/02/27/baidu-apollo-go-robotaxi-300000-weekly-rides-expands-to-south-korea/ (3,4 млн поездок без водителя в IV кв. 2025, Дубай и Uber, Лондон с Uber и Lyft).
+3.  Baidu, отчёт за II квартал 2026 г. (Form 6-K), 18.08.2026 — https://www.sec.gov/Archives/edgar/data/0001329099/000119312526355431/d112854dex991.htm (28 городов, Дубай в Uber, Лондон, Гонконг, Швейцария).
+4.  MarketBeat, «Baidu Q2 earnings call highlights», 18.08.2026 — https://www.marketbeat.com/instant-alerts/baidu-q2-earnings-call-highlights-2026-08-18/ (около 1 млн поездок во II кв., влияние регуляторных корректировок, более 23 млн поездок к июню).
+5.  CnEVPost, «Baidu Apollo launches 6th-gen robotaxi with 60% lower cost», 15.05.2024 — https://cnevpost.com/2024/05/15/baidu-apollo-launches-6th-gen-robotaxi/ (200 тыс. юаней, минус 60 %).
+6.  Yicai Global, «Baidu’s robotaxi app Apollo Go gathers steam with discounts despite complaints», 11.07.2024 — https://yicaiglobal.com/news/baidus-robotaxi-app-apollo-go-gathers-steam-with-discounts-despite-complaints (5,1 юаня за 12 км против 29 юаней, жалобы таксистов).
+7.  Gasgoo, «Pony.ai’s 7th-Generation Robotaxi Achieves Profitability in Shenzhen», 03.03.2026 — https://autonews.gasgoo.com/articles/news/ponyais-7th-generation-robotaxi-achieves-profitability-in-shenzhen-2028721589120409601 (338 юаней в день, 23 заказа против 15 в среднем, минус 70 % стоимости комплекта, страховка ниже на 50 %, 1 оператор на 30 машин).
+8.  Pony AI, результаты за II квартал 2026 г. (Form 6-K), 18.08.2026 — https://www.sec.gov/Archives/edgar/data/0001969302/000110465926098113/tm2623382d1_ex99-1.htm (выручка роботакси 12,1 млн долл., +691 %, убыток 45,4 млн долл., 1975 машин, цель 3500+, Сингапур, Люксембург, Uber в Европе).
+9.  Pony AI, результаты за IV квартал и 2025 г., 26.03.2026 — https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-scales-160-robotaxi-revenues-growth-yoy-and-500-fare (окупаемость машины в Гуанчжоу и Шэньчжэне).
+10. CnEVPost, «China suspends new robotaxi permits after Baidu’s Wuhan outage, report says», 29.04.2026 — https://cnevpost.com/2026/04/29/china-suspends-new-robotaxi-permits-after-baidu-outage/ (остановка 31 марта, заморозка разрешений по данным Bloomberg).
+11. electrive, «China restarts robotaxi licence approvals», 23.07.2026 — https://electrive.com/2026/07/23/china-restarts-robotaxi-licence-approvals (от нескольких десятков до 200+ машин, возобновление разрешений, машины с водителями в Ухане).
+12. Gasgoo, «WeRide Posts 230 Million Yuan in Q2 Revenue», 14.08.2026 — https://autonews.gasgoo.com/articles/news/weride-posts-230-million-yuan-in-q2-revenue-overseas-revenue-surges-164-yoy-2088109006169329664 (13 стран, 60+ городов, 1800+ роботакси, около 400 машин в ОАЭ, Абу-Даби и Дубай без водителя).

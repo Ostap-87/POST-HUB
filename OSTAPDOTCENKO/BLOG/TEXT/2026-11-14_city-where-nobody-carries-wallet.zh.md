@@ -7,6 +7,9 @@ lang: "zh"
 title: "不带钱包的城市"
 subtitle: "一个国家，人人都有钱，却没人见过钱"
 meta_description: "中国几乎告别了现金：支付宝、微信支付、每个摊位上的二维码，学着用手机付款的外国人，还有一家会因“拒收现金”开罚单的央行。一个外国访客的观察：方便、飞快，又有一点点心慌。"
+excerpt: "一个国家，人人都有钱，却没人见过钱"
+tag: "观察"
+time: "5 分钟"
 slug: "city-where-nobody-carries-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -70,3 +73,11 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_
 下次我还会带上它们。不是因为用得上，而是因为兜里总该有点什么，是不靠电池的。
 
 其他的一切，好像都已经靠电池了。
+
+**来源**
+
+1.  Портал правительства КНР (english.www.gov.cn), статистика CNNIC, август 2024 — https://english.www.gov.cn/archive/statistics/202408/29/content_WS66d01325c6d0868f4e8ea52f.html (почти 1,1 млрд интернет-пользователей на июнь 2024; более 5 млн иностранцев использовали мобильные платежи в I полугодии 2024).
+2.  MNI Markets, «China Visitor Mobile Payments Surge in H1», 2024 — https://www.mnimarkets.com/articles/mni-brief-china-visitor-mobile-payments-surge-in-h1 (5+ млн иностранных пользователей, вчетверо больше; 90+ млн транзакций и 14+ млрд юаней, в семь раз больше; упрощение привязки зарубежных карт).
+3.  Портал правительства КНР, «Payment service guide for overseas visitors to China», апрель 2024 — https://english.www.gov.cn/news/202404/11/content_WS6617c858c6d0868f4e8e5f4d.html (меры по упрощению платежей для иностранцев: привязка Visa и Mastercard к Alipay и WeChat Pay, повышение лимитов с 1 до 5 тыс. долл. за операцию).
+4.  Cash Matters, «China’s Central Bank Defends the Right to Pay Cash», 2021 — https://www.cashmatters.org/blog/chinas-central-bank-defends-the-right-to-pay-cash (штрафы 16 организациям в 2020 году, до 500 тыс. юаней).
+5.  Caixin Global, «China Fines KFC and Other Businesses for Rejecting Cash Payments», 15.05.2024 — https://www.caixinglobal.com/2024-05-15/china-fines-kfc-and-other-businesses-for-rejecting-cash-payments-102196668.html (штраф франчайзи KFC в Уси и другим компаниям за отказ от наличных).

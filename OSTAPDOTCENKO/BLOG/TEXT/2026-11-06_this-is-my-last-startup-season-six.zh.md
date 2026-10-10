@@ -7,6 +7,9 @@ lang: "zh"
 title: "这是我最后一次创业（第六季）"
 subtitle: "罗永浩：失败的次数多到，失败本身成了一门生意"
 meta_description: "从牛博网、老罗英语、锤子科技到细红线，从“真还传”到百度数字人直播，再到“预制菜之争”——一个常跑中国的俄罗斯营销人，带着自嘲和敬意，看罗永浩一次又一次“最后一次”。"
+excerpt: "罗永浩：失败的次数多到，失败本身成了一门生意"
+tag: "重新来过"
+time: "6 分钟"
 slug: "this-is-my-last-startup-season-six"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -62,3 +65,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_
 我回头看看自己的那些“最后一次”，都太小了。没有一个值六个亿，也没有一个能让全国人民讨论西兰花。
 
 也许这是福气。也许，只是我的“最后一次”，还没来。
+
+**来源**
+
+1.  TechNode, «Smartisan founder Luo Yonghao shifts focus from AR to AI assistant in his “last venture”», 24.12.2024 — https://technode.com/2024/12/24/smartisan-founder-luo-yonghao-shifts-focus-from-ar-to-ai-assistant-in-his-last-venture/ (история Smartisan, покупка патентов ByteDance, стримы с апреля 2020, команда ~150 при плане 1000).
+2.  Jiemian (界面新闻), обзор истории Ло Юнхао и «Тонкой красной линии» — https://www.jiemian.com/article/12174612.html (цитата «последний стартап», «Нюбо», «Лао Ло», TNT, «Пуля» — 198 дней, электронная сигарета, тяжёлый прототип, сокращения 2024).
+3.  Jiemian (界面新闻), о найме и финансировании «Тонкой красной линии», март 2025 — https://www.jiemian.com/article/12448395.html (основана в июне 2022, ангельский раунд ~50 млн долл., оценка ~200 млн, инвесторы).
+4.  Jiemian (界面新闻), январь 2022 — https://www.jiemian.com/article/6993217.html (долги ~600 млн юаней, личное поручительство, ограничения, первый эфир — 15 млн юаней, обнуление исполнительных производств и комментарий команды).
+5.  36Kr Europe — https://eu.36kr.com/en/p/3192833956077955 (бета ИИ-ассистента J1, январь 2025).
+6.  TechNode, «Luo Yonghao’s digital avatar draws over 13 million viewers in AI-powered Baidu live commerce debut», 17.06.2025 — https://technode.com/2025/06/17/luo-yonghaos-digital-avatar-draws-over-13-million-viewers-in-ai-powered-baidu-live-commerce-debut/ (13 млн просмотров, 55 млн юаней, 6+ часов, 97 тыс. слов).
+7.  Sixth Tone, «Feud Between Chinese Restaurant and Celebrity Leads to Change», 16.09.2025 — https://www.sixthtone.com/news/1017616 (конфликт с Xibei: награда 100 тыс. юаней, брокколи с двухлетним сроком, извинения, восемь блюд, проект стандарта).

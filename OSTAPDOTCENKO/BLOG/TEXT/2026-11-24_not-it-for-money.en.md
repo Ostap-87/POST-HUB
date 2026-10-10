@@ -7,6 +7,9 @@ lang: "en"
 title: "Not in It for the Money"
 subtitle: "How a Hangzhou hedge fund built a language model on the side, knocked a few hundred billion off someone else’s stock, and then spent eighteen months acting as if nothing had happened"
 meta_description: "DeepSeek grew out of the quant fund High-Flyer, started China’s token price war in 2024, delivered the “DeepSeek moment” in January 2025, and in 2026 shipped V4 for Huawei chips and took outside money for the first time. A wry essay about a company that never meant to scare anyone."
+excerpt: "How a Hangzhou hedge fund built a language model on the side, knocked a few hundred billion off someone else’s stock, and then spent eighteen months acting as if nothing had happened"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "not-it-for-money"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -60,3 +63,18 @@ What moves me in this story isn’t the market cap. It’s the silence. Marketer
 Not in it for the money. Money, like a cat, comes on its own once you stop calling it.
 
 It stings a little, I admit. All those years teaching people how to speak, only to find that the best salesman is the one who keeps quiet.
+
+**Sources**
+
+1.  Wikipedia, «DeepSeek» — https://en.wikipedia.org/wiki/DeepSeek (основание 17.07.2023, High-Flyer с 2015 г., около 10 000 A100 к 2021 г., около 160 сотрудников, даты R1, V3.1, V3.2, первое место в App Store, запреты в Австралии и по NDAA FY2026; сверено с источниками ниже).
+2.  DeepSeek-AI, «DeepSeek-V3 Technical Report», arXiv 2412.19437, 12.2024 — https://arxiv.org/abs/2412.19437 (2,788 млн GPU-часов H800, 5,576 млн долл., только финальный прогон).
+3.  KrASIA, «LLM prices hit rock bottom in China as Alibaba Cloud enters the fray», 05.2024 — https://kr-asia.com/llm-prices-hit-rock-bottom-in-china-as-alibaba-cloud-enters-the-fray (V2 6 мая 2024 г.: 1 и 2 юаня; Zhipu, ByteDance 0,8 юаня, Alibaba −97 %, Baidu бесплатно).
+4.  Bloomberg, «Nvidia’s $589 Billion DeepSeek Rout Is Largest in Market History», 27.01.2025 — https://www.bloomberg.com/news/articles/2025-01-27/asml-sinks-as-china-ai-startup-triggers-panic-in-tech-stocks
+5.  Reuters / CTV News, «China’s DeepSeek says its hit AI model cost just US$294,000 to train», 18.09.2025 — https://www.ctvnews.ca/business/article/chinas-deepseek-says-its-hit-ai-model-cost-just-us294000-to-train/
+6.  TechNode, «Open-source models make little sense, says Baidu CEO», 15.04.2024 — https://technode.com/2024/04/15/open-source-models-make-little-sense-says-baidu-ceo/
+7.  Reuters / Yahoo, «Factbox: DeepSeek V4», 24.04.2026 — https://tech.yahoo.com/ai/articles/factbox-deepseek-v4-chinese-ai-135916188.html (V4 Pro и Flash, адаптация под Huawei Ascend, заявление Huawei).
+8.  NYU Shanghai RITS, «DeepSeek Releases V4: Open-Source 1.6T MoE with 1M Context», 04.2026 — https://rits.shanghai.nyu.edu/ai/deepseek-releases-v4-open-source-1-6t-moe-with-1m-context (1,6 трлн параметров, контекст 1 млн токенов, открытые веса).
+9.  Engadget, «DeepSeek permanently reduces the price of its flagship V4 model by 75 percent», 05.2026 — https://engadget.com/2180062/deepseek-permanently-reduces-the-price-of-its-flagship-v4-model-by-75-percent
+10. The Decoder, «DeepSeek takes outside money for the first time at a 50 billion valuation», 06.2026 — https://the-decoder.com/deepseek-takes-outside-money-for-the-first-time-at-a-50-billion-valuation/ (50 млрд юаней, оценка выше 50 млрд долл., вклад Ляна около 20 млрд юаней, Tencent, CATL, госфонд, партнёрство без права голоса, пять лет блокировки; ссылки на The Information и Reuters).
+11. Trivium China, «DeepSeek reportedly closes USD 7 billion funding round», 16.06.2026 — https://triviumchina.com/2026/06/16/deepseek-reportedly-closes-usd-7-billion-funding-round/
+12. W.Media, «DeepSeek explores new funding round as IPO preparations begin», 15.07.2026 — https://w.media/41663-2/ (подготовка к IPO, возможный листинг в 2027 г., позиция для инвесторов по данным FT).

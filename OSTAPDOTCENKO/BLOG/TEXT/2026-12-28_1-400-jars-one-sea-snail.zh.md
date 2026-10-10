@@ -7,6 +7,9 @@ lang: "zh"
 title: "一只芋螺，一千四百瓶"
 subtitle: "国货护肤不再向国外“借”科学，开始备案自己的肽；也顺便发现：名字永远比分子跑得快"
 meta_description: "中国化妆品新原料备案数从2021年的6款增长到2025年的169款，肽类是最热门的品类之一。从“芋螺肽”和它的一千四百个“同名产品”，到维琪科技登陆北交所——一个俄罗斯营销人眼中的国货护肤“科学课”。"
+excerpt: "国货护肤不再向国外“借”科学，开始备案自己的肽；也顺便发现：名字永远比分子跑得快"
+tag: "多肽"
+time: "5 分钟"
 slug: "1-400-jars-one-sea-snail"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 瓶子里的科学不是分子，而是一种习惯：看清瓶子上写的是什么。
 
 只是有点心疼那只芋螺。一千四百款面霜用了它的名字，一瓶小样都没给它寄。
+
+**来源**
+
+1.  CIRS Group, «China New Cosmetic Ingredient Registration and Filing» — https://www.cirs-group.com/en/cosmetics/china-new-cosmetic-ingredient-registration-and-filing (регистрация для ингредиентов высокого риска, нотификация для остальных, трёхлетний мониторинг безопасности).
+2.  36Kr / 聚美丽, «备案半年破百，谁在领跑2026新原料”上半场”？», 27.07.2026 — https://www.36kr.com/p/3912464227685513 (6, 42, 69, 90 и 169 ингредиентов в 2021–2025 гг., 124 к 15.07.2026, больше 500 всего, доля иностранных заявителей около 14 %, Botanee и Weiqi по 23).
+3.  CBNData / 聚美丽, «一年90个，化妆品新原料透露哪些趋势？», 06.01.2025 — https://www.cbndata.com/information/293509 (пептиды — самая горячая категория 2024 г.: 8 заявок от 7 компаний, примеры ингредиентов и заявителей).
+4.  CIRS Group, «Analysis Report on the Filing and Registration Status of New Cosmetic Ingredients in China — October 2025» — https://www.cirs-group.com/en/cosmetics/analysis-report-on-the-filing-and-registration-status-of-new-cosmetic-ingredients-in-china-october-2025 (пептиды Fuerjia, Weiqi, Proya; 16 из 17 заявок китайские).
+5.  界面新闻 / 青眼, «一大批”芋螺肽”化妆品要下架了？» (2023) — https://m.jiemian.com/article/9568717.html (оформление «пептида конуса» Weiqi, номер 20230010, концентрация 0,0025 %, 1400+ продуктов, 6 авторизованных, полипептид аргинина и лизина).
+6.  36Kr, «珀莱雅、巨子生物投的原料商上市了», 27.07.2026 — https://www.36kr.com/p/3913244302578825 (листинг Weiqi на Пекинской бирже, выручка, маржа, инвесторы, основатель, 23 ингредиента).
+7.  同花顺, «敷尔佳获2家机构调研…», 04.03.2026 — https://stock.10jqka.com.cn/20260304/c675053456.shtml (два пептидных ингредиента Fuerjia в 2025 г.).

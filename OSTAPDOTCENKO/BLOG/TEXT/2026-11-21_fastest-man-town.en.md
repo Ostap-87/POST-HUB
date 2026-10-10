@@ -7,6 +7,9 @@ lang: "en"
 title: "The Fastest Man in Town"
 subtitle: "A monologue about the courier in the yellow jacket who arrives before you’ve had time to get hungry"
 meta_description: "China’s food delivery riders: millions of people in yellow and blue jackets, an algorithm counting the minutes, a record 120 million orders in a day, and the question of who is really driving whom. An outsider’s look at the fastest man in a Chinese city."
+excerpt: "A monologue about the courier in the yellow jacket who arrives before you’ve had time to get hungry"
+tag: "Observations"
+time: "6 min"
 slug: "fastest-man-town"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
 ---
@@ -70,3 +73,11 @@ I watch him the way I used to watch from a window as a kid, waiting for someone.
 He arrives four minutes early. Says, “Your order.” Leaves.
 
 I never saw his face. Helmet, mask, jacket. The fastest man in town. Somewhere right now he’s probably having dinner too. If he’s found the time.
+
+**Sources**
+
+1.  TechNode, «Meituan paid $11.3 billion to millions of delivery riders in 2023, averaging less than $0.52 per order», 19.09.2024 — https://technode.com/2024/09/19/meituan-paid-11-3-billion-to-millions-of-delivery-riders-in-2023-averaging-less-than-0-52-per-order/ (7,45 млн курьеров с доходом в 2023, 80 млрд юаней, ~3,65 юаня за заказ — расчёт TechNode).
+2.  China Digital Times (перепечатка материала журнала «Жэньу» 《人物》 «外卖骑手，困在系统里», сентябрь 2020) — https://chinadigitaltimes.net/chinese/655113.html (полгода расследования, десятки курьеров, «Мегамозг» 超级大脑 у Meituan, «Ковчег» 方舟 у Ele.me).
+3.  Digitaling (数英), заявление Meituan от 09.09.2020 — https://www.digitaling.com/articles/345953.html (восемь минут гибкости на заказ, фраза о том, что проблемы системы решают люди за системой).
+4.  The Paper (澎湃新闻), о планах JD и Meituan по социальному страхованию курьеров, февраль 2025 — https://www.thepaper.cn/newsDetail_forward_30193364 (JD — с 1 марта 2025 для штатных, Meituan — постепенно, с пилотов).
+5.  Malay Mail / Reuters, «Meituan hits record 120 million daily orders on July 5», 06.07.2025 — https://www.malaymail.com/news/money/2025/07/06/meituan-hits-record-120-million-daily-orders-on-july-5-amid-chinas-instant-delivery-price-war/183036 (рекорд 120+ млн заказов, сбой серверов, JD и Alibaba в ценовой войне).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "美丽，按瓶装"
 subtitle: "日本人喝了三十年胶原蛋白：从小瓶子喝，从火锅和甲鱼里吃；而科学家一直在争论，它到底能不能到达脸上"
 meta_description: "资生堂1996年推出首款胶原蛋白补充品，The Collagen饮品累计出货约3.5亿瓶；日本经历过胶原蛋白火锅和甲鱼热；日本学者在血液中发现胶原蛋白肽，而2025年一项荟萃分析认为对皮肤的益处缺乏证据。一篇关于“卖希望的饮料”的自嘲随笔。"
+excerpt: "日本人喝了三十年胶原蛋白：从小瓶子喝，从火锅和甲鱼里吃；而科学家一直在争论，它到底能不能到达脸上"
+tag: "多肽"
+time: "6 分钟"
 slug: "beauty-on-tap"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -42,3 +45,16 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 青春喝不回来。但可以为青春干一杯——日本发现，这也是个大市场。
 
 我还是站在甲鱼店那位女士一边：效果未证实，但是暖和。
+
+**来源**
+
+1.  Shiseido, The Collagen — https://corp.shiseido.com/en/brands/the-collagen/ (первые коллагеновые добавки Shiseido в 1996 г., около 350 млн бутылочек с 03.2009 по 04.2025, первое место среди коллагеновых напитков по данным INTAGE).
+2.  Meiji, Amino Collagen — https://www.meiji.co.jp/health/amicolla/en/standard/ («любимец 23 года», первое место по данным INTAGE за 2024 г.).
+3.  Web Japan, «Hotpots for Health and Beauty», март 2010 — https://web-japan.org/trends/09_lifestyle/lif100304.html (мода на коллагеновые набэ, бульон в бутылках).
+4.  Reuters / FashionNetwork, «Pigs feet and turtle blood fuel Japan beauty trend», 04.03.2008 — https://gr.fashionnetwork.com/news/Pigs-feet-and-turtle-blood-fuel-Japan-beauty-trend,40341.html (суппон, 70 % посетительниц, цитата «эффект не подтверждён»).
+5.  Iwai K. et al., «Identification of food-derived collagen peptides in human blood after oral ingestion of gelatin hydrolysates», Journal of Agricultural and Food Chemistry, 2005, 53(16): 6531–6536 — https://pubmed.ncbi.nlm.nih.gov/16076145/ (Pro-Hyp в крови, пик через 1–2 часа).
+6.  NutraIngredients, «Industry pushes back on meta-analysis concluding collagen supplements show no benefit for skin aging», 26.08.2025 — https://nutraingredients.com/Article/2025/08/26/industry-reacts-to-meta-analysis-concluding-collagen-supplements-show-no-proven-benefit-for-skin-aging (метаанализ Myung и Park, 23 РКИ, 1474 участника, реакция индустрии).
+7.  NutraIngredients, «Kobayashi knock-on effect: Japanese functional foods businesses legally bound to four new rules from Sep», 08.07.2024 — https://www.nutraingredients.com/Article/2024/07/08/japanese-functional-foods-businesses-legally-bound-to-four-new-rules-from-sep/ (новые правила с 01.09.2024, GMP с 01.09.2026).
+8.  日本食糧新聞, «ディープチャージ コラーゲン ＜2種の葡萄ゼリー＞（ファンケル）», 2026 — https://news.nissyoku.co.jp/foodsnews/260810-38 (продукт с заявленной функцией, выход 18.08.2026, трипептиды).
+9.  ChemLinked, GB 31645-2018 «食品安全国家标准 胶原蛋白肽» — https://food.chemlinked.com/database/view/1085 (стандарт на коллагеновые пептиды, действует с 21.12.2018).
+10. 澎湃新闻, «口服胶原蛋白肽，是美容智商税吗？», 08.03.2023 — https://m.thepaper.cn/newsDetail_forward_22177063 (китайская дискуссия об эффективности).

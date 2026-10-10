@@ -7,6 +7,9 @@ lang: "zh"
 title: "给药企串珠子"
 subtitle: "多肽是在塑料小珠上一颗一颗“串”出来的，就像串项链。而珠子、线和胶水，越来越多来自中国。本专栏收官之作"
 meta_description: "固相多肽合成是怎么回事：梅里菲尔德的小珠、树脂载体、保护氨基酸、缩合试剂，以及每公斤产品背后以吨计的溶剂。为什么仿制司美格鲁肽靠化学合成、原研药却在酵母里“长”出来，中国在这条链上为何不可替代：蓝晓科技、昊帆生物、诺泰生物。Tech专栏的最后一篇。"
+excerpt: "多肽是在塑料小珠上一颗一颗“串”出来的，就像串项链。而珠子、线和胶水，越来越多来自中国。本专栏收官之作"
+tag: "多肽"
+time: "5 分钟"
 slug: "pearls-before-pharma"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -52,3 +55,15 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 我一直拿着笔记本和一点幽默感在场边看。笔记本写满了。幽默感——暂时还没用完。
 
 谢谢阅读。项链串好了。线，我还攥在手里。
+
+**来源**
+
+1.  Chemistry World, «The story of solid phase peptide synthesis shows the wisdom of embracing new ideas» — https://www.chemistryworld.com/opinion/merrifields-resin/1017386.article (запись 1959 г., статья 1963 г., полистирольные бусины, критика метода).
+2.  The Rockefeller University, «Part XVIII: Robert Bruce Merrifield, 1984 Prize in Chemistry» — https://selections.rockefeller.edu/?p=2524 (Нобелевская премия 1984 г.).
+3.  ACS GCI Pharmaceutical Roundtable, «Peptides» — https://acsgcipr.org/focus-areas/peptides/ (PMI ≈ 13 000 для SPPS, 168–308 для малых молекул, ≈ 8300 для биопрепаратов).
+4.  EMA, Ozempic: EPAR — Product Information — https://www.ema.europa.eu/en/documents/product-information/ozempic-epar-product-information_en.pdf (семаглутид производится в Saccharomyces cerevisiae методом рекомбинантной ДНК).
+5.  Chemistry World, «India’s generic GLP-1 drugs are mostly booming», 2026 — https://www.chemistryworld.com/news/indias-generic-glp-1-drugs-are-mostly-booming/4023975.article (химический синтез дженериков, жирная кислота в позиции 26, Sinopep среди поставщиков субстанции).
+6.  Sunresin, «Sunresin advances global peptide and oligonucleotide innovation with breakthrough solid phase synthesis carriers» — https://www.seplite.com/sunresin-advances-global-peptide-and-oligonucleotide-innovation-with-breakthrough-solid-phase-synthesis-carriers/ (типы носителей, мощность более 120 т/год, данные компании).
+7.  钛媒体, «蓝晓科技业绩劲增，GLP-1药物供应链是否有望爆发？» — https://www.tmtpost.com/6635898.html (прогноз прибыли за 1-е полугодие 2023 г. +70–80 %, роль носителей и GLP-1).
+8.  证券之星 / 浙商证券, обзор 昊帆生物, 28.07.2023 — https://stock.stockstar.com/JC2023072800010123.shtml (листинг 12.07.2023, 160+ реагентов, 1900+ клиентов, первое место в Китае по фосфониевым и урониевым реагентам).
+9.  Eurofins, «Amending for N,N-dimethylformamide in Annex XVII to REACH Regulation» — https://eurofins.com/consumer-product-testing/media-centre/news/amending-for-n-n-dimethylformamide-in-annex-xvii-to-reach-regulation (ограничение ДМФА с 12.12.2023).

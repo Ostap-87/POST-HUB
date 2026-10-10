@@ -7,6 +7,9 @@ lang: "en"
 title: "Sovereign, With Borrowed Eyes"
 subtitle: "Korea and Japan are building their own AI so they don’t depend on America or China. The hardest part turns out to be agreeing on what “their own” means"
 meta_description: "Korea’s national AI model contest, where Naver was dropped over a component from China’s Qwen and Upstage had to clear itself of resembling a Zhipu model; Japan’s $2.65 billion Sakana AI and the trillion-yen Noetra project. A wry essay on a sovereignty measured against China."
+excerpt: "Korea and Japan are building their own AI so they don’t depend on America or China. The hardest part turns out to be agreeing on what “their own” means"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "sovereign-with-borrowed-eyes"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ Still, history gets the last word here, not ministries. Japanese writing is half
 And that’s fine. They became their own. It took a few centuries, but they did.
 
 Everyone borrows eyes. Learning to see is up to you.
+
+**Sources**
+
+1.  The Korea Herald, «Open-source use, China-linked concerns fuel reputational risks in national AI race», 20.01.2026 — https://www.koreaherald.com/article/10658913 (пять команд, выбывание Naver Cloud из-за визуального энкодера и весов Qwen, позиция министерства и замминистра Рю Чжэ Мёна, критика экспертов, «китайский фактор»).
+2.  The Korea Times, «LG AI Research, SK Telecom, Upstage survive next cut in national AI model project», 18.08.2026 — https://www.koreatimes.co.kr/business/tech-science/20260818/lg-ai-research-sk-telecom-upstage-survive-next-cut-in-national-ai-model-project (выбывание Naver Cloud и NC AI в январе, Motif в феврале, итоги второго этапа, K-EXAONE 2.0, A.X K2, Solar Open2, Motif 3 — 10-е место по AAII, около 1000 B200).
+3.  Venture Square, «업스테이지 ‘AI 표절 논란’ 종결», 04.01.2026 — https://www.venturesquare.net/1030519/ (обвинение 1 января, 96,8 %, публичная проверка, извинение 2 января).
+4.  TechCrunch, «Sakana AI raises $135M Series B at a $2.65B valuation to continue building AI models for Japan», 17.11.2025 — https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b-at-a-2-65b-valuation-to-continue-building-ai-models-for-japan (основатели, 20 млрд иен, MUFG, японский язык и культура, финансовый сектор).
+5.  TechCrunch, 19.07.2026 — https://techcrunch.com/?p=3144105 (Noetra: до 1 трлн иен за пять лет, около 44 компаний, SoftBank, Sony, NEC, Honda, этапы 2026–2028–2030, цель не зависеть от американского и китайского ИИ).
+6.  Let’s Data Science, «Japan Targets Sovereign AI Model and 10 Million Robots», 01.07.2026 — https://letsdatascience.com/news/japan-targets-sovereign-ai-model-and-10-million-robots-83b74c54 (решение METI о проекте Noetra, первый транш 387,3 млрд иен).
+7.  MLex, «Japan adopts second AI basic plan, targets agentic AI and sovereignty», 14.07.2026 — https://www.mlex.com/mlex/artificial-intelligence/articles/2500643/japan-adopts-second-ai-basic-plan-targets-agentic-ai-and-sovereignty («открытый подход к суверенитету», без зависимости от отдельных поставщиков и стран).

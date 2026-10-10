@@ -7,6 +7,9 @@ lang: "zh"
 title: "手，是人身上最贵的部分"
 subtitle: "为什么人形机器人能跑完半马，却扣不上一颗纽扣；中国又是怎么成了全世界的“机器人手”供应商"
 meta_description: "灵巧手可占人形机器人成本的五分之一左右，特斯拉称其占整机工程工作量的一半。因时、灵心巧手、强脑科技等中国企业几乎包揽了全球灵巧手出货，价格降了好几倍。一个俄罗斯营销人的自嘲随笔：机器人的腿已经长好，手还在长。"
+excerpt: "为什么人形机器人能跑完半马，却扣不上一颗纽扣；中国又是怎么成了全世界的“机器人手”供应商"
+tag: "机器人"
+time: "6 分钟"
 slug: "hand-is-most-expensive-part-human"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -63,3 +66,12 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 说正经的，我挺高兴：机器人身上最难造的部分，恰恰是我们用来摸孩子的头、写信、在医院里握住亲人的那一部分。看来，我们这么珍惜它，没有错。
 
 手，是人身上最贵的部分。哪怕在成本表上，它看起来没那么贵。
+
+**来源**
+
+1.  ITES Shenzhen, «Dexterous Hands: 70,000 Units of Annual Demand, Fewer Than 20,000 in Production», 20.08.2026 — https://global.iteschina.com/en/news/details/2994 (оценка Morgan Stanley 17,3 % BOM Optimus; 10–20 % по оценкам отрасли; цены BrainCo и Inspire; закупки кистей Unitree в январе–сентябре 2025 г.; микрошестерни и винты 1,4 мм; продажи 19,2 тыс. кистей в 2025 г. по GGII).
+2.  Caixin Global, «The misguided quest for a human-like robot hand», 07.10.2025 — https://www.caixinglobal.com/2025-10-07/the-misguided-quest-for-a-human-like-robot-hand-102369319.html (кисти — около 17 % стоимости «железа» Optimus Gen2; у Tesla на кисть — около половины инженерной работы).
+3.  Gasgoo, «Smart Drive & Capital Talks \| No Overnight Miracles, Clearing Up the “Math” for Dexterous Hands», 11.03.2026 — https://autonews.gasgoo.com/articles/market-industry/smart-drive-capital-talks-no-overnight-miracles-clearing-up-the-math-for-dexterous-hands-2031720624269938689 (история продаж Inspire Robots: запуск в 2020 г., ~2000 шт. в 2024 г., 10 000+ в 2025 г.).
+4.  Humanoid.guide со ссылкой на Reuters, «Linkerbot targets $6 billion valuation as humanoid robot hands scale», 04.05.2026 — https://humanoid.guide/?p=11200 (оценка 3 млрд долл., ~5000 кистей в месяц, заявленные 80 % рынка, модель O6).
+5.  AI Business, «China leads dexterous hand supply for humanoids», 25.09.2026 — https://aibusiness.com/robotics/china-leads-dexterous-hand-supply (данные SAG: 96 % поставок кистей с 6+ активными степенями свободы в I полугодии 2026 г.; снижение доли ловких кистей).
+6.  Humanoid.guide со ссылкой на The Guardian, «China’s humanoid robot hands race targets useful manipulation», 07.07.2026 — https://humanoid.guide/?p=14309 (мнение Натана Лепоры об управлении кистями).

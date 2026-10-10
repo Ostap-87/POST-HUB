@@ -7,6 +7,9 @@ lang: "en"
 title: "Burned Out"
 subtitle: "How the Galaxy Note 7 got banned from airplanes, and how Samsung turned the ashes into an eight-point checklist"
 meta_description: "The Galaxy Note 7 story: an August 2016 launch, 2.5 million phones recalled, replacements that caught fire too, a ban on US flights, an investigation of 200,000 devices, two different battery defects, Samsung’s 8-Point Battery Safety Check, the Note FE and the Note 8. A wry essay on how a fire becomes a procedure."
+excerpt: "How the Galaxy Note 7 got banned from airplanes, and how Samsung turned the ashes into an eight-point checklist"
+tag: "Restarts"
+time: "6 min"
 slug: "burned-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -74,3 +77,16 @@ I’ve worked with Chinese and Asian factories for years, and I noticed long ago
 So my decks will keep their hot deals and explosive growth. Metaphors don’t smoke.
 
 But next to them, in my head, there’s now a small footnote: “X-rayed.”
+
+**Sources**
+
+1.  Fortune, «Samsung Galaxy Note 7: A Timeline of the Crisis», 11.10.2016 — https://fortune.com/2016/10/11/samsung-galaxy-note-7-timeline (продажи с 19.08.2016; 92 сообщения в США, 26 ожогов, 55 случаев ущерба имуществу; отзыв 2,5 млн в 10 странах; эвакуация самолёта Southwest; прекращение обмена 9.10 и производства 11.10).
+2.  CBC / Associated Press, «Samsung blames Galaxy Note 7 smartphone fires on battery design, manufacturing», 22.01.2017 — https://www.cbc.ca/lite/story/1.3947604 (показ 2 августа, батарея 3500 мАч с наибольшей плотностью энергии среди устройств Samsung; 700 исследователей и инженеров, 200 тыс. устройств, 30 тыс. батарей; UL, Exponent, TÜV Rheinland; оценка ущерба не менее 5,3 млрд долл.; слова Ко Дон Джина о шансе для отрасли; около 4 % телефонов не возвращены).
+3.  PCR, «Samsung officially blames small battery cases and poor welding for Galaxy Note 7 fires» — https://www.pcr-online.biz/retail/samsung-officially-blames-small-battery-cases-and-poor-welding-for-galaxy-note-7-fires (дефекты батарей A и B, заусенцы сварки, отсутствие изоляционной ленты, оценка Exponent).
+4.  Samsung Newsroom, «Samsung Electronics Announces Cause of Galaxy Note7 Incidents in Press Conference», 23.01.2017 — https://news.samsung.com/us/samsung-electronics-announces-cause-of-galaxy-note7-incidents-in-press-conference (пресс-конференция в Сеуле, проверка из восьми пунктов).
+5.  Samsung Australia, «8-Point Battery Safety Check» — https://www.samsung.com/au/galaxynote7-information (полный перечень восьми пунктов).
+6.  Liliputing, 23.01.2017 — https://liliputing.com/2017/01/samsung-says-battery-issues-caused-galaxy-note-7-fires-96-percent-phones-returned.html (96 % телефонов возвращены).
+7.  U.S. Department of Transportation, «DOT Bans All Samsung Galaxy Note7 Phones from Airplanes», 14.10.2016 — https://www.transportation.gov/briefing-room/dot-bans-all-samsung-galaxy-note7-phones-airplanes (запрет с полудня 15.10.2016, отказ в посадке, штрафы и уголовное преследование).
+8.  SamMobile, 27.10.2016 — https://www.sammobile.com/2016/10/27/samsungs-third-quarter-results-show-the-galaxy-note-7-eviscerated-mobile-divisions-profit/ (операционная прибыль мобильного подразделения 100 млрд вон в III квартале 2016, −95 %, минимум почти за восемь лет).
+9.  BGR, 07.07.2017 — https://bgr.com/2017/07/07/galaxy-note-7-fe-release-date-sales-kick-off-in-korea/ (Galaxy Note FE: продажи в Корее с 7.07.2017, около 400 тыс. штук, примерно на 30 % дешевле, батарея 3200 мАч).
+10. GSMArena, «Samsung Galaxy Note8 reaches 850,000 pre-orders in South Korea», 15.09.2017 — https://www.gsmarena.com/galaxy_note8_reaches_850000_preorders_in_south_korea-news-27295.php (850 тыс. предзаказов за 8 дней против 380 тыс. за 13 дней у Note 7).

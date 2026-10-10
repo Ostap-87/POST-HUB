@@ -7,6 +7,9 @@ lang: "en"
 title: "Cricket vs. Ping-Pong"
 subtitle: "Semaglutide’s patent expired in India and China on the same day. India took the field within days. China has to wait until 2027, and somehow still isn’t losing"
 meta_description: "On March 20, 2026, the core semaglutide patent expired in both India and China. Indian generics launched at once, then tripped over an impurity in the active ingredient. Chinese generics are waiting for data protection to lapse in April 2027, while Chinese suppliers sell the API to everyone. A wry match report. No medical advice."
+excerpt: "Semaglutide’s patent expired in India and China on the same day. India took the field within days. China has to wait until 2027, and somehow still isn’t losing"
+tag: "Peptides"
+time: "5 min"
 slug: "cricket-vs-ping-pong"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -48,3 +51,15 @@ So who becomes the GLP-1 generics factory? My honest forecast: both, in differen
 A cricket match lasts five days. A ping-pong rally lasts four seconds. The India–China GLP-1 match has been going for six months, and the rules are still being written mid-game.
 
 And the spectators it’s all supposedly for are sitting in the stands, waiting for the medicine to become just a medicine. No hype, no drama, no scoreboard.
+
+**Sources**
+
+1.  Beijing News (新京报), 23.03.2026 — https://m.bjnews.com.cn/detail/1774263342168033.html (истечение патента в Китае 20.03.2026, десять заявителей, 11 компаний в III фазе, снижение цен).
+2.  Outlook Business, «One Goal, 50 Brands: Inside the Scramble for India’s Post-Patent Semaglutide Market», 09.04.2026 — https://www.outlookbusiness.com/corporate/one-goal-50-brands-inside-the-scramble-for-indias-post-patent-semaglutide-market (20.03.2026 в Индии, 50+ брендов, цены, доля Индии в генериках).
+3.  Chemistry World, «India’s generic GLP-1 drugs are mostly booming», 2026 — https://www.chemistryworld.com/news/indias-generic-glp-1-drugs-are-mostly-booming/4023975.article (запуски, Emcure, Sinopep как поставщик субстанции, «bloodbath», отзыв Torrent).
+4.  Pharma Manufacturing, «Dr. Reddy’s says API issue delays commercial supplies of its generic semaglutide», 10.07.2026 — https://www.pharmamanufacturing.com/production/batch/article/55389954/dr-reddys-says-api-issue-delays-commercial-supplies-of-its-generic-semaglutide
+5.  Health Canada, «Canada becomes the first G7 country to approve a generic version of semaglutide», 28.04.2026 — https://www.canada.ca/en/health-canada/news/2026/04/canada-becomes-the-first-g7-country-to-approve-a-generic-version-of-semaglutide.html
+6.  Swissinfo, «Novo Sees Generic Ozempic Delayed in China Until Next Year», 06.05.2026 — https://www.swissinfo.ch/eng/novo-sees-generic-ozempic-delayed-in-china-until-next-year/91373533
+7.  虎嗅, 25.04.2026 — https://www.huxiu.com/article/4853749.html (защита данных по соглашению Китай–Швейцария до апреля 2027 г., ожидания Livzon).
+8.  SCMP, «China’s weight-loss drug war: prices slashed 80%…», 13.01.2026 — https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens
+9.  PharmaSource (по расследованию Reuters от 03.09.2025), «From GLP-1 Black Market to Biosimilar Battle» — https://pharmasource.global/content/expert-insight/from-glp-1-black-market-to-biosimilar-battle-chinese-api-suppliers-pivot-to-generics-after-fda-crackdown/ (восемь китайских поставщиков, миллиард доз, разворот к Канаде и Бразилии).

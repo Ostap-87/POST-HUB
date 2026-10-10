@@ -7,6 +7,9 @@ lang: "en"
 title: "Six Tigers and One Cage"
 subtitle: "Six Chinese AI startups survived DeepSeek, a price war and free-spending giants. Four are heading to the stock market, two changed careers, and nobody died"
 meta_description: "China’s “Six Little Tigers” of AI — Zhipu, MiniMax, Moonshot, StepFun, Baichuan and 01.AI. Two are listed in Hong Kong, two more are preparing, Baichuan moved into medicine and 01.AI stopped training its own models. A wry look at who’s still in the game, and why."
+excerpt: "Six Chinese AI startups survived DeepSeek, a price war and free-spending giants. Four are heading to the stock market, two changed careers, and nobody died"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "six-tigers-one-cage"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,17 @@ It’s not the loudest roar that survives. It’s knowing when your act is on.
 They say when the circus leaves town, the clowns stay. Here the circus never left. The tigers are still here. And so are the clowns — us forecasters, who two years ago were confidently sorting the six into survivors and goners. Thankfully, I never said my forecast out loud. But it existed, and it was grim.
 
 Frankly, I enjoy being wrong. It’s a rare case where reality turned out kinder than my forecast.
+
+**Sources**
+
+1.  Wikipedia, «Six AI tigers» — https://en.wikipedia.org/wiki/Six_AI_tigers (состав группы, происхождение термина, статус единорогов к началу 2024 года, инвесторы).
+2.  Caixin Global, «China’s Zhipu AI jumps in Hong Kong debut», 08.01.2026 — https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html (дата и цена размещения Zhipu).
+3.  36Kr, обзор Zhipu и MiniMax, сентябрь 2026 — https://eu.36kr.com/zh/p/3971481903306372 (капитализация Zhipu в июне и 1 сентября 2026 года, выручка и убыток за первое полугодие; капитализация MiniMax в мае и осенью, выручка MiniMax и доля зарубежной выручки).
+4.  Techloy, «China’s Zhipu AI launches GLM-5 with 30% price increase», 13.02.2026 — https://techloy.com/chinas-zhipu-ai-launches-glm-5-with-30-price-increase-as-stock-jumps-34 (повышение цены на 30 %).
+5.  Yahoo Finance / Bloomberg, «Zhipu raises AI model prices 8%–17% as GLM-5.1 launches», 08.04.2026 — https://finance.yahoo.com/sectors/technology/articles/zhipu-raises-ai-model-prices-131652529.html (повышение на 8–17 %).
+6.  Yicai Global, «MiniMax’s Stock Doubles in Value as Chinese AI Startup Debuts in Hong Kong», 09.01.2026 — https://www.yicaiglobal.com/news/chinese-ai-startup-minimaxs-stock-pops-in-hong-kong-trading-debut (дата, переподписка 1837 раз, рост в первый день).
+7.  Pulse 2.0, «Moonshot AI: $2 Billion Funding Round Values Kimi Chatbot Maker Above $20 Billion», 07.05.2026 — https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/ (раунд Moonshot).
+8.  Quartz, «Moonshot AI confidentially files Hong Kong IPO targeting $3 billion», 03.09.2026 — https://qz.com/moonshot-ai-hong-kong-ipo-filing-3-billion-090326 (заявка на IPO со ссылкой на Reuters).
+9.  The Standard (Гонконг), «Stepfun finishes new US$2.5b funding round for HK IPO», 08.05.2026 — https://www.thestandard.com.hk/finance/article/331515/Stepfun-Chinas-AI-Six-Tigers-finishes-new-US25b-funding-round-for-HK-IPO (раунд StepFun, перестройка структуры, Цзян Дасинь).
+10. Deep News / Tiger Brokers, о Baichuan и Ван Сяочуане, 14.01.2026 — https://www.itiger.com/news/1111803299 (Baichuan-M3, HealthBench, 3 млрд юаней, IPO в 2027 году).
+11. The Next Web, о планах 01.AI на IPO в Гонконге в 2027 году, июль 2026 — https://thenextweb.com/news/01ai-kai-fu-lee-hong-kong-ipo-2027-palantir-china (отказ от базовых моделей, дообучение DeepSeek, Qwen и GLM, 240 сотрудников, половина бизнеса за рубежом).

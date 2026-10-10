@@ -7,6 +7,9 @@ lang: "en"
 title: "The Birthplace of Humanoids"
 subtitle: "How the country that first taught a robot to walk sent it into retirement, slept through the boom, and now sells China the joints for other people’s humanoids"
 meta_description: "Japan built the world’s first full-scale humanoid, then ASIMO and Pepper, then shut them down and missed the boom China now leads. Yet Japanese firms still make 38% of the world’s industrial robots, and Japanese precision parts sit inside Chinese humanoids. A wry essay."
+excerpt: "How the country that first taught a robot to walk sent it into retirement, slept through the boom, and now sells China the joints for other people’s humanoids"
+tag: "Robots"
+time: "6 min"
 slug: "birthplace-humanoids"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,13 @@ I don’t think Japan lost. I think it got tired first. That’s different. Whoe
 ASIMO went on stage 15,466 times. For the 15,467th, nobody called. But in every Chinese humanoid that runs, fights and pours drinks today, there’s a trace of that first step — hesitant, Japanese, taken long ago.
 
 Japan is the birthplace of humanoids. Not the loudest one. But like any home, it recognizes its children. By their joints.
+
+**Sources**
+
+1.  South China Morning Post / Yahoo Tech, «Stuck in the factory: how robotics pioneer Japan missed the AI-driven humanoid boom», 14.12.2025 — https://tech.yahoo.com/ai/articles/stuck-factory-robotics-pioneer-japan-093000771.html (WABOT-1 и WABOT-2, ASIMO 2000–2018, футбол с Обамой в 2014-м, Pepper 2014–2021, SoftBank и Boston Dynamics 2017–2021, слова Сигэмицу, 38 % производства, IREX: Fanuc, Yaskawa, Kawasaki, Nachi, 84 китайских участника, бар GMO с Unitree, 295 тыс. установок и 57 % местных производителей в Китае, Kaleido, Yaskawa и SoftBank).
+2.  Miraikan, «About the End of Demonstrations by Humanoid Robot ASIMO» — https://www.miraikan.jst.go.jp/en/news/general/202201313101.html (с января 2002 года, 15 466 демонстраций по состоянию на конец 2021 года, окончание 31 марта 2022 года).
+3.  IFR / Business Wire, «Japan’s Car Industry Has Highest Robot Installations in Five Years», 14.07.2025 — https://www.businesswire.com/news/home/20250714601866/en/Japans-Car-Industry-Has-Highest-Robot-Installations-in-Five-Years (Япония — 38 % мирового производства роботов, цитата президента IFR).
+4.  AP / WTOP, «Humanoids dance and thread needles as Japanese robotics developers look to outdo Chinese», 28.05.2026 — https://wtop.com/lifestyle/2026/05/humanoids-dance-and-thread-needles-as-japanese-robotics-developers-look-to-outdo-chinese/ (Humanoids Summit Tokyo, «синдром Галапагосов» и цитата Тима Хорняка, рука Honda, слова Хироси Исигуро).
+5.  IT Business Today, «Waseda, tmsuk, Murata, SRE form Kyoto humanoid group», 21.07.2025 — https://itbusinesstoday.com/industrial-tech/manufacturing/waseda-tmsuk-murata-sre-form-kyoto-humanoid-group/ (состав и цели Киотской ассоциации гуманоидов).
+6.  SoftBank Group, «Acquisition of ABB Ltd’s Robotics Business», 08.10.2025 — https://group.softbank/en/news/press/20251008 (сделка по покупке робототехнического бизнеса ABB).
+7.  TechRepublic, «SoftBank Acquires ABB’s Robotics Business for $5.4B» — https://www.techrepublic.com/article/news-softbank-acquires-abb-robotics/ (сумма сделки).

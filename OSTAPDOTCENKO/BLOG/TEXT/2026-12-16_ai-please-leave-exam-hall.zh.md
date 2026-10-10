@@ -7,6 +7,9 @@ lang: "zh"
 title: "AI同学，请你先出去一下"
 subtitle: "每年六月有四天，中国的AI认不出试卷；第五天，媒体又把它们请回考场，挨个打分"
 meta_description: "高考期间，豆包、千问、Kimi、元宝等纷纷“限时上锁”，关闭拍题答疑；智能安检门开始查智能眼镜；考试一结束，大模型做数学卷拿到137到150分。一个俄罗斯营销人，看中国如何一边培养AI，一边请它出考场。"
+excerpt: "每年六月有四天，中国的AI认不出试卷；第五天，媒体又把它们请回考场，挨个打分"
+tag: "人工智能"
+time: "5 分钟"
 slug: "ai-please-leave-exam-hall"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -56,3 +59,13 @@ AI同学，请你先出去一下。
 以后会叫你回来的。上大学、找工作，这一辈子都会用到你。
 
 但这四天，是他的。
+
+**来源**
+
+1.  Fortune / Bloomberg, «Alibaba, Tencent freeze AI tools during high-stakes China college exam», 09.06.2025 — https://fortune.com/asia/2025/06/09/alibaba-tencent-freeze-ai-tools-gaokao-china-exam (Yuanbao и Kimi отключили распознавание фото, Qwen с 7 по 10 июня, реакция Doubao, ответ ботов, 13,4 млн участников, правила Минобразования мая 2025 г.).
+2.  新京报 (Beijing News), 03.06.2026 — https://www.bjnews.com.cn/detail/1780460956129787.html (12,9 млн заявок на гаокао-2026, модернизация «умных рамок» для поиска телефонов и умных очков).
+3.  中华网 (China.com), 07.06.2026 — https://news.china.com/socialgd/10000169/20260607/49534771.html (начало экзамена 7 июня, «временный замок» у Doubao, Qianwen, Quark, Kimi, позиция Baidu).
+4.  界面新闻 (Jiemian), 27.05.2026 — https://www.jiemian.com/article/14490571.html (ответ Doubao «до и после, но не во время», план «ИИ + образование» апреля 2026 г., тест Southern Metropolis Daily 2025 г.).
+5.  网易 / China Daily, 27.05.2026 — https://www.163.com/dy/article/KTV844R90530SFP3.html (сообщение «此项功能在高考时段无法使用», предупреждение Минобразования об «ИИ-прогнозах заданий»).
+6.  新京报 (Beijing News), тест моделей на математике гаокао-2026 — https://www.bjnews.com.cn/detail/1780914137169182.html (iFlytek Spark 148, Kimi 145, DeepSeek 144, Zhipu 143, MiniMax 142, ChatGPT 137).
+7.  新浪财经 / 智东西 (Zhidongxi), 17.06.2026 — https://finance.sina.cn/2026-06-17/detail-inictnum7014254.d.html (Yuanbao: математика 150, китайский 142, оценка сочинения Шэнь И).

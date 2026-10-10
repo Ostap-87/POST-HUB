@@ -7,6 +7,9 @@ lang: "zh"
 title: "一山能容几只虎"
 subtitle: "六家中国大模型创业公司，熬过了DeepSeek、价格战和免费的大厂：四家奔向资本市场，两家转了行，一家都没倒"
 meta_description: "“大模型六小虎”——智谱、MiniMax、月之暗面、阶跃星辰、百川智能、零一万物。两家已在港股上市，两家正在准备，百川转向医疗，零一万物不再自研基座模型。一个俄罗斯营销人自嘲地看：谁还在牌桌上，为什么。"
+excerpt: "六家中国大模型创业公司，熬过了DeepSeek、价格战和免费的大厂：四家奔向资本市场，两家转了行，一家都没倒"
+tag: "人工智能"
+time: "6 分钟"
 slug: "six-tigers-one-cage"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -62,3 +65,17 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 都说“放虎归山”。这回虎没归山，山也没散。倒是我们这些预测者还在——两年前，不少人信心满满地给六家分了“能活”和“活不成”。我幸好没说出口，可心里那份预测，是挺悲观的。
 
 说实话，我很高兴自己错了。现实比我的预测更厚道，这种事不常有。
+
+**来源**
+
+1.  Wikipedia, «Six AI tigers» — https://en.wikipedia.org/wiki/Six_AI_tigers (состав группы, происхождение термина, статус единорогов к началу 2024 года, инвесторы).
+2.  Caixin Global, «China’s Zhipu AI jumps in Hong Kong debut», 08.01.2026 — https://www.caixinglobal.com/2026-01-08/chinas-zhipu-ai-jumps-in-hong-kong-debut-102401610.html (дата и цена размещения Zhipu).
+3.  36Kr, обзор Zhipu и MiniMax, сентябрь 2026 — https://eu.36kr.com/zh/p/3971481903306372 (капитализация Zhipu в июне и 1 сентября 2026 года, выручка и убыток за первое полугодие; капитализация MiniMax в мае и осенью, выручка MiniMax и доля зарубежной выручки).
+4.  Techloy, «China’s Zhipu AI launches GLM-5 with 30% price increase», 13.02.2026 — https://techloy.com/chinas-zhipu-ai-launches-glm-5-with-30-price-increase-as-stock-jumps-34 (повышение цены на 30 %).
+5.  Yahoo Finance / Bloomberg, «Zhipu raises AI model prices 8%–17% as GLM-5.1 launches», 08.04.2026 — https://finance.yahoo.com/sectors/technology/articles/zhipu-raises-ai-model-prices-131652529.html (повышение на 8–17 %).
+6.  Yicai Global, «MiniMax’s Stock Doubles in Value as Chinese AI Startup Debuts in Hong Kong», 09.01.2026 — https://www.yicaiglobal.com/news/chinese-ai-startup-minimaxs-stock-pops-in-hong-kong-trading-debut (дата, переподписка 1837 раз, рост в первый день).
+7.  Pulse 2.0, «Moonshot AI: $2 Billion Funding Round Values Kimi Chatbot Maker Above $20 Billion», 07.05.2026 — https://pulse2.com/moonshot-ai-2-billion-funding-round-values-kimi-chatbot-maker-above-20-billion/ (раунд Moonshot).
+8.  Quartz, «Moonshot AI confidentially files Hong Kong IPO targeting $3 billion», 03.09.2026 — https://qz.com/moonshot-ai-hong-kong-ipo-filing-3-billion-090326 (заявка на IPO со ссылкой на Reuters).
+9.  The Standard (Гонконг), «Stepfun finishes new US$2.5b funding round for HK IPO», 08.05.2026 — https://www.thestandard.com.hk/finance/article/331515/Stepfun-Chinas-AI-Six-Tigers-finishes-new-US25b-funding-round-for-HK-IPO (раунд StepFun, перестройка структуры, Цзян Дасинь).
+10. Deep News / Tiger Brokers, о Baichuan и Ван Сяочуане, 14.01.2026 — https://www.itiger.com/news/1111803299 (Baichuan-M3, HealthBench, 3 млрд юаней, IPO в 2027 году).
+11. The Next Web, о планах 01.AI на IPO в Гонконге в 2027 году, июль 2026 — https://thenextweb.com/news/01ai-kai-fu-lee-hong-kong-ipo-2027-palantir-china (отказ от базовых моделей, дообучение DeepSeek, Qwen и GLM, 240 сотрудников, половина бизнеса за рубежом).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "请摆出聪明脸"
 subtitle: "韩国护肤学会了把肽当“技术”卖，把顾客当“研究员”待。实验室占几分，橱窗占几分？"
 meta_description: "2025年韩国化妆品出口创下114亿美元纪录，超过美国。韩妆里的肽：为什么不在官方抗皱成分清单上，凯尔晶（Caregen）是什么来头，Olive Young的搜索数据说明了什么，韩国监管又抓了哪些违规广告。一篇自嘲随笔。"
+excerpt: "韩国护肤学会了把肽当“技术”卖，把顾客当“研究员”待。实验室占几分，橱窗占几分？"
+tag: "多肽"
+time: "5 分钟"
 slug: "put-on-your-clever-face"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -52,3 +55,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 首尔的监管者显然也明白。所以抗皱清单只有四个词，而广告里有一百个。
 
 聪明脸也是脸，也得好好保养。
+
+**来源**
+
+1.  Korea JoongAng Daily, «Korea surpasses U.S. in cosmetics exports with record $11.4 billion», 23.05.2026 — https://www.koreajoongangdaily.com/business/korea-surpasses-us-in-cosmetics-exports-with-record-114-billion/12713991 (экспорт 11,4 млрд долл., +11,8 %, Франция 24,3, США 10,8; США 2,2 млрд, Китай 2 млрд, −19 %; данные MFDS).
+2.  ELLE Korea, статья о функциональной косметике против морщин — https://www.elle.co.kr/article/72075 (четыре ингредиента в списке MFDS: ретинол, ретинил пальмитат, полиэтоксилированный ретинамид, аденозин; пептиды могут получить признание на уровне продукта).
+3.  Lubrizol, «Innovation and Revolution: The Journey to Argireline Amplified Peptide», 01.2025 — https://lubrizol.com/Personal-Care/Blog/2025/01/Innovation-and-Revolution-The-Journey-to-Argireline-Amplified-Peptide (Lipotec, разработка с конца 1980-х, «первый пептид, местно снижающий мышечные сокращения»).
+4.  CB Insights, Caregen — https://www.cbinsights.com/company/caregen (основана в 2001 г., IPO 17.11.2015).
+5.  BASF Korea, пресс-релиз о договоре с Caregen, 20.01.2021 — https://www.basf.com/kr/ko/media/news-releases/kr/2021/01/P-21-05 (глобальный эксклюзивный договор на косметические пептиды, около 360 патентов на пептидные вещества).
+6.  The Monodist, «From PDRN to mask cleansers: the biggest Korean beauty trends reported by Olive Young», 09.09.2025 — https://themonodist.com/from-pdrn-to-mask-cleansers-the-biggest-korean-beauty-trends-reported-by-olive-young/ (рост поиска: пептиды +72 %, PDRN +695 %, очищающие маски +1700 %).
+7.  ChemLinked, «South Korea Cracks Down on Misleading Cosmetic Advertising», 06.08.2025 — https://cosmetic.chemlinked.com/news/cosmetic-news/south-korea-cracks-down-on-misleading-cosmetic-advertising (83 нарушения: 53, 25 и 5 случаев, «проникает до конца дермы»).

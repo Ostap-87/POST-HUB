@@ -7,6 +7,9 @@ lang: "en"
 title: "The Tailor Without a Label"
 subtitle: "The decade’s most fashionable molecules are tailored in China and sold under someone else’s label. On the workshop every pharma giant knows and no patient has heard of"
 meta_description: "China’s contract peptide manufacturers: WuXi TIDES nearly doubled its revenue in 2025 and passed 100,000 liters of solid-phase synthesis capacity, Asymchem runs peptide lines without people on the floor, and semaglutide and tirzepatide ingredient makers are building capacity measured in tons. A wry essay on the invisible factories."
+excerpt: "The decade’s most fashionable molecules are tailored in China and sold under someone else’s label. On the workshop every pharma giant knows and no patient has heard of"
+tag: "Peptides"
+time: "6 min"
 slug: "tailor-without-label"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,13 @@ My childhood tailor, honestly, is a composite. There were many, each family had 
 Peptides seem to work the same way. While everything fits, nobody cares about the workshop. Then Washington asks who’s doing the sewing and discovers it’s one workshop for half the world.
 
 And it has no label. Just the seam.
+
+**Sources**
+
+1.  WuXi AppTec, «WuXi AppTec Beat Full-Year Guidance and Achieved Record Performance in 2025» — https://wuxiapptec.com/news/wuxi-news/ukp6jpdhyncifp8ovk4kv1z6 (выручка TIDES 11,37 млрд юаней, +96 %; реакторы SPPS более 100 000 л; Тайсин).
+2.  WuXi AppTec, промежуточный отчёт за 1-е полугодие 2026 года, HKEXnews, 03.08.2026 — https://www.hkexnews.hk/listedco/listconews/sehk/2026/0803/2026080302540.pdf (TIDES 7,26 млрд юаней, +44,3 %; клиенты +39 %, молекулы +68 %).
+3.  Asymchem, «Asymchem’s Fully Automated Peptide Production Lines Set New Benchmarks…», 13.11.2024 — https://www.biospace.com/press-releases/asymchems-fully-automated-peptide-production-lines-set-new-benchmarks-as-large-scale-capacity-continues-to-grow
+4.  Yicai Global, «Sinopep Points to Chinese Biopharma Firm’s Competitive Edge Amid Higher US Tariffs», 25.04.2025 — https://www2.yicaiglobal.com/news/sinopep-retains-advantages-despite-us-tariffs-chinese-weight-loss-drug-ingredient-supplier-says
+5.  Tiger Brokers News, «Net Profit Expected to Surge Over 200%, Sheng Nuo Biotec Feasts on GLP-1 Weight-Loss Market Boom», 16.01.2026 — https://www.itiger.com/news/1164272764
+6.  Indian Chemical News, «Bachem posts surging sales and profit in 2025» — https://www.indianchemicalnews.com/general/lite/bachem-posts-surging-sales-and-profit-in-2025-29690 (по годовому отчёту Bachem за 2025 год).
+7.  Greenberg Traurig, «BIOSECURE Act Update: Court Enjoins WuXi AppTec’s 1260H Designation…», 03.09.2026 — https://www.gtlaw.com/en/insights/2026/9/biosecure-act-update-court-enjoins-wuxi-apptecs-1260h-designation-but-strategic-and-compliance-clocks-keep-running

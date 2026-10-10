@@ -7,6 +7,9 @@ lang: "zh"
 title: "厨师不出后厨"
 subtitle: "全世界都在谈论时髦的多肽药物，而其中不少原料药，是在常州、泰兴、深圳“炒”出来的。写写这间客人看不见的后厨"
 meta_description: "中国是全球多肽原料药的“后厨”：药明TIDES固相合成反应釜总体积超10万升、营收113.7亿元，翰宇药业与印度仿制药企业，高盛称中国在合成多肽原料药供应上已经领先。一篇只谈市场、不谈用药的随笔。"
+excerpt: "全世界都在谈论时髦的多肽药物，而其中不少原料药，是在常州、泰兴、深圳“炒”出来的。写写这间客人看不见的后厨"
+tag: "多肽"
+time: "5 分钟"
 slug: "chef-never-comes-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -54,3 +57,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 厨师不出后厨。他站在长江边的灶台前，一颗一颗地串珠子。
 
 前厅里，客人照例在讨论味道。
+
+**来源**
+
+1.  WuXi AppTec, «WuXi AppTec Beat Full-Year Guidance and Achieved Record Performance in 2025» — https://wuxiapptec.com/news/wuxi-news/ukp6jpdhyncifp8ovk4kv1z6 (выручка TIDES 11,37 млрд юаней, +96 %, объём реакторов более 100 000 л на конец 2025 г., мощности в Тайсине в сентябре 2025 г.).
+2.  KrASIA / 36Kr, «Riding GLP-1 wave, China set to lead the charge in peptide industry growth», 26.06.2024 — https://kr-asia.com/riding-glp-1-wave-china-set-to-lead-the-charge-in-peptide-industry-growth (32 000 л в Чанчжоу и Тайсине на начало 2024 г., синтез более двух недель для цепочек от 30 звеньев).
+3.  ANI News, «Generic semaglutide race hinges on API supply as China leads, global peptide demand to hit 99,000 kg by 2030: Goldman Sachs», 07.06.2026 — https://aninews.in/news/business/generic-semaglutide-race-hinges-on-api-supply-as-china-leads-global-peptide-demand-to-hit-99000-kg-by-2030-goldman-sachs20260607102911/ (лидерство Китая в синтетических субстанциях, 99 000 кг к 2030 г., синтез против ферментации, низкая прозрачность мощностей).
+4.  Huxiu (虎嗅), 19.01.2026 — https://www.huxiu.com/article/4827853.html (заказ на 30 млн долларов от американского покупателя в 2023 г., история Hybio).
+5.  NetEase (网易), 26.12.2025 — https://www.163.com/dy/article/KHNGV06F05565EU3.html (необязывающий протокол Hybio и Dr. Reddy’s).
+6.  Eastmoney (东方财富), 26.06.2026 — https://finance.eastmoney.com/a/202606263785041380.html (рамочные заказы Hybio на 180 и 327 млн юаней в I полугодии 2026 г.).
+7.  Partnership for Safe Medicines, «FDA launches an import alert listing safe GLP-1 manufacturers», 08.09.2025 — https://www.safemedicines.org/2025/09/sept-8-2025.html («зелёный список» FDA).

@@ -7,6 +7,9 @@ lang: "zh"
 title: "读取上一个存档"
 subtitle: "任天堂如何在Wii U上栽了跟头，拒绝裁员，最后把错误变成了公司史上最畅销的主机"
 meta_description: "Wii U：1356万台，对比Wii的1亿多台；容易混淆的名字；连续三年营业亏损；岩田聪自降一半薪水、拒绝裁员。然后是Nintendo Switch——销量超过1.56亿台。一个俄罗斯营销人写失败如何变成图纸。"
+excerpt: "任天堂如何在Wii U上栽了跟头，拒绝裁员，最后把错误变成了公司史上最畅销的主机"
+tag: "重新来过"
+time: "6 分钟"
 slug: "load-last-save"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
 ---
@@ -76,3 +79,19 @@ Switch的图纸，是在Wii U的残骸上画出来的。几乎什么都没扔：
 做生意没有“读取存档”键，但可以手工做一个。只需要一条：别把记得坑在哪里的人删掉。
 
 岩田聪存好了档。读档的，是后来的人。
+
+**来源**
+
+1.  Nintendo, IR Information, «Dedicated Video Game Sales Units» — https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html (на 30.06.2026: Wii U — 13,56 млн, Wii — 101,63 млн, Nintendo Switch — 156,59 млн, Nintendo Switch 2 — 23,68 млн, Nintendo DS — 154,02 млн).
+2.  Nintendo, IR Information, «Top Selling Title Sales Units: Nintendo Switch» — https://www.nintendo.co.jp/ir/en/finance/software/switch.html (Mario Kart 8 Deluxe — 71,53 млн на 30.06.2026).
+3.  Softpedia со ссылкой на Gematsu, 26.04.2013 — https://games.softpedia.com/blog/Nintendo-Admits-Not-Trying-Hard-Enough-to-Differentiate-Wii-U-versus-Wii-348887.shtml (слова Иваты об ответственности и о том, что геймпад принимают за аксессуар к Wii).
+4.  Bloomberg, «Nintendo Mulls New Business Model After Forecasting Loss», 17.01.2014 — https://www.bloomberg.com/news/articles/2014-01-17/nintendo-forecasts-net-loss-on-stagnating-sales-of-wii-u-games (прогноз продаж Wii U снижен с 9 до 2,8 млн, прогноз убытка вместо прибыли).
+5.  Stevivor, «Nintendo reports operating loss third year running», 08.05.2014 — https://stevivor.com/news/nintendo-reports-operating-loss-third-year-running/ (операционный убыток 46,4 млрд иен, 2,72 млн Wii U за финансовый год).
+6.  CNBC, «Nintendo to end Wii U production: report», март 2016 — https://www.cnbc.com/2016/03/23/nintendo-to-end-wii-u-production-report.html (запуск Wii U в ноябре 2012; около 12,6 млн проданных к марту 2016; сообщение Nikkei о прекращении производства).
+7.  GameSpot, «Nintendo: Layoffs not needed for profitability», 08.07.2013 — https://www.gamespot.com/articles/nintendo-layoffs-not-needed-for-profitability/1100-6411143 (ответ Иваты на собрании акционеров о сокращениях).
+8.  Gaming Nexus, 29.01.2014 — https://gamingnexus.com/FullNews/Nintendo-CEO-Satoru-Iwata-takes-a-pay-cut-after-poor-Wii-U-sales/Item31997.aspx (Ивата −50 %, Миямото −30 %, другие директора −20 %).
+9.  PCWorld, «Nintendo president Iwata’s death comes as firm tries to move to mobile», 12.07.2015 — https://www.pcworld.com/article/428525/nintendo-president-iwatas-death-comes-as-firm-tries-to-move-to-mobile.html (возраст 55 лет; снижение собственной зарплаты вдвое в 2011 году после снижения цены 3DS); Fortune, 12.07.2015 — https://fortune.com/2015/07/12/nintendo-ceo-satoru-iwata-has-died-aged-55 (смерть 11.07.2015).
+10. Engadget, «Nintendo’s next-generation console is codenamed “NX”», 17.03.2015 — https://www.engadget.com/2015-03-17-nintendo-nx-console.html.
+11. MCV/Develop, о выступлении Иваты на GDC 2005 — https://www.mcvuk.com/business/video-watch-iwatas-famous-2005-gdc-keynote (цитата «On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer»).
+12. Engadget, 13.01.2017 — https://engadget.com/2017/01/13/legend-of-zelda-breath-of-the-wild-lands-on-switch-at-launch (запуск Switch 3 марта и выход Breath of the Wild в тот же день на Switch и Wii U).
+13. Gigazine, 04.02.2026 — https://gigazine.net/gsc_news/en/20260204-switch-selling-ds (Switch обогнала DS и стала самой продаваемой приставкой Nintendo; выход Switch 2 05.06.2025).

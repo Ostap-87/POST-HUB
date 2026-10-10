@@ -7,6 +7,9 @@ lang: "en"
 title: "1,200 Languages, One Chatbot"
 subtitle: "Why AI struggles with Thai and Javanese, who is teaching it Southeast Asia’s languages, and what Alibaba has to do with it"
 meta_description: "Southeast Asian languages are barely on the internet, and so barely in large language models. Alibaba’s SeaLLMs, Singapore’s SEA-LION built on Qwen, Indonesia’s Sahabat-AI, Malaysia’s ILMU and Thailand’s Typhoon: who is teaching AI the region’s languages, and why. A wry essay."
+excerpt: "Why AI struggles with Thai and Javanese, who is teaching it Southeast Asia’s languages, and what Alibaba has to do with it"
+tag: "Artificial Intelligence"
+time: "6 min"
 slug: "1-200-languages-one-chatbot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,12 @@ One last thought that keeps nagging at me. Javanese, spoken by millions, barely 
 Now machines are learning them. I’d like to believe it’s not only for the till. That one day a child in Yogyakarta will ask a phone something in her grandmother’s language, and the phone will answer. Not perfectly. With an accent. But it will answer.
 
 I still say “thank you” with an accent, by the way. People understand me anyway.
+
+**Sources**
+
+1.  Yicai Global, «Alibaba’s Damo Academy unveils AI models geared to Southeast Asia», 13.12.2023 — https://www2.yicaiglobal.com/news/alibabas-damo-academy-debuts-llms-made-for-southeast-asia (SeaLLMs: 7 и 13 млрд параметров, восемь языков, мотивация китайской e-commerce и логистики).
+2.  TechNode, «Singapore’s national AI program drops Meta model and switches to Alibaba’s Qwen», 25.11.2025 — https://technode.com/2025/11/25/singapores-national-ai-program-drops-meta-model-and-switches-to-alibabas-qwen/ (Qwen-SEA-LION-v4 на Qwen3-32B, 119 языков, 100+ млрд токенов, первое место в SEA-HELM, программа на 70 млн сингапурских долларов с декабря 2023 г.).
+3.  eCommerceNews Asia, «AI Singapore & Alibaba unveil regional model for 1,200 languages», 25.11.2025 — https://ecommercenews.asia/story/ai-singapore-alibaba-unveil-regional-model-for-1-200-languages (более 1200 языков в регионе, 32 ГБ памяти).
+4.  FutureCIO, «Indosat and GoTo launch a new 70-billion-parameter model with a multilingual chat service», 06.06.2025 — https://futurecio.tech/indosat-and-goto-launch-a-new-70-billion-parameter-model-with-a-multilingual-chat-service/ (Sahabat-AI с ноября 2024 г., 70 млрд параметров, индонезийский, яванский, сунданский, балийский, батакский; данные в Индонезии; слова Викрама Синхи).
+5.  Malay Mail, «PM Anwar launches ILMU, Malaysia’s first home-grown multimodal AI», 12.08.2025 — https://www.malaymail.com/news/malaysia/2025/08/12/pm-anwar-launches-ilmu-malaysias-first-home-grown-multimodal-ai/187359 (YTL AI Labs и Университет Малайя, расшифровка названия, заявления о MalayMMLU).
+6.  SCB, «SCB 10X Typhoon», 01.2024 — https://www.scb.co.th/en/about-us/news/jan-2024/scb-10x-typhoon (Typhoon-7B, Apache 2.0, обработка тайского в 2,62 раза быстрее GPT-3.5).

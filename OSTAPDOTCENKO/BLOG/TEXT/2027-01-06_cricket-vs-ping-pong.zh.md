@@ -7,6 +7,9 @@ lang: "zh"
 title: "板球对乒乓球"
 subtitle: "司美格鲁肽的专利在印度和中国同一天到期。印度几天就上场了，中国要等到2027年——可好像怎么都不吃亏"
 meta_description: "2026年3月20日，司美格鲁肽核心专利在印度和中国同时到期。印度仿制药立刻上市，随后在原料药杂质上栽了跟头；中国仿制药要等数据保护期在2027年4月结束，中国原料药却卖给了所有人。一篇关于两大制药国“比赛”的自嘲随笔，不含任何用药建议。"
+excerpt: "司美格鲁肽的专利在印度和中国同一天到期。印度几天就上场了，中国要等到2027年——可好像怎么都不吃亏"
+tag: "多肽"
+time: "5 分钟"
 slug: "cricket-vs-ping-pong"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -48,3 +51,15 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 板球比赛打五天，乒乓球一个回合四秒。印度和中国的这场GLP-1比赛已经打了半年，规则还在边打边定。
 
 而这一切本该服务的观众，坐在看台上，等着药品终于只是药品：没有潮流，没有连续剧，也没有记分牌。
+
+**来源**
+
+1.  Beijing News (新京报), 23.03.2026 — https://m.bjnews.com.cn/detail/1774263342168033.html (истечение патента в Китае 20.03.2026, десять заявителей, 11 компаний в III фазе, снижение цен).
+2.  Outlook Business, «One Goal, 50 Brands: Inside the Scramble for India’s Post-Patent Semaglutide Market», 09.04.2026 — https://www.outlookbusiness.com/corporate/one-goal-50-brands-inside-the-scramble-for-indias-post-patent-semaglutide-market (20.03.2026 в Индии, 50+ брендов, цены, доля Индии в генериках).
+3.  Chemistry World, «India’s generic GLP-1 drugs are mostly booming», 2026 — https://www.chemistryworld.com/news/indias-generic-glp-1-drugs-are-mostly-booming/4023975.article (запуски, Emcure, Sinopep как поставщик субстанции, «bloodbath», отзыв Torrent).
+4.  Pharma Manufacturing, «Dr. Reddy’s says API issue delays commercial supplies of its generic semaglutide», 10.07.2026 — https://www.pharmamanufacturing.com/production/batch/article/55389954/dr-reddys-says-api-issue-delays-commercial-supplies-of-its-generic-semaglutide
+5.  Health Canada, «Canada becomes the first G7 country to approve a generic version of semaglutide», 28.04.2026 — https://www.canada.ca/en/health-canada/news/2026/04/canada-becomes-the-first-g7-country-to-approve-a-generic-version-of-semaglutide.html
+6.  Swissinfo, «Novo Sees Generic Ozempic Delayed in China Until Next Year», 06.05.2026 — https://www.swissinfo.ch/eng/novo-sees-generic-ozempic-delayed-in-china-until-next-year/91373533
+7.  虎嗅, 25.04.2026 — https://www.huxiu.com/article/4853749.html (защита данных по соглашению Китай–Швейцария до апреля 2027 г., ожидания Livzon).
+8.  SCMP, «China’s weight-loss drug war: prices slashed 80%…», 13.01.2026 — https://www.scmp.com/business/china-business/article/3339544/chinas-weight-loss-drug-war-prices-slashed-80-obesity-crisis-worsens
+9.  PharmaSource (по расследованию Reuters от 03.09.2025), «From GLP-1 Black Market to Biosimilar Battle» — https://pharmasource.global/content/expert-insight/from-glp-1-black-market-to-biosimilar-battle-chinese-api-suppliers-pivot-to-generics-after-fda-crackdown/ (восемь китайских поставщиков, миллиард доз, разворот к Канаде и Бразилии).

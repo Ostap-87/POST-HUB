@@ -7,6 +7,9 @@ lang: "zh"
 title: "不缝商标的裁缝"
 subtitle: "这十年最时髦的分子，在中国“裁剪”，贴的却是别人的牌子。说说一家所有药企巨头都知道、病人却从没听说过的“裁缝铺”"
 meta_description: "中国多肽CDMO：药明康德TIDES业务2025年收入几乎翻倍，多肽固相合成反应釜总体积超过10万升；凯莱英实现多肽产线“无人化”；司美格鲁肽、替尔泊肽原料药企业的产能以吨计。一个俄罗斯营销人写“看不见的工厂”。"
+excerpt: "这十年最时髦的分子，在中国“裁剪”，贴的却是别人的牌子。说说一家所有药企巨头都知道、病人却从没听说过的“裁缝铺”"
+tag: "多肽"
+time: "6 分钟"
 slug: "tailor-without-label"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
 ---
@@ -58,3 +61,13 @@ source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_
 多肽大概也是这样。一切合身的时候，没人关心裁缝铺。等到华盛顿开始问“谁在做”，才发现半个世界的衣服，出自同一家铺子。
 
 而且它没有商标，只有针脚。
+
+**来源**
+
+1.  WuXi AppTec, «WuXi AppTec Beat Full-Year Guidance and Achieved Record Performance in 2025» — https://wuxiapptec.com/news/wuxi-news/ukp6jpdhyncifp8ovk4kv1z6 (выручка TIDES 11,37 млрд юаней, +96 %; реакторы SPPS более 100 000 л; Тайсин).
+2.  WuXi AppTec, промежуточный отчёт за 1-е полугодие 2026 года, HKEXnews, 03.08.2026 — https://www.hkexnews.hk/listedco/listconews/sehk/2026/0803/2026080302540.pdf (TIDES 7,26 млрд юаней, +44,3 %; клиенты +39 %, молекулы +68 %).
+3.  Asymchem, «Asymchem’s Fully Automated Peptide Production Lines Set New Benchmarks…», 13.11.2024 — https://www.biospace.com/press-releases/asymchems-fully-automated-peptide-production-lines-set-new-benchmarks-as-large-scale-capacity-continues-to-grow
+4.  Yicai Global, «Sinopep Points to Chinese Biopharma Firm’s Competitive Edge Amid Higher US Tariffs», 25.04.2025 — https://www2.yicaiglobal.com/news/sinopep-retains-advantages-despite-us-tariffs-chinese-weight-loss-drug-ingredient-supplier-says
+5.  Tiger Brokers News, «Net Profit Expected to Surge Over 200%, Sheng Nuo Biotec Feasts on GLP-1 Weight-Loss Market Boom», 16.01.2026 — https://www.itiger.com/news/1164272764
+6.  Indian Chemical News, «Bachem posts surging sales and profit in 2025» — https://www.indianchemicalnews.com/general/lite/bachem-posts-surging-sales-and-profit-in-2025-29690 (по годовому отчёту Bachem за 2025 год).
+7.  Greenberg Traurig, «BIOSECURE Act Update: Court Enjoins WuXi AppTec’s 1260H Designation…», 03.09.2026 — https://www.gtlaw.com/en/insights/2026/9/biosecure-act-update-court-enjoins-wuxi-apptecs-1260h-designation-but-strategic-and-compliance-clocks-keep-running
