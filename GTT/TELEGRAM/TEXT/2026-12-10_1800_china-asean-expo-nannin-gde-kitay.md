@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Выставки и события"
 title: "China-ASEAN Expo: Наньнин, где Китай встречается с соседями"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-10_1800_china-asean-expo-nannin-gde-kitay.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "460a0f6f-01f0-419f-9e2e-d602aec391e9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the international exhibition center in Nanning during a China and Southeast Asia trade fair: a large business matchmaking area with rows of small white tables where smiling pairs of Chinese and Southeast Asian businesspeople talk one-on-one, interpreters leaning in between them, samples of tropical fruit, coffee and small electronics on the tables, signs blurred and unreadable, bright exhibition lighting, lively neighborly mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **China-ASEAN Expo: Наньнин, где Китай встречается с соседями**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Доставка еды выиграла суд и поехала в глубинку"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-11_0900_dostavka-edy-vyigrala-sud-poekhala-glubinku.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "de57b463-cc43-4b35-bc3c-aa22a09e4517"
+image_cost: "0.5"
+image_logos: "Keeta"
+image_prompt: "Photorealistic street photo in a mid-sized inland town in Brazil: a cheerful food delivery courier on a small motorcycle with a plain yellow insulated delivery box rides along a sunny cobbled street lined with colorful low colonial houses and a small local restaurant, a woman smiling and waving at a doorway, palm trees and green hills in the distance, bright tropical afternoon light, energetic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Доставка еды выиграла суд и поехала в глубинку**

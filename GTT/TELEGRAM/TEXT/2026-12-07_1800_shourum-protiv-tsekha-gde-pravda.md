@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Увидено на заводе"
 title: "Шоурум против цеха: где правда"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-07_1800_shourum-protiv-tsekha-gde-pravda.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d6fc5209-2820-4be2-b075-3717f295ff05"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo taken at an open glass door between two worlds in a Chinese factory: on the left a polished corporate showroom with soft carpet, spotlights, a large blank screen and spotless products on white pedestals, on the right through the doorway a lively real workshop with machine tools, stacked cardboard boxes, yellow floor markings and a worker in a uniform looking up with a friendly grin, mixed warm daylight, good-humoured documentary mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Шоурум против цеха: где правда**

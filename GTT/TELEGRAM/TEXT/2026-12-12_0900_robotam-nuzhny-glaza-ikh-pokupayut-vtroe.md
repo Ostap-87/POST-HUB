@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Роботам нужны глаза, и их покупают втрое больше"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-12_0900_robotam-nuzhny-glaza-ikh-pokupayut-vtroe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "106ab1e9-558e-4113-96c7-ae84f94d8a09"
+image_cost: "0.5"
+image_logos: "Hesai"
+image_prompt: "Photorealistic close-up photo in a bright robotics testing lab, low camera angle: a quadruped robot dog stands facing the camera with a compact cylindrical lidar sensor mounted on its back like an eye, the sensor's glass window reflecting the lab lights, two smiling engineers with laptops out of focus behind, light grey floor, bright daylight, curious friendly mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Роботам нужны глаза, и их покупают втрое больше**

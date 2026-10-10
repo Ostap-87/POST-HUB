@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Дешёвый интеллект подорожал"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-09_0900_deshevyy-intellekt-podorozhal.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3bc23f59-f1e1-4091-b4ab-5c4075ced6f8"
+image_cost: "0.5"
+image_logos: "DeepSeek"
+image_prompt: "Photorealistic photo of a developer's desk in a modern Chinese tech office in the evening: a laptop showing only a spinning loading circle on the screen, no numbers or letters on the screen, a calculator and a small stack of plain coins next to the keyboard, city lights through the window, a young programmer at the edge of the frame laughing good-naturedly as a colleague leans in with a fresh cup of coffee, warm desk lamp light, wry good-humoured mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Дешёвый интеллект подорожал**

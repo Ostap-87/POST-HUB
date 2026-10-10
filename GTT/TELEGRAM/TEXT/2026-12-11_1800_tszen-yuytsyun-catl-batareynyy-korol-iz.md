@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Лицо отрасли"
 title: "Цзэн Юйцюнь и CATL: батарейный король из Нинде"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-11_1800_tszen-yuytsyun-catl-batareynyy-korol-iz.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "05d8de4e-9cb8-475e-bb25-54e473034236"
+image_cost: "0.5"
+image_logos: "CATL"
+image_prompt: "Photorealistic aerial landscape photo from a hillside over a small coastal city in Fujian province at early morning: green hills, a calm bay with fishing boats, a modern industrial park of large white factory buildings by the water and a few high-rise blocks, light mist over the hills, soft pastel sunrise light, bright optimistic and ambitious mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Цзэн Юйцюнь и CATL: батарейный король из Нинде**

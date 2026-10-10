@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: батарея в шкафу, самолёт в Улан-Баторе, глаза для роботов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-12_1800_itogi-batareya-shkafu-samolet-ulan-batore.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "54dc842e-84dc-4310-a86b-ca4af1c7061e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial night photo of a vast industrial zone in southern China: rows of lit factory roofs, a yard of battery storage cabinets, a container port with cranes at the water's edge, roads with a few trucks, a passenger jet's navigation lights crossing the sky, warm city lights against deep-blue tones, proud quietly confident mood that big things get done. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: батарея в шкафу, самолёт в Улан-Баторе, глаза для роботов**

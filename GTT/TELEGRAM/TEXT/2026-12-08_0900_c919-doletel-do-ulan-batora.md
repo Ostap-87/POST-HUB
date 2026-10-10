@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "C919 долетел до Улан-Батора"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-08_0900_c919-doletel-do-ulan-batora.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "322d0e1e-4713-4606-8fd1-22c67b71c071"
+image_cost: "0.5"
+image_logos: "COMAC"
+image_prompt: "Photorealistic aviation photo of a white narrow-body passenger jet with no airline livery landing at an airport on the Mongolian steppe, landing gear down just above the runway, bare golden-brown hills and a vast blue sky behind, crisp sunny autumn morning light, telephoto view from the side, joyful mood of a long-awaited first flight abroad. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **C919 долетел до Улан-Батора**
