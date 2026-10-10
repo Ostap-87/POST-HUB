@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: неделя, когда считали всё живое и железное"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-14_1800_itogi-nedelya-kogda-schitali-vse-zhivoe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "29ee7539-de8a-41b3-b83e-355d8a254152"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic overhead flat-lay photo on a light wooden desk: a small ceramic piggy figurine, a miniature shipping container model, a paper cup of coffee, a small steel ingot, a mechanical tally counter and a blank notebook with pencil check marks, arranged neatly like an inventory, soft warm window light, playful cheerful 'we counted everything' mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: неделя, когда считали всё живое и железное**

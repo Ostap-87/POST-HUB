@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Такси без таксиста: 240 миллионов километров"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-15_0900_taksi-bez-taksista-240-millionov-kilometrov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f3f4b5fc-1364-4483-9dcc-fa588156b5c3"
+image_cost: "0.5"
+image_logos: "Baidu"
+image_prompt: "Photorealistic photo from the back seat of a driverless robotaxi at night in Wuhan: nobody in the driver's seat and the steering wheel turning by itself, warm city lights and reflections blurred through the windshield, a passenger's relaxed hand resting on a phone in the foreground, cozy interior with soft warm ambient light, relaxed curious mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Такси без таксиста: 240 миллионов километров**

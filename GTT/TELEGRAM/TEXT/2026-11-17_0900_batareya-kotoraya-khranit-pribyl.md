@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Батарея, которая хранит прибыль"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-17_0900_batareya-kotoraya-khranit-pribyl.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "19322cf8-72a3-4a81-a122-e789a2db8b12"
+image_cost: "0.5"
+image_logos: "CATL"
+image_prompt: "Photorealistic aerial photo of a battery energy storage station next to a huge solar farm in northwest China: rows of white battery storage containers lined up on gravel beside endless fields of solar panels, a technician in a hard hat walking between the containers, warm golden evening light, optimistic clean-energy mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Батарея, которая хранит прибыль**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Pinduoduo: выручка растёт, прибыль раздают продавцам"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-16_0900_pinduoduo-vyruchka-rastet-pribyl-razdayut.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "382b9d10-6b2e-4680-8e14-93303cb092c6"
+image_cost: "0.5"
+image_logos: "Pinduoduo"
+image_prompt: "Photorealistic documentary photo in a small sunny rural e-commerce packing room in China: a middle-aged farmer couple laughing together as they pack fresh peaches into cardboard boxes for online orders, a smartphone on a stand with a blurred order list, stacks of sealed parcels waiting for the courier, warm afternoon sun through the open door, joyful hardworking mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Pinduoduo: выручка растёт, прибыль раздают продавцам**

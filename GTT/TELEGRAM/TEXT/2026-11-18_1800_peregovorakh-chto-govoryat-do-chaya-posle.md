@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Афоризмы о технологиях"
 title: "О переговорах: что говорят до чая и после"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-18_1800_peregovorakh-chto-govoryat-do-chaya-posle.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fadc1e82-e7d1-48b5-9039-acaabb07f5b2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo of a business negotiation in a private room of a Chinese restaurant: a round table with a glass lazy susan, porcelain tea cups and teapots, a European businessman and Chinese partners in suits laughing at a shared joke, a smiling interpreter leaning in between them, documents lying face down, warm evening light, friendly polite negotiation mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **О переговорах: что говорят до чая и после**

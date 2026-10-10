@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Мао Гэпин: косметика по-китайски, дорого"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-18_0900_mao-gepin-kosmetika-kitayski-dorogo.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "85ae5c42-d337-46f6-8ae3-9399e7384def"
+image_cost: "0.5"
+image_logos: "Mao Geping"
+image_prompt: "Photorealistic product photo at a luxury cosmetics counter in a bright Chinese department store: elegant black and gold lipsticks, compact powders and cream jars without visible text arranged on a marble counter with subtle traditional Chinese ornaments, a makeup artist's hand applies a lipstick swatch to a customer's wrist, soft warm boutique lighting, premium refined delightful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Мао Гэпин: косметика по-китайски, дорого**

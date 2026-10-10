@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Отрасль недели"
 title: "Медтех: где робот держит скальпель, а где катит каталку"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-15_1800_medtekh-gde-robot-derzhit-skalpel-gde.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6a13510b-0bca-43f6-bcc4-bbced1974dab"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright corridor of a modern Chinese hospital: a waist-high autonomous delivery robot cart with closed drawers waits patiently at an elevator as a smiling doctor and a patient step out chatting, while a nurse pushes a gurney briskly past in the background, clean daylight, friendly everyday hospital routine mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Медтех: где робот держит скальпель, а где катит каталку**
