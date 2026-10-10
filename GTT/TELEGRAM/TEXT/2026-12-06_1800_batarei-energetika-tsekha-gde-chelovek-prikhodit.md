@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Отрасль недели"
 title: "Батареи и энергетика: цеха, где человек приходит с проверкой"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-06_1800_batarei-energetika-tsekha-gde-chelovek-prikhodit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2b09e79e-0ad7-4fbe-983b-ee89c3c339c3"
+image_cost: "0.5"
+image_logos: "CATL"
+image_prompt: "Photorealistic industrial photo inside a highly automated bright battery pack assembly hall in Sichuan: in the foreground a single worker in a white cleanroom coat, cap and shoe covers nods with satisfaction at a monitoring station with several screens showing abstract green charts, no numbers or letters on the screens, behind a glass partition long lines of robot arms assemble battery modules with no people, bright clean white light, confident calm mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Батареи и энергетика: цеха, где человек приходит с проверкой**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Лицо отрасли"
 title: "Ван Чуаньфу: химик, который построил BYD"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-04_1800_van-chuanfu-khimik-kotoryy-postroil-byd.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1b1e9578-3fba-4c91-a7a0-e9da55239b26"
+image_cost: "0.5"
+image_logos: "BYD"
+image_prompt: "Photorealistic product photo on a bright chemistry lab bench: an old small rectangular mobile phone battery from the 1990s lying next to a long flat modern electric car battery cell, glass beakers and a closed notebook out of focus behind, the sleeve of a white lab coat and a hand resting at the edge of the frame, soft warm daylight from a window, warm nostalgic inspiring mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Ван Чуаньфу: химик, который построил BYD**

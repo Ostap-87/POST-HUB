@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Без визы, зато с чемоданом"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-02_0900_bez-vizy-zato-chemodanom.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "96129bd8-eff0-4d79-8469-6d35318a59d4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a modern hotel room in China at night: a European businessman kneels on an overstuffed open suitcase on the bed, laughing as he wrestles the zip shut, the suitcase bulging with tea boxes, gift bags, product samples and folded shirts, a closed passport lying on the blanket, Shanghai city lights in the window behind, warm lamp light, light-hearted humorous mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Без визы, зато с чемоданом**

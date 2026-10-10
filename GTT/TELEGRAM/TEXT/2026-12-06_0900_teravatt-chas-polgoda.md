@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Тераватт-час за полгода"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-06_0900_teravatt-chas-polgoda.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f7566006-cb51-4b0b-8683-e4a0b6739314"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo of a battery energy storage station next to a solar farm in western China: long rows of identical plain white container-sized battery cabinets on a gravel field, a smiling technician in a blue uniform and hard hat opening a cabinet door to check the modules inside, solar panels and power lines in the background, bright sunny light, unglamorous but impressive, upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Тераватт-час за полгода**

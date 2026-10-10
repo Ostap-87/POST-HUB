@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Роботакси: выручка растёт, прибыль ещё в пути"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-05_0900_robotaksi-vyruchka-rastet-pribyl-eshche-puti.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "cfc1da78-967f-4fdc-9eb2-ea47722778b4"
+image_cost: "0.5"
+image_logos: "Pony.ai"
+image_prompt: "Photorealistic street photo of a white driverless robotaxi with roof-mounted lidar and camera sensors driving through a busy street in Guangzhou at night, nobody in the driver's seat visible through the side window, a young passenger in the back seat smiling at her phone, colorful neon reflections on wet asphalt, scooters and pedestrians around, shop signs blurred and unreadable, lively cinematic city mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Роботакси: выручка растёт, прибыль ещё в пути**

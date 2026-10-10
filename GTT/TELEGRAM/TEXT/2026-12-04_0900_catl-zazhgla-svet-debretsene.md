@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "CATL зажгла свет в Дебрецене"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-04_0900_catl-zazhgla-svet-debretsene.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1fa5695a-9912-4164-950e-13b9fc9882c9"
+image_cost: "0.5"
+image_logos: "CATL"
+image_prompt: "Photorealistic architectural photo of a huge new battery factory on the flat Hungarian plain at dusk: long low white production buildings with rows of brightly lit windows, a parking lot with a few cars, fields and a line of poplar trees around, a small village church spire far on the horizon, deep blue evening sky with a warm sunset glow, warm friendly mood of a neighbor whose lights are always on. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **CATL зажгла свет в Дебрецене**

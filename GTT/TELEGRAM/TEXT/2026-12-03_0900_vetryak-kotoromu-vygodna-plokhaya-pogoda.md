@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Ветряк, которому выгодна плохая погода"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-03_0900_vetryak-kotoromu-vygodna-plokhaya-pogoda.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9f80fe21-3372-49dc-b88c-e68d6884ff9a"
+image_cost: "0.5"
+image_logos: "Goldwind"
+image_prompt: "Photorealistic landscape photo of a large wind farm on rolling grassy hills in northern China under towering storm clouds with bright sunbeams breaking through: rain streaks and strong wind bending the grass, rows of tall modern white three-blade wind turbines turning fast, a smiling service technician beside a small white van on a gravel road looking up at them, a bright gap of light on the horizon, upbeat optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Ветряк, которому выгодна плохая погода**

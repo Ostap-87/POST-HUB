@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: чай за границей, рука на мысли, батарея в Венгрии"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-05_1800_itogi-chay-granitsey-ruka-mysli-batareya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2c991957-d6cc-4e9e-94b5-322eac8f0c79"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic top-down flat lay photo on a wooden table: things from a week-long business trip to China — a glass cup of green tea, a factory visitor badge on a lanyard with a blank card, a white hard hat, an open notebook with pencil sketches, a small cylindrical battery cell, a tiny wind turbine desk model and a pair of chopsticks, soft warm morning daylight, tidy composition, happy nostalgic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: чай за границей, рука на мысли, батарея в Венгрии**
