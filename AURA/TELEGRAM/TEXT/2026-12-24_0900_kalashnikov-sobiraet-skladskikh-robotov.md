@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "«Калашников» собирает складских роботов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-24_0900_kalashnikov-sobiraet-skladskikh-robotov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "d4a25308-beac-4f17-99e2-60c8d0f63b28"
+image_cost: "0.5"
+image_logos: "Kalashnikov"
+image_prompt: "Photorealistic industrial photo inside a new bright Russian factory hall in St. Petersburg: workers in dark blue uniforms chatting and smiling as they assemble low flat autonomous mobile transport platforms on an assembly line, finished platforms lined up nearby, an automated storage rack system in the background, bright LED lighting, clean new concrete floor, proud purposeful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **«Калашников» собирает складских роботов**

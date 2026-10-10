@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоид каждые десять минут"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-23_0900_gumanoid-kazhdye-desyat-minut.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "922630db-66ef-4314-a7df-880310b06a04"
+image_cost: "0.5"
+image_logos: "UBTech"
+image_prompt: "Photorealistic industrial photo at the end of a humanoid robot assembly line in a large bright Chinese plant: a finished full-size humanoid robot stepping off the conveyor through the exit gate while the next identical robot is right behind it, a smiling worker with a handheld scanner checking it, a large plain wall clock without numbers above the gate, long line stretching into the distance, bright factory light, energetic proud mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоид каждые десять минут**

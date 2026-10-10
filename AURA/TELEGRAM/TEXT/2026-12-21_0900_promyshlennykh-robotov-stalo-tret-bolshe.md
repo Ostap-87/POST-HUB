@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Промышленных роботов стало на треть больше"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-21_0900_promyshlennykh-robotov-stalo-tret-bolshe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "57e4f43c-e1e2-4eb2-afc4-74817bf2e30c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic wide photo inside a huge bright Chinese factory warehouse: hundreds of new white and grey industrial robot arms on pallets standing in long rows, forklifts moving between them, workers in caps checking the rows and chatting cheerfully, daylight from high skylights, impressive optimistic mood of scale and growth. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Промышленных роботов стало на треть больше**

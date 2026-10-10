@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "XPeng: автозавод для гуманоидов"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-22_0900_xpeng-avtozavod-dlya-gumanoidov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c061b615-d52b-4ab9-a015-52e1964038ad"
+image_cost: "0.5"
+image_logos: "XPeng"
+image_prompt: "Photorealistic industrial photo of a modern humanoid robot production line built like a car assembly line: automated robot arms installing parts on slim humanoid robot torsos hanging from an overhead conveyor, a quality inspection tunnel with bright light bars, engineers in grey uniforms discussing the line with enthusiasm, clean bright white factory hall in southern China, high-tech but real, optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **XPeng: автозавод для гуманоидов**

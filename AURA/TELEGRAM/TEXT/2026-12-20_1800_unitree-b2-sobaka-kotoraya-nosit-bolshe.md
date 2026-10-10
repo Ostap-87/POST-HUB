@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "Unitree B2: собака, которая носит больше, чем весит хозяин"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-20_1800_unitree-b2-sobaka-kotoraya-nosit-bolshe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "833b1f63-6240-4191-819f-cf2df42e52bc"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic industrial photo in a long brightly lit concrete utility tunnel of a power plant: a large heavy-duty quadruped robot dog with a toolbox strapped to its back climbing concrete stairs, an inspector in orange high-visibility overalls and a helmet following with a flashlight and a grin, cable trays along the walls, bright tunnel lighting, energetic can-do mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Unitree B2: собака, которая носит больше, чем весит хозяин**

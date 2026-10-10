@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот и человек"
 title: "Два Деда Мороза"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-23_1800_dva-deda-moroza.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ef0dc571-29eb-4aa1-b582-f0750eb56378"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a children's New Year party in a Russian factory hall decorated with a fir tree and tinsel: two Father Frost characters side by side — a plump man in a red fur-trimmed robe with a white beard and staff, and a full-size humanoid robot wearing a red robe over its body — handing out wrapped gifts, children in festive costumes laughing and clapping, warm garland lights, joyful festive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Два Деда Мороза**
