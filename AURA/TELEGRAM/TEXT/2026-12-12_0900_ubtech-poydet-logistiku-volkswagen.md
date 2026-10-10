@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "UBTech пойдёт в логистику Volkswagen"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-12_0900_ubtech-poydet-logistiku-volkswagen.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "727e3240-2d05-4aa1-8b1f-2bb9355b523c"
+image_cost: "0.5"
+image_logos: "UBTech, FAW-Volkswagen"
+image_prompt: "Photorealistic industrial photo from a low angle in a bright car factory logistics area: a full-size industrial humanoid robot placing a blue plastic parts crate onto a lineside rack next to a car body on the assembly line, an automated guided cart passing behind, two engineers with tablets exchanging an excited glance as they watch the test run, bright overhead lights, optimistic trial-run mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **UBTech пойдёт в логистику Volkswagen**

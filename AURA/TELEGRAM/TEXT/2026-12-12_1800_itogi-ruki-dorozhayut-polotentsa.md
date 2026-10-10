@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: руки дорожают, полотенца возвращаются"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-12_1800_itogi-ruki-dorozhayut-polotentsa.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "732f5106-ace4-4314-bee5-97d6bd3ede06"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a hotel corridor: two laughing hotel maids in uniforms presenting a blank framed certificate to a wheeled two-armed robot standing next to a housekeeping cart stacked with neatly folded white towels, warm bright corridor lighting, joyful light-hearted mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: руки дорожают, полотенца возвращаются**

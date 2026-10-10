@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "День закупок: 49 госкомпаний пришли за роботами"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-08_0900_den-zakupok-49-goskompaniy-prishli-robotami.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "885ef852-7759-4228-9516-6fc55d49e966"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a large robot exhibition hall in Beijing: rows of negotiation tables where Chinese business people in dark suits happily sign contracts, shake hands and applaud with robot developers, folders and pens on the tables, industrial robot arms and humanoid robots on display stands in the background, bright exhibition lighting, energetic optimistic businesslike mood. Banners and badges blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **День закупок: 49 госкомпаний пришли за роботами**

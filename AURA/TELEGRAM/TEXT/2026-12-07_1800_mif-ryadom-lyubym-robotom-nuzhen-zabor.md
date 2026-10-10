@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: рядом с любым роботом нужен забор"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-07_1800_mif-ryadom-lyubym-robotom-nuzhen-zabor.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e0325a7c-b49b-47e2-8500-e7b816781f73"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright factory workshop: in the foreground a collaborative robot arm on a workbench packing small parts while a cheerful worker stands right next to it with no barrier and hands it a part, yellow and black floor marking tape around the cell; in the background a large industrial robot arm handling a car body behind a tall yellow mesh safety fence with light curtain posts, mixed daylight and overhead light, clear contrast between the two zones, reassuring upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: рядом с любым роботом нужен забор**

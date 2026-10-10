@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Вопрос покупателя"
 title: "«Нужна ли роботу сертификация ЕАЭС?»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-10_1800_nuzhna-li-robotu-sertifikatsiya-eaes.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1767c84f-c0de-4ece-a7ef-a03fee37e000"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a clean bright customs temporary storage warehouse in Russia: an opened wooden shipping crate with a humanoid robot standing inside, a friendly customs officer in uniform and a smiling company representative checking documents together beside it, rows of other cargo pallets around, daylight from high windows, constructive optimistic mood. Stickers and papers blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **«Нужна ли роботу сертификация ЕАЭС?»**

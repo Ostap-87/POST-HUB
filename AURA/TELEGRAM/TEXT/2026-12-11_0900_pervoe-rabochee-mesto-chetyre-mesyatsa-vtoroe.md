@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Первое рабочее место — четыре месяца, второе — неделя"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-11_0900_pervoe-rabochee-mesto-chetyre-mesyatsa-vtoroe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8b3d221b-cc3d-4292-88e8-0e79fbddb332"
+image_cost: "0.5"
+image_logos: "AgiBot"
+image_prompt: "Photorealistic industrial photo on a tablet computer production line in Nanchang at night: a row of wheeled humanoid robots standing along a conveyor, picking up tablet devices with blank screens and sorting them into good and reject trays, two workers in blue anti-static smocks at the end of the line laughing as they compare notes, clean bright factory light, night sky in the windows, energetic upbeat night-shift mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Первое рабочее место — четыре месяца, второе — неделя**

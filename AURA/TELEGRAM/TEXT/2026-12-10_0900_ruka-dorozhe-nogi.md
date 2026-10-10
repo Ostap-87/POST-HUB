@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Рука дороже ноги"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-10_0900_ruka-dorozhe-nogi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a36a9821-809d-4563-b00a-109d83a93260"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic product photo: three robotic hands displayed in a row on deep blue velvet inside a glass jewellery case — a simple two-finger gripper, a three-fingered hand and an elaborate five-fingered hand with tactile sensor pads — lit by warm small spotlights like luxury jewellery in a bright elegant boutique, playful luxurious mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Рука дороже ноги**

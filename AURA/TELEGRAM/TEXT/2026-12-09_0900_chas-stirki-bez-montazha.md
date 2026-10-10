@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Час стирки без монтажа"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-09_0900_chas-stirki-bez-montazha.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "aa7823fd-e334-4a85-a1cd-b24dce516bc2"
+image_cost: "0.5"
+image_logos: "Dyna Robotics"
+image_prompt: "Photorealistic documentary photo in a bright hotel laundry room: a wheeled semi-humanoid robot with two arms dropping a fallen white towel back into a grey bin of laundry, a neat stack of folded towels on a steel table beside it, a smiling laundry worker folding towels nearby nods approvingly, industrial washing machines and dryers in the background, daylight from a high window, cheerful working mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Час стирки без монтажа**
