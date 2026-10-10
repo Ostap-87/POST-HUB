@@ -3,6 +3,13 @@ number: 4
 date: "2026-11-13"
 title: "Гуманоид на совещании"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-11-13_gumanoid-soveshchanii.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "b7d4a4b6-ca7e-49a2-8071-81f8c160143f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright factory meeting room: a full-size humanoid robot stands by the window at the far end of the room in the center of the frame and turns its head attentively toward the speaker, while managers around a long table — a director, a chief engineer, a shop manager and a finance director — laugh warmly, a secretary takes notes on paper, cups of tea and closed laptops on the table, papers without readable text, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, light-hearted humorous mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 ПРОТОКОЛ совещания по вопросу внедрения. Присутствовали: директор, главный инженер, начальник цеха, финансовый директор, гуманоид (стоял).

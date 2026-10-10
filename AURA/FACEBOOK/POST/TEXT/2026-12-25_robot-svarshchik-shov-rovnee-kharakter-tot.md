@@ -3,6 +3,13 @@ number: 16
 date: "2026-12-25"
 title: "Робот-сварщик: шов ровнее, характер тот же"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-12-25_robot-svarshchik-shov-rovnee-kharakter-tot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "e1d0029d-88f4-459b-a722-a2a9491a8401"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Russian metal workshop: a welding robot arm lays a smooth seam on a steel frame clamped in a precise blue welding fixture with a small burst of sparks, in the foreground an experienced welder with his helmet flipped up proudly runs a gloved finger along a rack of identical neatly welded parts and smiles, cut and bent blanks stacked nearby, warm light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, proud craftsmanship mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У сварочного робота прекрасный шов и тяжёлый характер. Он не прощает.

@@ -5,6 +5,13 @@ original_date: "2027-01-26"
 moved: "решение пользователя 10.10.2026"
 title: "Робот под ёлкой: что подарить заводу на Новый год"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-12-30_robot-pod-elkoy-chto-podarit-zavodu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "d481b7b0-68fc-42fe-9e78-f7f9356df08d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic festive photo in a factory workshop decorated for New Year: a smiling chief engineer in a work jacket unties a big red ribbon on a brand-new collaborative robot arm mounted on a workbench, colleagues in uniforms applaud and laugh, a small fir tree with warm string lights and tinsel garlands along the line, a snowy evening visible through high windows, warm glowing light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, festive joyful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Новогодний гид для директоров, у которых всё есть, кроме автоматизации.

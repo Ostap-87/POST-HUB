@@ -3,6 +3,13 @@ number: 5
 date: "2026-11-17"
 title: "Робот приехал. Документы — нет"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-11-17_robot-priekhal-dokumenty-net.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "e172d49a-91b2-4c12-b24c-76bc8ca78d9f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Russian warehouse: a smiling woman logistics specialist in a fleece vest sits on the edge of a large open wooden shipping crate with an industrial robot arm packed in white foam inside, holding a thick neat folder of documents and giving a thumbs-up, styrofoam pieces scattered on the concrete floor, a forklift and pallet racks in soft focus, papers with blurred unreadable text, daylight from high windows, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, organized well-prepared mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Что приезжает вместе с роботом из Китая. Перечень, составленный опытным путём.

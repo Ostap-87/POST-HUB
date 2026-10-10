@@ -3,6 +3,13 @@ number: 20
 date: "2027-01-08"
 title: "Робот-повар не пробует суп"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2027-01-08_robot-povar-probuet-sup.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "cc1ac29b-88bc-4813-b5bd-d00c288c2c1d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright central kitchen: a smiling woman food technologist in a white coat and cap holds up a large potato from a fresh crate and compares it with a smaller one in her other hand, behind her an automated cooking kettle with a mechanical stirring arm stirs a big pot of soup, a colleague with a tasting spoon nods, stainless steel surfaces, light steam, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, attentive good-humored mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 ОБЪЯСНИТЕЛЬНАЯ от робота-повара горячего цеха (документ вымышленный, ситуация — нет)

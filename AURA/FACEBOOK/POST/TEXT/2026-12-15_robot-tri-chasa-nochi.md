@@ -3,6 +3,13 @@ number: 13
 date: "2026-12-15"
 title: "Робот в три часа ночи"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-12-15_robot-tri-chasa-nochi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "e4e0df93-e430-4e80-95bb-d0ed0fff846d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a small factory control room at 3 a.m.: a night-shift operator with a mug of tea smiles during a video call on his laptop with a cheerful Chinese factory engineer sitting in a sunny morning office on the screen, a notebook with blurred handwriting beside him, through the window behind him a lit robot cell in the quiet workshop, warm desk lamp light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, calm reassuring teamwork mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Днём робот — гордость предприятия. Его фотографируют, показывают гостям, вставляют в годовой отчёт.

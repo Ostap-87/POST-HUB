@@ -3,6 +3,13 @@ number: 9
 date: "2026-12-01"
 title: "Кофе без души, зато одинаковый"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-12-01_kofe-bez-dushi-zato-odinakovyy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "23c3eb44-72c5-4dc1-b7bb-9366bb5e8e74"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a busy railway station concourse in the morning: a glass robotic coffee kiosk where a robot arm hands out a cappuccino, commuters with backpacks and briefcases pick up identical paper cups on the go, a smiling young woman takes her cup, a staff member refills coffee beans at the side of the kiosk, signs blurred and unreadable, bright morning light from the station roof, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, brisk cheerful morning mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Несколько мыслей о роботе-баристе, записанных между первой и второй чашкой.

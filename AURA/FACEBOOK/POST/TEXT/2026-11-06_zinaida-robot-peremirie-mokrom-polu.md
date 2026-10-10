@@ -3,6 +3,13 @@ number: 2
 date: "2026-11-06"
 title: "Зинаида и робот: перемирие на мокром полу"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-11-06_zinaida-robot-peremirie-mokrom-polu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "4d3530e0-245b-4ead-a632-0654cbbd1620"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright hotel lobby in the morning: a cheerful middle-aged housekeeper in a uniform and apron, a mop bucket at her feet, kindly wipes the top cover of a compact commercial floor-scrubbing robot with a cloth, behind the robot a fresh glossy clean stripe on the polished marble floor, a sofa and a lift door in soft focus, warm sunlight through tall windows, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, warm humorous truce mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Сценка. Холл гостиницы, утро. Робот-уборщик едет вдоль стены. Горничная Зинаида стоит с ведром, как секундант на дуэли. (Все персонажи вымышлены, совпадения неизбежны.)

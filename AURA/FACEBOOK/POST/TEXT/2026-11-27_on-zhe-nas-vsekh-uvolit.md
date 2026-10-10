@@ -3,6 +3,13 @@ number: 8
 date: "2026-11-27"
 title: "«Он же нас всех уволит»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-11-27_on-zhe-nas-vsekh-uvolit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "56f32732-1161-456f-b0bc-0e3fc8ff0c28"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on a Russian factory floor: a collaborative robot arm stacks cardboard boxes onto a pallet at the end of a packing line, a young worker in overalls proudly shows the robot settings on a tablet to two older colleagues in work jackets who lean in with curious smiles, one of them with a hand on his lower back, tablet screen not visible, bright daylight from skylights, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, curious encouraging mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Курилка. Трое. Вчера в цех привезли кобота.

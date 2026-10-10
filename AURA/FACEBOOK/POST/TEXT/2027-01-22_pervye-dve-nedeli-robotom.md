@@ -3,6 +3,13 @@ number: 24
 date: "2027-01-22"
 title: "Первые две недели с роботом"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2027-01-22_pervye-dve-nedeli-robotom.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "2d6df288-a021-434d-a98e-37282e98d571"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a factory workshop: a young operator gently dusts the lens of a vision camera above a robot cell with a small soft brush, an engineer with a tablet and the shop manager watch with amused smiles, the robot arm resting mid-cycle over a tray of parts, ordinary bright workshop light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, light-hearted settling-in mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Дневник предприятия. Вымышленный, но честный. Записи короткие, потому что некогда.

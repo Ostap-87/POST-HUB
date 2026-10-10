@@ -3,6 +3,13 @@ number: 22
 date: "2027-01-15"
 title: "Сальто умеет, коробку переставить — сложнее"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2027-01-15_salto-umeet-korobku-perestavit-slozhnee.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "2ce64f8b-1640-41bf-b2d8-2857c3d4eb97"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright humanoid robot test lab: a humanoid robot carefully lifts a crumpled, half-empty cardboard box with peeling tape from a metal shelf, two young engineers watch closely and one cheers with raised fists, in the soft-focus background another humanoid robot does a backflip on a padded mat, cables and tools on benches, bright even lighting, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, excited breakthrough mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Посмотришь ролики китайских гуманоидов — кажется, всё. Сальто, кунг-фу, бег, танцы. Завтра выйдут на смену.

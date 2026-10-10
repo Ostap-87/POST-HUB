@@ -3,6 +3,13 @@ number: 14
 date: "2026-12-18"
 title: "Мы купили робота, а он стоит"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-12-18_my-kupili-robota-on-stoit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "d5be7919-81eb-4d3e-9ec3-b5be9d06f8f5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a clean factory workshop: a newly installed industrial robot arm in its cell still wears a big red ribbon bow, a young woman engineer, the robot's owner, holds a tablet and explains the task to a small group of operators in uniforms who listen with interested smiles, a cart with real parts ready for the first test, fresh morning light from high windows, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, fresh-start mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Купили робота. Привезли. Распаковали. Сфотографировались.

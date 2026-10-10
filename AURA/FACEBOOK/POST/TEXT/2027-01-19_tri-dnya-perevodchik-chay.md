@@ -3,6 +3,13 @@ number: 23
 date: "2027-01-19"
 title: "Три дня, переводчик и чай"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2027-01-19_tri-dnya-perevodchik-chay.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "11d80a0c-79c8-4b7b-9ca8-f0db93a02227"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a Russian factory workshop: a smiling Chinese service engineer calibrates a newly installed industrial robot arm with a laptop, a young Russian interpreter with a small glossary notebook and two operators lean in and listen with interest, on a side table a tall steel thermos and glass cups of tea, laptop screen not visible, warm daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, friendly teamwork mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Пусконаладка с инженером завода. Хроника в трёх действиях. (Обобщённая, но узнаваемая.)

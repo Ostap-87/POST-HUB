@@ -3,6 +3,13 @@ number: 21
 date: "2027-01-12"
 title: "Робот-охранник: не спит, не берёт, не пускает тёщу"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2027-01-12_robot-okhrannik-spit-beret-puskaet-teshchu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "4b6e330e-5831-4d6d-98ce-37377b2ee066"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo of a large logistics park perimeter at dawn on a frosty winter morning: a wheeled outdoor security patrol robot with a camera mast rolls along a fence beside long warehouses, frost sparkling on the grass, in a warm lit guard booth nearby a smiling security operator with a cup of tea watches its camera feed on monitors without text, soft pink sunrise light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, calm reliable mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Что умеет робот-охранник.

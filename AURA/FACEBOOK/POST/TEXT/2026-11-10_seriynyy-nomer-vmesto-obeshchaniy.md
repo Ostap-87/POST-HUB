@@ -3,6 +3,13 @@ number: 3
 date: "2026-11-10"
 title: "Серийный номер вместо обещаний"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/05_Facebook_Aura_Robotics_25_постов.docx"
+image: "2026-11-10_seriynyy-nomer-vmesto-obeshchaniy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "78fc1236-2570-47c7-a16d-5238e0dd8683"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside a bright Chinese robot factory test area: a smiling factory technician films a close-up of a small blank metal nameplate on the base of a new industrial robot arm with a smartphone on a handheld gimbal, while the arm behind performs a real pick-and-place test with metal parts, a colleague with a clipboard gives a thumbs-up, packing crates in the background, nameplate engraving blurred and unreadable, phone screen not visible, bright even light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, open and trustworthy mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Покупать робота за семь тысяч километров — это как жениться по переписке. Фотографии прекрасные, характеристики отличные, рекомендации — от самого жениха.
