@@ -7,6 +7,13 @@ seo_title: "Как найти завод-производитель в Кита�
 meta_description: "Как найти китайский завод-производитель роботов и оборудования и отличить его от торговой компании: реестр компаний, сфера деятельности, видео из цеха, аудит, референсы и признаки посредника."
 slug: "factory-that-turned-out-be-office-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-19_factory-that-turned-out-be-office-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "df259235-0ac9-462a-a36f-fe39a1da18d2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in the morning at the gate of a real factory in a Chinese industrial park: a Russian buyer with a backpack, just out of a taxi, smiles with relief as she looks at a large busy production building where a truck unloads steel coils and workers in uniforms walk in for the shift, a Chinese sales manager waves to her from the gate, signs blurred and unreadable, bright clear sunlight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, reassuring mood of finding a true manufacturer and not an office. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В Китае у каждого поставщика есть завод. У одних он свой. У других — брата. У третьих — «партнёрский», что в переводе означает «мы знаем, где он находится».

@@ -7,6 +7,13 @@ seo_title: "Unitree G1 vs Booster T1: Choosing a Humanoid Robot for Universities
 meta_description: "Unitree G1 and Booster T1 compared for universities and research labs: size, weight, degrees of freedom, onboard compute, battery, SDK, simulators, community, warranty and repairability."
 slug: "humanoid-for-lab-unitree-g1-vs-booster"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-17_humanoid-for-lab-unitree-g1-vs-booster.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ecd6bf5a-7226-4533-b17c-c7934fafc85f"
+image_cost: "0.5"
+image_logos: "Unitree, Booster Robotics"
+image_prompt: "Photorealistic candid photo in a bright university robotics lab: a child-sized humanoid robot lies on its back on a blue gym mat after a fall, a laughing graduate student kneels to help it up while holding its safety rope, another student types on a laptop, in the background a second humanoid robot of a different design takes careful steps along a taped line, whiteboards with blurred unreadable notes, cables and spare parts on shelves, daylight from tall windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful research mood of a robot you are not afraid to drop. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A research [humanoid](/en/catalog/humanoid) is not bought to work. It is bought to fall over. Often, creatively and in the name of science: a PhD student writes a new walking controller, the robot takes three steps and lies down on the mat, and the student writes a paper on why. A month later the robot manages thirty steps. That is what progress looks like from the inside.

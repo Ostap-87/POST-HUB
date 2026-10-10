@@ -7,6 +7,13 @@ seo_title: "Контракт с китайским заводом на пост�
 meta_description: "Что прописать в договоре с китайским заводом при покупке робота: спецификация, базис поставки по Инкотермс 2020, этапы оплаты, заводская и финальная приёмка, гарантия, штрафы, применимое право и валютный контроль."
 slug: "contract-you-read-before-shipment-specifications-incoterms"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-20_contract-you-read-before-shipment-specifications-incoterms.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5ae88d5b-cb3e-4d3f-a014-aa1563eabd97"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a factory acceptance test in a bright Chinese robot factory: an industrial robot arm runs a test cycle on a test stand, a Russian buyer in a white hard hat ticks items on a printed checklist with blank lines while a Chinese test engineer holding a stopwatch explains with a smile, an open wooden shipping crate waits beside them, papers without readable text, soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, careful confident mood of checking everything before shipment. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Договор с китайским заводом обычно читают дважды. Первый раз — перед подписанием, быстро, потому что завод ждёт аванс. Второй раз — когда что-то пошло не так, медленно, с карандашом и юристом. Второе чтение всегда внимательнее первого. Эта статья о том, как поменять их местами.

@@ -7,6 +7,13 @@ seo_title: "Сварочный робот или сварочный кобот: 
 meta_description: "Чем роботизированная сварочная ячейка отличается от сварочного кобота: размер партии, скорость, программирование, безопасность, защита от дуги и дыма, стоимость. Как выбрать под свою производственную программу."
 slug: "behind-fence-or-at-bench-welding-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-18_behind-fence-or-at-bench-welding-robot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c85567ed-7552-4e54-82d5-226de3b21ba2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Russian metal fabrication shop: in the foreground a smiling welder in a leather apron hand-guides the torch of a collaborative welding robot arm along a seam on a perforated welding table, in the background behind a yellow mesh safety fence a large welding robot cell works with a bright arc and sparks on a positioner, daylight from high windows, haze of light fume, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, confident practical mood of choosing between the fence and the bench. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Сварочный робот и сварочный [кобот](/catalog/cobots) похожи, как трактор и мотоблок. Оба пашут. Но если спросить фермера, что ему купить, он сначала спросит, сколько у вас земли.

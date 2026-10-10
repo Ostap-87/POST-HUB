@@ -7,6 +7,13 @@ seo_title: "Сертификация роботов в ЕАЭС: техниче�
 meta_description: "Какие технические регламенты ЕАЭС применяются к роботам, чем декларация отличается от сертификата, кто может быть заявителем, какие документы готовить, что изменилось в регламенте о безопасности машин в 2026 году и где обычно теряют время."
 slug: "robot-with-passport-eaeu-conformity-assessment-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-21_robot-with-passport-eaeu-conformity-assessment-for.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8d8e18c8-b893-4073-8412-977396d6c67b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo inside a Russian certification laboratory: a collaborative robot arm stands on a turntable inside an electromagnetic compatibility test chamber lined with blue foam pyramids, an antenna on a tripod faces it, a smiling young woman test engineer in a lab coat watches through the open chamber door with a tablet, cool clean lighting, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm professional mood of a robot getting its passport. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Робот может поднимать 20 кг, ходить по лестнице и узнавать лица. Но в Россию он въезжает так же, как любой станок: с бумагами. Без них он остаётся на складе временного хранения и учится там главному навыку импортного оборудования — терпению.

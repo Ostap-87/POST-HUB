@@ -7,6 +7,13 @@ seo_title: "Дельта-робот или SCARA: какой робот выбр
 meta_description: "Сравнение дельта-роботов и SCARA для упаковки и сортировки: скорость, грузоподъёмность, рабочая зона, монтаж, пищевое исполнение и расчёт количества роботов на линию. Гид от Aura Robotics."
 slug: "delta-or-scara-spider-above-conveyor-arm"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-16_delta-or-scara-spider-above-conveyor-arm.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ca6bc222-7797-4ec8-acbe-481d13b78ccc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo on a bright Russian confectionery packaging line: a ceiling-mounted delta robot with three thin arms picks round cookies from a moving conveyor at high speed with slight motion blur, while on a neighbouring steel table a SCARA robot arm calmly places small parts into a tray, a smiling woman technologist in a white coat and hairnet watches the cookies line up perfectly in plastic trays, clean white stainless-steel surfaces, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, crisp lively mood of the spider above the conveyor and the arm on the table. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 На упаковочной линии есть два робота, которых чаще всего путают, хотя выглядят они совершенно по-разному. Дельта-робот висит над конвейером, как паук на трёх лапках, и хватает печенье быстрее, чем вы успеваете его разглядеть. SCARA стоит на столе, как настольная лампа с очень деловым характером, и переставляет детали точно в гнёзда.

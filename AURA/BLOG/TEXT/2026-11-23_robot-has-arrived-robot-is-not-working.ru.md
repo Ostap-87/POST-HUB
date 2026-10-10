@@ -7,6 +7,13 @@ seo_title: "Пусконаладка робота из Китая: кто зап
 meta_description: "Как проходит пусконаладка робота, купленного в Китае: инженер завода или удалённый запуск, подготовка площадки, электропитание и сеть, обучение операторов и наладчиков, приёмочные испытания на площадке и безопасность ячейки."
 slug: "robot-has-arrived-robot-is-not-working"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-23_robot-has-arrived-robot-is-not-working.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "05f1aa66-0d3b-4992-97ae-e3fb02a260b9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Russian factory workshop before commissioning: an electrician pulls a power cable into a floor channel toward a freshly marked concrete pad with yellow tape, a colleague checks the pad with a long spirit level, a network cable is coiled and ready, the robot still waits in a closed wooden crate in the middle of the shop while a smiling shop manager photographs the preparation on his phone, daylight from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy can-do mood of a site that is ready before the robot arrives. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть короткий промежуток времени, когда робот уже ваш, но ещё не работает. Он стоит в ящике посреди цеха, все ходят вокруг, фотографируют и спрашивают: «Ну что, когда?» Это самый дорогой период в жизни робота. Он ничего не делает, а деньги за него уже заплачены.

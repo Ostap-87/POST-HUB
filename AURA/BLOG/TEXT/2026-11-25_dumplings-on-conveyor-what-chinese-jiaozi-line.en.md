@@ -7,6 +7,13 @@ seo_title: "Dumpling Production Lines From China: Dough, Filling, Forming, Quick
 meta_description: "How Chinese dumpling lines work: dough and filling preparation, two forming principles, throughput in pieces and kilograms, quick freezing, Russian GOST requirements for pelmeni, and what to check before buying."
 slug: "dumplings-on-conveyor-what-chinese-jiaozi-line"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-25_dumplings-on-conveyor-what-chinese-jiaozi-line.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f7ff1a48-2d18-4838-ad08-a975e69752ff"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic high-angle industrial photo in a large bright Chinese frozen-food plant: a wide white conveyor carries thousands of neat rows of freshly formed dumplings toward the entrance of a stainless-steel spiral quick-freezer, light frosty vapor at the freezer mouth, workers in white coats, hairnets and masks check the rows and smile at each other, clean even lighting, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, abundant precise mood of a dumpling line at industrial scale. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Where dumplings come from is argued about for longer than it takes to cook them. The Urals, Siberia, China, Mongolia — every theory has its supporters, and every supporter has a grandmother. We are staying out of that one. Our question is narrower: who is best at making dumplings in large numbers, quickly and identically?

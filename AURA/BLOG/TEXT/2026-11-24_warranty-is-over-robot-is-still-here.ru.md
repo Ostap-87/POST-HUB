@@ -7,6 +7,13 @@ seo_title: "Обслуживание робота после гарантии: �
 meta_description: "Что происходит с роботом из Китая после окончания гарантии: какие узлы изнашиваются, как формировать склад запчастей, интервалы планового обслуживания, удалённая диагностика, политика обновления прошивок и кто чинит робота в России."
 slug: "warranty-is-over-robot-is-still-here"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-24_warranty-is-over-robot-is-still-here.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "14911efc-2e51-4393-97d5-ca2bb5d01766"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a tidy maintenance room next to a robot cell: a smiling woman maintenance engineer in a work jacket takes a spare servo motor from a well-organized steel cabinet with neat bins of spare cables, gearboxes, encoder batteries and brushes with blank labels, through a window behind her an industrial robot arm keeps working in its cell, warm daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm prepared mood of a robot that is still at work in its second year. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Про покупку робота пишут много. Про пусконаладку — меньше. Про то, что происходит через год, когда заканчивается гарантия, пишут совсем мало. Видимо, потому что к этому моменту все, кто писал, уже заняты следующим роботом.

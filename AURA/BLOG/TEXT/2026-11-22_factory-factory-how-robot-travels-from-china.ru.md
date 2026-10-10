@@ -7,6 +7,13 @@ seo_title: "Доставка робота из Китая в Россию: уп�
 meta_description: "Как доставить робота из Китая: упаковка и транспортное положение, литиевые батареи как опасный груз, маршруты и сроки, страхование до площадки, код ТН ВЭД, пошлина, НДС 22% и таможенный сбор в 2026 году."
 slug: "factory-factory-how-robot-travels-from-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-22_factory-factory-how-robot-travels-from-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "410bddce-2397-4a2f-b156-7b03ae5a224a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a Chinese factory loading dock at golden hour: inside an open shipping container two smiling warehouse workers tighten ratchet straps around a large wooden crate with a robot inside, bags of moisture absorber hang on the container walls, a forklift driver gives a thumbs-up from his seat, warm low sun streaming into the container, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, careful optimistic mood of a robot starting a long, boring and safe journey. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Робот прошёл приёмку на заводе, показал серийный номер на видео и сдал все тесты. Теперь ему предстоит самое сложное испытание в жизни: несколько тысяч километров в ящике, два погрузчика, одна граница и один склад временного хранения. Ни в одной спецификации нет строки «выносливость к логистике». А зря.

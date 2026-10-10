@@ -7,6 +7,13 @@ seo_title: "Commissioning a Robot Bought in China: Who Does It, What the Custome
 meta_description: "How commissioning works for a robot bought in China: factory engineer or remote start-up, site preparation, power and network, training for operators and technicians, site acceptance testing and cell safety."
 slug: "robot-has-arrived-robot-is-not-working"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-23_robot-has-arrived-robot-is-not-working.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "05f1aa66-0d3b-4992-97ae-e3fb02a260b9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Russian factory workshop before commissioning: an electrician pulls a power cable into a floor channel toward a freshly marked concrete pad with yellow tape, a colleague checks the pad with a long spirit level, a network cable is coiled and ready, the robot still waits in a closed wooden crate in the middle of the shop while a smiling shop manager photographs the preparation on his phone, daylight from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy can-do mood of a site that is ready before the robot arrives. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There is a short period when the robot is already yours but not yet working. It stands in its crate in the middle of the shop floor while people walk around it, take photos and ask, “So, when?” This is the most expensive stage of a robot’s life. It does nothing, and it has already been paid for.

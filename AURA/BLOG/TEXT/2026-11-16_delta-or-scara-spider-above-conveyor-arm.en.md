@@ -7,6 +7,13 @@ seo_title: "Delta Robot vs SCARA: Which Robot to Choose for High-Speed Packaging
 meta_description: "Delta robots and SCARAs compared for packaging and sorting: speed, payload, work envelope, mounting, food-grade design and how many robots a line needs. A guide from Aura Robotics."
 slug: "delta-or-scara-spider-above-conveyor-arm"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-16_delta-or-scara-spider-above-conveyor-arm.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ca6bc222-7797-4ec8-acbe-481d13b78ccc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo on a bright Russian confectionery packaging line: a ceiling-mounted delta robot with three thin arms picks round cookies from a moving conveyor at high speed with slight motion blur, while on a neighbouring steel table a SCARA robot arm calmly places small parts into a tray, a smiling woman technologist in a white coat and hairnet watches the cookies line up perfectly in plastic trays, clean white stainless-steel surfaces, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, crisp lively mood of the spider above the conveyor and the arm on the table. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Two robots on a packaging line get mixed up more than any others, even though they look nothing alike. The delta hangs over the conveyor like a three-legged spider and snatches biscuits faster than you can see them. The SCARA sits on the table like a desk lamp with a serious work ethic and places parts precisely into nests.

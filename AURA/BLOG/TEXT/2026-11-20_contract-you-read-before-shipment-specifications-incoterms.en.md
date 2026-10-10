@@ -7,6 +7,13 @@ seo_title: "Equipment Purchase Contracts With Chinese Manufacturers: Specs, Inco
 meta_description: "What to put in a contract with a Chinese factory when buying a robot: specification, Incoterms 2020 delivery term, payment milestones, factory and site acceptance, warranty, penalties, governing law and currency control."
 slug: "contract-you-read-before-shipment-specifications-incoterms"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-20_contract-you-read-before-shipment-specifications-incoterms.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5ae88d5b-cb3e-4d3f-a014-aa1563eabd97"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a factory acceptance test in a bright Chinese robot factory: an industrial robot arm runs a test cycle on a test stand, a Russian buyer in a white hard hat ticks items on a printed checklist with blank lines while a Chinese test engineer holding a stopwatch explains with a smile, an open wooden shipping crate waits beside them, papers without readable text, soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, careful confident mood of checking everything before shipment. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A contract with a Chinese factory is usually read twice. The first time before signing, quickly, because the factory is waiting for the deposit. The second time when something has gone wrong, slowly, with a pencil and a lawyer. The second reading is always the more careful one. This article is about swapping them round.

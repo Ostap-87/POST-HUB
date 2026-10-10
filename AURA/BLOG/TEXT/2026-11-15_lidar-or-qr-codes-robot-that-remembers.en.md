@@ -7,6 +7,13 @@ seo_title: "Warehouse Robot Navigation: Lidar SLAM or Floor QR Codes?"
 meta_description: "How warehouse robots find their way: floor QR codes, laser SLAM and reflectors. Accuracy, floor requirements, the cost of changing routes, and where each approach wins. A guide from Aura Robotics."
 slug: "lidar-or-qr-codes-robot-that-remembers"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-15_lidar-or-qr-codes-robot-that-remembers.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "53edfbd6-7d5c-465d-a75a-128329a86f17"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic low-angle photo at floor level in a bright warehouse: a small flat orange warehouse robot rolls over a neat grid of small square black-and-white fiducial floor markers, sharp in the foreground, while in the soft-focus background a second mobile robot with a dome lidar sensor glides past tall racks that two warehouse workers are cheerfully rearranging with a forklift, cool white light and long floor reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, clever orderly mood of two ways a robot finds its way. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There are two ways to find your way around an unfamiliar city. One is to read the street signs and house numbers. The other is to remember: right after the pharmacy, left at the statue. The first works as long as the signs are there. The second, as long as nobody moves the statue.

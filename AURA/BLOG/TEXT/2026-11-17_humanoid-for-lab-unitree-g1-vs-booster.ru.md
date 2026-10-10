@@ -7,6 +7,13 @@ seo_title: "Unitree G1 или Booster T1: какой гуманоидный ро
 meta_description: "Сравнение Unitree G1 и Booster T1 для вузов и исследовательских лабораторий: рост, вес, степени свободы, вычислитель, батарея, SDK, симуляторы, сообщество, гарантия и ремонтопригодность."
 slug: "humanoid-for-lab-unitree-g1-vs-booster"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-17_humanoid-for-lab-unitree-g1-vs-booster.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ecd6bf5a-7226-4533-b17c-c7934fafc85f"
+image_cost: "0.5"
+image_logos: "Unitree, Booster Robotics"
+image_prompt: "Photorealistic candid photo in a bright university robotics lab: a child-sized humanoid robot lies on its back on a blue gym mat after a fall, a laughing graduate student kneels to help it up while holding its safety rope, another student types on a laptop, in the background a second humanoid robot of a different design takes careful steps along a taped line, whiteboards with blurred unreadable notes, cables and spare parts on shelves, daylight from tall windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful research mood of a robot you are not afraid to drop. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Исследовательский [гуманоид](/catalog/humanoid) покупают не для работы. Его покупают, чтобы он падал. Падал много, разнообразно и с пользой для науки: аспирант пишет новый алгоритм ходьбы, робот делает три шага и ложится на мат, аспирант пишет статью о том, почему робот лёг. Через месяц робот делает уже тридцать шагов. Это и называется научным прогрессом.

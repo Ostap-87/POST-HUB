@@ -7,6 +7,13 @@ seo_title: "Упаковка готовой еды в модифицирован
 meta_description: "Как центральная кухня продлевает срок годности готовых блюд без консервантов: упаковка в модифицированной газовой среде, трей-силеры, газовые смеси CO2 и N2, лотки и плёнки, фасовка, подтверждение сроков годности и условный расчёт."
 slug: "lunch-that-can-wait-tray-sealers-modified"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-26_lunch-that-can-wait-tray-sealers-modified.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e6fafd3e-1a62-488a-8cd6-f27c64e9e9f0"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a clean central kitchen packing area: a tray sealer closes black plastic trays of ready meals — rice, chicken, vegetables — with clear film, sealed trays come out on a short conveyor, a smiling woman operator in a white coat, cap and gloves lifts one tray to check the seal, stainless steel surfaces, bright even light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh appetizing mood of a lunch that can wait. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Центральная кухня решает одну простую задачу: приготовить сегодня то, что съедят завтра, послезавтра и, если повезёт, через неделю. В этой фразе всё просто, кроме слов «через неделю».

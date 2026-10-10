@@ -7,6 +7,13 @@ seo_title: "Shipping a Robot From China to Russia: Packing, Lithium Batteries, R
 meta_description: "How to ship a robot from China: transport position and packing, lithium batteries as dangerous goods, routes and lead times, insurance to the site, HS codes, duty, 22% import VAT and the customs fee in 2026."
 slug: "factory-factory-how-robot-travels-from-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-22_factory-factory-how-robot-travels-from-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "410bddce-2397-4a2f-b156-7b03ae5a224a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a Chinese factory loading dock at golden hour: inside an open shipping container two smiling warehouse workers tighten ratchet straps around a large wooden crate with a robot inside, bags of moisture absorber hang on the container walls, a forklift driver gives a thumbs-up from his seat, warm low sun streaming into the container, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, careful optimistic mood of a robot starting a long, boring and safe journey. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The robot has passed factory acceptance, shown its serial number on camera and cleared every test. Now comes the hardest exam of its life: several thousand kilometres in a crate, two forklifts, one border and one bonded warehouse. No datasheet has a line for “logistics endurance”. It should.
