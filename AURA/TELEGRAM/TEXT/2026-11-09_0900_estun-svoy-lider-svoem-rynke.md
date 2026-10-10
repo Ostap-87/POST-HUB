@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Estun: свой лидер на своём рынке"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-09_0900_estun-svoy-lider-svoem-rynke.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8c3389dd-3c12-4628-9159-28b31572d381"
+image_cost: "0.5"
+image_logos: "Estun"
+image_prompt: "Photorealistic industrial photo of a vast Chinese industrial robot factory: long rows of newly assembled white six-axis industrial robot arms on test stands, several of them moving in sync, technicians in navy work uniforms checking them with tablets, high steel roof with skylights, deep symmetrical perspective, confident large-scale mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Estun: свой лидер на своём рынке**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: гуманоид заменит любого рабочего"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-09_1800_mif-gumanoid-zamenit-lyubogo-rabochego.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0107d776-6ca7-422a-a426-8f897eb496f7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in an old Russian factory workshop: in the foreground a middle-aged worker in faded overalls holds a wrench and points up at a roof leak dripping into a metal bucket while explaining something to a young apprentice, in the background a full-size humanoid robot methodically moves cardboard boxes from a conveyor onto a trolley, mixed daylight and fluorescent light, honest everyday mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: гуманоид заменит любого рабочего**

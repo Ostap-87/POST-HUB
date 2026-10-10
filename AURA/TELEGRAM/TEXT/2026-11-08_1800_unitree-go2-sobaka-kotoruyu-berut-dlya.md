@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "Unitree Go2: собака, которую берут «для начала»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-08_1800_unitree-go2-sobaka-kotoruyu-berut-dlya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ddaccee8-0458-4d72-a691-7265753491d2"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic candid photo in a bright modern open-plan office: a small quadruped robot dog stands on the carpet between desks while employees gather around it, one young woman crouches to pet its head, a man takes a photo on his phone, another laughs holding a coffee cup, warm daylight from large windows, friendly playful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Unitree Go2: собака, которую берут «для начала»**

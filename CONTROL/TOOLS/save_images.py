@@ -23,8 +23,14 @@ LOGOS = HUB / 'CONTROL/LOGOS'
 SOURCES = LOGOS / 'ИСТОЧНИКИ.md'
 
 
+TR = dict(zip('абвгдеёжзийклмнопрстуфхцчшщъыьэюя',
+              ['a', 'b', 'v', 'g', 'd', 'e', 'e', 'zh', 'z', 'i', 'y', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't',
+               'u', 'f', 'kh', 'ts', 'ch', 'sh', 'shch', '', 'y', '', 'e', 'yu', 'ya']))
+
+
 def slug(name):
-    s = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+    s = ''.join(TR.get(c, c) for c in name.lower())
+    s = re.sub(r'[^a-z0-9]+', '-', s).strip('-')
     return s or 'logo'
 
 

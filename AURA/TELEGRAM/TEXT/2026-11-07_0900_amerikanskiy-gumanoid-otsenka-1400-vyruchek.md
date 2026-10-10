@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Американский гуманоид: оценка в 1400 выручек"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-07_0900_amerikanskiy-gumanoid-otsenka-1400-vyruchek.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c9297308-daa5-4e50-aa88-3b11641d760c"
+image_cost: "0.5"
+image_logos: "Agility Robotics"
+image_prompt: "Photorealistic editorial photo inside a large American distribution warehouse: a full-size bipedal humanoid robot carries a grey plastic tote from a shelf to a conveyor, while in the foreground a small group of investors in dark business suits stand behind a yellow safety railing watching and filming it on their phones, cool LED high-bay lighting, polished concrete floor, showcase-demo mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Американский гуманоид: оценка в 1400 выручек**

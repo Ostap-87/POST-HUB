@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Вопрос покупателя"
 title: "«Что будет, если робот сломается через полгода?»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-12_1800_chto-budet-esli-robot-slomaetsya-cherez.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "671acec4-9f7e-4108-8796-0bdde7134181"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a factory workshop: a service engineer in a dark work jacket kneels beside an industrial robot arm with an open joint cover, a laptop connected by cable shows abstract lines of logs with no readable characters, a small box of spare parts and a torque wrench on the floor, the robot's metal ID plate visible but unreadable, focused practical mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **«Что будет, если робот сломается через полгода?»**

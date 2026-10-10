@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Ровер дешевле курьера. Но медленнее"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-10_0900_rover-deshevle-kurera-no-medlennee.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0c2a929f-7cea-4821-8a56-333d6573fdf5"
+image_cost: "0.5"
+image_logos: "Яндекс"
+image_prompt: "Photorealistic street photo on a Moscow residential sidewalk on a grey autumn day: a small plain six-wheeled sidewalk delivery robot rolls alongside a foot courier with a plain insulated backpack, both heading the same way, the courier one step ahead, wet asphalt with fallen yellow leaves, apartment blocks and parked cars in the background, unbranded robot and backpack, everyday city mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Ровер дешевле курьера. Но медленнее**
