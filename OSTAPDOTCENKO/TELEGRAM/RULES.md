@@ -1,7 +1,8 @@
 # OSTAPDOTCENKO · TELEGRAM — Telegram-канал
 
 ## Канал
-[уточнить: на сайте указана ссылка https://t.me/ostapdotcenko — это канал или личный контакт?]
+**Канала нет.** `t.me/ostapdotcenko` — личный контакт владельца, туда не публикуем [П, 10.10.2026].
+Папка оставлена на случай, если канал появится.
 
 ## Особенности сети
 - Подпись к фото или видео — до 1024 символов, отдельное текстовое сообщение — до 4096.
@@ -17,4 +18,4 @@
 ## Правила проекта для этой сети
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.

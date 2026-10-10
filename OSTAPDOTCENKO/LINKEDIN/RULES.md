@@ -13,8 +13,8 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-- Сейчас зеркалит блог на английском: текст до 2500 символов (длиннее LinkedIn принимал с ошибками), одна картинка (обложка EN). См. вопрос в `../RULES.md`. [FB]
+- **Повторяет статью блога на английском** — утверждённое исключение из правила уникальности [П, 10.10.2026]: текст до 2500 символов (длиннее LinkedIn принимал с ошибками), одна картинка (обложка). Отдельные посты сюда не пишем; важен чистый английский анонс статьи (`excerpt`). [FB, OD]
 
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.

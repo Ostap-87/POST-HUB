@@ -1,7 +1,7 @@
 # GTT · DZEN — Дзен
 
 ## Канал
-«Командировка в будущее» — кросспостинг из Telegram GTT [статус уточнить: по редполитике канал настроен; в правилах сайта от 04.08.2026 — временно отключён].
+«Командировка в будущее». **Зеркало из Telegram GTT сейчас не работает** [П, 10.10.2026].
 
 ## Особенности сети
 - Посты из Telegram-канала Дзен может копировать сам (бот кросспостинга Яндекса); заголовок карточки — начало поста, обрезка примерно на 130–140 символах.
@@ -22,8 +22,8 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-- Посты из Telegram попадают в `POST/` автоматически. RSS-импорт статей — когда будет 10+ подписчиков. [ЕП]
+- Зеркало из Telegram сейчас не работает [П]; когда работало, посты попадали в `POST/` автоматически. Включать ли снова и что публиковать в Дзен — решим вместе.
 
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.

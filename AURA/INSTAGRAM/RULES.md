@@ -1,7 +1,7 @@
 # AURA · INSTAGRAM — Instagram
 
 ## Канал
-[адрес аккаунта уточнить]. Сейчас очередь — `Ostap-87/MyFirst/content/instagram/aura/` (GitHub Actions, секреты `IG_TOKEN_AURA`, `IG_USER_AURA`); публикаций пока не было.
+@aura_robotics_ru — https://www.instagram.com/aura_robotics_ru/ [П, 10.10.2026]. Сейчас очередь — `Ostap-87/MyFirst/content/instagram/aura/` (GitHub Actions, секреты `IG_TOKEN_AURA`, `IG_USER_AURA`); публикаций пока не было.
 
 ## Особенности сети
 - Подпись — до 2200 символов и до 30 хештегов; ссылки в подписи не кликабельны.
@@ -27,4 +27,4 @@
 
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.

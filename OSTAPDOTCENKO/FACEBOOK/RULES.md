@@ -20,8 +20,8 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-- Сейчас **зеркалит блог**: русский заголовок, анонс и все картинки статьи (галерея). Это расходится с правилом «контент в каждой сети уникальный» — см. вопрос в `../RULES.md`. [FB]
+- **Повторяет статью блога** — утверждённое исключение из правила уникальности [П, 10.10.2026]: после новой статьи сервер сам отправляет русский заголовок, примерно половину текста и все картинки статьи (галерея). Отдельные посты сюда не пишем. [FB]
 
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.

@@ -19,10 +19,10 @@
 - Не тизер на два предложения, а развёрнутый мини-текст: конкретика, цифры, что это значит на практике. [ЕП]
 - Первая строка — законченная мысль до 90–100 символов: в Дзене она становится заголовком карточки и обрезается на ~130–140 символах. [AURA-CP, SINOTECH]
 - Картинка обязательна для каждого поста (JPG/PNG, не WebP); реальный логотип упомянутой компании — бейджем снизу слева. [ЕП]
-- Ссылка на конкретную страницу Aura (`/blog/<slug>` или карточка завода), вшита в предложение с фактурой в первой половине текста. Закрывающая строка — см. вопрос 1 в `../RULES.md`. [ЕП, AURA-CP]
-- Хэштеги — см. вопрос 2 в `../RULES.md`.
+- Пост заканчивается строкой `🔗 https://aura-robotics.ru/ — выбрать робота под вашу задачу`, затем хештеги из набора проекта (`../RULES.md`, разделы 6–7). [П]
+- Ссылка на конкретную страницу Aura (`/blog/<slug>` или карточка завода) — когда есть по теме: вшита в предложение с фактурой в первой половине текста. [ЕП, AURA-CP]
 - Действующее расписание (claude-control): 09:00 и 18:00 МСК; понедельник 08:00 — дайджест недели; пятница 17:00 — сводка по рубрикам. Время в POST-HUB настроим позже.
 
 Общие правила проекта — `../RULES.md`.
 
-> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`; [П] — решение пользователя в POST-HUB.
