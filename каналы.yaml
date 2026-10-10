@@ -1,0 +1,63 @@
+# Реестр каналов. Адреса и id — не секрет; ключи доступа — только в GitHub Secrets.
+# status: planned — ещё не подключён; active — публикует отсюда; elsewhere — публикуется из другого места (MyFirst/VPS)
+
+timezone: Europe/Moscow          # уточнить
+slots: ["09:00", "13:00", "18:00"]   # часы запуска публикатора — уточнить
+max_delay_hours: 6               # опоздал больше — не публикуем сам, сообщаем
+
+channels:
+  blog-gtt:
+    network: blog
+    brand: gtt
+    target: https://globaltechtour.ru/blog/
+    method: commit в Ostap-87/SINOTECH → src/data/site_content.example.json → blog[]
+    secret: SITE_REPO_TOKEN
+    status: planned
+
+  blog-aura:
+    network: blog
+    brand: aura
+    target: https://aura-robotics.ru/
+    method: commit в Ostap-87/AURA (формат блога уточнить)
+    secret: SITE_REPO_TOKEN
+    status: planned
+
+  tg-gtt:
+    network: telegram
+    brand: gtt
+    target: "Командировка в будущее"   # @username или id канала — уточнить
+    secret: TG_BOT_TOKEN
+    status: elsewhere                # сейчас — через VPS SINOTECH (content-publish)
+
+  tg-aura:
+    network: telegram
+    brand: aura
+    target: "канал Aura Robotics"     # уточнить; зеркалится в Дзен ботом Яндекса
+    secret: TG_BOT_TOKEN
+    status: planned
+
+  ig-gtt:
+    network: instagram
+    brand: gtt
+    secret: [IG_TOKEN_GTT, IG_USER_GTT]
+    status: elsewhere                # сейчас — очередь MyFirst content/instagram/globaltechtour
+
+  ig-aura:
+    network: instagram
+    brand: aura
+    secret: [IG_TOKEN_AURA, IG_USER_AURA]
+    status: elsewhere                # сейчас — очередь MyFirst content/instagram/aura
+
+  make-gtt:
+    network: make
+    brand: gtt
+    targets: [facebook, linkedin]    # какие страницы — уточнить
+    secret: MAKE_WEBHOOK_URL
+    status: planned
+
+  make-aura:
+    network: make
+    brand: aura
+    targets: [facebook, linkedin]    # уточнить
+    secret: MAKE_WEBHOOK_URL
+    status: planned
