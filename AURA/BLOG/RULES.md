@@ -1,7 +1,7 @@
 # AURA · BLOG — Блог сайта
 
 ## Канал
-[адрес аккаунта или канала — уточнить]
+https://aura-robotics.ru/blog — статьи в репозитории `Ostap-87/AURA`, файл на статью `content/blog/<slug>.json`.
 
 ## Особенности сети
 - Полная статья и обложка. Посты в соцсетях опираются на статьи блога и ссылаются на них.
@@ -13,4 +13,13 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-[заполним вместе]
+- Объём 600–1000 слов, 3–6 подзаголовков отдельными абзацами `## Подзаголовок`. [ЕП]
+- Два языка: `title_ru/en`, `excerpt_ru/en`, `body_ru/en`; `publishedAt` — фактическая дата, не в будущем. [ЕП]
+- **Обложка: `cover` + `coverCaption_ru` + `coverCaption_en` обязательно** — без подписи сайт скрывает картинку. [ЕП]
+- 1–3 внутренние ссылки `[анкор](/catalog/<категория>/factory/<factoryId>)` прямо в тексте; ключевые слова — в заголовке, 1–2 подзаголовках и первом абзаце. [ЕП]
+- Внешний источник — только текстом, без гиперссылки. [ЕП]
+- Действующая публикация: файл в `content/blog/` → `npm run sync && npm run build` → пуш в `main` AURA (деплой сам). [ЕП]
+
+Общие правила проекта — `../RULES.md`.
+
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.

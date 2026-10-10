@@ -1,7 +1,7 @@
 # OSTAPDOTCENKO · YOUTUBE — YouTube
 
 ## Канал
-[адрес аккаунта или канала — уточнить]
+[адрес канала уточнить; на сайте есть встроенные видео YouTube]
 
 ## Особенности сети
 - Shorts — вертикальные ролики до 3 минут. Загрузка по API ограничена суточной квотой (примерно 6 роликов в сутки на проект Google).
@@ -19,4 +19,6 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-[заполним вместе]
+Общие правила проекта — `../RULES.md`.
+
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.

@@ -1,7 +1,7 @@
 # OSTAPDOTCENKO · INSTAGRAM — Instagram
 
 ## Канал
-[адрес аккаунта или канала — уточнить]
+[адрес аккаунта уточнить; на сайте ссылка без аккаунта]. Очередь MyFirst `content/instagram/personal/` — пустая.
 
 ## Особенности сети
 - Подпись — до 2200 символов и до 30 хештегов; ссылки в подписи не кликабельны.
@@ -22,4 +22,6 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-[заполним вместе]
+Общие правила проекта — `../RULES.md`.
+
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.

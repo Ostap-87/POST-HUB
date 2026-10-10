@@ -1,7 +1,7 @@
 # OSTAPDOTCENKO · FACEBOOK — Страница Facebook
 
 ## Канал
-[адрес аккаунта или канала — уточнить]
+Личная страница (page id 1209545262252175). Make, сценарий `FB-LINKEDIN-OSTAPDOTCENKO`. [FB]
 
 ## Особенности сети
 - Длинные тексты допустимы. Подключение — через Make (вебхук).
@@ -20,4 +20,8 @@
 [коннектор добавим позже]
 
 ## Правила проекта для этой сети
-[заполним вместе]
+- Сейчас **зеркалит блог**: русский заголовок, анонс и все картинки статьи (галерея). Это расходится с правилом «контент в каждой сети уникальный» — см. вопрос в `../RULES.md`. [FB]
+
+Общие правила проекта — `../RULES.md`.
+
+> Источники: [ЕП] — `claude-control/data/editorial-policy.md`; [AURA-CP] — `AURA/CONTENT-PUBLISHING.md`; [SINOTECH] — `SINOTECH/CLAUDE.md`; [OD] — документы `Ostap-87/ostapdotcenko` (PULT.md, PROTOCOL_ARTICLES.md); [FB] — `claude-control/data/fb-config/webhooks.json`.
