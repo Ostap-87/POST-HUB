@@ -12,6 +12,13 @@ tag: "Observations"
 time: "5 min"
 slug: "economics-cart"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-12-05_economics-cart.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "25d12c3c-e645-4fc8-ba54-d40d910c219c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a busy night market in Taipei: a married couple runs a small food cart lit by a single bare bulb, the wife flipping scallion pancakes on a hot griddle without looking at it while smiling at a customer, the husband handing over a paper bag, fragrant smoke curling in the lamplight, a short queue of happy customers, neighbouring stalls glowing behind, signs blurred and unreadable, wide 16:9 composition with a calm, uncluttered lower-left corner, warm lively mood of a whole business model resting on one cart. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Big business starts with a small cart. Small business starts with a big business plan. — From a lecture I never got around to giving

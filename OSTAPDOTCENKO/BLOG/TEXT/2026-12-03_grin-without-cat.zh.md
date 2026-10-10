@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "5 分钟"
 slug: "grin-without-cat"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-03_grin-without-cat.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7f8a1375-55d4-4cc2-8304-8f49d597e255"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic interior photo of a small livestream studio late at night: a large vertical screen on a stand shows a smiling, perfectly lit virtual presenter holding a frying pan, the image soft and slightly glowing; in front of it the real presenter's chair is empty except for a ginger cat curled up asleep on the cushion, the ring light still on, pans and products arranged on the table, a coat on the hook and a warm desk lamp, wide 16:9 composition with a calm, uncluttered lower-left corner, cozy humorous mood: the smile works the night shift while the living seller finally sleeps. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 中国最好的销售员，不吃饭、不睡觉、不要提成，而且并不存在。最后一条，是它最大的竞争优势。

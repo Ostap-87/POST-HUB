@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "not-it-for-money"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-24_not-it-for-money.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7640b0d9-e864-4a7f-b766-fc155d5a6180"
+image_cost: "0.5"
+image_logos: "DeepSeek"
+image_prompt: "Photorealistic candid photo in a modest, quiet research office in Hangzhou on a rainy evening: a small team of young engineers in hoodies and sweaters work at simple desks with monitors showing abstract training curves without numbers, a young woman smiles with quiet satisfaction as a colleague leans over to see her result, stacked boxes of graphics cards in the corner, cups of tea, rain streaks on the window with soft city lights, warm desk lamps, wide 16:9 composition with a calm, uncluttered lower-left corner, calm focused mood of a team that speaks little and is heard by everyone. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > “It’s not about the money.” — Said by everyone who later made a lot of it

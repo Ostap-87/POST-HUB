@@ -12,6 +12,13 @@ tag: "重新来过"
 time: "6 分钟"
 slug: "coffee-with-hint-audit"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-11-20_coffee-with-hint-audit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2a11f400-9fab-4078-82a8-9cad7e76cbc5"
+image_cost: "0.5"
+image_logos: "Luckin Coffee"
+image_prompt: "Photorealistic editorial still-life photo on a meeting table in a bright Beijing office: a plain white takeaway coffee cup with the lid off, showing a perfect latte-art leaf, stands on top of a closed thick binder of financial reports, beside it a calculator, a pen and reading glasses; a businessman's hand reaches for the cup, a blurred smiling colleague and a city view behind, crisp morning light, wide 16:9 composition with a calm, uncluttered lower-left corner of tabletop, good-humored mood: figures can be drawn, but the coffee in the cup is real. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 咖啡没有太浓的，只有太老实的会计。 ——喝到第三杯时的感想

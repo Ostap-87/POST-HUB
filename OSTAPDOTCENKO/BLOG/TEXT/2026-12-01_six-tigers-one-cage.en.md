@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "six-tigers-one-cage"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-01_six-tigers-one-cage.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ff975f2c-7719-473e-bb9a-29917d6dc3f4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic wildlife photo in a spacious sunny enclosure of a tiger park in northeast China: six playful young tigers on green grass and logs, one leaping through a big hanging tyre ring, the others tumbling, watching and chasing each other, a clear stream and birch trees around, a few visitors smiling behind a glass wall in the background, bright afternoon light, wide 16:9 composition with a calm, uncluttered lower-left corner of grass, upbeat mood: all six are alive, each with its own act. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Articles about Chinese startups come in two flavors: “They’ll beat everyone” and “They’re all doomed.” I’ve read both, occasionally about the same company, six months apart, and confess I agreed with each at the time. I have an excellent memory for numbers and a poor one for my own forecasts.

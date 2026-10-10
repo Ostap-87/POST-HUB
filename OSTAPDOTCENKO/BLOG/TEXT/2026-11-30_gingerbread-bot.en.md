@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "gingerbread-bot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-30_gingerbread-bot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f9abe0c0-a10d-4921-b66b-96cf3738a64b"
+image_cost: "0.5"
+image_logos: "ByteDance"
+image_prompt: "Photorealistic close-up photo in a bright Chinese breakfast shop kitchen: a bamboo steamer lid lifted in a cloud of steam reveals rows of fluffy white steamed buns with red bean filling, and one bun has escaped and is rolling across the floury wooden counter toward the edge, a cook in the background laughing and reaching out to catch it, warm morning light, shallow depth of field, wide 16:9 composition with a calm, uncluttered lower-left corner of counter, playful fairy-tale mood of a little bun that rolled away from everyone. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 I’ve spent twenty years selling other people’s products and telling clients that a good product sells itself. It doesn’t. But clients like hearing it, and I get paid precisely because it isn’t true.

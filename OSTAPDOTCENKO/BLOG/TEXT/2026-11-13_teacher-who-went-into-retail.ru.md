@@ -12,6 +12,13 @@ tag: "Перезапуски"
 time: "7 мин"
 slug: "teacher-who-went-into-retail"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-11-13_teacher-who-went-into-retail.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a62134fe-175f-4620-88c9-6e75c6590dff"
+image_cost: "0.5"
+image_logos: "New Oriental"
+image_prompt: "Photorealistic candid photo in a cozy small livestream studio set up in a former classroom: a cheerful middle-aged presenter in glasses and a sweater, an ordinary man, holds up a fresh ear of corn toward a smartphone on a tripod and explains something with an animated teacher's gesture, a ring light beside him, behind him an old green chalkboard with a simple chalk drawing of fields, sun and hills and no writing, boxes of rice, fruit and corn stacked on a school desk, two young assistants laughing off to the side, warm lamp light, wide 16:9 composition with a calm, uncluttered lower-left corner, uplifting mood of a teacher who found a new classroom. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Кто умеет — делает. Кто не умеет — учит. — Бернард Шоу

@@ -12,6 +12,13 @@ tag: "Перезапуски"
 time: "6 мин"
 slug: "back-next-week"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-11-27_back-next-week.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6ad87dc6-9ff0-445c-96a4-933f73ac71db"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo by the window of a bright café in the morning: a middle-aged man in a casual jacket, phone to his ear, laughs as he crosses out one line in his paper to-do list with a pen, a small pile of unopened envelopes and a closed laptop beside his cup of coffee, the list's handwriting blurred and unreadable, a tree-lined street outside, soft sunlight, wide 16:9 composition with a calm, uncluttered lower-left corner of tabletop, light self-ironic mood of doing it today instead of next week. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Не откладывай на завтра то, что можно отложить на следующую неделю. — Народная мудрость, доработанная в Лос-Анджелесе

@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "5 min"
 slug: "dark-side-moon"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-26_dark-side-moon.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "774d8bd8-d118-48ad-a4d6-29bad1902240"
+image_cost: "0.5"
+image_logos: "Moonshot AI"
+image_prompt: "Photorealistic cinematic photo on the rooftop terrace of an office building in Beijing at night: a small team of young developers, seen from behind, sits on benches with laptops and takeaway noodles, looking up at a huge half moon — one side bright, the other in shadow — rising above the city skyline, warm light from the office windows behind them, one of them pointing up and laughing, deep blue sky, wide 16:9 composition with a calm, uncluttered lower-left corner, quietly confident mood of working on the side nobody sees. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Moonshot AI’s Chinese name translates as “The Dark Side of the Moon,” reportedly after the Pink Floyd album, and it was founded in the record’s fiftieth-anniversary year. Its Beijing meeting rooms, judging by staff photos, are named after rock bands: Led Zeppelin, Deep Purple, The Rolling Stones, Metallica.

@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "are-you-free"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-18_are-you-free.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a1a46d67-d358-4572-a236-5f19a73af885"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo on a sunny avenue in Wuhan: a young woman with a small suitcase on the curb waves cheerfully at an approaching white driverless robotaxi with a compact roof sensor unit, the empty driver's seat and the steering wheel clearly visible through the windshield; trees, cyclists and modern buildings behind, signs blurred and unreadable, bright midday light, wide 16:9 composition with a calm, uncluttered lower-left corner of pavement, light humorous mood of hailing a cab with no driver. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > — Шеф, свободен? — Свободен. Шефа нет. — Диалог, который стал возможен только в двадцатые годы этого века

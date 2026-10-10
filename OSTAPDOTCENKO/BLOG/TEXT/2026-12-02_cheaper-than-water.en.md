@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "5 min"
 slug: "cheaper-than-water"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-02_cheaper-than-water.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "db5b7901-ed8a-4e9e-9a68-f244e85fd4d4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on the counter of a bright small Chinese convenience store: a plastic bottle of water stands beside a stack of three thick classic hardcover novels with plain blank covers, a single shiny coin on top of the stack, a smiling young cashier blurred in the background, shelves of snacks out of focus, clean daylight, wide 16:9 composition with a calm, uncluttered lower-left corner of countertop, witty mood: thinking became cheaper than water. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 I’ve been asking “how much?” professionally for twenty years. Lately the question has been about tokens. A token is a scrap of text a model reads or writes — roughly a word or part of one. Companies pay per token when they plug AI into their services. And in China, token prices behaved like no price I have ever seen. First they fell. Then they fell some more.

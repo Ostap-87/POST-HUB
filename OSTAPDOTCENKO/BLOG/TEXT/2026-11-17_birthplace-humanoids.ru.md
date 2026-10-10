@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "birthplace-humanoids"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-17_birthplace-humanoids.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "37b559ec-0a81-4937-98db-0ab36a81d118"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic cinematic photo in a quiet Japanese garden in autumn: a small vintage white humanoid robot of a generic early design without any markings sits on a wooden bench under red maple leaves as if resting after a long career, and beside it a smiling elderly Japanese man in a cardigan pours green tea into two small cups, a stone lantern and a koi pond behind them, soft late-afternoon sunlight, wide 16:9 composition with a calm, uncluttered lower-left corner of raked gravel, gentle, warm and respectful mood of a pioneer who simply got tired first. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Старый робот спит. Шаг его в чужой стране Громче, чем в родной. — Хокку моё. Басё обиделся бы, но вежливо

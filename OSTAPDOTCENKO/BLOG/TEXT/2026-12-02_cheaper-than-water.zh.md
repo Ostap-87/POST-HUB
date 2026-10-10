@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "5 分钟"
 slug: "cheaper-than-water"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-02_cheaper-than-water.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "db5b7901-ed8a-4e9e-9a68-f244e85fd4d4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on the counter of a bright small Chinese convenience store: a plastic bottle of water stands beside a stack of three thick classic hardcover novels with plain blank covers, a single shiny coin on top of the stack, a smiling young cashier blurred in the background, shelves of snacks out of focus, clean daylight, wide 16:9 composition with a calm, uncluttered lower-left corner of countertop, witty mood: thinking became cheaper than water. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “多少钱？”这个问题，我职业性地问了二十年。最近两年，问的是Token。Token是模型读写文本的最小单位，大约一个词或半个词。企业把AI接进自己的服务，按Token付钱。而在中国，Token的价格走出了我这辈子没见过的曲线：先是降，然后接着降。

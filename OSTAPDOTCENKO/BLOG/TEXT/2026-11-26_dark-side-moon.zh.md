@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "5 分钟"
 slug: "dark-side-moon"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-26_dark-side-moon.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "774d8bd8-d118-48ad-a4d6-29bad1902240"
+image_cost: "0.5"
+image_logos: "Moonshot AI"
+image_prompt: "Photorealistic cinematic photo on the rooftop terrace of an office building in Beijing at night: a small team of young developers, seen from behind, sits on benches with laptops and takeaway noodles, looking up at a huge half moon — one side bright, the other in shadow — rising above the city skyline, warm light from the office windows behind them, one of them pointing up and laughing, deep blue sky, wide 16:9 composition with a calm, uncluttered lower-left corner, quietly confident mood of working on the side nobody sees. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 一家AI公司，起名“月之暗面”，据说取自平克·弗洛伊德的同名专辑，公司成立那年正赶上这张唱片发行五十周年。从员工晒的照片看，北京办公室的会议室都用摇滚乐队命名：齐柏林飞艇、深紫、滚石、金属乐队。

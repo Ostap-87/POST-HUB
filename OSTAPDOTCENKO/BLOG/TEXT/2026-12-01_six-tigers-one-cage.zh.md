@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "six-tigers-one-cage"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-01_six-tigers-one-cage.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ff975f2c-7719-473e-bb9a-29917d6dc3f4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic wildlife photo in a spacious sunny enclosure of a tiger park in northeast China: six playful young tigers on green grass and logs, one leaping through a big hanging tyre ring, the others tumbling, watching and chasing each other, a clear stream and birch trees around, a few visitors smiling behind a glass wall in the background, bright afternoon light, wide 16:9 composition with a calm, uncluttered lower-left corner of grass, upbeat mood: all six are alive, each with its own act. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 写中国创业公司的文章，通常只有两种：“他们会赢下一切”和“他们都会死”。两种我都读过，有时说的是同一家公司，前后只隔半年，而我每次都觉得有道理。我记数字的本事很好，记自己预测的本事很差。

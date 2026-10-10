@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "more-robots-per-capita-than-anyone"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-16_more-robots-per-capita-than-anyone.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "930dfa11-1d53-4016-8d57-11d9c12168e1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in the bright electronics section of a large Seoul hypermarket: on a low display platform stand a compact humanoid robot and a quadruped robot dog next to tall shelves of robot vacuum cleaner boxes with blank packaging; a Korean family with a shopping cart stops to look — the children laughing and waving at the robot dog, the father leaning in with curiosity, a smiling sales assistant explaining, price tags blank, fluorescent store lighting, wide 16:9 composition with a calm, uncluttered lower-left corner of floor, lively fast-paced mood of the world's most robotized shoppers. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > «Ппалли-ппалли!» («Быстрее-быстрее!») — Неофициальный девиз Кореи. Официальный никто не дочитал: некогда

@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "budget-spent-itself"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-06_budget-spent-itself.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "11905394-b977-4c33-bb40-3445c7e773c9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo on a sunny baseball practice field: an automatic pitching machine launches a ball toward a young batter, while a middle-aged man in a business shirt with rolled-up sleeves, holding a paper coffee cup, stands beside the machine laughing and giving the batter advice like a coach, a bucket of balls, a chain-link fence and green trees behind, bright clear daylight, wide 16:9 composition with a calm, uncluttered lower-left corner of grass, upbeat ironic mood: the machine now throws the ball, the person becomes the coach. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 先看一份“文件”。不是真的，是我凭行业记忆拼出来的。十年前，电商平台上一个投手的任务大概是这样：

@@ -12,6 +12,13 @@ tag: "重新来过"
 time: "7 分钟"
 slug: "deposit-not-returned"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-12-04_deposit-not-returned.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1c413637-af3a-49a6-b4e0-ed6c82dac621"
+image_cost: "0.5"
+image_logos: "ofo"
+image_prompt: "Photorealistic photo on a quiet Beijing university campus in golden autumn: a single plain yellow bicycle without any markings stands under a glowing ginkgo tree on a carpet of yellow leaves, while students ride past on bicycles of other colors, laughing and chatting, old campus buildings and a blue sky behind, warm late-afternoon light, wide 16:9 composition with a calm, uncluttered lower-left corner of fallen leaves, nostalgic but light mood: the riders simply moved on. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 押金有风险，骑行需谨慎。 ——没人贴出来的风险提示

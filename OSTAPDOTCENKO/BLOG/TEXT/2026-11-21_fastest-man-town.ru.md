@@ -12,6 +12,13 @@ tag: "Наблюдения"
 time: "6 мин"
 slug: "fastest-man-town"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-11-21_fastest-man-town.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a872745f-c013-413d-b878-5d5c10cb94f0"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at noon outside a large office tower in Shanghai: dozens of electric scooters parked in neat rows, food couriers in plain yellow, blue and red jackets and helmets hurry to a pickup rack packed with takeaway bags; in the center a young courier in a yellow jacket and a helmet with small cat ears grins as he jogs past holding a bag, office workers coming out to collect their lunch, bright midday sun, slight motion blur, wide 16:9 composition with a calm, uncluttered lower-left corner of pavement, energetic warm mood of the fastest man in town. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > В Китае еду не ждут. Её встречают. — Наблюдение у входа в офисный центр

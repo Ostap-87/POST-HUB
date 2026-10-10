@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "bread-circuits"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-15_bread-circuits.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6df2596a-c652-4a9b-9c96-feb01727fc69"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic sports photo from the stands of a huge indoor arena during a humanoid robot games event: in the foreground excited spectators — families with children and people in business jackets — jump up, cheer and film on their phones, while far below on the brightly lit arena floor a humanoid robot pushes itself up from the ground after a fall, a few young engineers with remote controllers watching from the sideline, powerful arena lights, scoreboards blank, wide 16:9 composition with a calm, uncluttered lower-left corner, exuberant mood of a show whose main spectator is also a buyer. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Робот бьёт, и робот падает, Робот встал — трибуна в крик. Кто кого — неважно, в сущности. Важно, чей на нём ярлык. — Стишок мой. Спонсорский

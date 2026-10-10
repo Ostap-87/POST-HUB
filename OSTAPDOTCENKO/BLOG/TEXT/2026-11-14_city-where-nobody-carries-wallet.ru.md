@@ -12,6 +12,13 @@ tag: "Наблюдения"
 time: "5 мин"
 slug: "city-where-nobody-carries-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-11-14_city-where-nobody-carries-wallet.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "cb00dd70-0b4d-4062-83c4-82155e7b7235"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo in a leafy Shanghai park on a sunny afternoon: an elderly street musician on a folding stool plays the erhu with a happy smile, and instead of a hat at his feet stands a small laminated payment code card on a little stand with an abstract square pattern; a young woman and a foreign traveler with a backpack hold up their smartphones to scan it and tip him, laughing, other passers-by listening, dappled light through plane trees, wide 16:9 composition with a calm, uncluttered lower-left corner of paving stones, light warm mood of a city where nobody carries a wallet. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Раньше человека узнавали по кошельку. Теперь — по заряду батареи. — Наблюдение в очереди за баоцзы

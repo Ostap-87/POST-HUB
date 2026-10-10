@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "early-bird"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-29_early-bird.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9a10beae-0f5f-4a7a-8cc8-8cccbbee16fd"
+image_cost: "0.5"
+image_logos: "Baidu"
+image_prompt: "Photorealistic street photo in a Beijing hutong at dawn: a breakfast cook in a white apron lights the round griddle of his street stall in the blue pre-dawn light, the first golden jianbing pancake already sizzling, steam rising into the cold air, the first cheerful customers in warm jackets arriving and lining up with smiles, grey brick walls and a soft pink sky above the rooftops, wide 16:9 composition with a calm, uncluttered lower-left corner, warm optimistic mood: whoever gets up early lights the stove for everyone. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 起了个大早，赶了个晚集。 ——俗话。说的不全是百度，但也不全不是

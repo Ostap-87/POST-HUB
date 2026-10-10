@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "5 мин"
 slug: "no-legs-no-tips"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-19_no-legs-no-tips.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "83593298-41db-40cd-a413-73cae4fffb03"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the gate of a Chinese residential compound on a fresh morning: a small boxy driverless delivery van stands at the gate with its side compartments open, above the gatehouse a delivery drone descends onto a rooftop landing station, and a smiling courier in a plain jacket carries an armful of parcels along the path toward an apartment entrance, where an elderly woman waits and waves; trees, bicycles and low morning sun, wide 16:9 composition with a calm, uncluttered lower-left corner, warm mood of the last hundred meters still walked by a person. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Последняя миля — самая длинная. — Логисты всех стран. Пешеходы с ними согласны

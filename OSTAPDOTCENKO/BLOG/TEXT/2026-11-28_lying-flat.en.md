@@ -12,6 +12,13 @@ tag: "Observations"
 time: "6 min"
 slug: "lying-flat"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-11-28_lying-flat.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "79c580a6-4713-450f-9569-8a3e7071c351"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic cinematic photo of a modest Chinese apartment living room in the evening, seen from behind: a father in a worn work jacket has just sat down on the sofa beside his adult son in a hoodie, his hand on the son's shoulder, both laughing at something together, a warm floor lamp, a cup of tea on the low table, city lights in the window, wide 16:9 composition with a calm, uncluttered lower-left corner, tender warm mood: on one sofa there is room for both generations. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Grandpa stood in formation, Dad stood in line, The son lay down — and frankly, that seems fine. If forty years of standing got you nowhere new, Lying down’s a faster way to get there too. — My own verse. Not yet shown to anyone in China

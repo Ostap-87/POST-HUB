@@ -12,6 +12,13 @@ tag: "机器人"
 time: "5 分钟"
 slug: "where-is-everybody"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-22_where-is-everybody.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "50c81204-985b-4d03-9b22-8e9225445233"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Chinese factory hall: a large orange industrial robot arm rests in its cell behind a yellow floor line, and around it a small team in white coats — a woman engineer with a tablet, a technician with a laptop on a cart, a young apprentice holding a replacement part — discuss the machine with friendly smiles like doctors at the bedside of a big iron patient, other robotic cells working in the background, clean daylight from skylights, wide 16:9 composition with a calm, uncluttered lower-left corner of floor, reassuring mood: everyone is here, just standing a little further away. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 一个萝卜一个坑。 ——中国俗语。到了工厂里，坑还在，萝卜换成了机械臂

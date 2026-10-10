@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "5 мин"
 slug: "copying-allowed"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-23_copying-allowed.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8e87a32d-0d9b-4bb5-b267-380f1b2195c7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a sunny university classroom: a cheerful top student at the front passes her thick notebook back over her shoulder, and several classmates lean forward eagerly to look and copy, laughing, notebook pages with blurred unreadable handwriting; on the lecturer's desk a small two-armed robot picks up a mug, a whiteboard behind wiped clean, warm daylight through tall windows, wide 16:9 composition with a calm, uncluttered lower-left corner, playful mood of 'copying is allowed'. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > — Дай списать. — Бери. Только почерк мой не разберёшь. — Школьный диалог. Теперь стратегия отрасли

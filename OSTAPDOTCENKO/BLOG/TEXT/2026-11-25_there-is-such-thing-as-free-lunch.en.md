@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "5 min"
 slug: "there-is-such-thing-as-free-lunch"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-25_there-is-such-thing-as-free-lunch.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3f751899-1048-4a90-91b8-b4a6adde5ab6"
+image_cost: "0.5"
+image_logos: "Alibaba"
+image_prompt: "Photorealistic candid photo at a bright Chinese fresh fruit market: a cheerful vendor holds out a free sample, a peeled mandarin segment on a toothpick, to a young customer who laughs as she tastes it while already carrying a full bag of fruit; pyramids of mandarins, persimmons and pomelos, small plates of tasting samples on the counter, other shoppers sampling, warm daylight under a canopy, wide 16:9 composition with a calm, uncluttered lower-left corner, generous friendly mood of free samples that end in a full bag. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There’s no such thing as a free lunch. Economists love that line. It’s correct, as far as it goes. What it doesn’t say is who ends up buying dinner.
