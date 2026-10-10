@@ -3,6 +3,13 @@ number: 4
 date: "2026-11-13"
 title: "Банкет как жанр. Инструкция для служебного пользования"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-11-13_banket-zhanr-instruktsiya-dlya-sluzhebnogo.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "a4229638-593e-4d29-8b6b-184acc264b9a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a business banquet in a private dining room of a Chinese restaurant: a Chinese host and a Russian delegation head clink small glasses across a round table, the guest politely holding his glass a little lower, everyone around the table laughing, a glass lazy susan full of dishes, some guests toasting with tea cups, red and gold decor, warm evening light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, joyful convivial mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 «Утверждаю». Порядок поведения участника делегации на деловом ужине в Китае.

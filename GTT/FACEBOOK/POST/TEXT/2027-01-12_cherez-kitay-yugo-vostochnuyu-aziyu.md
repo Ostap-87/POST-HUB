@@ -3,6 +3,13 @@ number: 21
 date: "2027-01-12"
 title: "Через Китай в Юго-Восточную Азию"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-12_cherez-kitay-yugo-vostochnuyu-aziyu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "922236a0-f3d6-400c-980b-93a350605ae7"
+image_cost: "0.5"
+image_logos: "BYD, Mixue"
+image_prompt: "Photorealistic street photo in Bangkok in the late afternoon: a small bright ice cream and tea kiosk with a queue of young Thai customers, a new compact electric car parked at the curb, a Russian business traveler with a notebook watches the scene with an interested smile, tuk-tuks and tropical trees, no mascots, signs blurred and unreadable, warm golden light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, curious lively mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 — Зачем ехать в Таиланд, если нам интересен Китай? — Затем, что Китай уже там.

@@ -5,6 +5,13 @@ original_date: "2027-01-26"
 moved: "решение пользователя 10.10.2026"
 title: "Новый год, новые вопросы"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-30_novyy-god-novye-voprosy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "e68b4948-82ba-481b-af69-0455298d1170"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic festive photo in a Russian company office on New Year's Eve afternoon: a small team gathers around a decorated fir tree with warm string lights, raising glasses and laughing, colorful sticky notes with blurred handwriting on the glass wall behind them, tangerines and notebooks on the table, a snowy city at dusk through the window, warm glowing light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, festive hopeful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В новогоднюю ночь принято загадывать желания. Предлагаю в этот раз загадать вопросы. Желания сбываются редко, а вопросы всегда находят ответ, если задать их вовремя.

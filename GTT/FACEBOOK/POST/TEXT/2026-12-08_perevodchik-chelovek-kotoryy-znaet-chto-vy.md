@@ -3,6 +3,13 @@ number: 11
 date: "2026-12-08"
 title: "Переводчик: человек, который знает, что вы на самом деле сказали"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-08_perevodchik-chelovek-kotoryy-znaet-chto-vy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "6345c47f-e82b-413f-a168-e4a4c165c738"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo of a business meeting in a bright modern Chinese office: a young woman interpreter sitting between a Russian businessman and a Chinese partner leans toward the Russian and quietly whispers advice, he listens with a smile, the Chinese partner smiles holding a cup of tea, potted plants, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, smart warm diplomacy mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Переговоры. За столом трое: вы, партнёр и человек посередине. Человек посередине — единственный, кто понимает всех.

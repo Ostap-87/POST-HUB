@@ -3,6 +3,13 @@ number: 6
 date: "2026-11-20"
 title: "WeChat вместо визитки"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-11-20_wechat-vmesto-vizitki.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "543815e1-c358-4253-a708-574a35e0b864"
+image_cost: "0.5"
+image_logos: "WeChat"
+image_prompt: "Photorealistic candid photo in the lobby café of a modern Shenzhen office building: a smiling Chinese businesswoman scans a code on a Russian businessman's smartphone with her own phone, he laughs, a paper business card lies on the table next to two cups of tea, only an abstract square pattern on the screen, no letters, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, friendly modern mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 — Позвольте вашу визитку. — Позвольте ваш телефон. — Зачем вам мой телефон? — Отсканировать. — Меня? — Вас. Вы теперь QR-код. — Я генеральный директор. — Это в профиле напишем.

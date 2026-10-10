@@ -3,6 +3,13 @@ number: 24
 date: "2027-01-22"
 title: "Инженер спросил, директор записал"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-22_inzhener-sprosil-direktor-zapisal.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "7c22b89c-97db-4473-934e-79310def1361"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a Chinese factory floor: a young Russian engineer in a white hard hat and a Chinese chief engineer bend over a sheet of paper on a workbench as the Chinese engineer sketches with enthusiasm, a shift master holds a metal tooling part, and behind them a Russian director quietly writes in his notebook with a smile, the delegation gathering around, sketch without readable text, bright light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, engaged respectful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Цех. Экскурсия заканчивается. Принимающая сторона спрашивает: «Есть вопросы?»

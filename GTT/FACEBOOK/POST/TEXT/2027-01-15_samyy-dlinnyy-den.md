@@ -3,6 +3,13 @@ number: 22
 date: "2027-01-15"
 title: "Самый длинный день"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-15_samyy-dlinnyy-den.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "e01eb36c-e9e1-4632-a697-6dd33fd5f321"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a Chinese factory showroom in the late afternoon: a company founder in a casual jacket passionately tells a Russian delegation about his business without any slides, the visitors listen intently with smiles, notebooks open, sunlight through tall windows, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, captivated mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Программа экспедиции, день четвёртый. Условная, но узнаваемая.

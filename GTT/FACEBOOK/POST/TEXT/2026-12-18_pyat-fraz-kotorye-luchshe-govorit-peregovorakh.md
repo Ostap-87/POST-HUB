@@ -3,6 +3,13 @@ number: 14
 date: "2026-12-18"
 title: "Пять фраз, которые лучше не говорить на переговорах в Китае"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-18_pyat-fraz-kotorye-luchshe-govorit-peregovorakh.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "244f8850-2d39-4eaa-88c9-2c9b0db0853d"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a landscaped garden of a Chinese company campus: a Russian businessman and a Chinese partner walk slowly side by side along a stone path, talking and smiling, each holding a cup of tea, a modern glass office building behind, soft morning light through the trees, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, unhurried friendly mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Составлено по опыту. Не обязательно своему.

@@ -3,6 +3,13 @@ number: 19
 date: "2027-01-05"
 title: "Подарки китайским партнёрам"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-05_podarki-kitayskim-partneram.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "56cd20bb-caf4-4948-9939-da490986767c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright office in China: a Russian businesswoman presents a gift box wrapped in red paper with a gold ribbon to a Chinese partner with both hands, he receives it with both hands, both smiling and slightly bowing, a jar of honey and a photo album on the table, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, respectful warm mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Подарок в Китае — не вещь. Это фраза, сказанная предметом. И, как любую фразу на чужом языке, её можно сказать не так.

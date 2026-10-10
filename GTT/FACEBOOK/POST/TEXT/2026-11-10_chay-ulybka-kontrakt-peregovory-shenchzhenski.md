@@ -3,6 +3,13 @@ number: 3
 date: "2026-11-10"
 title: "Чай, улыбка, контракт: переговоры по-шэньчжэньски"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-11-10_chay-ulybka-kontrakt-peregovory-shenchzhenski.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "59d9ebc9-9bc7-4f47-8b31-8a1e92b810eb"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a bright modern meeting room high above Shenzhen: a Chinese host pours tea into tiny porcelain cups for a Russian guest, both smiling broadly, the guest holding out a small cup, a closed folder resting at the edge of the table, floor-to-ceiling windows with skyscrapers behind, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, warm trusting mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Наш человек приходит на переговоры, как на штурм: цифры наготове, условия в первом абзаце, к обеду хочется подписать. Китайский партнёр приходит, как в гости. В гостях не штурмуют. В гостях пьют чай.

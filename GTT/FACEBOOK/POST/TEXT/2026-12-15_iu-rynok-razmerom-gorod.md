@@ -3,6 +3,13 @@ number: 13
 date: "2026-12-15"
 title: "Иу: рынок размером с город"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-15_iu-rynok-razmerom-gorod.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "670a97b1-35af-47b9-9401-64a790de132a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo inside the vast Yiwu wholesale market: a long aisle of small shops packed floor to ceiling with colorful Christmas ornaments, artificial flowers and umbrellas, a smiling Chinese vendor shows a sample to a Russian woman buyer who photographs it with her phone next to the stall's card, signs and cards blurred and unreadable, bright fluorescent light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, colorful lively mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В Иу продаётся всё.

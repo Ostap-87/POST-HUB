@@ -3,6 +3,13 @@ number: 15
 date: "2026-12-22"
 title: "Тимбилдинг, который окупается"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-22_timbilding-kotoryy-okupaetsya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "decb1e50-fc6e-404f-87f7-8a471a0b4916"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo of an evening debrief in a hotel meeting room in China: a Russian business team of six around a table with bowls of noodles, notebooks and sticky notes, people laughing and debating with passion, two directors shaking hands across the table, a flip chart with blurred sticky notes, warm light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, united energized mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Отчёт о двух тимбилдингах. Составлен отделом персонала. Не согласован никем.

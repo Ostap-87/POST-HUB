@@ -5,6 +5,13 @@ original_date: "2027-01-01"
 moved: "решение пользователя 10.10.2026"
 title: "От идеи до продукта за квартал"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-26_ot-idei-do-produkta-kvartal.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "9bb2e1a9-c7ae-4046-9948-8734dbbb7fc0"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright hardware startup workshop in Shenzhen: a young product team happily examines a freshly 3D-printed product prototype, a courier from a nearby component supplier hands over a small box of parts, a 3D printer and laptops on the benches, sketches pinned on the wall blurred and unreadable, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, fast joyful mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Лист согласования идеи. Форма № 7-И.

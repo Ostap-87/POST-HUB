@@ -3,6 +3,13 @@ number: 17
 date: "2026-12-29"
 title: "Робот подал чай. Директор растерялся"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-29_robot-podal-chay-direktor-rasteryalsya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "fbf63712-02c4-4b2c-afb1-5d25eef7df40"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a meeting room of a Chinese company: a short white service robot with a round screen face showing a simple smile rolls in carrying a tray with cups of tea, a Russian delegation director in a suit and tie leans toward it and says thank you with a bemused smile, his colleagues laugh, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, light humorous mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Переговорная китайской компании. За столом делегация. Директор, человек, видевший всё, включая девяностые, поправляет галстук.

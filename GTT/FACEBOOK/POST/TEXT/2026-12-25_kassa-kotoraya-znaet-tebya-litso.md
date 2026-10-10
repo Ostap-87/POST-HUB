@@ -3,6 +3,13 @@ number: 16
 date: "2026-12-25"
 title: "Касса, которая знает тебя в лицо"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-12-25_kassa-kotoraya-znaet-tebya-litso.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "1a0464c4-2503-4909-ac9c-45e8760c9f83"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at the checkout of a bright modern convenience store in Beijing: a smiling middle-aged Russian traveler holds his palm over a small palm-scanning payment terminal while his Chinese colleague laughs and shows him how, a coffee cup and a bun on the counter, terminal screen without text, shelves with blurred labels, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, curious delighted mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Я помню кассу, которая не знала никого. Кассирша смотрела сквозь тебя, как сквозь витрину, и говорила: «Мелочь давайте». Мелочи не было ни у кого. Сдачу давали коробком спичек. Это и был наш первый опыт бесконтактной оплаты: контакта с кассиршей не возникало никакого.

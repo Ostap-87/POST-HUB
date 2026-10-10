@@ -3,6 +3,13 @@ number: 20
 date: "2027-01-08"
 title: "«Скоро» — это когда?"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-08_skoro-kogda.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "2b65d7a2-e11d-40ea-a970-802f9b91b114"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a Chinese supplier's sample room: a smiling Chinese production manager holds up an almost finished product sample while a Russian buyer writes an exact date in his paper planner, tea cups on the table, shelves of samples behind, planner page blurred and unreadable, soft daylight, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, clear constructive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Краткий словарь делового времени. Для тех, кто слишком долго ждал.

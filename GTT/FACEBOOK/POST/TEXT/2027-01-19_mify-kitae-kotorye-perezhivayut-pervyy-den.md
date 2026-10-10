@@ -3,6 +3,13 @@ number: 23
 date: "2027-01-19"
 title: "Мифы о Китае, которые не переживают первый день"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2027-01-19_mify-kitae-kotorye-perezhivayut-pervyy-den.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "531dfe71-07c7-4ca1-a0c8-202679cbbcf9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic travel photo of a Russian business traveler in comfortable sneakers walking along a wide tree-lined avenue in a Chinese city under a bright blue sky, looking up with a pleasantly surprised smile, quiet electric cars and a bus passing, a green park and modern towers, signs blurred and unreadable, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, pleasantly surprised mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф первый: «Там всё дёшево и плохо».** Первый день: на заводе стоят линии, которые у нас покупают как самые передовые. Дёшево то, что сделано массово. Плохо то, что заказали дёшево. Это разные вещи, и между ними ваше техническое задание.

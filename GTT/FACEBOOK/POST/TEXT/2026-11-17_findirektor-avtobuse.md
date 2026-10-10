@@ -3,6 +3,13 @@ number: 5
 date: "2026-11-17"
 title: "Финдиректор в автобусе"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-11-17_findirektor-avtobuse.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "839c4553-44af-4a25-8a19-01dee9a45584"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo on a Chinese factory floor: a middle-aged finance director in a suit jacket and white hard hat writes quickly in a thick notebook with an excited smile, his phone tucked away in his pocket, while a Chinese engineer points at a production line changeover station and explains, notebook pages with blurred handwriting, bright even light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, skeptic-turned-enthusiast mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Пьеса в семи днях. Действующие лица: Финансовый директор, его телефон, его блокнот, автобус.

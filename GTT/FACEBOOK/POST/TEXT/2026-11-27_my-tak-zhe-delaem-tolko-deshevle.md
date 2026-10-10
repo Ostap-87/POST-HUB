@@ -3,6 +3,13 @@ number: 8
 date: "2026-11-27"
 title: "«Мы так же делаем, только дешевле»"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/06_Facebook_Global_Tech_Tour_25_постов.docx"
+image: "2026-11-27_my-tak-zhe-delaem-tolko-deshevle.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 4:5"
+image_job: "7157c78b-9852-47fe-8fd3-d5423d2fdd75"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at an inspection bench in a Chinese factory: a Russian production engineer in a white hard hat and a Chinese quality engineer compare two nearly identical machined metal parts side by side with a caliper and a magnifier, the Russian guest points at a small detail with a surprised, delighted smile, a production line in soft focus behind, bright even light, vertical portrait composition with the main subject in the center and a calm, uncluttered lower-left corner, curious discovery mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть фраза, которую я бы изымал на паспортном контроле вместе с жидкостями больше ста миллилитров. Звучит она так: «Мы так же делаем, только дешевле».
