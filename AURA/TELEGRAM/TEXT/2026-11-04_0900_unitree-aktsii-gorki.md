@@ -6,11 +6,11 @@ rubric: "Сводка"
 title: "Unitree: акции с горки"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
 image: "2026-11-04_0900_unitree-aktsii-gorki.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9c57a577-7673-4a98-a849-852adc6eb4af"
 image_cost: "0.5"
-image_logos: ""
+image_logos: "unitree"
 image_prompt: "compact humanoid robot in a trading room looking at abstract green and red graph lines going up then down"
 ---
 

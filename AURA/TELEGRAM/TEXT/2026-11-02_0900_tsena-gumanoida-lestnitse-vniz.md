@@ -6,11 +6,11 @@ rubric: "Сводка"
 title: "Цена гуманоида: по лестнице вниз"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
 image: "2026-11-02_0900_tsena-gumanoida-lestnitse-vniz.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "977b091d-9d97-4e31-8b74-73262056dfe1"
 image_cost: "0.5"
-image_logos: ""
+image_logos: "unitree, ubtech"
 image_prompt: "compact humanoid robot on a wide concrete staircase, low angle, steps descending toward camera"
 ---
 

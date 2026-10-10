@@ -6,11 +6,11 @@ rubric: "Сводка"
 title: "Гуманоидов стало много. Работы для них пока меньше"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
 image: "2026-11-01_0900_gumanoidov-stalo-mnogo-raboty-dlya-nikh.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "ce42ec24-f967-42f7-a48f-f6f9547cc2e8"
 image_cost: "0.5"
-image_logos: ""
+image_logos: "agibot, unitree"
 image_prompt: "Chinese robot assembly hall, rows of compact humanoid robots before shipment, technicians with tablets"
 ---
 
