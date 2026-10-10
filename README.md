@@ -26,6 +26,10 @@ TELEGRAM/
 └── PUBLISHED/     архив вышедшего: по месяцам, с датой, временем и ссылкой
 ```
 
+Instagram, Facebook, YouTube и Дзен разделены на форматы, у каждого своя очередь с теми же пятью папками:
+Instagram — `POST`, `CAROUSEL`, `REELS`, `STORIES`; Facebook — `POST`, `REELS`, `STORIES`; YouTube — `LONG`, `SHORTS`;
+Дзен — `ARTICLE`, `POST`, `LONG`, `SHORTS`.
+
 Материал движется так: запас (TEXT, PHOTO, VIDEO) → READY → PUBLISHED. Файлы не удаляются, только переносятся.
 Контент в каждом проекте и в каждой сети уникальный. Видео хранятся через Git LFS.
 
