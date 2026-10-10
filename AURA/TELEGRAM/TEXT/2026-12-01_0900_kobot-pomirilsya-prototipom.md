@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Кобот помирился с прототипом"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-01_0900_kobot-pomirilsya-prototipom.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "13b5b525-6d4d-49f8-87b0-6a06596d7f93"
+image_cost: "0.5"
+image_logos: "Universal Robots, Elite Robots"
+image_prompt: "Photorealistic editorial photo in a bright wood-paneled meeting room in Hamburg: two smiling lawyers in dark suits shake hands warmly across a conference table on which stand two very similar small white collaborative robot arms, folders and pens on the table, a large window with sunlit city roofs behind, documents without readable text, friendly reconciliation mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Кобот помирился с прототипом**

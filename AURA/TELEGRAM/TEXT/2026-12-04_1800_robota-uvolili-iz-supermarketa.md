@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Курьёз недели"
 title: "Робота уволили из супермаркета"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-04_1800_robota-uvolili-iz-supermarketa.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "14e4afd8-b41c-442c-971e-8c1c2d9f8543"
+image_cost: "0.5"
+image_logos: "SoftBank Robotics"
+image_prompt: "Photorealistic candid photo inside a small bright Scottish supermarket: a small white wheeled humanoid service robot with a tablet on its chest standing behind a sausage tasting table with a plate of sliced sausage and toothpicks, shoppers with baskets strolling past it, while several cheerful customers crowd around a laughing human shop assistant at a counter nearby, one of them glancing back at the robot with an amused grin, bright store lighting, good-natured humorous mood. Shelf labels blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Робота уволили из супермаркета**

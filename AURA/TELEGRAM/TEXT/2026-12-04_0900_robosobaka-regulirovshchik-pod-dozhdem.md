@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Робособака-регулировщик под дождём"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-04_0900_robosobaka-regulirovshchik-pod-dozhdem.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9615f18a-c2bf-4a2b-b758-97d45306dd62"
+image_cost: "0.5"
+image_logos: "Deep Robotics"
+image_prompt: "Photorealistic documentary street photo at a city intersection in Hangzhou in light rain: a rugged dark quadruped robot dog standing on wet asphalt by the stop line, raindrops beading on its body, a motorcyclist in a raincoat with his helmet visor up stopped beside it and listening with an amused smile, traffic lights glowing softly, reflections on the road, lush green trees of a lakeside district in the background, bright silvery daylight breaking through the clouds, cheerful everyday mood. Signs blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Робособака-регулировщик под дождём**

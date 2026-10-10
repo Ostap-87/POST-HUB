@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Робот за $150 тысяч, который должен стоить $30"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-05_0900_robot-150-tysyach-kotoryy-dolzhen-stoit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9bc8d922-5997-4235-bda7-b92df2e2f9f7"
+image_cost: "0.5"
+image_logos: "Agility Robotics"
+image_prompt: "Photorealistic top-down product photo of humanoid robot components neatly laid out on a large light workbench in an American robotics lab: leg actuators, a bare torso frame, a battery pack, wiring harnesses, a camera head and small motors on grey foam, an engineer's hands holding a pen over a blank notepad next to a calculator with a blank display and a cup of coffee, bright soft daylight, optimistic problem-solving mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Робот за $150 тысяч, который должен стоить $30**

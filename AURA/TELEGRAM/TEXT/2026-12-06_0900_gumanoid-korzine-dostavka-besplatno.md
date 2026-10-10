@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоид в корзине, доставка бесплатно"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-06_0900_gumanoid-korzine-dostavka-besplatno.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1e007128-106c-41d2-a50c-9fcb15dbcb40"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic candid photo in a bright apartment hallway: a large opened cardboard delivery box with a compact humanoid robot lying inside in protective foam, next to two small parcels with a phone case and a screwdriver set in a plastic case, a delighted young man kneeling beside it and cutting the packing tape with a utility knife, soft daylight from a window, joyful unboxing mood. Shipping labels blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоид в корзине, доставка бесплатно**

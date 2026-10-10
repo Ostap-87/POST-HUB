@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Склад по подписке"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-03_0900_sklad-podpiske.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b81107c2-fca1-4050-bc02-0a3acf777343"
+image_cost: "0.5"
+image_logos: "Geek+"
+image_prompt: "Photorealistic high-angle photo of a large bright European fulfillment warehouse: dozens of low autonomous mobile robots carry tall shelving pods across a gridded floor toward a picking station, where a smiling worker takes items from a pod and places them into totes while chatting with a colleague, bright even lighting, labels blurred and unreadable, cheerful efficient mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Склад по подписке**

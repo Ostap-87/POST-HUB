@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот и человек"
 title: "Амортизация"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-02_1800_amortizatsiya.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "950ed6a6-52cb-4cdc-8ca1-dda84692c766"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright Russian factory workshop: a self-assured middle-aged chief accountant in a knitted cardigan and glasses, holding a thick folder to her chest, stands facing a large industrial robot arm and looks up at it with a sly satisfied smile like a strict but kind teacher, a technologist in a work jacket chuckles in the background, daylight from high windows, warm-hearted humorous mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Амортизация**

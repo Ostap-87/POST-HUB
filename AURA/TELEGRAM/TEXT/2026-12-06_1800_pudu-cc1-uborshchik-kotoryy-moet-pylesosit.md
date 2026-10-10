@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "Pudu CC1: уборщик, который моет, пылесосит и не спорит"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-06_1800_pudu-cc1-uborshchik-kotoryy-moet-pylesosit.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6071e7ff-7694-4d6d-821d-b62a57fe66b4"
+image_cost: "0.5"
+image_logos: "Pudu Robotics"
+image_prompt: "Photorealistic architectural photo of a wide glossy shopping mall corridor early in the morning before opening: a compact commercial floor-scrubbing robot turning back to wash a fresh strip of muddy shoe prints left across the wet polished stone floor, a smiling cleaning supervisor with a paper cup of coffee watching it approvingly, an elevator with open doors in the background, warm morning sunlight through a glass roof, cheerful lightly ironic mood. Store signs blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Pudu CC1: уборщик, который моет, пылесосит и не спорит**
