@@ -12,6 +12,13 @@ tag: "Пептиды"
 time: "5 мин"
 slug: "1-400-jars-one-sea-snail"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-28_1-400-jars-one-sea-snail.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4d6b36da-49c3-48c5-a3e9-8aabf278b6b5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic creative product photo on a white marble surface: a single beautifully patterned cone snail seashell in the foreground, and behind it a long, perfectly straight row of identical small white cream jars with blank lids receding into the soft-focus distance, soft studio light with gentle shadows, wide 16:9 composition with a calm, uncluttered lower-left corner, the shell right of center, playful witty mood of fourteen hundred jars for one sea snail. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Пептид — это белок, который не доучился. — Определение автора. Химики, не пишите мне

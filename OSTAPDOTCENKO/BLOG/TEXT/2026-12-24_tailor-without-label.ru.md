@@ -12,6 +12,13 @@ tag: "Пептиды"
 time: "6 мин"
 slug: "tailor-without-label"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-24_tailor-without-label.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fc82e713-a548-445c-b981-a943530682e9"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a small sunny tailor's atelier: a cheerful elderly tailor with a measuring tape around his neck stitches the inside seam of a fine dark suit jacket by hand, the open lining showing no label at all, bolts of fabric, tailor's chalk, scissors and a vintage sewing machine on the wooden table, a mannequin by the window, warm afternoon light, close medium shot, wide 16:9 composition with a calm, uncluttered lower-left corner, proud quiet mood: the signature is the seam, not the label. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Встречают по одёжке. — Пословица. О том, кто её сшил, не спрашивают

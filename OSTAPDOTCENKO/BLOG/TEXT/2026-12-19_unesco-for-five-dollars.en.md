@@ -12,6 +12,13 @@ tag: "Observations"
 time: "5 min"
 slug: "unesco-for-five-dollars"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-12-19_unesco-for-five-dollars.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c86efc4a-ad54-4990-9dd1-1b979fc22de2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a bustling Singapore hawker centre at lunchtime: in the foreground a small empty table with only a packet of paper tissues on it, reserving the place; behind it people of all ages share crowded tables, a smiling elderly hawker in an apron pulls milk tea from a height at his stall, steam rising from woks, ceiling fans turning, signs blurred and unreadable, warm daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, the tissue packet right of center, warm humorous mood of world heritage served on a plastic plate. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 All my life I pictured world heritage like this: pyramids, cathedrals, the Great Wall. Something big and made of stone that you look up at and must not touch.

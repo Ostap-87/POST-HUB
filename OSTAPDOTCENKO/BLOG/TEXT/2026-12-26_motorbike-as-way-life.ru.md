@@ -12,6 +12,13 @@ tag: "Наблюдения"
 time: "6 мин"
 slug: "motorbike-as-way-life"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-12-26_motorbike-as-way-life.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "93856771-e601-4a9d-b8e3-e2470e7c823c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo in Hanoi at dusk: a calm elderly woman with a shopping bag crosses a busy street at a steady pace while a river of motorbikes flows smoothly around her, among them a family of three on one motorbike with a small child asleep between the parents, warm street lights and glowing shopfronts, gentle motion blur on the traffic, signs blurred and unreadable, wide 16:9 composition with a calm, uncluttered lower-left corner, warm admiring mood of a city held together by attention. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Во Вьетнаме дорогу не переходят. Её проживают.

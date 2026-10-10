@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "6 min"
 slug: "manuscript-is-for-sale"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-22_manuscript-is-for-sale.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "32e3df8b-6979-46f9-a59e-4a164c074100"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in an elegant auction room: an assistant in white gloves presents a colorful ball-and-stick molecular model on a velvet cushion at the podium, while smiling bidders from different countries in business suits raise blank paddles, a calm auctioneer at a wooden lectern, chandeliers and warm wall lights, wide 16:9 composition with a calm, uncluttered lower-left corner, witty optimistic mood: inspiration is not for sale, but the manuscript is. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Inspiration isn’t for sale, But a manuscript can be sold. — Alexander Pushkin. Chinese pharma read it as a business plan

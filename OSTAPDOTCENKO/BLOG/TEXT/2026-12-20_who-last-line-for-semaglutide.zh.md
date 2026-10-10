@@ -12,6 +12,13 @@ tag: "多肽"
 time: "5 分钟"
 slug: "who-last-line-for-semaglutide"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-20_who-last-line-for-semaglutide.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9ae9728-2e72-4a09-8c9a-38bac1528778"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a sunny corridor of a modern office building: a long friendly queue of pharmaceutical company representatives in suits, holding thick document folders, waits in front of a tall closed wooden door with two different brass locks, people chatting, sharing coffee and laughing, one checking his watch with a patient smile, warm light streaming through the windows, wide 16:9 composition with a calm, uncluttered lower-left corner, good-humored mood of hopeful waiting: everyone is last until the door opens. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 我在一个把排队当社交生活的国家长大：先排上，再打听卖的是什么。所以读中国司美格鲁肽市场的新闻，我竟有点怀旧——大家都在排，都知道卖什么，只是没人知道什么时候开门。

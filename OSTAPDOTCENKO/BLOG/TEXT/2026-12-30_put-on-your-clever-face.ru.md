@@ -12,6 +12,13 @@ tag: "Пептиды"
 time: "5 мин"
 slug: "put-on-your-clever-face"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-30_put-on-your-clever-face.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "05631e19-cf5d-4e01-9a13-3a6ad71e9ce1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright minimalist beauty store in Seoul: a stylish young man holds a small serum bottle with a dropper up to the light and studies it with a playful frown like a scientist examining a test tube, while a smiling consultant in a white lab-style coat explains, shelves of sleek bottles with blank labels and tiny flask-shaped droppers, white and pastel interior, soft even light, wide 16:9 composition with a calm, uncluttered lower-left corner, light humorous mood of a shopper who feels like a researcher. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Умное лицо — это ещё не признак ума, господа. — Г. Горин, «Тот самый Мюнхгаузен». Корейская косметика считает, что это признак хорошего крема

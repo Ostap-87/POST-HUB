@@ -12,6 +12,13 @@ tag: "多肽"
 time: "6 分钟"
 slug: "we-re-all-lab-technicians-now"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-23_we-re-all-lab-technicians-now.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ae8438c4-8cdb-4269-b619-c236d89b278e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright international mail inspection facility: a smiling customs officer in blue gloves holds up a small glass vial with a blank white label taken from an opened cardboard parcel, while a colleague checks it with a handheld analyzer and a third officer takes notes, shelves of parcels and conveyor belts behind, clean even lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, calm constructive mood of regulators reading past the label. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 人人都是产品经理。 ——互联网老话。如今该改成：人人都是实验员

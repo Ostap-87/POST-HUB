@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "6 min"
 slug: "test-tube-with-flag"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-27_test-tube-with-flag.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0fe5190a-fbd3-4f3c-9b83-20bc4ac9377c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright laboratory office overlooking a container port at sunrise: a smiling Chinese scientist in a lab coat and blue gloves holds a glass test tube of clear liquid up to the light by a large window, behind her container ships, cranes and stacks of colorful containers glowing in the morning sun, a phone and shipping papers with blurred text on the desk, wide 16:9 composition with a calm, uncluttered lower-left corner, optimistic mood: a molecule has no nationality, only new routes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Politics is the art of the possible. — Otto von Bismarck. Chemistry, apparently, is the art of the permitted

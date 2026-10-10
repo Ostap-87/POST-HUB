@@ -12,6 +12,13 @@ tag: "Пептиды"
 time: "5 мин"
 slug: "who-last-line-for-semaglutide"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-20_who-last-line-for-semaglutide.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9ae9728-2e72-4a09-8c9a-38bac1528778"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a sunny corridor of a modern office building: a long friendly queue of pharmaceutical company representatives in suits, holding thick document folders, waits in front of a tall closed wooden door with two different brass locks, people chatting, sharing coffee and laughing, one checking his watch with a patient smile, warm light streaming through the windows, wide 16:9 composition with a calm, uncluttered lower-left corner, good-humored mood of hopeful waiting: everyone is last until the door opens. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Я вырос в стране, где очередь была формой общественной жизни. Сначала занимаешь, потом выясняешь, что дают. Поэтому, когда я читаю про китайский рынок семаглутида, у меня возникает чувство, близкое к ностальгии. Все стоят. Все знают, что дают. Не знают только когда.

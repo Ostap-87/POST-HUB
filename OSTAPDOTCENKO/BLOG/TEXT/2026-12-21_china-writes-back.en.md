@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "5 min"
 slug: "china-writes-back"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-21_china-writes-back.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0b3e7f66-070a-4145-80fb-96878cf117bf"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright pharmaceutical research lab in Suzhou: two scientists in white coats compare two pen injectors side by side on a lab bench, one raising her hand for a high-five as colleagues around them smile, test-tube racks and a laptop with abstract charts without numbers, a canal and modern towers through the window, clean daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, confident upbeat mood of a head-to-head duel won in white coats. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every marketer has written a “response to the competition.” Mine were usually a slide where our product stood one step higher than theirs. I drew the step myself.

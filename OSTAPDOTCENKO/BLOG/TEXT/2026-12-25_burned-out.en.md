@@ -12,6 +12,13 @@ tag: "Restarts"
 time: "6 min"
 slug: "burned-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-12-25_burned-out.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6ff7addb-ab7d-4150-87ea-6812c92f0b96"
+image_cost: "0.5"
+image_logos: "Samsung"
+image_prompt: "Photorealistic documentary photo in a bright electronics quality-control lab: a smiling woman engineer in a lab coat and safety glasses points at a monitor showing a clear X-ray image of the internal layers of a smartphone battery, while two colleagues lean in with satisfied nods; on the bench rows of thin batteries under test, an opened phone and a roll of insulation tape, the screen without any text, clean cool lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, confident mood: every line of the safety checklist comes from a lesson learned. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Every safety rule is somebody’s bad day, written down neatly. — The author, from a safe distance

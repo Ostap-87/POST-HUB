@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "6 min"
 slug: "beauty-on-tap"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-29_beauty-on-tap.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7c5997f2-c33f-44dd-b562-22a727de81ea"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a warm tatami-room restaurant in Tokyo in the evening: three women friends in their thirties laugh together around a clay donabe pot of milky white chicken-bone collagen broth bubbling on a portable stove, plates of vegetables and tofu, small glass bottles of a beauty drink on the table, steam rising in the lamp light, wide 16:9 composition with a calm, uncluttered lower-left corner, cozy cheerful mood: the effect is unproven, but it is warm. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Beauty is pain. — Folk wisdom. In Japan, the pain is usually the chicken’s.
