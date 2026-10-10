@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "Робот года: кого бы мы поставили под ёлку"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-27_1800_robot-goda-kogo-by-my-postavili.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8fc5baf8-79e3-433b-923c-9b06587d58f1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic festive photo in an office lobby decorated for New Year: a fir tree with garlands, beneath it a small quadruped robot dog with a red bow, a compact humanoid robot standing beside the tree, a floor-cleaning robot parked nearby, wrapped gift boxes around, office staff laughing and taking photos in the background, warm cozy light, cozy festive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Робот года: кого бы мы поставили под ёлку**

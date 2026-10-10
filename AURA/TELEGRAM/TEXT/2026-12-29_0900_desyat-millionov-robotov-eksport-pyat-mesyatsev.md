@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Десять миллионов роботов на экспорт за пять месяцев"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-29_0900_desyat-millionov-robotov-eksport-pyat-mesyatsev.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "61747e8a-2af4-450d-9239-5eb3f1f8e88f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic wide photo at a Chinese container port: gantry cranes and a container ship in the background, in the foreground an open shipping container packed to the ceiling with cardboard boxes of robot vacuum cleaners, a grinning forklift driver loading one more pallet, a few larger wooden crates with industrial robot arms beside it, warm late afternoon sun, busy proud export mood. Box prints blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Десять миллионов роботов на экспорт за пять месяцев**

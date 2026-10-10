@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоидов перестают собирать руками"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-28_0900_gumanoidov-perestayut-sobirat-rukami.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "347d73c8-a271-4251-ae1b-80715cc62fb2"
+image_cost: "0.5"
+image_logos: "Apptronik, Jabil"
+image_prompt: "Photorealistic industrial photo in a large bright American electronics contract manufacturing plant: a cheerful technician at an ESD-safe workstation routing a flexible wiring harness through the knee joint of a humanoid robot leg on an assembly fixture, behind him a line of identical humanoid robot torsos in serial production, bright clean lighting, confident industrial mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоидов перестают собирать руками**

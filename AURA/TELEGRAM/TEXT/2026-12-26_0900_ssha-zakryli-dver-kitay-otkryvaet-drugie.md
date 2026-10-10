@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "США закрыли дверь. Китай открывает другие"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-26_0900_ssha-zakryli-dver-kitay-otkryvaet-drugie.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f74025de-397a-437f-953d-a6342febf4b5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic architectural photo of a long bright corridor in a modern export trade center: at the near end one heavy door firmly closed, further along several doors standing open with warm daylight streaming in, a smiling businesswoman holding one of them open in welcome, a compact humanoid robot and a quadruped robot dog walking toward the open doors, polished floor reflections, hopeful optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **США закрыли дверь. Китай открывает другие**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: ИИ внутри робота сам всему научится"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-28_1800_mif-ii-vnutri-robota-sam-vsemu.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4c153f0a-4c57-472c-82f9-d058e381bdb4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright robot training lab: a young engineer wearing a VR headset and holding motion controllers repeats the motion of placing a cup on a shelf while a humanoid robot opposite mirrors the movement, a second engineer at a laptop laughing with delight as the robot gets it right, cups and boxes on a table, cables on the floor, soft daylight, upbeat collaborative learning mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: ИИ внутри робота сам всему научится**

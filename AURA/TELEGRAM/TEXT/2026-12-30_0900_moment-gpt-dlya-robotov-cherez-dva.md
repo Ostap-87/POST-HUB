@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "«Момент GPT» для роботов: через два–пять лет"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-30_0900_moment-gpt-dlya-robotov-cherez-dva.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "487aeed7-cb84-4e98-9dc1-c11846339258"
+image_cost: "0.5"
+image_logos: "Unitree"
+image_prompt: "Photorealistic industrial photo in a small bright Chinese electronics workshop: a simple collaborative robot arm steadily tightening screws on a row of identical devices, a smiling worker beside it checking parts, an old brass hourglass with flowing sand on the shelf behind them, warm morning sunlight, patient optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **«Момент GPT» для роботов: через два–пять лет**

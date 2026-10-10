@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Три тысячи роботов и одна рубашка"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-27_0900_tri-tysyachi-robotov-odna-rubashka.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b05655d9-ed9a-4c3c-adff-449d0b78f40f"
+image_cost: "0.5"
+image_logos: "UBTech, Unitree"
+image_prompt: "Photorealistic documentary photo at a crowded robot exhibition stand in Beijing: a two-armed wheeled robot assistant clumsily trying to fold a crumpled white shirt on a table, the shirt half-twisted, visitors laughing and cheering it on while holding up phones, humanoid robots on other stands in the background, bright exhibition lighting, good-natured fun mood. Banners blurred and unreadable. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Три тысячи роботов и одна рубашка**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоид пробежал 1500 метров быстрее человека"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-12-25_0900_gumanoid-probezhal-1500-metrov-bystree-cheloveka.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b46cb4d1-40cd-4f13-9047-73f41485fca7"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic sports photo at an athletics stadium in Beijing: a slim humanoid robot running on a red running track mid-stride with slight motion blur on its legs, a human runner behind it laughing as he runs, spectators cheering in the stands, late summer daylight, joyful record-breaking mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоид пробежал 1500 метров быстрее человека**
