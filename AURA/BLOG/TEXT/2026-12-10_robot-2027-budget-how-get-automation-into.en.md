@@ -7,6 +7,13 @@ seo_title: "Budgeting for a Robot in 2027: Business Case, China Lead Times, Curr
 meta_description: "How to justify a robot purchase in the 2027 budget: framing the problem, payback scenarios, lead times from China, currency risk, leasing through a leasing company and government incentives. Practical advice from Aura Robotics."
 slug: "robot-2027-budget-how-get-automation-into"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-10_robot-2027-budget-how-get-automation-into.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "30c97368-8856-454d-acc7-7585758a963c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a warm company office on a December evening: a smiling chief financial officer with glasses reads a short two-page proposal with blank pages, while an excited production manager points through the window at a lit workshop below where a robot will stand, a small decorated fir tree in the corner, snow falling outside, two cups of tea on the desk, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful mood of getting the robot into next year's budget. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 December is when companies decide the fate of the following year. The CFO becomes the most popular person in the building, and “it isn’t in the budget” is heard more often than “happy holidays”. A robot left out of the budget in December usually exists next year only in slide decks. Sometimes in two.

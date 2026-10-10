@@ -7,6 +7,13 @@ seo_title: "Robots in Steel Plants and Foundries: Sampling, Temperature Measurem
 meta_description: "Where robots work in steelmaking and foundries: sampling and temperature measurement, continuous casting, fettling and grinding castings, marking. Lessons from Baosteel and why the payback is about safety."
 slug: "hot-shop-cold-maths-robots-steelmaking-foundries"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-15_hot-shop-cold-maths-robots-steelmaking-foundries.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "122da469-2127-4c8c-a980-4d75f70d2348"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a steel plant melt shop: a heavy robot arm with a long probe lance dips into a ladle of glowing molten steel to take a temperature reading, a fountain of orange sparks, in the foreground behind a heat-resistant glass window a smiling steelworker in a silver protective jacket watches from a cool control pulpit, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, powerful safe mood of the hottest job handed to a robot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Steelmaking has jobs nobody makes adverts about. A person in an aluminised suit walks up to a bath of molten steel, dips a probe on a long lance, reads the temperature, takes a sample and steps back. Then does it again. Precise, heavy and hot in the most literal sense.

@@ -7,6 +7,13 @@ seo_title: "Mech-Mind и камеры Mech-Eye: 3D-зрение для робо�
 meta_description: "Профиль Mech-Mind: 3D-камеры Mech-Eye, ПО Mech-Vision и Mech-DLK, разбор навалов, депалетизация, сварка по шву. IPO в Гонконге в сентябре 2026, выручка 389 млн юаней и почему зрение стоит покупать как отдельную систему."
 slug: "mech-mind-eyes-you-buy-separately-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-12_mech-mind-eyes-you-buy-separately-from.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2b8aa97b-f39b-4eab-b3c9-d435787b0865"
+image_cost: "0.5"
+image_logos: "Mech-Mind"
+image_prompt: "Photorealistic industrial photo in a bright factory: an industrial 3D camera mounted above a deep bin projects a fine blue structured-light pattern onto a jumble of randomly piled metal parts, a robot arm with a magnetic gripper confidently lifts one part out of the pile, a smiling engineer leans on the cell frame with a laptop showing an abstract 3D point cloud without text, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, clever satisfying mood of eyes bought separately from the arms. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Робота часто выбирают так, будто он будет работать в идеальном мире. Детали лежат ровно, коробки стоят по линейке, паллета собрана аккуратным кладовщиком, который никогда не опаздывает на смену. В таком мире зрение роботу не нужно: он запоминает точки и повторяет их до пенсии.

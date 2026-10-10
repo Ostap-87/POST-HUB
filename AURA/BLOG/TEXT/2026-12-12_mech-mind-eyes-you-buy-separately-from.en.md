@@ -7,6 +7,13 @@ seo_title: "Mech-Mind and Mech-Eye Cameras: 3D Vision for Robots, a Manufacturer
 meta_description: "A profile of Mech-Mind: Mech-Eye 3D cameras, Mech-Vision and Mech-DLK software, bin picking, mixed depalletizing and seam tracking. A September 2026 Hong Kong IPO, 389 million yuan in revenue, and why vision deserves its own purchase decision."
 slug: "mech-mind-eyes-you-buy-separately-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-12_mech-mind-eyes-you-buy-separately-from.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "2b8aa97b-f39b-4eab-b3c9-d435787b0865"
+image_cost: "0.5"
+image_logos: "Mech-Mind"
+image_prompt: "Photorealistic industrial photo in a bright factory: an industrial 3D camera mounted above a deep bin projects a fine blue structured-light pattern onto a jumble of randomly piled metal parts, a robot arm with a magnetic gripper confidently lifts one part out of the pile, a smiling engineer leans on the cell frame with a laptop showing an abstract 3D point cloud without text, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, clever satisfying mood of eyes bought separately from the arms. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Robots are often chosen as if they will work in a perfect world, where parts lie neatly, cartons are lined up and the pallet was built by a storekeeper who is never late. In that world a robot needs no eyes. It learns a set of points and repeats them until retirement.

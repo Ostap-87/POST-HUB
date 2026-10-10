@@ -7,6 +7,13 @@ seo_title: "Educational Robots for Schools and Colleges: Desktop Arms, Training 
 meta_description: "Which robots should a school, college or vocational institute buy: Dobot Magician desktop arms, six-axis training cobots, robotic training cells, and how to avoid a robotics lab where the robot lives behind glass."
 slug: "robot-classroom-what-schools-colleges-should-buy"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-19_robot-classroom-what-schools-colleges-should-buy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "81544238-d929-494c-b650-65aa59b17b7e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright Russian technical college robotics lab: a teenage girl student programs a small desktop robot arm on a laptop as it stacks colored cubes, two classmates cheer, in the background a training cell with an industrial robot arm behind a transparent fence and a teacher in a cardigan smiling, posters with blurred unreadable text, daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, enthusiastic learning mood of a robot used every day, not kept under glass. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There are two ways to equip a robotics classroom. One is to buy a robot that looks great on open day. The other is to buy a robot students will drop, reprogram and take apart every day. The first is cheaper to maintain. The second is the only one that teaches anything.

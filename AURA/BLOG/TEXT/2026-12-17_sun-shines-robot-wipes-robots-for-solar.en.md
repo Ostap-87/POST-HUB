@@ -7,6 +7,13 @@ seo_title: "Robots for Solar Farms: Waterless Panel Cleaning, Module-Mounting Ro
 meta_description: "How robots maintain solar plants: soiling losses, waterless cleaning robots, module installation robots, Chinese manufacturers, and what to consider for dusty steppe sites and snowy winters."
 slug: "sun-shines-robot-wipes-robots-for-solar"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-17_sun-shines-robot-wipes-robots-for-solar.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "022996b2-9107-47ec-b3d8-cb334a4476a5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a large solar power plant in the dusty southern Russian steppe in late autumn: a waterless panel-cleaning robot with a long rotating brush moves along a row of solar panels, leaving a clean dark-blue stripe behind on dusty glass, two smiling technicians in work jackets and caps walk along the row with a tablet, low golden sun and dry grass, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, bright productive mood of energy recovered from dust. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A solar panel is a remarkably honest device. Whatever light falls on it, it gives back. If dust falls on it, it honestly gives back less. Dust never sends an invoice. It just quietly takes its percentage.

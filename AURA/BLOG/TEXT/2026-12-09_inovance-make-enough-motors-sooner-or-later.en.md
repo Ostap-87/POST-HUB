@@ -7,6 +7,13 @@ seo_title: "Inovance Profile: Servo Drives, PLCs and SCARA Robots, Explained for
 meta_description: "A profile of Inovance: China’s largest servo drive maker, leader of the Chinese SCARA market, 45 billion yuan in 2025 revenue, IR-S and IR-R robot ranges, and why vertical integration matters for service and spare parts."
 slug: "inovance-make-enough-motors-sooner-or-later"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-09_inovance-make-enough-motors-sooner-or-later.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fbf5df39-a0f5-4590-9228-400c54d53c98"
+image_cost: "0.5"
+image_logos: "Inovance"
+image_prompt: "Photorealistic industrial photo in a bright Chinese factory: on a clean assembly line several SCARA robot arms quickly insert components into rows of servo motors and servo drives, a smiling technician in a light blue uniform holds a finished servo motor up next to a SCARA arm as if comparing parent and child, neat parts trays and soft white light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, proud mood of a drive maker that builds its own robots. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The usual way to make a robot goes like this. One company casts the housing, another makes the gearbox, a third the motor, a fourth the servo drive, a fifth the controller, and a sixth puts its logo on the result and calls itself a robot maker. Nothing wrong with that; cars and planes are built the same way.

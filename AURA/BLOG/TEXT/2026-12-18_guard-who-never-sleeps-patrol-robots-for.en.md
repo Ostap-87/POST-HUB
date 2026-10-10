@@ -7,6 +7,13 @@ seo_title: "Security Patrol Robots for Industrial Sites and Warehouses: Models, 
 meta_description: "How security patrol robots protect industrial sites and logistics parks: wheeled and legged models, event detection, integration with guards and CCTV, and the rules on video recording and personal data."
 slug: "guard-who-never-sleeps-patrol-robots-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-18_guard-who-never-sleeps-patrol-robots-for.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "88c402f6-dfe9-44e3-a2e4-6be416d2c420"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at blue hour at the gate of a large logistics park: a smiling security officer in a dark uniform stands in the doorway of a lit checkpoint booth with a cup of tea and waves to a wheeled outdoor patrol robot with a camera mast returning from its round along the fence, parked trucks and long warehouses with lights in the background, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, friendly reliable mood of a guard who never sleeps. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 The night patrol is a genre everyone who has worked at a plant knows. A guard with a torch walks the fence, checks the gates, shines a light into the dark corner behind the warehouse, finds nobody and moves on. Two hours later he does it again. Somewhere around 4 a.m. the round gets shorter and the corner gets darker.

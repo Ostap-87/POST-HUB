@@ -7,6 +7,13 @@ seo_title: "Siasun Profile: China’s Oldest Robot Maker, Its Product Range and 
 meta_description: "Who Siasun is: a Shenyang company spun off from the Chinese Academy of Sciences’ Institute of Automation and the first robotics company listed in Shenzhen. Industrial and mobile robots, semiconductor equipment, a loss of about 400 million yuan in 2025, and how such a supplier differs from a startup."
 slug: "siasun-oldest-most-academic-least-obvious"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-13_siasun-oldest-most-academic-least-obvious.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6ffe86d2-648d-461c-bf24-92e7b96a10b6"
+image_cost: "0.5"
+image_logos: "Siasun"
+image_prompt: "Photorealistic documentary photo in a bright robot test hall of an old academic robotics company in Shenyang: a grey-haired engineer and a young woman researcher in a lab coat laugh together between an early-generation orange industrial robot arm displayed on a plinth and a modern white mobile manipulator on a wheeled base, wafer-handling robots behind glass in the background, tall windows with soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm mood of experience meeting a new generation. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In Chinese robotics it is fashionable to be young. A three-year-old humanoid startup raises a round, lists, and shows its robot doing a backflip. A company founded in 2000 is expected to sit in the corner at this party and reminisce.

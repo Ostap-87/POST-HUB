@@ -7,6 +7,13 @@ seo_title: "Hai Robotics и системы ACR HaiPick: роботы для ко
 meta_description: "Как работают ACR-роботы Hai Robotics: HaiPick, HaiPick Climb, высота хранения до 12–15 м, плотность и производительность, требования к полу и высоте. Выручка 2 млрд юаней, IPO в Гонконге и где ACR выгоднее обычных AMR."
 slug: "hai-robotics-warehouse-that-grows-up-not"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-11_hai-robotics-warehouse-that-grows-up-not.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dfca5f25-a688-4b1d-b13a-ec5a9b037a5e"
+image_cost: "0.5"
+image_logos: "Hai Robotics"
+image_prompt: "Photorealistic low-angle photo looking up in a tall bright warehouse: a slim case-handling mobile robot has climbed the side of a high storage rack nearly to the ceiling and pulls out a grey tote, rows of racks rise far above, at the bottom a smiling worker at a picking station on the floor reaches for a tote another robot has just delivered, cool white light from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive uplifting mood of a warehouse that grows up instead of out. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть старая складская истина: арендная ставка считается за квадратный метр, а товар лежит в кубических. Всё, что выше двух метров над полом, на обычном складе с ручным отбором существует только в теории. Туда долго лезть, страшно стоять и неудобно считать.

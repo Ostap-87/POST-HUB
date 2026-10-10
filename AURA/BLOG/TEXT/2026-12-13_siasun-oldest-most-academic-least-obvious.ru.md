@@ -7,6 +7,13 @@ seo_title: "Siasun (Синсун): профиль старейшего кита�
 meta_description: "Кто такие Siasun: компания из Шэньяна, выросшая из Института автоматизации Академии наук Китая, первая робототехническая компания на бирже Шэньчжэня. Промышленные и мобильные роботы, полупроводниковое оборудование, убыток около 400 млн юаней в 2025 году. Чем такой поставщик отличается от стартапа."
 slug: "siasun-oldest-most-academic-least-obvious"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-13_siasun-oldest-most-academic-least-obvious.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6ffe86d2-648d-461c-bf24-92e7b96a10b6"
+image_cost: "0.5"
+image_logos: "Siasun"
+image_prompt: "Photorealistic documentary photo in a bright robot test hall of an old academic robotics company in Shenyang: a grey-haired engineer and a young woman researcher in a lab coat laugh together between an early-generation orange industrial robot arm displayed on a plinth and a modern white mobile manipulator on a wheeled base, wafer-handling robots behind glass in the background, tall windows with soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm mood of experience meeting a new generation. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В китайской робототехнике сейчас принято быть молодым. Гуманоидный стартап, основанный три года назад, привлекает раунд, выходит на биржу и показывает робота, делающего сальто. Компании, основанной в 2000 году, на этом празднике положено сидеть в углу и вспоминать, как было раньше.

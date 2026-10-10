@@ -7,6 +7,13 @@ seo_title: "Who Maintains an Industrial Robot? Operators, Technicians, IT and Ho
 meta_description: "The roles a company needs once a robot arrives: operator, technician, IT owner. How many people for 1, 5 and 20 robots, which Russian occupational standards apply, and where to train them."
 slug: "nobody-robot-who-your-company-is-responsible"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-20_nobody-robot-who-your-company-is-responsible.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5c4cd0f5-c561-4cd6-92cd-b24436ced214"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic portrait-style photo in a bright factory workshop: three colleagues stand proudly beside a working robot cell like a small team — a young woman operator in overalls, a mustached technician with a toolbox and an IT specialist with a laptop under his arm — all smiling at the camera, the robot arm working behind them, soft daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm team mood of a robot that finally has owners. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 When the first robot arrives, the whole company comes to look at it. The chief engineer looks at the arm, the CFO looks at the invoice, HR looks at the chief engineer. A month later the robot is working and nobody is standing around it. Which is perfect, right up until the day it stops.

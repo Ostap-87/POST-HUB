@@ -7,6 +7,13 @@ seo_title: "Inovance: сервоприводы, ПЛК и промышленны
 meta_description: "Профиль Inovance: крупнейший китайский производитель сервоприводов, лидер рынка SCARA в Китае, выручка 45 млрд юаней в 2025 году, линейки IR-S и IR-R. Чем вертикальная интеграция полезна для сервиса и запчастей."
 slug: "inovance-make-enough-motors-sooner-or-later"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-09_inovance-make-enough-motors-sooner-or-later.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "fbf5df39-a0f5-4590-9228-400c54d53c98"
+image_cost: "0.5"
+image_logos: "Inovance"
+image_prompt: "Photorealistic industrial photo in a bright Chinese factory: on a clean assembly line several SCARA robot arms quickly insert components into rows of servo motors and servo drives, a smiling technician in a light blue uniform holds a finished servo motor up next to a SCARA arm as if comparing parent and child, neat parts trays and soft white light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, proud mood of a drive maker that builds its own robots. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Обычно робота делают так. Одна компания льёт корпус, другая делает редуктор, третья мотор, четвёртая сервоусилитель, пятая контроллер, а шестая наклеивает на всё это свой логотип и называет себя производителем роботов. Ничего постыдного в этом нет: так собирают и автомобили, и самолёты.

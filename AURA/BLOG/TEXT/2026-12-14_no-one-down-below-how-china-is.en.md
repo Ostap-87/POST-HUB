@@ -7,6 +7,13 @@ seo_title: "Robots in Chinese Coal Mines: Smart Longwalls, Rail-Mounted Inspecti
 meta_description: "How China is automating coal mining: the official mining robot catalogue, smart working faces, rail-mounted inspection robots, driverless haul trucks, and what transfers to Russia under EAEU explosion-protection rules."
 slug: "no-one-down-below-how-china-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-14_no-one-down-below-how-china-is.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "729e4a28-59b3-4f0a-a345-5ff927ea4ef6"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a long brightly lit underground coal mine conveyor roadway: a compact rail-mounted inspection robot glides along a ceiling track above a moving belt conveyor loaded with coal, a miner in clean orange coveralls and a helmet with a lamp gives it a cheerful thumbs-up from the walkway, rows of lamps disappearing into the distance, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, safe optimistic mood of fewer people underground. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Mining is the one industry where “going down to work” is a job description rather than a mood. It is also the industry where the Chinese government has decided, in writing, that fewer people should be going down at all.

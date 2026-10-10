@@ -7,6 +7,13 @@ seo_title: "Как включить робота в бюджет на 2027 го�
 meta_description: "Как обосновать закупку робота в бюджете на 2027 год: формулировка задачи, расчёт окупаемости, сроки поставки из Китая, валютный риск, лизинг через лизинговую компанию и меры господдержки. Практика Aura Robotics."
 slug: "robot-2027-budget-how-get-automation-into"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-10_robot-2027-budget-how-get-automation-into.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "30c97368-8856-454d-acc7-7585758a963c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a warm company office on a December evening: a smiling chief financial officer with glasses reads a short two-page proposal with blank pages, while an excited production manager points through the window at a lit workshop below where a robot will stand, a small decorated fir tree in the corner, snow falling outside, two cups of tea on the desk, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful mood of getting the robot into next year's budget. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Декабрь — время, когда в компаниях решается судьба следующего года. Финансовый директор становится самым популярным человеком в здании, а фраза «это не заложено в бюджет» звучит чаще, чем «с наступающим». Робот, которого не заложили в декабре, в следующем году, как правило, существует только в презентациях. Иногда в двух.

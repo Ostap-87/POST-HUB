@@ -7,6 +7,13 @@ seo_title: "Robots for Cold and Frozen Storage: Shuttles, AMRs and Operating at 
 meta_description: "How to automate a cold store: shuttles, AMRs and stacker cranes for −18 to −25 °C, batteries in the cold, condensation and storage density. Lessons from China and the questions to ask a manufacturer."
 slug: "minus-twenty-five-for-robot-automating-cold"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-16_minus-twenty-five-for-robot-automating-cold.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "47c8b3f4-001e-4195-9261-db1f546f1b57"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo inside a frozen-food warehouse at minus twenty-five degrees: an autonomous forklift lifts a pallet of frozen goods into high racks covered with white frost, cold mist drifting in the blue light, at the insulated door in the foreground a smiling worker in a thick insulated suit and hat holds a mug of hot cocoa with steam rising, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, bright frosty mood of a robot that does not need to warm up. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A freezer warehouse is the only place in a business where staff dream of a draught from the corridor. Inside it is −18 or −25 °C. People work in insulated suits, step out to warm up, then go back in. Their productivity is the sum of two numbers: how much they got done and how much they managed to thaw.

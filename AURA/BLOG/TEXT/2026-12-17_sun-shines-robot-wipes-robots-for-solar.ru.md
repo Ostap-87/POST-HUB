@@ -7,6 +7,13 @@ seo_title: "Роботы для солнечных электростанций:
 meta_description: "Как роботы обслуживают солнечные электростанции: потери от загрязнения панелей, безводные роботы-мойщики, роботы для монтажа модулей, китайские производители и что учесть на российских СЭС с пылью и снегом."
 slug: "sun-shines-robot-wipes-robots-for-solar"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-17_sun-shines-robot-wipes-robots-for-solar.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "022996b2-9107-47ec-b3d8-cb334a4476a5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at a large solar power plant in the dusty southern Russian steppe in late autumn: a waterless panel-cleaning robot with a long rotating brush moves along a row of solar panels, leaving a clean dark-blue stripe behind on dusty glass, two smiling technicians in work jackets and caps walk along the row with a tablet, low golden sun and dry grass, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, bright productive mood of energy recovered from dust. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Солнечная панель — устройство удивительно честное. Сколько света на неё упало, столько она и отдала. Но если на неё упала пыль, она честно отдаст меньше. Пыль не выставляет счёт. Она просто тихо забирает проценты.

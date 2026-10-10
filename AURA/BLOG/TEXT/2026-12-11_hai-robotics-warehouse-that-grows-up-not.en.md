@@ -7,6 +7,13 @@ seo_title: "Hai Robotics and HaiPick ACR Systems: Case-Handling Robots up to 10�
 meta_description: "How Hai Robotics ACR systems work: HaiPick and HaiPick Climb, storage up to 12–15 m, density and throughput, floor and height requirements. 2 billion yuan in revenue, a Hong Kong IPO bid, and when ACRs beat AMRs."
 slug: "hai-robotics-warehouse-that-grows-up-not"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-11_hai-robotics-warehouse-that-grows-up-not.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dfca5f25-a688-4b1d-b13a-ec5a9b037a5e"
+image_cost: "0.5"
+image_logos: "Hai Robotics"
+image_prompt: "Photorealistic low-angle photo looking up in a tall bright warehouse: a slim case-handling mobile robot has climbed the side of a high storage rack nearly to the ceiling and pulls out a grey tote, rows of racks rise far above, at the bottom a smiling worker at a picking station on the floor reaches for a tote another robot has just delivered, cool white light from skylights, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive uplifting mood of a warehouse that grows up instead of out. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Warehouse rent is charged per square metre, while goods sit in cubic ones. In a typical manual-picking warehouse, everything above two metres exists mostly in theory: slow to reach, unpleasant to stand on, awkward to count.
