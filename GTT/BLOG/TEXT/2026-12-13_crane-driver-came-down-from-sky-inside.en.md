@@ -8,7 +8,7 @@ meta_description: "Shanghai’s Yangshan Phase IV: 7 berths, 2,350 metres of qua
 slug: "crane-driver-came-down-from-sky-inside"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-13_crane-driver-came-down-from-sky-inside.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "3dea819a-0fb9-4b7c-8de6-059b936876fc"
 image_cost: "0.5"

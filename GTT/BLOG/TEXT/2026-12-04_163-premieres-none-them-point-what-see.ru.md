@@ -7,7 +7,7 @@ meta_description: "Auto Shanghai 2027 пройдёт 23 апреля — 2 ма�
 slug: "163-premieres-none-them-point-what-see"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-04_163-premieres-none-them-point-what-see.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c85614df-12cb-4585-807e-0ab2402228d8"
 image_cost: "0.5"

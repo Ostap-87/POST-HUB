@@ -8,7 +8,7 @@ meta_description: "A profile of Elite Robots: CS and EC cobots from 3 to 30 kg, 
 slug: "elite-robots-cobot-maker-that-doesn-t"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-08_elite-robots-cobot-maker-that-doesn-t.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "09ddd381-e964-474b-9694-07897dfc445b"
 image_cost: "0.5"

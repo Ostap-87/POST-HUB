@@ -8,7 +8,7 @@ meta_description: "Как устроены корпоративные униве
 slug: "study-then-battle-how-chinese-corporations-build"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-29_study-then-battle-how-chinese-corporations-build.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "80c0c066-a9f7-4a93-b5d4-c73eda7c9b9a"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Деловая автоэкспедиция по Китаю: 
 slug: "china-auto-expedition-from-hefei-shanghai-one"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-15_china-auto-expedition-from-hefei-shanghai-one.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9cff2cf6-e15a-4b45-a75c-66f056e847b2"
 image_cost: "0.5"

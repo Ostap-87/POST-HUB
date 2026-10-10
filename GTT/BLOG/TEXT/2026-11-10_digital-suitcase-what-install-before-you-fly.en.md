@@ -7,7 +7,7 @@ meta_description: "WeChat, Alipay, mobile data, maps and ride-hailing in China: 
 slug: "digital-suitcase-what-install-before-you-fly"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-10_digital-suitcase-what-install-before-you-fly.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "1bf9baf8-87b5-41b8-89d0-a617ab013ee4"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "How China is automating coal mining: the official mining robo
 slug: "no-one-down-below-how-china-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-14_no-one-down-below-how-china-is.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "729e4a28-59b3-4f0a-a345-5ff927ea4ef6"
 image_cost: "0.5"

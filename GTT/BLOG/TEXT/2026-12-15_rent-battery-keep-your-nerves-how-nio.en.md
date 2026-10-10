@@ -8,7 +8,7 @@ meta_description: "How NIO Power’s swap network works: more than 4,000 station
 slug: "rent-battery-keep-your-nerves-how-nio"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-15_rent-battery-keep-your-nerves-how-nio.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "b5ac815e-1111-45b8-9108-da3829d33573"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Как работают ACR-роботы Hai Robotics: HaiPic
 slug: "hai-robotics-warehouse-that-grows-up-not"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-11_hai-robotics-warehouse-that-grows-up-not.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "dfca5f25-a688-4b1d-b13a-ec5a9b037a5e"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Сравнение Unitree G1 и Booster T1 для вузов
 slug: "humanoid-for-lab-unitree-g1-vs-booster"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-17_humanoid-for-lab-unitree-g1-vs-booster.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "ecd6bf5a-7226-4533-b17c-c7934fafc85f"
 image_cost: "0.5"

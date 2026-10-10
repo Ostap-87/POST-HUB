@@ -8,7 +8,7 @@ meta_description: "46 линий UHV и больше 62 тысяч киломе�
 slug: "three-thousand-kilometre-extension-cord-why-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-14_three-thousand-kilometre-extension-cord-why-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e732501e-89aa-45bb-ab8e-ea1c63c38df7"
 image_cost: "0.5"

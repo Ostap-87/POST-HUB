@@ -8,7 +8,7 @@ meta_description: "How Chinese cobots and humanoids are programmed: teach pendan
 slug: "robot-speaks-chinese-software-sdks-localisation-programming"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-05_robot-speaks-chinese-software-sdks-localisation-programming.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "b803bfb9-d3a0-46c2-a844-52198ac9ac46"
 image_cost: "0.5"

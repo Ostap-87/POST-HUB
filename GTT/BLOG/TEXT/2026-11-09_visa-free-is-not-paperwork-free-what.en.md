@@ -7,7 +7,7 @@ meta_description: "Visa-free entry to China, 240-hour transit, the online arriva
 slug: "visa-free-is-not-paperwork-free-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-09_visa-free-is-not-paperwork-free-what.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "88cba771-a005-42ca-b4a0-84747e69efd2"
 image_cost: "0.5"

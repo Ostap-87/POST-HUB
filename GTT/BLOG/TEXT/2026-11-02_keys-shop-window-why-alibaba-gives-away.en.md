@@ -8,7 +8,7 @@ meta_description: "Why Alibaba open-sources its Qwen models, how Alibaba Cloud m
 slug: "keys-shop-window-why-alibaba-gives-away"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-02_keys-shop-window-why-alibaba-gives-away.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "8b5f900a-aaaa-499c-aa83-e904452c068b"
 image_cost: "0.5"

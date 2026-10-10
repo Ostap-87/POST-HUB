@@ -8,7 +8,7 @@ meta_description: "How robots maintain solar plants: soiling losses, waterless c
 slug: "sun-shines-robot-wipes-robots-for-solar"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-17_sun-shines-robot-wipes-robots-for-solar.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "022996b2-9107-47ec-b3d8-cb334a4476a5"
 image_cost: "0.5"

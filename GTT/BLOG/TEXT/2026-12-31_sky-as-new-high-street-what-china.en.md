@@ -8,7 +8,7 @@ meta_description: "What China calls the low-altitude economy: the definition, of
 slug: "sky-as-new-high-street-what-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-31_sky-as-new-high-street-what-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9b75da46-70b7-4b9a-acdf-9d47b37499b3"
 image_cost: "0.5"

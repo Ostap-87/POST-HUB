@@ -8,7 +8,7 @@ meta_description: "Что изменила железная дорога Кун�
 slug: "durian-express-how-china-laos-railway-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-28_durian-express-how-china-laos-railway-is.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9ebcb247-f9cb-482d-82c9-54ef86d79321"
 image_cost: "0.5"

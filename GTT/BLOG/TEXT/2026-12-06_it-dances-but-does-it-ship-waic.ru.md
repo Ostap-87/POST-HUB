@@ -7,7 +7,7 @@ meta_description: "Всемирная конференция по искусст
 slug: "it-dances-but-does-it-ship-waic"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-06_it-dances-but-does-it-ship-waic.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e292513c-7d30-4499-b315-f87e6c6e4019"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Which EAEU technical regulations apply to robots, how a decla
 slug: "robot-with-passport-eaeu-conformity-assessment-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-21_robot-with-passport-eaeu-conformity-assessment-for.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "8d8e18c8-b893-4073-8412-977396d6c67b"
 image_cost: "0.5"

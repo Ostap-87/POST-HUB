@@ -8,7 +8,7 @@ meta_description: "What “involution” means in China and why Beijing launched
 slug: "running-faster-stay-still-what-neijuan-means"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-25_running-faster-stay-still-what-neijuan-means.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e1e15379-19b4-47a3-928d-12ca802bd859"
 image_cost: "0.5"

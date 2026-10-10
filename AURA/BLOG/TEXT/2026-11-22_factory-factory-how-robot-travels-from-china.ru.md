@@ -8,7 +8,7 @@ meta_description: "Как доставить робота из Китая: уп�
 slug: "factory-factory-how-robot-travels-from-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-22_factory-factory-how-robot-travels-from-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "410bddce-2397-4a2f-b156-7b03ae5a224a"
 image_cost: "0.5"

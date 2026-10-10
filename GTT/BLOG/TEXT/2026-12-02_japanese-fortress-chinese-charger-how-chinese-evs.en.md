@@ -7,7 +7,7 @@ meta_description: "How BYD, Chery, Wuling and Geely are entering Indonesia and M
 slug: "japanese-fortress-chinese-charger-how-chinese-evs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-02_japanese-fortress-chinese-charger-how-chinese-evs.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "7ece40f5-226f-441b-a20a-57cc2b483f8a"
 image_cost: "0.5"

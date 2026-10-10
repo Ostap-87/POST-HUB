@@ -8,7 +8,7 @@ meta_description: "How to announce a robot deployment and keep your workforce: w
 slug: "staff-versus-robot-how-announce-automation-without"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-21_staff-versus-robot-how-announce-automation-without.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "4659d5a2-dabf-4a68-864e-a8cfd2fcb712"
 image_cost: "0.5"

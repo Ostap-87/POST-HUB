@@ -8,7 +8,7 @@ meta_description: "Как Aier выросла из одной больницы �
 slug: "eyes-on-prize-how-aier-built-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-19_eyes-on-prize-how-aier-built-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "53bc52f2-4f39-482f-81f9-4318e09eb24c"
 image_cost: "0.5"

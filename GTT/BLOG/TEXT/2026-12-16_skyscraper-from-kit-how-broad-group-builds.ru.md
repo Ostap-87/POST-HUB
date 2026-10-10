@@ -8,7 +8,7 @@ meta_description: "Как китайская Broad Group собрала 30-эт�
 slug: "skyscraper-from-kit-how-broad-group-builds"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-16_skyscraper-from-kit-how-broad-group-builds.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "3e0450f3-b215-4f99-aabd-cf882daed761"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Три робототехнических кластера К
 slug: "seeing-robots-for-real-china-three-robotics"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-16_seeing-robots-for-real-china-three-robotics.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e740efb3-8b09-4751-a362-793b869bfbfb"
 image_cost: "0.5"

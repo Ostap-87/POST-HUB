@@ -8,7 +8,7 @@ meta_description: "Профиль Mech-Mind: 3D-камеры Mech-Eye, ПО Mech
 slug: "mech-mind-eyes-you-buy-separately-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-12_mech-mind-eyes-you-buy-separately-from.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "2b8aa97b-f39b-4eab-b3c9-d435787b0865"
 image_cost: "0.5"

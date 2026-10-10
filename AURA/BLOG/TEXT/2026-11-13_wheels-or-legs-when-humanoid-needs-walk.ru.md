@@ -8,7 +8,7 @@ meta_description: "Колёсные и двуногие гуманоиды: ус
 slug: "wheels-or-legs-when-humanoid-needs-walk"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-13_wheels-or-legs-when-humanoid-needs-walk.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "737f830f-8e5d-4908-bfc3-f96081fc84c8"
 image_cost: "0.5"

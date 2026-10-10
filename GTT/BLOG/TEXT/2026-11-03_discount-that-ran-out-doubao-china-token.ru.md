@@ -8,7 +8,7 @@ meta_description: "Как ByteDance с помощью Doubao и облака Vol
 slug: "discount-that-ran-out-doubao-china-token"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-03_discount-that-ran-out-doubao-china-token.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "78f2838c-8c1f-4409-9e21-7b1859984218"
 image_cost: "0.5"

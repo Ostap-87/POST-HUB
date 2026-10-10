@@ -8,7 +8,7 @@ meta_description: "Чем роботизированная сварочная я
 slug: "behind-fence-or-at-bench-welding-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-18_behind-fence-or-at-bench-welding-robot.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c85567ed-7552-4e54-82d5-226de3b21ba2"
 image_cost: "0.5"

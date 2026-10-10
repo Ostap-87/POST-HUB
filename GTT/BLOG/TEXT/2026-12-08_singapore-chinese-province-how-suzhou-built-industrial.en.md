@@ -8,7 +8,7 @@ meta_description: "The China-Singapore Suzhou Industrial Park: the 1994 agreemen
 slug: "singapore-chinese-province-how-suzhou-built-industrial"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-08_singapore-chinese-province-how-suzhou-built-industrial.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e1341a64-9e7f-440d-9465-94ef9d4af2ca"
 image_cost: "0.5"

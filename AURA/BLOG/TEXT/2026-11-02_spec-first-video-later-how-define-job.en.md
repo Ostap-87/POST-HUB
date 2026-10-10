@@ -8,7 +8,7 @@ meta_description: "How to write a requirements spec for a humanoid robot: the ta
 slug: "spec-first-video-later-how-define-job"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-02_spec-first-video-later-how-define-job.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "f4cef79e-3499-4883-bd21-57c09f8585f5"
 image_cost: "0.5"

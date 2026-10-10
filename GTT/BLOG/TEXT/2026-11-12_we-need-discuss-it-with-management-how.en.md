@@ -7,7 +7,7 @@ meta_description: "The stages of negotiating with a Chinese company, from first 
 slug: "we-need-discuss-it-with-management-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-12_we-need-discuss-it-with-management-how.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "18056463-1469-4463-9e05-5e7bb5298fcc"
 image_cost: "0.5"

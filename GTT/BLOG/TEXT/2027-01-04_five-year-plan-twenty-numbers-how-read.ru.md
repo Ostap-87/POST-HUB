@@ -8,7 +8,7 @@ meta_description: "Что записано в 15-м пятилетнем пла�
 slug: "five-year-plan-twenty-numbers-how-read"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2027-01-04_five-year-plan-twenty-numbers-how-read.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "b4928dcb-7ec4-4d61-ad65-1b9eaf05652f"
 image_cost: "0.5"

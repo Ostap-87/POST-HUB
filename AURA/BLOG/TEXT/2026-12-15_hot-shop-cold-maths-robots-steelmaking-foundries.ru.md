@@ -8,7 +8,7 @@ meta_description: "Где роботы работают в сталеплави�
 slug: "hot-shop-cold-maths-robots-steelmaking-foundries"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-15_hot-shop-cold-maths-robots-steelmaking-foundries.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "122da469-2127-4c8c-a980-4d75f70d2348"
 image_cost: "0.5"

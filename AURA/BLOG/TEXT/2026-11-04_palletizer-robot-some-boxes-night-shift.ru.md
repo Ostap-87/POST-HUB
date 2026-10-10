@@ -8,7 +8,7 @@ meta_description: "Как выбрать роботизированную яче
 slug: "palletizer-robot-some-boxes-night-shift"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-04_palletizer-robot-some-boxes-night-shift.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "34cb0e10-b9e2-4464-8eef-1cef047cce0c"
 image_cost: "0.5"

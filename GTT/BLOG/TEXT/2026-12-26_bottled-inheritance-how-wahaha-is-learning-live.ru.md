@@ -8,7 +8,7 @@ meta_description: "Как напиточная компания Wahaha живё�
 slug: "bottled-inheritance-how-wahaha-is-learning-live"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-26_bottled-inheritance-how-wahaha-is-learning-live.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "819e28f2-4199-451e-814b-093dd26b7754"
 image_cost: "0.5"

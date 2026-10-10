@@ -8,7 +8,7 @@ meta_description: "Как оценить окупаемость инспекци
 slug: "inspection-round-that-never-happened-how-calculate"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-10_inspection-round-that-never-happened-how-calculate.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a8707a5d-57aa-44da-a9f1-37dd0ab6a796"
 image_cost: "0.5"

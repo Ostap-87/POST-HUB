@@ -8,7 +8,7 @@ meta_description: "How commissioning works for a robot bought in China: factory 
 slug: "robot-has-arrived-robot-is-not-working"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-23_robot-has-arrived-robot-is-not-working.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "05f1aa66-0d3b-4992-97ae-e3fb02a260b9"
 image_cost: "0.5"

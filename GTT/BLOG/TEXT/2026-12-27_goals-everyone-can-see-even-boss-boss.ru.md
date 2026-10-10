@@ -8,7 +8,7 @@ meta_description: "Как в ByteDance устроены OKR: двухмесяч�
 slug: "goals-everyone-can-see-even-boss-boss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-27_goals-everyone-can-see-even-boss-boss.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "3bee17dc-4154-4cc0-be36-b5e53b80eded"
 image_cost: "0.5"

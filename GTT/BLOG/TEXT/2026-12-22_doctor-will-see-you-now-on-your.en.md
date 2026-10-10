@@ -8,7 +8,7 @@ meta_description: "China has more than 3,700 internet hospitals and about 130 mi
 slug: "doctor-will-see-you-now-on-your"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-22_doctor-will-see-you-now-on-your.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "ac614d6e-0473-4a92-b631-19eff091283a"
 image_cost: "0.5"

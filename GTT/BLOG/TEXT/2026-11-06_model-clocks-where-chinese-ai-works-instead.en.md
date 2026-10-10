@@ -8,7 +8,7 @@ meta_description: "How Chinese companies put large models and AI agents to work:
 slug: "model-clocks-where-chinese-ai-works-instead"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-06_model-clocks-where-chinese-ai-works-instead.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "34139da6-faf1-451d-9640-40f646e83594"
 image_cost: "0.5"

@@ -3,6 +3,8 @@
 
 python3 CONTROL/TOOLS/logo_badge.py картинка.png логотип.svg [логотип2.png] -o результат.jpg
 Без логотипов просто приводит картинку к формату хранения: JPG, длинная сторона до 1600 px, качество 88.
+Канал со своими требованиями (блог OSTAPDOTCENKO: ровно 1600 px, качество 82–85, до 500 КБ):
+  --side 1600 --quality 85 --max-kb 500 — картинка доводится до 1600 px и при необходимости ужимается до 82.
 Нужны Pillow и (для SVG) cairosvg.
 """
 import argparse
@@ -54,10 +56,10 @@ def plate(logo: Image.Image, h: int, max_w: int) -> Image.Image:
     return card
 
 
-def badge(src: Path, logos: list[Path], out: Path) -> None:
+def badge(src: Path, logos: list[Path], out: Path, side: int = 0, quality: int = 88, max_kb: int = 0) -> None:
     img = Image.open(src).convert('RGB')
-    k = MAX_SIDE / max(img.size)
-    if k < 1:
+    k = (side or MAX_SIDE) / max(img.size)
+    if k < 1 or side:
         img = img.resize((round(img.width * k), round(img.height * k)), Image.LANCZOS)
     if logos:
         base = img.convert('RGBA')
@@ -74,7 +76,10 @@ def badge(src: Path, logos: list[Path], out: Path) -> None:
             x += card.width + round(m * 0.5)
         img = base.convert('RGB')
     out.parent.mkdir(parents=True, exist_ok=True)
-    img.save(out, 'JPEG', quality=88, optimize=True, progressive=True)
+    img.save(out, 'JPEG', quality=quality, optimize=True, progressive=True)
+    while max_kb and out.stat().st_size > max_kb * 1024 and quality > 82:
+        quality -= 1
+        img.save(out, 'JPEG', quality=quality, optimize=True, progressive=True)
 
 
 if __name__ == '__main__':
@@ -82,6 +87,9 @@ if __name__ == '__main__':
     ap.add_argument('image')
     ap.add_argument('logos', nargs='*')
     ap.add_argument('-o', '--out', required=True)
+    ap.add_argument('--side', type=int, default=0, help='точная длинная сторона, px (по умолчанию — до 1600)')
+    ap.add_argument('--quality', type=int, default=88)
+    ap.add_argument('--max-kb', type=int, default=0, help='предел размера файла, КБ')
     a = ap.parse_args()
-    badge(Path(a.image), [Path(x) for x in a.logos], Path(a.out))
+    badge(Path(a.image), [Path(x) for x in a.logos], Path(a.out), a.side, a.quality, a.max_kb)
     print(a.out)

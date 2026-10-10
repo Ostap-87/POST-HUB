@@ -8,7 +8,7 @@ meta_description: "How cook-chill and cook-freeze work, why cooling has to be fa
 slug: "cold-calculation-hot-lunch-cook-chill-blast"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-27_cold-calculation-hot-lunch-cook-chill-blast.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "77dc660b-34fa-48cd-913b-1b93d5c558b5"
 image_cost: "0.5"

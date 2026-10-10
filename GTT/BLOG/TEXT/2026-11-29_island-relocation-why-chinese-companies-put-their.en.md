@@ -8,7 +8,7 @@ meta_description: "Why Chinese companies set up headquarters in Singapore: tax a
 slug: "island-relocation-why-chinese-companies-put-their"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-29_island-relocation-why-chinese-companies-put-their.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e358b13e-3b66-4994-b8f4-e57d8d10d18e"
 image_cost: "0.5"

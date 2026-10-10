@@ -8,7 +8,7 @@ meta_description: "How to choose a commercial floor-scrubbing robot: real-world 
 slug: "commercial-cleaning-robots-what-ask-beyond-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-05_commercial-cleaning-robots-what-ask-beyond-square.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c8cfd5cd-71c0-49ac-b886-9a2d26a7ea3f"
 image_cost: "0.5"

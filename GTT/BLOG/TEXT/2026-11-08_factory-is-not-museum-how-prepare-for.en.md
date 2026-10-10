@@ -7,7 +7,7 @@ meta_description: "How to prepare a business visit to a Chinese factory: goals a
 slug: "factory-is-not-museum-how-prepare-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-08_factory-is-not-museum-how-prepare-for.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "3777f93a-09ff-40c8-ae81-d199b99f314a"
 image_cost: "0.5"

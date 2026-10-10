@@ -8,7 +8,7 @@ meta_description: "Где в роботе стоит волновой, цикл�
 slug: "gears-decide-everything-strain-wave-rv-or"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-01_gears-decide-everything-strain-wave-rv-or.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "78b316b7-3778-4c81-a650-a7b41c22f33c"
 image_cost: "0.5"

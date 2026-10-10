@@ -8,7 +8,7 @@ meta_description: "A business trip for medical companies: how medical devices ar
 slug: "hospital-factory-distributor-one-week-medtech-expedition"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-19_hospital-factory-distributor-one-week-medtech-expedition.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "212b9ade-30c5-48b7-a5ee-3004a1b3d562"
 image_cost: "0.5"

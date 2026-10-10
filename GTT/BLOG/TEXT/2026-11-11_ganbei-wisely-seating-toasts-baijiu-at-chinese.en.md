@@ -7,7 +7,7 @@ meta_description: "A business banquet in China: who sits where, how toasts work,
 slug: "ganbei-wisely-seating-toasts-baijiu-at-chinese"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-11_ganbei-wisely-seating-toasts-baijiu-at-chinese.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "8afdb823-8df0-482f-b855-09c294792b46"
 image_cost: "0.5"

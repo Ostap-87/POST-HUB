@@ -8,7 +8,7 @@ meta_description: "Как устроены китайские линии для 
 slug: "dumplings-on-conveyor-what-chinese-jiaozi-line"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-25_dumplings-on-conveyor-what-chinese-jiaozi-line.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "f7ff1a48-2d18-4838-ad08-a975e69752ff"
 image_cost: "0.5"

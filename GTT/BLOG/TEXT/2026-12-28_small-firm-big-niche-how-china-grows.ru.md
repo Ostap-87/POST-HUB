@@ -8,7 +8,7 @@ meta_description: "Что такое программа 专精特新 и стат
 slug: "small-firm-big-niche-how-china-grows"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-28_small-firm-big-niche-how-china-grows.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c21828d5-8449-4676-8eac-663c82efe1c0"
 image_cost: "0.5"

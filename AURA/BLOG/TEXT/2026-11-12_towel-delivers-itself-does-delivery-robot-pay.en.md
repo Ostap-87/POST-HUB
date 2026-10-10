@@ -8,7 +8,7 @@ meta_description: "When does a hotel delivery robot pay for itself? Room count, 
 slug: "towel-delivers-itself-does-delivery-robot-pay"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-12_towel-delivers-itself-does-delivery-robot-pay.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "f88306b5-c6d7-486f-a4cf-b718db1c0f83"
 image_cost: "0.5"

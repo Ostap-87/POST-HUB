@@ -8,7 +8,7 @@ meta_description: "How to automate a cold store: shuttles, AMRs and stacker cran
 slug: "minus-twenty-five-for-robot-automating-cold"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-16_minus-twenty-five-for-robot-automating-cold.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "47c8b3f4-001e-4195-9261-db1f546f1b57"
 image_cost: "0.5"

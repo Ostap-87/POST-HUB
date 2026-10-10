@@ -8,7 +8,7 @@ meta_description: "A business trip for food manufacturers and restaurant chains:
 slug: "from-flavour-factory-plate-foodtech-expedition-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-18_from-flavour-factory-plate-foodtech-expedition-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c5bf4d79-60b2-4565-a5fd-ba994a820b11"
 image_cost: "0.5"

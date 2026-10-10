@@ -8,7 +8,7 @@ meta_description: "Что робот передаёт в облако произ
 slug: "robot-phones-home-cloud-telemetry-data-from"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-24_robot-phones-home-cloud-telemetry-data-from.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "7e8982d5-a2e9-40bc-a99f-ea4eff45b6aa"
 image_cost: "0.5"

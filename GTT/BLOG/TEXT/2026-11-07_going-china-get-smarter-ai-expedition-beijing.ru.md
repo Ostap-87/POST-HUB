@@ -8,7 +8,7 @@ meta_description: "Пекин — столица больших моделей, 
 slug: "going-china-get-smarter-ai-expedition-beijing"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-07_going-china-get-smarter-ai-expedition-beijing.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "099f325d-6c51-40a2-a61d-1200346a36af"
 image_cost: "0.5"

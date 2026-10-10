@@ -8,7 +8,7 @@ meta_description: "Как изменился «День холостяка» 11.
 slug: "11-11-with-scoreboard-switched-off-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-14_11-11-with-scoreboard-switched-off-what.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "3671f76c-6f44-464b-9838-734ffebb270a"
 image_cost: "0.5"

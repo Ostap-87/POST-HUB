@@ -8,7 +8,7 @@ meta_description: "Какие показатели робота фиксиров
 slug: "robot-works-but-does-it-pay-kpis"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-22_robot-works-but-does-it-pay-kpis.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "2d03bb1e-4ec7-4f74-94f1-7a19a2fafb23"
 image_cost: "0.5"

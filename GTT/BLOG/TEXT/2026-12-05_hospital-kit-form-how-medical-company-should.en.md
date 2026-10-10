@@ -7,7 +7,7 @@ meta_description: "CMEF is one of the world’s largest medical equipment fairs,
 slug: "hospital-kit-form-how-medical-company-should"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-05_hospital-kit-form-how-medical-company-should.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a6abfbea-e2fa-4cee-a70f-e4a42a5069a7"
 image_cost: "0.5"

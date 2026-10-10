@@ -8,7 +8,7 @@ meta_description: "Как закупщику подготовиться к вы�
 slug: "robots-behave-better-on-stand-how-prepare"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-30_robots-behave-better-on-stand-how-prepare.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "7849c6ae-7f2e-4fc6-9376-acb9e5715da6"
 image_cost: "0.5"

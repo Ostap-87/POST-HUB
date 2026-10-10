@@ -8,7 +8,7 @@ meta_description: "Итоговый обзор блога Global Tech Tour: де
 slug: "year-we-saw-for-ourselves-ten-business"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2027-01-05_year-we-saw-for-ourselves-ten-business.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "629542be-162f-4df2-9de6-59abdc5932d3"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Что стало с цифровым юанем e-CNY: с 1 
 slug: "money-you-cannot-see-what-digital-yuan"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2027-01-02_money-you-cannot-see-what-digital-yuan.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "1f496eea-b068-49dd-8b63-810bc352c6bb"
 image_cost: "0.5"

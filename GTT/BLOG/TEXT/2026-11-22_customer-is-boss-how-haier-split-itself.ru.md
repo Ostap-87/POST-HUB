@@ -7,7 +7,7 @@ meta_description: "Модель управления Haier «жэньданьх�
 slug: "customer-is-boss-how-haier-split-itself"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-22_customer-is-boss-how-haier-split-itself.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a5fdde5e-46fe-4d6e-a93d-1847fa9519e3"
 image_cost: "0.5"

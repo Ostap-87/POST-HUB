@@ -8,7 +8,7 @@ meta_description: "Как устроены системы CIP и тоннель�
 slug: "clean-work-crate-washing-cip-line-sanitation"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-28_clean-work-crate-washing-cip-line-sanitation.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "f1791d06-4e72-4d5f-a6bb-84058f48879c"
 image_cost: "0.5"

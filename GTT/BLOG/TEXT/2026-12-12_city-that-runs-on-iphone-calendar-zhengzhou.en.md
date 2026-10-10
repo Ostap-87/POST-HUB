@@ -8,7 +8,7 @@ meta_description: "How Zhengzhou, in the middle of China, became an electronics 
 slug: "city-that-runs-on-iphone-calendar-zhengzhou"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-12_city-that-runs-on-iphone-calendar-zhengzhou.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a3858839-7a2a-4f79-b667-2ff9a243f596"
 image_cost: "0.5"

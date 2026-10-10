@@ -8,7 +8,7 @@ meta_description: "How to calculate payback on a commercial cleaning robot in ma
 slug: "square-metres-night-shifts-how-calculate-payback"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-09_square-metres-night-shifts-how-calculate-payback.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "0be956b5-f94d-41a4-bb7c-ce6e312f97d7"
 image_cost: "0.5"

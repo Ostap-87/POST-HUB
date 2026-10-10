@@ -7,7 +7,7 @@ meta_description: "China’s key industry trade shows in 2027, month by month: t
 slug: "year-exhibition-halls-china-business-trade-show"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2027-01-03_year-exhibition-halls-china-business-trade-show.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "212606be-74d3-4387-bc43-6e6ea5597517"
 image_cost: "0.5"

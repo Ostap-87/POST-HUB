@@ -8,7 +8,7 @@ meta_description: "Городок Чэньдай в Цзиньцзяне вып�
 slug: "one-sneaker-five-how-jinjiang-became-world"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-11_one-sneaker-five-how-jinjiang-became-world.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "2524adc8-dcf2-4a06-97fe-960c50bc7a4d"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Кто такие Siasun: компания из Шэньян�
 slug: "siasun-oldest-most-academic-least-obvious"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-13_siasun-oldest-most-academic-least-obvious.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "6ffe86d2-648d-461c-bf24-92e7b96a10b6"
 image_cost: "0.5"

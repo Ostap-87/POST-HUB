@@ -8,7 +8,7 @@ meta_description: "Что изменилось в ISO 10218 в 2025 году, к
 slug: "safety-by-standard-not-by-promise-iso"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-06_safety-by-standard-not-by-promise-iso.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "ca192819-8e8d-4753-91ac-7f4ffd09b502"
 image_cost: "0.5"

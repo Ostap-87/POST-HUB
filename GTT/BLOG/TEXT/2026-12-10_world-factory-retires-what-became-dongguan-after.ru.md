@@ -8,7 +8,7 @@ meta_description: "Дунгуань начинал с давальческих �
 slug: "world-factory-retires-what-became-dongguan-after"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-10_world-factory-retires-what-became-dongguan-after.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "c5fca782-3560-4623-be35-ea763c1b45e8"
 image_cost: "0.5"

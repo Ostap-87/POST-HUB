@@ -7,7 +7,7 @@ meta_description: "How to choose a cobot: real payload including the gripper, re
 slug: "cobots-colleague-who-never-argues-how-choose"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-01_cobots-colleague-who-never-argues-how-choose.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "b35a1ed4-5435-4346-becb-f203986d6db8"
 image_cost: "0.5"

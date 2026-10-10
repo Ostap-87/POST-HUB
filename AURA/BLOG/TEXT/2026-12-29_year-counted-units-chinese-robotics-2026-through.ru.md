@@ -8,7 +8,7 @@ meta_description: "Главное о китайской робототехник
 slug: "year-counted-units-chinese-robotics-2026-through"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-29_year-counted-units-chinese-robotics-2026-through.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "766dbc48-5b8e-4415-80bd-b0318124571c"
 image_cost: "0.5"

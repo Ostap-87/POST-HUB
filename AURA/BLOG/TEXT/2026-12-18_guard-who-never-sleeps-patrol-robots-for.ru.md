@@ -8,7 +8,7 @@ meta_description: "Как работают патрульные роботы д�
 slug: "guard-who-never-sleeps-patrol-robots-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-18_guard-who-never-sleeps-patrol-robots-for.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "88c402f6-dfe9-44e3-a2e4-6be416d2c420"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "Как найти китайский завод-произв�
 slug: "factory-that-turned-out-be-office-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-19_factory-that-turned-out-be-office-how.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "df259235-0ac9-462a-a36f-fe39a1da18d2"
 image_cost: "0.5"

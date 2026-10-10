@@ -8,7 +8,7 @@ meta_description: "Какие китайские лидары и 3D-камеры
 slug: "you-can-t-borrow-eyes-chinese-lidars"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-03_you-can-t-borrow-eyes-chinese-lidars.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "8992f85b-cd8e-426b-86b0-fb1cd510040e"
 image_cost: "0.5"

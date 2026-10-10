@@ -8,7 +8,7 @@ meta_description: "How central kitchens extend ready-meal shelf life without pre
 slug: "lunch-that-can-wait-tray-sealers-modified"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-26_lunch-that-can-wait-tray-sealers-modified.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "e6fafd3e-1a62-488a-8cd6-f27c64e9e9f0"
 image_cost: "0.5"

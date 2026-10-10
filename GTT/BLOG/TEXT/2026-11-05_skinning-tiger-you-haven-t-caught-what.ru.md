@@ -8,7 +8,7 @@ meta_description: "Zhipu и MiniMax на Гонконгской бирже, Moon
 slug: "skinning-tiger-you-haven-t-caught-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-05_skinning-tiger-you-haven-t-caught-what.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "65d7fa3f-6d3c-4a6b-89d2-c6783b0716ea"
 image_cost: "0.5"

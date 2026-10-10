@@ -8,7 +8,7 @@ meta_description: "How to justify a robot purchase in the 2027 budget: framing t
 slug: "robot-2027-budget-how-get-automation-into"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-10_robot-2027-budget-how-get-automation-into.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "30c97368-8856-454d-acc7-7585758a963c"
 image_cost: "0.5"

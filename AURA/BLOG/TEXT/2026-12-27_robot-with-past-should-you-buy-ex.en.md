@@ -8,7 +8,7 @@ meta_description: "Trade-show units, refurbished cobots and second-hand humanoid
 slug: "robot-with-past-should-you-buy-ex"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-27_robot-with-past-should-you-buy-ex.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "d0291712-6d23-4946-85a8-1781969e98d8"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "The roles a company needs once a robot arrives: operator, tec
 slug: "nobody-robot-who-your-company-is-responsible"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-20_nobody-robot-who-your-company-is-responsible.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "5c4cd0f5-c561-4cd6-92cd-b24436ced214"
 image_cost: "0.5"

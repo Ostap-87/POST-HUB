@@ -8,7 +8,7 @@ meta_description: "Как Nongfu Spring превратил бутилирова�
 slug: "nongfu-spring-how-selling-water-made-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-26_nongfu-spring-how-selling-water-made-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9ea5b60e-9308-4ff9-8bc8-81598b23b7fd"
 image_cost: "0.5"

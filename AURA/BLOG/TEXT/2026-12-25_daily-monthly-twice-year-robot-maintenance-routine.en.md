@@ -8,7 +8,7 @@ meta_description: "What to do with a robot every day, month and six months: insp
 slug: "daily-monthly-twice-year-robot-maintenance-routine"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-25_daily-monthly-twice-year-robot-maintenance-routine.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "44cae58b-5153-4479-ac08-7051cbc43784"
 image_cost: "0.5"

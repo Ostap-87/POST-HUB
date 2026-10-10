@@ -8,7 +8,7 @@ meta_description: "In Hainan’s Boao Lecheng pilot zone, drugs and devices not 
 slug: "island-where-mainland-rules-bend-boao-lecheng"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-24_island-where-mainland-rules-bend-boao-lecheng.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "0bed92af-d6aa-4933-b2c1-3adad8c64dcf"
 image_cost: "0.5"

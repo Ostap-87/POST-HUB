@@ -7,7 +7,7 @@ meta_description: "Практическое руководство по Кант
 slug: "thirty-thousand-booths-one-you-need-working"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-03_thirty-thousand-booths-one-you-need-working.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "51aeff56-bbc4-4aa8-9433-0ccd4dd635b0"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "What happens to a robot bought in China after the warranty en
 slug: "warranty-is-over-robot-is-still-here"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-24_warranty-is-over-robot-is-still-here.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "14911efc-2e51-4393-97d5-ca2bb5d01766"
 image_cost: "0.5"

@@ -8,7 +8,7 @@ meta_description: "В 2025 году китайские фармкомпании 
 slug: "from-generics-patents-why-global-pharma-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-21_from-generics-patents-why-global-pharma-is.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a8b9907f-3434-45f6-942b-b7a9bb480b00"
 image_cost: "0.5"

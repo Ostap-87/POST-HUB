@@ -8,7 +8,7 @@ meta_description: "История перезапуска Bosideng: от 11 по�
 slug: "bosideng-how-down-jacket-left-mum-wardrobe"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-25_bosideng-how-down-jacket-left-mum-wardrobe.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "dcc115bf-00cb-4144-b524-3b35b7d9fcc0"
 image_cost: "0.5"

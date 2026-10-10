@@ -8,7 +8,7 @@ meta_description: "How Hefei’s government became an investor rather than a sub
 slug: "city-hall-with-venture-portfolio-how-hefei"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-07_city-hall-with-venture-portfolio-how-hefei.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "1348a53b-90aa-404f-b652-15b6d5af85ee"
 image_cost: "0.5"

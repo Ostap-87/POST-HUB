@@ -7,7 +7,7 @@ meta_description: "Shanghai’s two big November trade shows: the CIIE import ex
 slug: "china-buys-china-builds-ciie-bauma-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-04_china-buys-china-builds-ciie-bauma-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a6ae7b8c-90ce-4948-b134-4a37e3872ccd"
 image_cost: "0.5"

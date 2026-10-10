@@ -8,7 +8,7 @@ meta_description: "Как устроены китайские объёмные �
 slug: "ninety-percent-off-what-china-centralised-procurement"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-20_ninety-percent-off-what-china-centralised-procurement.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "575581d0-5228-4609-bb3e-821dbb140dca"
 image_cost: "0.5"

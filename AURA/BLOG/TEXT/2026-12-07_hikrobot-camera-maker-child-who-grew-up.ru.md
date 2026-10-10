@@ -8,7 +8,7 @@ meta_description: "Кто такие Hikrobot: AMR, роботы-штабелё�
 slug: "hikrobot-camera-maker-child-who-grew-up"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-07_hikrobot-camera-maker-child-who-grew-up.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "7daeaa9f-5ad4-44da-95dc-1bb114ec1b27"
 image_cost: "0.5"

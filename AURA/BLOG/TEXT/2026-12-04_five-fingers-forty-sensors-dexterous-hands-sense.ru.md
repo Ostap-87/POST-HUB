@@ -8,7 +8,7 @@ meta_description: "Какие ловкие кисти делают в Китае
 slug: "five-fingers-forty-sensors-dexterous-hands-sense"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-04_five-fingers-forty-sensors-dexterous-hands-sense.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "a9e8d6cc-d682-4575-b84a-661fc7efb686"
 image_cost: "0.5"

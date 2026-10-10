@@ -7,7 +7,7 @@ meta_description: "Почему малайзийский штат Джохор �
 slug: "server-room-next-door-how-johor-became"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-30_server-room-next-door-how-johor-became.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "2d2edaf6-8bd9-4715-8801-c2c1b49721b2"
 image_cost: "0.5"

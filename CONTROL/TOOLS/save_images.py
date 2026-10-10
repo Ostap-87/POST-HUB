@@ -21,6 +21,8 @@ from pathlib import Path
 HUB = Path(__file__).resolve().parents[2]
 LOGOS = HUB / 'CONTROL/LOGOS'
 SOURCES = LOGOS / 'ИСТОЧНИКИ.md'
+# каналы со своими требованиями к картинкам (их RULES.md) — флаги для logo_badge.py
+PROFILES = {'OSTAPDOTCENKO/BLOG': ['--side', '1600', '--quality', '85', '--max-kb', '500']}
 
 
 TR = dict(zip('абвгдеёжзийклмнопрстуфхцчшщъыьэюя',
@@ -70,8 +72,9 @@ def main(list_path):
         subprocess.run(['curl', '-sSL', '--retry', '4', '--retry-all-errors', '-o', str(raw), it['url']], check=True)
         logos = [ensure_logo(l) for l in it.get('logos', [])]
         out = photo_dir / f'{name}.jpg'
-        subprocess.run([sys.executable, str(HUB / 'CONTROL/TOOLS/logo_badge.py'), str(raw), *map(str, logos), '-o', str(out)],
-                       check=True, capture_output=True)
+        profile = next((v for k, v in PROFILES.items() if it['text'].startswith(k + '/')), [])
+        subprocess.run([sys.executable, str(HUB / 'CONTROL/TOOLS/logo_badge.py'), str(raw), *map(str, logos), '-o', str(out),
+                        *profile], check=True, capture_output=True)
         fields = {'image': out.name, 'image_status': 'на согласовании', 'image_model': it.get('model', ''),
                   'image_job': it.get('job', ''), 'image_cost': it.get('cost', ''),
                   'image_logos': ', '.join(l['brand'] for l in it.get('logos', [])), 'image_prompt': it.get('prompt', '')}

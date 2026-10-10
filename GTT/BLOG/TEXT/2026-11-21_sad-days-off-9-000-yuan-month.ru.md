@@ -7,7 +7,7 @@ meta_description: "Pangdonglai — сеть из 13 магазинов в про
 slug: "sad-days-off-9-000-yuan-month"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-21_sad-days-off-9-000-yuan-month.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "b9cde6fc-bb71-478a-bc19-fdfe924c0e4a"
 image_cost: "0.5"

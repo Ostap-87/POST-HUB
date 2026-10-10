@@ -8,7 +8,7 @@ meta_description: "Деловая поездка для ритейлеров в 
 slug: "shop-that-is-really-warehouse-retail-expedition"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-17_shop-that-is-really-warehouse-retail-expedition.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "5ce6cabb-8647-4ccf-a25e-d048778941c3"
 image_cost: "0.5"

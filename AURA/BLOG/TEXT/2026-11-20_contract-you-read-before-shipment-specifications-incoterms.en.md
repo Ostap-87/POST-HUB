@@ -8,7 +8,7 @@ meta_description: "What to put in a contract with a Chinese factory when buying 
 slug: "contract-you-read-before-shipment-specifications-incoterms"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-11-20_contract-you-read-before-shipment-specifications-incoterms.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "5ae88d5b-cb3e-4d3f-a014-aa1563eabd97"
 image_cost: "0.5"

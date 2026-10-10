@@ -8,7 +8,7 @@ meta_description: "How China’s high-rise pig farms work: two 26-storey towers 
 slug: "pigs-on-twenty-sixth-floor-how-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-17_pigs-on-twenty-sixth-floor-how-china.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "8b5e7f24-3a3c-439e-9e1f-f9e41f0261e2"
 image_cost: "0.5"

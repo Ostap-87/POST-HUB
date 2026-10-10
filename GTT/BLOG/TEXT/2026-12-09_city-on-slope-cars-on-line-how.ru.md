@@ -8,7 +8,7 @@ meta_description: "Как горный Чунцин без моря стал п�
 slug: "city-on-slope-cars-on-line-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-09_city-on-slope-cars-on-line-how.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "f58a1cd1-bce8-486b-89c3-0acffe76803b"
 image_cost: "0.5"

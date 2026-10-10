@@ -8,7 +8,7 @@ meta_description: "Как ханчжоуская лаборатория при �
 slug: "tokens-are-cheaper-than-meetings-what-deepseek"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-01_tokens-are-cheaper-than-meetings-what-deepseek.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "bde0aaa8-2e00-4160-8918-ecca0feb5571"
 image_cost: "0.5"

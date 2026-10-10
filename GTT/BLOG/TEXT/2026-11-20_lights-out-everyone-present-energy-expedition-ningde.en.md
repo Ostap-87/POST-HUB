@@ -7,7 +7,7 @@ meta_description: "An energy-focused business expedition in China: Ningde (CATL)
 slug: "lights-out-everyone-present-energy-expedition-ningde"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-11-20_lights-out-everyone-present-energy-expedition-ningde.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9a762e4e-7808-412c-8059-ac0faadd5010"
 image_cost: "0.5"

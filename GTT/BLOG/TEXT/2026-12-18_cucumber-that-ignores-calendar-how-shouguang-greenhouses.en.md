@@ -8,7 +8,7 @@ meta_description: "Inside the greenhouse cluster of Shouguang in Shandong: from 
 slug: "cucumber-that-ignores-calendar-how-shouguang-greenhouses"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-18_cucumber-that-ignores-calendar-how-shouguang-greenhouses.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "fecebbd7-aea4-4ac4-b23c-ebce59003443"
 image_cost: "0.5"

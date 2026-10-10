@@ -8,7 +8,7 @@ meta_description: "Сколько на самом деле работает от
 slug: "robot-is-tired-batteries-charging-winter-unheated"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
 image: "2026-12-02_robot-is-tired-batteries-charging-winter-unheated.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "4dc29dee-e860-4cb1-b875-4263b5331cba"
 image_cost: "0.5"

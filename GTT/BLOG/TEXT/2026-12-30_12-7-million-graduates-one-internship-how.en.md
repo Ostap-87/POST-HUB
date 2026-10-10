@@ -8,7 +8,7 @@ meta_description: "How campus hiring works in China: 12.7 million graduates in 2
 slug: "12-7-million-graduates-one-internship-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
 image: "2026-12-30_12-7-million-graduates-one-internship-how.jpg"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k 16:9"
 image_job: "9dffaccc-baf4-45d5-a2ed-9943fc9353ee"
 image_cost: "0.5"
