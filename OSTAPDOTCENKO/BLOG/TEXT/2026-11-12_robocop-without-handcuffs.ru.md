@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "robocop-without-handcuffs"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-12_robocop-without-handcuffs.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1cad2f21-d5ce-47a9-9b4f-e2c86d140f09"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a busy sunny intersection in central Hangzhou at midday: a tall humanoid traffic robot in a reflective vest stands on a small traffic island and raises one arm in a clear traffic-control gesture; in the foreground a young woman on an electric bike, stopped at the stop line, puts on her helmet with a sheepish smile, other cyclists in helmets waiting behind her, plane trees and modern buildings, signs blurred and unreadable, bright clear light, wide 16:9 composition with a calm, uncluttered lower-left corner of road, kind humorous mood of order kept simply by being visible. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Жил высокий гражданин По прозванью Каланча. — Сергей Михалков, «Дядя Стёпа». Теперь с аккумулятором

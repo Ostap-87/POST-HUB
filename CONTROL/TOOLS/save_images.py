@@ -72,9 +72,14 @@ def main(list_path):
         out = photo_dir / f'{name}.jpg'
         subprocess.run([sys.executable, str(HUB / 'CONTROL/TOOLS/logo_badge.py'), str(raw), *map(str, logos), '-o', str(out)],
                        check=True, capture_output=True)
-        set_meta(text, {'image': out.name, 'image_status': 'на согласовании', 'image_model': it.get('model', ''),
-                        'image_job': it.get('job', ''), 'image_cost': it.get('cost', ''),
-                        'image_logos': ', '.join(l['brand'] for l in it.get('logos', [])), 'image_prompt': it.get('prompt', '')})
+        fields = {'image': out.name, 'image_status': 'на согласовании', 'image_model': it.get('model', ''),
+                  'image_job': it.get('job', ''), 'image_cost': it.get('cost', ''),
+                  'image_logos': ', '.join(l['brand'] for l in it.get('logos', [])), 'image_prompt': it.get('prompt', '')}
+        versions = [text]
+        if name != text.name[:-3]:                  # статья блога: обложка одна на все языки
+            versions = sorted(text.parent.glob(f'{name}.*.md'))
+        for v in versions:
+            set_meta(v, fields)
         print(out.relative_to(HUB))
 
 

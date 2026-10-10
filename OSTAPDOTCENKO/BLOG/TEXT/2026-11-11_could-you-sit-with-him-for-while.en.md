@@ -12,6 +12,13 @@ tag: "Robots"
 time: "6 min"
 slug: "could-you-sit-with-him-for-while"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-11_could-you-sit-with-him-for-while.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "54ef4259-3681-444a-a3c9-bad92f3d59c1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright room of a Japanese nursing home in the morning: a large white care robot with soft padded arms gently lifts an elderly woman from her bed toward a wheelchair, while a young caregiver kneels beside her, holding her hand and chatting with her at eye level, both smiling; potted plants on the windowsill, a cup of green tea on the bedside table, soft natural light through sheer curtains, wide 16:9 composition with a calm, uncluttered lower-left corner, warm reassuring mood: the machine does the lifting so a person has time to sit beside her. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Old age ain’t no place for sissies. — Bette Davis. Engineers took it as a product spec

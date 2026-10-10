@@ -12,6 +12,13 @@ tag: "机器人"
 time: "6 分钟"
 slug: "crowded-house-empty-wallet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-10_crowded-house-empty-wallet.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bfb349ef-631b-4f0e-b4dd-34591863dfb4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a crowded bright robotics exhibition hall: in the middle of an aisle stands a single neatly made white bed, and around it more than a dozen different humanoid robots from different makers all reach for the same blanket at once, trying to smooth it; visitors laugh and film the scene on their phones, booths with blank screens in the background, bright exhibition lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, good-natured humorous mood of a hundred and fifty robots and only one bed. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 人多力量大。 ——老话。说这话的时候，还没有风投。

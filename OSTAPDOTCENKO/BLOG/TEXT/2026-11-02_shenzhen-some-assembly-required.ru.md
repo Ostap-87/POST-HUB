@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "shenzhen-some-assembly-required"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-02_shenzhen-some-assembly-required.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9fbd952a-0998-4829-8a70-4e1bacef1144"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic overhead flat-lay photo on a worn wooden workbench by a sunny window in Shenzhen: an old metal children's construction set — perforated steel strips, tiny nuts and bolts, a small wrench — laid out neatly together with modern humanoid robot parts: compact servo motors, a small lidar sensor, a palm-sized circuit board, a gearbox and a robotic finger joint, arranged like one big kit with a single empty slot, into which an engineer's hand at the top of the frame places the last missing part; a blurred Shenzhen skyline through the window, warm afternoon light, wide 16:9 composition with a calm, uncluttered lower-left corner of bare wood, playful nostalgic and optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Детали в часе езды. Решение — в двух минутах. Согласование — не предусмотрено. — Инструкция к конструктору, которую я так и не нашёл в коробке

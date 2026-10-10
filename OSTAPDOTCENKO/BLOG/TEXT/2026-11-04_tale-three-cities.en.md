@@ -12,6 +12,13 @@ tag: "Robots"
 time: "6 min"
 slug: "tale-three-cities"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-04_tale-three-cities.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7557f779-9367-4e06-b0da-2f6ea557fa42"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright modern robotics lab: three cheerful young Chinese women engineers work together on one full-size humanoid robot on an assembly stand — one adjusts the camera head with a small screwdriver, one calibrates the arm on a laptop, one fine-tunes the five-fingered hand — exchanging smiles like sisters sharing a family project; tool trolleys, cable bundles and spare parts around them, large windows with daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, the robot right of center, warm collaborative mood of raising one robot together. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > It was the best of times, it was the worst of times, it was the age of subsidies. — Charles Dickens, lightly edited

@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "run-robot-run"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-01_run-robot-run.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "aa11b723-dbf5-4594-8924-fff36bea5a38"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic sports photo at the finish line of a city half-marathon on a tree-lined avenue in Beijing on a bright spring morning: a slim humanoid robot with a blank race bib breaks the finish tape mid-stride under a plain finish arch without any signage, while in the right foreground a cheerful grey-haired race official in a volunteer vest holds up a stopwatch and laughs in amazement; behind the barriers spectators cheer and film on their phones, human runners approaching further down the avenue, crisp sunlight, slight motion blur on the robot's legs, wide 16:9 composition with a calm, uncluttered lower-left corner of empty asphalt, joyful 'someone has to hold the stopwatch' mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Догнать и перегнать! — Лозунг, который наконец выполнили. Не мы.

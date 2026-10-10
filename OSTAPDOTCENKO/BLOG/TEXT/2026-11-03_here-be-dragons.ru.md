@@ -12,6 +12,13 @@ tag: "Роботы"
 time: "6 мин"
 slug: "here-be-dragons"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-03_here-be-dragons.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7156f569-4c91-420a-91d8-e73161451b65"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic cinematic photo at a lakeside teahouse on West Lake in Hangzhou in the early morning: in the foreground on a stone ledge a tall clear glass of freshly brewed Longjing green tea with leaves slowly unfurling, steam catching the low sun; beyond it willow branches, a calm misty lake with a small wooden boat, a pagoda on a green hill and, on the far shore, the faint outline of modern office towers emerging from the haze; at the right edge a smiling elderly tea master in a linen shirt pours hot water into another glass, soft golden light, wide 16:9 composition with a calm, uncluttered lower-left corner, patient serene mood of dragons growing in their own time. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Дракона вырастить несложно. Сложно двадцать лет не спрашивать, когда он полетит. — Народная мудрость, которую я только что придумал

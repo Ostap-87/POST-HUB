@@ -12,6 +12,13 @@ tag: "Robots"
 time: "6 min"
 slug: "hand-is-most-expensive-part-human"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-09_hand-is-most-expensive-part-human.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1a04fe27-d62f-416d-ab3a-15e618ad31f2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic macro photo on a bright engineering workbench: a five-fingered humanoid robot hand with visible joints and small tactile pads on the fingertips carefully pushes a small white button through the buttonhole of a crisp cotton shirt laid on the bench, while a smiling engineer's hands gently hold the fabric steady, a tiny screwdriver and a spool of thread nearby, soft daylight from a window, very shallow depth of field, wide 16:9 composition with a calm, uncluttered lower-left corner, the hand right of center, tender, quietly triumphant mood of the hardest and most human skill. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Good with his hands. — Old compliment. Now also a line item.

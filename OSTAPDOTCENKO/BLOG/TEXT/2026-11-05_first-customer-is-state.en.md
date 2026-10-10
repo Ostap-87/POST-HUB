@@ -12,6 +12,13 @@ tag: "Robots"
 time: "6 min"
 slug: "first-customer-is-state"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-11-05_first-customer-is-state.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "70490097-8643-4f27-94f4-e33b18c16a15"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a spacious bright municipal exhibition hall of a Chinese city: a full-size humanoid robot stands beside a large detailed architectural model of the city under glass and raises its hand in greeting as a delegation of smiling officials and business people in dark suits arrives, one of them taking a photo with his phone, polished stone floor, tall windows with soft daylight, all screens and stands blank, wide 16:9 composition with a calm, uncluttered lower-left corner of empty floor, gently ironic but optimistic mood of a city as the first customer. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > The customer is always right. Especially when the customer is also the investor. — Field notes from a market where everyone knows everyone

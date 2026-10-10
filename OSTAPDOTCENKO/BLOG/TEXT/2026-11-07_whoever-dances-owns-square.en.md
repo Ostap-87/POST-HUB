@@ -12,6 +12,13 @@ tag: "Observations"
 time: "5 min"
 slug: "whoever-dances-owns-square"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-11-07_whoever-dances-owns-square.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "89f1534c-2192-4560-a3f8-800c0baa5610"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo of an evening public square in a Chinese city at about eight o'clock: dozens of women in their sixties and seventies dance in neat rows to music from a wheeled portable speaker, smiling and moving in unison with red fans, a confident leader at the front beside the speaker; warm street lamps and lit apartment windows behind, a few passers-by stopping to watch, and at the edge of the square a foreign businessman with a laptop bag, seen from behind, quietly enjoying the scene, wide 16:9 composition with a calm, uncluttered lower-left corner of paving, warm joyful mood of an evening that belongs to them. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > By day the square belongs to the state. By night it belongs to whoever has the louder speaker. — Observed from a hotel balcony

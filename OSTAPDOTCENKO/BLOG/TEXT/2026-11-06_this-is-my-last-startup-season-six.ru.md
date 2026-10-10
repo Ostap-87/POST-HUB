@@ -12,6 +12,13 @@ tag: "Перезапуски"
 time: "6 мин"
 slug: "this-is-my-last-startup-season-six"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-11-06_this-is-my-last-startup-season-six.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c6552b03-ec93-4731-a45a-4277b3927561"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on a long wooden table in a sunny startup loft: a neat row of objects from past ventures — an old smartphone with a scratched edge, a bulky prototype of augmented-reality glasses, a worn textbook with a plain cover, a small desktop computer, a folded ring light for livestreams — and at the end of the row a brand-new cardboard box that a man's hands, seen only from the wrists, cheerfully open with a box cutter; morning sun through tall factory windows, dust glowing in the light, wide 16:9 composition with a calm, uncluttered lower-left corner, hopeful 'part six begins' mood of failures as commas, not full stops. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Последний раз — это тот, после которого начинается следующий. — Из личного опыта каждого, кто бросал курить
