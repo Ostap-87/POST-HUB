@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "5 min"
 slug: "cricket-vs-ping-pong"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2027-01-06_cricket-vs-ping-pong.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "aa8074e8-4377-4e7d-ac96-57af39ca434c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a sunny public park in a multicultural Asian city: in the foreground a group of boys plays cricket on the grass, one swinging the bat with a big grin, while behind them two cheerful older men play a fast rally at an outdoor concrete ping-pong table with a small crowd watching, palm trees and apartment blocks behind, bright afternoon light, wide 16:9 composition with a calm, uncluttered lower-left corner of grass, lively friendly mood of two games played side by side by different rules. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > It’s not the winning, it’s the taking part. Especially if you take part as the supplier. — The Olympic creed, as revised by procurement

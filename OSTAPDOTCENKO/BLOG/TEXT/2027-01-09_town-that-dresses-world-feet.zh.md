@@ -12,6 +12,13 @@ tag: "观察"
 time: "6 分钟"
 slug: "town-that-dresses-world-feet"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2027-01-09_town-that-dresses-world-feet.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b94a6779-2c3d-4c35-9c4d-a3a765a246a4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright sock factory in Zhejiang: rows of modern circular knitting machines with colorful yarn cones work in the background, and in the foreground a smiling elderly worker shows a young colleague an old hand-cranked sock knitting machine kept as a memento, both laughing as a small striped sock appears, baskets of colorful socks nearby, warm daylight from high windows, wide 16:9 composition with a calm, uncluttered lower-left corner, warm grateful mood of the small things that dress the whole world. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 这是专栏的最后一篇。结尾我向来不会写。做广告的没有结尾，只有下一份需求简报。

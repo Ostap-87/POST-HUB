@@ -12,6 +12,13 @@ tag: "多肽"
 time: "6 分钟"
 slug: "little-red-book-weight-loss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2027-01-04_little-red-book-weight-loss.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c325ec4f-5554-44a1-869f-0e5b0bb79d2e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo on a riverside promenade in Shanghai in warm late-afternoon light: a group of young friends in sportswear jog together laughing, one of them filming the group on her phone held at arm's length, others giving a thumbs-up, the river and the skyline glowing behind, the phone screen not visible, wide 16:9 composition with a calm, uncluttered lower-left corner, upbeat mood: losing weight in a post is easy, in real life it takes friends and running shoes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 祸从口出。 ——老话。如今该挂在每位博主的补光灯上方。

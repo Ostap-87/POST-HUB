@@ -12,6 +12,13 @@ tag: "多肽"
 time: "5 分钟"
 slug: "small-molecule-big-markup"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-31_small-molecule-big-markup.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b5f6daf0-5336-418c-8c67-f8e527965c88"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright Shanghai apartment kitchen: an adult daughter and her elderly mother make dumplings together, laughing as the mother shows how to pinch the edges, flour on the wooden board, a pot steaming on the stove, the mother's smartphone lying dark on the windowsill, warm daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, tender warm mood: what she really needed was someone to talk with. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 秤砣虽小压千斤。 ——俗语。中国营销补充：分子越小，价格越大。

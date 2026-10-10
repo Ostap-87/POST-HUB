@@ -12,6 +12,13 @@ tag: "多肽"
 time: "5 分钟"
 slug: "pearls-before-pharma"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2027-01-07_pearls-before-pharma.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0c9ab1b5-78dd-4075-a997-d381976f8c90"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a bright materials lab in Xi'an: a smiling young chemist in a lab coat and nitrile gloves holds up a glass jar filled with tiny cream-colored polymer resin beads that glitter like pearls in the window light, a few beads spilled on the bench beside a loose string of pearl-like beads, glassware and a filter funnel in soft focus, wide 16:9 composition with a calm, uncluttered lower-left corner, warm proud mood of the beads the whole industry is strung on. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 不要把珍珠丢在猪前。 ——《马太福音》7:6。化学家读完想了想，开始以工业规模“丢珠子”

@@ -12,6 +12,13 @@ tag: "多肽"
 time: "5 分钟"
 slug: "hula-hoops-not-spaghetti"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2027-01-05_hula-hoops-not-spaghetti.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b9b17dae-8b38-4ee8-b75b-b63ac69e381c"
+image_cost: "0.5"
+image_logos: "PeptiDream"
+image_prompt: "Photorealistic creative still-life photo on a bright white laboratory bench: a coil of cooked spaghetti on a small white plate on one side, a colorful plastic hula hoop leaning against the bench on the other, between them a rack of tiny test tubes and a pipette, and in the soft-focus background an electric guitar standing in the corner of the lab, clean daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, playful witty mood: the ring holds its shape better than the noodle. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 大道至简。最好再首尾相连。 ——民间智慧，经化学家同行评审

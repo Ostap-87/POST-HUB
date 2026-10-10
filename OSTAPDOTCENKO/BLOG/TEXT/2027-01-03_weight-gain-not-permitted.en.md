@@ -12,6 +12,13 @@ tag: "Peptides"
 time: "5 min"
 slug: "weight-gain-not-permitted"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2027-01-03_weight-gain-not-permitted.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "993b8efb-7c54-4b58-83c8-0e73333ec34b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo in a bright hotel room in China in the morning: a white digital bathroom scale with a blank display stands on the wooden floor by the window, a guest's feet in white hotel slippers about to step onto it, running shoes and a bottle of water nearby, a bowl of fresh fruit on the side table, soft sunlight through sheer curtains, wide 16:9 composition with a calm, uncluttered lower-left corner, light humorous and encouraging mood: the state can place the scale, stepping on it is up to you. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > The state won’t let you get fat. But it never told you to get thin, either. — Liu Wei, a doctor at Shenyang First People’s Hospital, to Xinhua

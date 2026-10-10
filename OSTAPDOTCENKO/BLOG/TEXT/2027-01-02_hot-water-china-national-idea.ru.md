@@ -12,6 +12,13 @@ tag: "Наблюдения"
 time: "6 мин"
 slug: "hot-water-china-national-idea"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2027-01-02_hot-water-china-national-idea.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3fb71f7e-d6ab-42cd-8b1d-38ba8f737f86"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in the vestibule of a Chinese high-speed train: passengers queue calmly at a hot water boiler — a middle-aged man in a leather jacket fills a thermos with goji berries floating inside, a student holds a cup of instant noodles, a grandmother waits with a glass jar of tea leaves — all chatting and smiling, while through the door window the landscape streaks past in motion blur, soft daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, warm humorous mood of the calmest spot on the fastest train. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У нас национальную идею искали. Летом 1996 года, после выборов, президент поручил группе умных людей её придумать. Умные люди думали. Думали честно, долго, с перерывами на чай. Чай, обратите внимание, был горячий.

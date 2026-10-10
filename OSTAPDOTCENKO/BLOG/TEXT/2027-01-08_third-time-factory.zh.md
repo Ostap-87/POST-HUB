@@ -12,6 +12,13 @@ tag: "重新来过"
 time: "7 分钟"
 slug: "third-time-factory"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2027-01-08_third-time-factory.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6a9da2f8-9f35-4291-b4e3-cfe013b41d73"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright Chinese factory meeting room: the hands of a foreign buyer and a Chinese factory engineer both sign across a paper seal on a cardboard sample box, the signatures blurred and unreadable; on the table three versions of the same product — a rough first sample, an almost finished second one and a polished third — plus tea cups and a caliper, both people smiling, daylight from a window onto the workshop, wide 16:9 composition with a calm, uncluttered lower-left corner, warm confident mood: the third time is not bad luck but the method. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > 事不过三。工厂表示同意，并且每一次都单独开票。 ——作者笔记本，“会计与神学”一栏
