@@ -7,6 +7,13 @@ seo_title: "Боао Лэчэн и свободный порт Хайнань: �
 meta_description: "В пилотной зоне Боао Лэчэн на Хайнане разрешено применять лекарства и медизделия, ещё не зарегистрированные в Китае: впервые в стране там использовали больше 520 препаратов и устройств. Как устроена зона, при чём тут данные реальной практики и что изменил особый таможенный режим острова, запущенный 18 декабря 2025 года."
 slug: "island-where-mainland-rules-bend-boao-lecheng"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-24_island-where-mainland-rules-bend-boao-lecheng.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0bed92af-d6aa-4933-b2c1-3adad8c64dcf"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a modern hospital campus on a tropical island: white low hospital buildings among palm trees and lawns, a smiling patient in casual clothes walks with a nurse along a shaded path, blue sky and bright sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm optimistic mood of a medical zone where new treatments arrive first. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В каждой большой стране есть место, где правила чуть мягче. Обычно это курорт, иногда — особая экономическая зона, в редких случаях — дача начальника.

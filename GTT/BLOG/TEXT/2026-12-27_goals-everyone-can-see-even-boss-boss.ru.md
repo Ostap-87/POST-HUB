@@ -7,6 +7,13 @@ seo_title: "OKR в ByteDance и Feishu (Lark): открытые цели, «ко
 meta_description: "Как в ByteDance устроены OKR: двухмесячный цикл, цели любого сотрудника видны всем, принцип «контекст, а не контроль», совещания с молчаливым чтением в Feishu и реформа управления 2026 года. Что из этого применимо в обычной компании."
 slug: "goals-everyone-can-see-even-boss-boss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-27_goals-everyone-can-see-even-boss-boss.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3bee17dc-4154-4cc0-be36-b5e53b80eded"
+image_cost: "0.5"
+image_logos: "ByteDance"
+image_prompt: "Photorealistic candid photo in a bright meeting room of a large Chinese tech company: a team of young employees sits around a table silently reading the same document on their laptops at the start of a meeting, one woman smiles while typing a comment, a man nods, coffee cups and plants, laptop screens blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused open mood of goals everyone can see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В большинстве компаний цели руководства — государственная тайна. Их знает сам руководитель, его заместитель и секретарь, которая печатала презентацию. Остальные узнают о целях по косвенным признакам: по тому, кого вызвали на ковёр.

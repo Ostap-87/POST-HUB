@@ -7,6 +7,13 @@ seo_title: "Wahaha после Цзун Цинхоу: споры о наслед�
 meta_description: "Как напиточная компания Wahaha живёт после смерти основателя Цзун Цинхоу: Цзун Фули, госпакет 46 %, спор о товарном знаке, иски о трасте в Гонконге и Ханчжоу. Уроки преемственности для семейной компании."
 slug: "bottled-inheritance-how-wahaha-is-learning-live"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-26_bottled-inheritance-how-wahaha-is-learning-live.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "819e28f2-4199-451e-814b-093dd26b7754"
+image_cost: "0.5"
+image_logos: "Wahaha"
+image_prompt: "Photorealistic industrial photo in a bright Chinese beverage factory: a high-speed filling line with thousands of small white yogurt-drink bottles moving in neat rows, two smiling workers in white coats and caps check sample bottles, bottles without labels, clean even light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, steady optimistic mood of a family company continuing its work. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В семейном бизнесе есть документ важнее устава. Это завещание. Его не показывают инвесторам, не обсуждают на совете директоров и откладывают на потом. Потом наступает всегда неожиданно.

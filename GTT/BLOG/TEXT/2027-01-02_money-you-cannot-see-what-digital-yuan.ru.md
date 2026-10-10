@@ -7,6 +7,13 @@ seo_title: "Цифровой юань (e-CNY) в 2026 году: проценты
 meta_description: "Что стало с цифровым юанем e-CNY: с 1 января 2026 года на кошельки начисляют проценты, сколько кошельков и операций набрано к концу 2025 года, как работает трансграничная платформа mBridge и кто из неё вышел, почему Alipay и WeChat Pay по-прежнему впереди. Что это значит для иностранной компании."
 slug: "money-you-cannot-see-what-digital-yuan"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-02_money-you-cannot-see-what-digital-yuan.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1f496eea-b068-49dd-8b63-810bc352c6bb"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a Chinese New Year family gathering in a cozy apartment: grandparents laugh as they send digital red envelopes to their grandchildren's smartphones, a paper red envelope and tangerines on the table, children cheering with phones in hand, warm red decorations and lamps, screens blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm festive mood of money you cannot see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Деньги всегда стремились стать невидимыми. Сначала золото заменили бумагой, потом бумагу карточкой, потом карточку телефоном. В Китае этот путь прошли быстрее всех: наличные там давно стали чем-то вроде проводного телефона, вещью, которая где-то есть, но которой никто не пользуется.

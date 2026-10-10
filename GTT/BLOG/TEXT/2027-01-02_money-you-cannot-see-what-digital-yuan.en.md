@@ -7,6 +7,13 @@ seo_title: "China’s Digital Yuan (e-CNY) in 2026: Interest-Bearing Wallets, Tr
 meta_description: "What became of China’s e-CNY: wallets have earned interest since 1 January 2026, how many wallets and transactions it had by the end of 2025, how the mBridge cross-border platform works and who has left it, and why Alipay and WeChat Pay still lead. What it means for a foreign company."
 slug: "money-you-cannot-see-what-digital-yuan"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-02_money-you-cannot-see-what-digital-yuan.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1f496eea-b068-49dd-8b63-810bc352c6bb"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a Chinese New Year family gathering in a cozy apartment: grandparents laugh as they send digital red envelopes to their grandchildren's smartphones, a paper red envelope and tangerines on the table, children cheering with phones in hand, warm red decorations and lamps, screens blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm festive mood of money you cannot see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Money has always wanted to disappear. Gold gave way to paper, paper to plastic, plastic to the phone. China ran that course faster than anyone: cash there is now a bit like a landline, something that exists somewhere but nobody actually uses.

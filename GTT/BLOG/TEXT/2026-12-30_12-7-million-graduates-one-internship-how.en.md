@@ -7,6 +7,13 @@ seo_title: "Campus Recruitment in China (校招): Autumn and Spring Seasons, Int
 meta_description: "How campus hiring works in China: 12.7 million graduates in 2026, the autumn season for the class of 2027, ByteDance and Tencent internships, the rise of AI roles and youth unemployment. What employers elsewhere can borrow."
 slug: "12-7-million-graduates-one-internship-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-30_12-7-million-graduates-one-internship-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9dffaccc-baf4-45d5-a2ed-9943fc9353ee"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on the first day of an internship in a bright Chinese tech office: a group of young interns with new badges on lanyards follows a smiling mentor through an open-plan office, two interns laugh and take a photo, rows of desks with plants and monitors with blurred screens, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful excited mood of a career starting with an internship. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In some countries students look for a job after graduating. In China only the very self-assured do that. Everyone else starts a year before their degree, and the best start eighteen months ahead, through an internship.

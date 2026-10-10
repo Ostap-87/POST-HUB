@@ -7,6 +7,13 @@ seo_title: "Китай в 2026 году: десять деловых сюжет�
 meta_description: "Итоговый обзор блога Global Tech Tour: десять деловых сюжетов Китая 2026 года по данным на октябрь — роботы на заводах, рекордный экспорт автомобилей, «нэйцзюань», ИИ в торговле, роботакси, дроны, лицензии на лекарства, цифровой юань, 15-я пятилетка. Со ссылками на статьи серии."
 slug: "year-we-saw-for-ourselves-ten-business"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-05_year-we-saw-for-ourselves-ten-business.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "629542be-162f-4df2-9de6-59abdc5932d3"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo on a high observation deck in Shanghai at golden hour: a small group of Russian business travellers stands at the glass, pointing at the city and laughing, one takes a photo with his phone, the river and skyline spread out below in warm haze, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm satisfied mood of a year seen with our own eyes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Итоговые статьи принято писать в последние дни декабря, с бокалом в одной руке и годовым отчётом в другой. Мы пишем эту заранее, и в этом есть своя честность: все цифры ниже взяты по состоянию на октябрь 2026 года. Годовая статистика Китая выйдет в январе, и, если она что-то поменяет, мы об этом напишем.

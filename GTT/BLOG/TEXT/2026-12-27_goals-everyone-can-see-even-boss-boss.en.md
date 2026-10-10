@@ -7,6 +7,13 @@ seo_title: "ByteDance OKRs and Feishu (Lark): Open Goals, “Context, Not Contro
 meta_description: "How OKRs work at ByteDance: two-month cycles, goals visible to every employee, “context, not control”, silent-reading meetings in Feishu and the 2026 management reform. What an ordinary company can adopt."
 slug: "goals-everyone-can-see-even-boss-boss"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-27_goals-everyone-can-see-even-boss-boss.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3bee17dc-4154-4cc0-be36-b5e53b80eded"
+image_cost: "0.5"
+image_logos: "ByteDance"
+image_prompt: "Photorealistic candid photo in a bright meeting room of a large Chinese tech company: a team of young employees sits around a table silently reading the same document on their laptops at the start of a meeting, one woman smiles while typing a comment, a man nods, coffee cups and plants, laptop screens blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, focused open mood of goals everyone can see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In most companies, senior management’s goals are classified. The boss knows them, the deputy knows them, and so does the assistant who formatted the slides. Everyone else infers them from circumstantial evidence, mainly from who got called in on Monday.

@@ -7,6 +7,13 @@ seo_title: "Нэйцзюань (内卷) в Китае: кампания прот
 meta_description: "Что такое «нэйцзюань» и кампания против «инволюционной» конкуренции в Китае: закон о недобросовестной конкуренции, ценовые войны в автопроме, доставке еды и солнечной энергетике, что меняется для поставщиков и покупателей."
 slug: "running-faster-stay-still-what-neijuan-means"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-25_running-faster-stay-still-what-neijuan-means.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e1e15379-19b4-47a3-928d-12ca802bd859"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo on a Chinese city street of small coffee shops in the morning: three young owners of neighbouring cafés stand together outside their shops laughing and sharing coffee from each other's cups, a cyclist passes, signs blurred and unreadable, warm sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light friendly mood of competition that stops running on the spot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть слово, которое в Китае объясняет экономику лучше любой диаграммы. Слово это «нэйцзюань», 内卷. Переводят его как «инволюция», и перевод этот, как водится, ничего не объясняет.

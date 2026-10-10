@@ -7,6 +7,13 @@ seo_title: "Chinese Biotech Out-Licensing: 2025–2026 Deals, Akeso’s Ivonesci
 meta_description: "In 2025 Chinese drugmakers signed 157 out-licensing deals worth US$135.7 billion; the first half of 2026 added about US$110 billion more. How a country of generics became a source of molecules for global pharma, and what sits behind the headline numbers."
 slug: "from-generics-patents-why-global-pharma-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-21_from-generics-patents-why-global-pharma-is.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a8b9907f-3434-45f6-942b-b7a9bb480b00"
+image_cost: "0.5"
+image_logos: "Akeso, Hengrui"
+image_prompt: "Photorealistic documentary photo in a bright biotech laboratory in southern China: a smiling Chinese woman scientist in a lab coat shows a small vial of a new drug candidate to a Western pharmaceutical executive in a suit with a visitor badge, both smiling, lab benches with pipettes and a small bioreactor behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, optimistic mood of Chinese molecules bought by the world. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Ten years ago, “a Chinese drug” meant one of two things to a Western pharma executive. Herbs. Or a generic, interesting precisely because it cost less than the original.

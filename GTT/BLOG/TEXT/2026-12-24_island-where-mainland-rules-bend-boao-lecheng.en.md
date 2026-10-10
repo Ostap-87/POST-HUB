@@ -7,6 +7,13 @@ seo_title: "Boao Lecheng and Hainan Free Trade Port: Unapproved Drugs, Medical T
 meta_description: "In Hainan’s Boao Lecheng pilot zone, drugs and devices not yet registered in China may be used: more than 520 products have had their first use in the country there. How the zone works, why real-world data matters, and what the island-wide special customs regime launched on 18 December 2025 has changed."
 slug: "island-where-mainland-rules-bend-boao-lecheng"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-24_island-where-mainland-rules-bend-boao-lecheng.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "0bed92af-d6aa-4933-b2c1-3adad8c64dcf"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a modern hospital campus on a tropical island: white low hospital buildings among palm trees and lawns, a smiling patient in casual clothes walks with a nurse along a shaded path, blue sky and bright sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm optimistic mood of a medical zone where new treatments arrive first. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every large country has a place where the rules are a little softer. Usually it is a resort, sometimes a special economic zone, and occasionally the boss’s country house.

@@ -7,6 +7,13 @@ seo_title: "China’s Internet Hospitals: JD Health, Ping An Good Doctor and the
 meta_description: "China has more than 3,700 internet hospitals and about 130 million online consultations a year. How the online visit, prescription and delivery work, what the regulator allows, why AI may not write prescriptions, and how JD Health and Ping An Good Doctor actually make money."
 slug: "doctor-will-see-you-now-on-your"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-22_doctor-will-see-you-now-on-your.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ac614d6e-0473-4a92-b631-19eff091283a"
+image_cost: "0.5"
+image_logos: "JD Health, Ping An"
+image_prompt: "Photorealistic candid photo in a bright Chinese online clinic office: a young doctor in a white coat with a headset smiles during a video consultation on a large monitor where a patient sitting at home is visible, a second screen shows a blurred prescription form, colleagues at neighbouring desks consult in the same way, daylight, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm efficient mood of a doctor in your phone. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There is an old joke about telemedicine. The doctor on the video call asks the patient to open wide; the patient opens wide; and both stare at the laptop camera, unsure what happens next.

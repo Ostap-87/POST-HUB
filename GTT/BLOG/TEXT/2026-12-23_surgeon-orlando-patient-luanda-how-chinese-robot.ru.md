@@ -7,6 +7,13 @@ seo_title: "Телехирургия и робот Toumai (MicroPort MedBot): о
 meta_description: "В мае 2025 года китайский регулятор одобрил систему Toumai как первую в мире телехирургическую систему для коммерческого клинического применения. Как устроены удалённые операции, где граница между демонстрацией и практикой и почему 73% продаж MicroPort MedBot уже приходится на экспорт."
 slug: "surgeon-orlando-patient-luanda-how-chinese-robot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-23_surgeon-orlando-patient-luanda-how-chinese-robot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b241db2a-aebf-4739-83b7-5829f0c84581"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright hospital control room: a surgeon sits at a remote surgical console with a 3D viewer, hands on the master controllers, while two colleagues watch a large wall screen showing the remote operating room with the surgical robot arms over a patient far away, everyone focused with calm smiles, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful high-tech mood of surgery at a distance becoming normal practice. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Слово «удалённо» за последние годы прошло большой путь. Сначала удалённо работали программисты. Потом бухгалтеры. Потом все остальные, включая тех, кто уверял, что их работу удалённо делать невозможно.

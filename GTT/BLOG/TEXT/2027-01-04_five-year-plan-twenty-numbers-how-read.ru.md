@@ -7,6 +7,13 @@ seo_title: "15-й пятилетний план Китая 2026–2030: глав
 meta_description: "Что записано в 15-м пятилетнем плане Китая на 2026–2030 годы: 20 главных показателей, цифровая экономика, НИОКР, углеродная интенсивность, отрасли будущего от квантовых технологий до воплощённого ИИ, цели на 2026 год. Как читать такие документы предпринимателю."
 slug: "five-year-plan-twenty-numbers-how-read"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-04_five-year-plan-twenty-numbers-how-read.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b4928dcb-7ec4-4d61-ad65-1b9eaf05652f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo inside a bright Chinese high-speed train: a smiling businessman reads a thick printed report with a highlighter, pages blurred and unreadable, through the large window wind turbines and solar fields flash by on green hills, a cup of tea on the fold-down table, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, thoughtful optimistic mood of reading the country's five-year plan as a map. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У слова «пятилетка» в русском языке богатая биография. Пятилетку выполняли досрочно, в четыре года, а иногда, судя по отчётам, и в три. Поэтому, услышав, что Китай принял новый пятилетний план, наш читатель обычно улыбается. Улыбаться можно. Но лучше при этом читать: китайский план — не лозунг на заводской стене, а довольно точная карта того, куда страна будет направлять деньги, кредиты и внимание чиновников ближайшие пять лет.

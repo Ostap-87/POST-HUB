@@ -7,6 +7,13 @@ seo_title: "«Маленькие гиганты» и 专精特新 в Китае:
 meta_description: "Что такое программа 专精特新 и статус «маленького гиганта» в Китае: сколько таких компаний, какие требования к доле рынка и расходам на R&D, чем их поддерживают и почему они важны для иностранного покупателя и партнёра."
 slug: "small-firm-big-niche-how-china-grows"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-28_small-firm-big-niche-how-china-grows.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c21828d5-8449-4676-8eac-663c82efe1c0"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a small clean precision workshop: a technician holds a tiny ceramic sensor component with tweezers under a lit magnifying lens, smiling, trays of identical tiny parts and a microscope on the bench, soft white light, shallow depth of field, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, proud precise mood of a small company with a big niche. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Когда говорят о китайской промышленности, обычно называют гигантов: автоконцерны, производителей батарей, телеком. Их знают все, о них пишут все, на их заводы мечтают попасть все.

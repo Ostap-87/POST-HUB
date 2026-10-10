@@ -7,6 +7,13 @@ seo_title: "China in 2026: Ten Business Stories of the Year — Robots, Car Expo
 meta_description: "The Global Tech Tour blog’s year in review: ten business stories from China in 2026, based on data as of October — factory robots, record car exports, “involution”, AI in retail, robotaxis, drones, drug licensing deals, the digital yuan and the 15th Five-Year Plan. With links to the series."
 slug: "year-we-saw-for-ourselves-ten-business"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-05_year-we-saw-for-ourselves-ten-business.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "629542be-162f-4df2-9de6-59abdc5932d3"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo on a high observation deck in Shanghai at golden hour: a small group of Russian business travellers stands at the glass, pointing at the city and laughing, one takes a photo with his phone, the river and skyline spread out below in warm haze, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm satisfied mood of a year seen with our own eyes. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Year-in-review pieces are traditionally written in the last days of December, with a glass in one hand and an annual report in the other. We are writing this one early, which has its own kind of honesty: every number below is as of October 2026. China’s full-year statistics come out in January, and if they change the picture, we will say so.

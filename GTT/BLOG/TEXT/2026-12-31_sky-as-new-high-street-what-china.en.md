@@ -7,6 +7,13 @@ seo_title: "China’s Low-Altitude Economy: Meituan Delivery Drones, EHang eVTOL
 meta_description: "What China calls the low-altitude economy: the definition, official market estimates, registered drone numbers, Meituan’s drone delivery, the EHang EH216-S passenger eVTOL and its certificates, and the new regulators. Where it already works and where it is still a demo."
 slug: "sky-as-new-high-street-what-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-31_sky-as-new-high-street-what-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9b75da46-70b7-4b9a-acdf-9d47b37499b3"
+image_cost: "0.5"
+image_logos: "Meituan, EHang"
+image_prompt: "Photorealistic photo in a waterfront park in Shenzhen at golden hour: families on the lawn look up laughing as a delivery drone with a small food box flies low over the trees, far over the bay a small passenger multicopter air taxi crosses the sky, skyline in warm haze, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, wondering joyful mood of the sky becoming a new street. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 We were promised flying cars. The future has arrived, the cars are still on the ground, but lunch now flies. On reflection that is the more sensible order: lunch weighs less than a car and rarely argues with air traffic control.

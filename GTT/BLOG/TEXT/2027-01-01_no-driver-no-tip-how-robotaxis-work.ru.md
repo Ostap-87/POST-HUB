@@ -7,6 +7,13 @@ seo_title: "Роботакси в Китае в 2026 году: Apollo Go, Pony.a
 meta_description: "Как устроено роботакси в Китае: сколько поездок совершает Apollo Go от Baidu, сколько машин у Pony.ai, где WeRide работает с Uber, что изменилось в Ухане, Пекине, Гуанчжоу и Шэньчжэне, как компании выходят в ОАЭ и Европу. Что видит пассажир и что видит перевозчик."
 slug: "no-driver-no-tip-how-robotaxis-work"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-01_no-driver-no-tip-how-robotaxis-work.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "071505f1-5148-42bc-b50f-8847904f3f71"
+image_cost: "0.5"
+image_logos: "Baidu (Apollo Go), Pony.ai"
+image_prompt: "Photorealistic street photo on a sunny morning in a Beijing tech district: a smiling elderly couple gets into the back seat of a white robotaxi with a roof sensor unit, nobody in the driver's seat, the husband holds the door for his wife and laughs, wide clean street with trees, car without visible badges, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful everyday mood of taxis without drivers becoming a normal service. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Чаевых в китайском такси не дают и раньше не давали. Так что заголовок немного лукавит: без чаевых здесь ездили всегда. Новое в другом: теперь можно ехать и без того, кому их не дают.

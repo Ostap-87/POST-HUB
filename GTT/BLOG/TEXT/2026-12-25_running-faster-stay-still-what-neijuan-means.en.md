@@ -7,6 +7,13 @@ seo_title: "Neijuan (内卷) Explained: China’s 2025–2026 Campaign Against P
 meta_description: "What “involution” means in China and why Beijing launched a campaign against it: the revised competition law, price wars in cars, food delivery and solar, and what changes for suppliers and buyers."
 slug: "running-faster-stay-still-what-neijuan-means"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-25_running-faster-stay-still-what-neijuan-means.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e1e15379-19b4-47a3-928d-12ca802bd859"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo on a Chinese city street of small coffee shops in the morning: three young owners of neighbouring cafés stand together outside their shops laughing and sharing coffee from each other's cups, a cyclist passes, signs blurred and unreadable, warm sun, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light friendly mood of competition that stops running on the spot. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There is one Chinese word that explains the economy better than most charts. The word is neijuan, 内卷. It is usually translated as “involution”, a translation that clears up nothing at all.

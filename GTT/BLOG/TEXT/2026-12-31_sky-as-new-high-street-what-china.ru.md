@@ -7,6 +7,13 @@ seo_title: "Низковысотная экономика Китая: дроны
 meta_description: "Что такое низковысотная экономика Китая: определение, оценки рынка, число зарегистрированных дронов, доставка дронами Meituan, пассажирский eVTOL EHang EH216-S и его сертификаты, новые ведомства. Где это уже работает, а где пока демонстрация."
 slug: "sky-as-new-high-street-what-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-31_sky-as-new-high-street-what-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9b75da46-70b7-4b9a-acdf-9d47b37499b3"
+image_cost: "0.5"
+image_logos: "Meituan, EHang"
+image_prompt: "Photorealistic photo in a waterfront park in Shenzhen at golden hour: families on the lawn look up laughing as a delivery drone with a small food box flies low over the trees, far over the bay a small passenger multicopter air taxi crosses the sky, skyline in warm haze, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, wondering joyful mood of the sky becoming a new street. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В детстве нам обещали, что в будущем машины будут летать. Будущее наступило, машины не летают, зато летает обед. Это, если подумать, даже честнее: обед гораздо легче машины и почти никогда не спорит с диспетчером.

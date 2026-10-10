@@ -7,6 +7,13 @@ seo_title: "China’s 15th Five-Year Plan 2026–2030: Key Targets, Future Indus
 meta_description: "What China’s 15th Five-Year Plan for 2026–2030 actually says: 20 headline indicators, the digital economy, R&D, carbon intensity, future industries from quantum to embodied AI, and the 2026 annual targets. How a business owner should read documents like this."
 slug: "five-year-plan-twenty-numbers-how-read"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-04_five-year-plan-twenty-numbers-how-read.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b4928dcb-7ec4-4d61-ad65-1b9eaf05652f"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo inside a bright Chinese high-speed train: a smiling businessman reads a thick printed report with a highlighter, pages blurred and unreadable, through the large window wind turbines and solar fields flash by on green hills, a cup of tea on the fold-down table, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, thoughtful optimistic mood of reading the country's five-year plan as a map. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Five-year plans have an image problem in the West. They summon pictures of tractor statistics, heroic posters and targets that were always, somehow, overfulfilled. So when China adopts a new one, many readers smile. Smile by all means, but read it too. A Chinese plan is not a slogan on a factory wall. It is a fairly precise map of where the state will steer money, credit and official attention over the next five years.

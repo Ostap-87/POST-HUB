@@ -6,6 +6,13 @@ title: "Год по павильонам: календарь деловых вы
 meta_description: "Главные отраслевые выставки Китая в 2027 году по месяцам: автосалоны Пекина и Шанхая, CHINAPLAS, Кантонская ярмарка, CMEF, SNEC, WAIC и другие. Какие даты уже подтверждены, какие уточнять у организатора и как совместить выставку с визитами на заводы."
 slug: "year-exhibition-halls-china-business-trade-show"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-03_year-exhibition-halls-china-business-trade-show.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "212606be-74d3-4387-bc43-6e6ea5597517"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo of a gigantic modern exhibition and convention center in Shanghai with a distinctive four-leaf clover layout, crowds of visitors and buses at the entrances, green landscaping and wide roads around, bright clear day, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive busy mood of a year planned pavilion by pavilion. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Планировать поездку на китайскую выставку за год — занятие для оптимистов. Даты одних выставок объявляют за полтора года, других — за несколько месяцев, третьи переносят, переименовывают или меняют город. Китай вообще не любит стоять на месте, а его выставки — тем более.

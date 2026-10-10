@@ -7,6 +7,13 @@ seo_title: "Out-licensing китайских биотехов: сделки 2025
 meta_description: "В 2025 году китайские фармкомпании заключили 157 лицензионных сделок с зарубежными партнёрами на 135,7 млрд долларов, за первое полугодие 2026-го — ещё около 110 млрд. Как страна дженериков стала поставщиком молекул для мировой фармы и что стоит за большими цифрами."
 slug: "from-generics-patents-why-global-pharma-is"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-21_from-generics-patents-why-global-pharma-is.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a8b9907f-3434-45f6-942b-b7a9bb480b00"
+image_cost: "0.5"
+image_logos: "Akeso, Hengrui"
+image_prompt: "Photorealistic documentary photo in a bright biotech laboratory in southern China: a smiling Chinese woman scientist in a lab coat shows a small vial of a new drug candidate to a Western pharmaceutical executive in a suit with a visitor badge, both smiling, lab benches with pipettes and a small bioreactor behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, optimistic mood of Chinese molecules bought by the world. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Десять лет назад фраза «китайское лекарство» вызывала у западного фармацевта одну из двух реакций. Либо он думал о травах. Либо о дженерике, который стоит дешевле оригинала и именно этим интересен.

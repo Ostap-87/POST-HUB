@@ -7,6 +7,13 @@ seo_title: "Корпоративные университеты Китая: Ун
 meta_description: "Как устроены корпоративные университеты китайских компаний: «учёба плюс бой» в Университете Huawei, платное внутреннее обучение, адаптация новичков в Alibaba, университеты Haier и Tencent. Какие форматы корпоративного обучения работают за пределами Китая."
 slug: "study-then-battle-how-chinese-corporations-build"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-29_study-then-battle-how-chinese-corporations-build.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "80c0c066-a9f7-4a93-b5d4-c73eda7c9b9a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright corporate university lecture hall in Shenzhen: young employees in casual clothes in tiered seats laugh and raise hands, an experienced manager in a shirt teaches from the front with a real product in his hand, laptops open, big windows with greenery, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic mood of learning for real battles. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Корпоративное обучение во многих компаниях выглядит одинаково. Раз в год сотрудников собирают в конференц-зале гостиницы, приглашённый тренер рисует на флипчарте пирамиду, после обеда половина зала смотрит в телефоны, а вторая половина — в окно. В понедельник всё возвращается на свои места. Включая пирамиду.

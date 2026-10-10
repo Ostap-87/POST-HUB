@@ -6,6 +6,13 @@ title: "A Year in Exhibition Halls: China’s Business Trade Show Calendar for 2
 meta_description: "China’s key industry trade shows in 2027, month by month: the Beijing and Shanghai auto shows, CHINAPLAS, the Canton Fair, CMEF, SNEC, WAIC and more. Which dates are confirmed, which to check with the organiser, and how to combine a show with factory visits."
 slug: "year-exhibition-halls-china-business-trade-show"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2027-01-03_year-exhibition-halls-china-business-trade-show.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "212606be-74d3-4387-bc43-6e6ea5597517"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo of a gigantic modern exhibition and convention center in Shanghai with a distinctive four-leaf clover layout, crowds of visitors and buses at the entrances, green landscaping and wide roads around, bright clear day, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, impressive busy mood of a year planned pavilion by pavilion. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Planning a trip to a Chinese trade show a year ahead is a job for optimists. Some organisers announce dates eighteen months out, others a few months before; some shows move, change their name or switch cities. China does not like standing still, and its trade shows like it even less.

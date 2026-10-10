@@ -7,6 +7,13 @@ seo_title: "Кампусный найм в Китае (校招): осенний �
 meta_description: "Как устроен кампусный найм в Китае: 12,7 млн выпускников 2026 года, осенний сезон для выпуска 2027 года, стажировки ByteDance и Tencent, доля ИИ-вакансий и безработица среди молодёжи. Что из этой системы может взять работодатель."
 slug: "12-7-million-graduates-one-internship-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-12-30_12-7-million-graduates-one-internship-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9dffaccc-baf4-45d5-a2ed-9943fc9353ee"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on the first day of an internship in a bright Chinese tech office: a group of young interns with new badges on lanyards follows a smiling mentor through an open-plan office, two interns laugh and take a photo, rows of desks with plants and monitors with blurred screens, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, hopeful excited mood of a career starting with an internship. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть страны, где студент ищет работу после диплома. В Китае так поступают только очень уверенные в себе люди. Остальные начинают искать за год до диплома, а лучшие — за полтора, через стажировку.
