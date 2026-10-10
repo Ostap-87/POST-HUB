@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Лекарства уезжают за границу по лицензии"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-23_0900_lekarstva-uezzhayut-granitsu-litsenzii.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8295ed99-ac04-4985-8619-1014a825f727"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a bright meeting room of a Chinese pharmaceutical company: a smiling Chinese executive and a Western executive shake hands over a table with a closed contract folder and a small dish of white round tablets, through the glass wall behind them scientists in lab coats work in a bright research laboratory, crisp daylight, confident optimistic businesslike mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Лекарства уезжают за границу по лицензии**

@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: очки думают, экскаватор молчит, верфи заняты"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-19_1800_itogi-ochki-dumayut-ekskavator-molchit-verfi.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9412cf2a-9025-4618-924e-7a47121cbbc8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo of a business traveler wearing slim smart glasses, seen from behind and slightly to the side, standing at a sunny hilltop viewpoint above a busy Chinese port and shipyard: a half-built ship in a dry dock, car carrier ships and container cranes in the distance, bright afternoon light, optimistic forward-looking mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: очки думают, экскаватор молчит, верфи заняты**

@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Обед прилетает за десять минут"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-20_0900_obed-priletaet-desyat-minut.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bc8ce5b3-3c16-49db-a28d-4248ed85b4ea"
+image_cost: "0.5"
+image_logos: "Meituan"
+image_prompt: "Photorealistic photo on the riverside of Shanghai's West Bund at lunchtime: a white delivery drone carrying a small sealed food box descends onto a compact drone delivery station kiosk, smiling office workers in shirts waiting nearby and chatting with phones in hand, modern buildings and a riverside promenade behind, signs blurred and unreadable, bright midday light, cheerful everyday mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Обед прилетает за десять минут**

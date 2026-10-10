@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Выставки и события"
 title: "Automechanika Shanghai: всё, что внутри машины"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-24_1800_automechanika-shanghai-vse-chto-vnutri-mashiny.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ddecc444-08ac-4c90-ba3f-3529ae6ceca6"
+image_cost: "0.5"
+image_logos: "Automechanika Shanghai"
+image_prompt: "Photorealistic documentary photo at a huge auto parts trade fair in Shanghai: a supplier's booth table covered with brake discs, wiring harnesses, sensors, filters and electronic control units, a buyer and the supplier both smiling as they examine a sensor sample together, a cutaway car chassis displayed behind, endless halls fading into the distance, booth signs blurred and unreadable, bright exhibition lighting, energetic businesslike mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Automechanika Shanghai: всё, что внутри машины**

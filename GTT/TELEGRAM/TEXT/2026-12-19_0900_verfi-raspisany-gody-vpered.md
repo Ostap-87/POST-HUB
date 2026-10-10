@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Верфи расписаны на годы вперёд"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-19_0900_verfi-raspisany-gody-vpered.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6f666862-dc45-4e52-ad4d-bc3548b29104"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo of a giant tanker hull under construction in a dry dock at a Chinese shipyard, low angle: the grey steel wall of the hull rising as high as a building, a huge gantry crane overhead, tiny workers in orange hard hats welding at the bottom with bright sparks, bright morning sunlight, overwhelming sense of scale, proud upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Верфи расписаны на годы вперёд**

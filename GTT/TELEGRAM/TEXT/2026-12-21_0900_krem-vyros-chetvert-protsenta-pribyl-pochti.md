@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Крем вырос на четверть процента, прибыль — почти наполовину"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-21_0900_krem-vyros-chetvert-protsenta-pribyl-pochti.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7b1614b0-1801-4220-a1fd-eba6d53e23cb"
+image_cost: "0.5"
+image_logos: "Proya"
+image_prompt: "Photorealistic industrial photo inside a modern bright cosmetics factory in China: a filling line with hundreds of small white cream jars moving on a conveyor, a machine nozzle filling them with pale cream, workers in white gowns, hairnets and masks chatting cheerfully as they inspect the jars, spotless stainless steel, soft bright clean light, precise upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Крем вырос на четверть процента, прибыль — почти наполовину**

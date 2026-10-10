@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Отрасль недели"
 title: "Стройка и тяжмаш: экскаватор, которым управляют из офиса"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-12-20_1800_stroyka-tyazhmash-ekskavator-kotorym-upravlyayut.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9484b18-8eca-47ab-ac17-2b6c4c49173f"
+image_cost: "0.5"
+image_logos: "SANY"
+image_prompt: "Photorealistic photo over the shoulder of a remote excavator operator in a bright office: a relaxed man in a polo shirt smiles slightly as he sits in an ergonomic chair with two joysticks, three large monitors in front of him show a live camera view of an excavator bucket digging earth at a distant construction site, no numbers or letters on the screens, a thermos and a stack of papers on the desk, soft daylight, relaxed confident mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Стройка и тяжмаш: экскаватор, которым управляют из офиса**
