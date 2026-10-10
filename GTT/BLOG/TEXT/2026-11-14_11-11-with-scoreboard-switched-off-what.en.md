@@ -7,6 +7,13 @@ seo_title: "Singles’ Day 11.11 in China: No Official Totals, Instant Delivery 
 meta_description: "How China’s Singles’ Day has changed: why Alibaba and JD stopped publishing sales totals, how the event stretched to five weeks, what Syntun data showed for 2024 and 2025, why instant delivery and AI assistants joined the game, and what it all says about the Chinese consumer."
 slug: "11-11-with-scoreboard-switched-off-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-14_11-11-with-scoreboard-switched-off-what.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3671f76c-6f44-464b-9838-734ffebb270a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at night on November 11 in a residential compound in Hangzhou: a smiling delivery rider in a plain helmet hands a paper bag of groceries and a small parcel to a young woman at the entrance of her building just minutes after she ordered, she laughs with her phone in hand, scooters and lit apartment windows behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful mood of a shopping festival that became fast and everyday. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Some holidays grow longer with age. Christmas in Western retail now begins somewhere around Halloween. China’s Singles’ Day has taken the same road, only faster and with much better logistics.

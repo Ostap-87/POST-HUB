@@ -6,6 +6,13 @@ title: "Без визы, но не без бумаг: что проверить 
 meta_description: "Безвизовый въезд в Китай для россиян, транзит на 240 часов, электронная карта прибытия, регистрация по месту проживания, поезда и перелёты внутри страны. Что проверить за месяц до вылета, по официальным источникам."
 slug: "visa-free-is-not-paperwork-free-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-09_visa-free-is-not-paperwork-free-what.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "88cba771-a005-42ca-b4a0-84747e69efd2"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in the bright arrival hall of a large modern Chinese airport: a smiling Russian business traveller with a carry-on suitcase holds his passport and phone at a border control counter, the officer returns the passport with a polite smile, the huge airy terminal with a wavy white ceiling behind, signs blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, relieved cheerful mood of a trip prepared a month in advance. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Раньше подготовка к поездке в Китай начиналась с визового центра. Анкета, фотография на белом фоне, справка с работы, очередь и тихая надежда, что паспорт вернут до вылета, а не после.

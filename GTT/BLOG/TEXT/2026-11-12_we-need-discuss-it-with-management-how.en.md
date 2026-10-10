@@ -6,6 +6,13 @@ title: "“We Need to Discuss It with Management”: How Negotiations with a Chi
 meta_description: "The stages of negotiating with a Chinese company, from first meeting to signed contract: roles, status, pauses, guanxi and face, what “we need to discuss it with management” means, and why the company chop matters more than a signature."
 slug: "we-need-discuss-it-with-management-how"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-12_we-need-discuss-it-with-management-how.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "18056463-1469-4463-9e05-5e7bb5298fcc"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo at a negotiation table in a Chinese company meeting room: a hand presses a red round company seal onto a contract page with blurred unreadable text, around it hands of both teams with pens, porcelain cups of tea and a small dish of fruit, smiling faces softly out of focus in the background, warm light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, satisfying mood of the moment the seal matters more than the signature. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Western negotiations often work like a staircase: agree on one point, step up to the next. Chinese negotiations look more like a banquet table with a turntable in the middle. Every issue sits on the table at once, and you never know which one will rotate towards you next.

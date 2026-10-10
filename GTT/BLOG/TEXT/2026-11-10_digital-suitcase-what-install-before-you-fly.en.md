@@ -6,6 +6,13 @@ title: "The Digital Suitcase: What to Install Before You Fly to China"
 meta_description: "WeChat, Alipay, mobile data, maps and ride-hailing in China: what to install and set up before a business trip, how foreigners pay, and which familiar apps will not work. A Global Tech Tour checklist."
 slug: "digital-suitcase-what-install-before-you-fly"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-10_digital-suitcase-what-install-before-you-fly.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1bf9baf8-87b5-41b8-89d0-a617ab013ee4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a breakfast stall in a Shanghai lane in the morning: a Russian business traveller in a light jacket scans the vendor's payment code with his smartphone while the laughing vendor hands him a hot savory crepe in a paper bag, steam rising from the griddle, locals on bicycles passing, signs blurred and unreadable, warm morning light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, playful successful mood of a phone that works as a wallet. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 For an ordinary business trip you pack an ordinary suitcase: a suit, shirts, and a charger you will forget anyway. For China you need a second suitcase, a digital one. It weighs nothing, but forget it and you may as well not unpack the first. Without a properly set-up phone in China you cannot book a taxi, pay for a coffee or find the factory that is “just past the bridge”.

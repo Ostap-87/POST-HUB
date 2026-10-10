@@ -6,6 +6,13 @@ title: "Lost in Translation on the Shop Floor: How to Work with an Interpreter a
 meta_description: "How to work with an interpreter at business meetings and factory visits in China: briefing and glossary, pacing, numbers in wan and yi, what the interpreter should never decide for you, and why consecutive interpreting doubles meeting time."
 slug: "lost-translation-on-shop-floor-how-work"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-13_lost-translation-on-shop-floor-how-work.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dda098be-e89c-4cd4-9c66-98b863a2ec55"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on a bright Chinese factory floor next to a large machine: a young woman interpreter with a small notebook stands between a Russian engineer in a white hard hat and a Chinese foreman, translating, all three laughing at a joke, the interpreter's notebook shows a blurred handwritten glossary, workers and machines in soft focus behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, warm mood of understanding each other through a good interpreter. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In any meeting with Chinese partners there is one person who matters more than the CEO. They make no decisions, sign nothing and usually sit slightly behind everyone else. It is the interpreter.

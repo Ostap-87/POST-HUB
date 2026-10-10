@@ -7,6 +7,13 @@ seo_title: "«Шесть тигров» китайского ИИ в 2026 год
 meta_description: "Zhipu и MiniMax на Гонконгской бирже, Moonshot и StepFun готовят IPO, Baichuan ушёл в медицину, 01.AI перестал обучать свои модели. Что история «шести тигров» значит для компании, которая выбирает китайского ИИ-партнёра. Цифры на октябрь 2026 года."
 slug: "skinning-tiger-you-haven-t-caught-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-05_skinning-tiger-you-haven-t-caught-what.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "65d7fa3f-6d3c-4a6b-89d2-c6783b0716ea"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a bright startup office in Beijing's tech district: a small group of investors and partners in smart casual clothes stand at a big window and discuss with lively smiles, a large monitor behind shows only abstract rising line charts without numbers or letters, on the table a small ceramic tiger figurine among coffee cups and notebooks, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, thoughtful optimistic mood of choosing an AI partner who will still be there. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Когда руководитель спрашивает, какая китайская ИИ-компания победит, он обычно задаёт не тот вопрос. Победителя назовут потом, задним числом, и обязательно скажут, что это было очевидно. Правильный вопрос скромнее: кто из них будет на месте, когда закончится ваш контракт.

@@ -6,6 +6,13 @@ title: "Китай покупает, Китай строит: CIIE и bauma Chin
 meta_description: "Две большие ноябрьские выставки Шанхая: импортная CIIE и строительная bauma China. Даты 2026 года, чем выставки отличаются, почему совместить их получается не каждый год и как построить поездку с визитами на заводы спецтехники. Даты 2027 года уточняйте у организаторов."
 slug: "china-buys-china-builds-ciie-bauma-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-04_china-buys-china-builds-ciie-bauma-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a6ae7b8c-90ce-4948-b134-4a37e3872ccd"
+image_cost: "0.5"
+image_logos: "bauma CHINA"
+image_prompt: "Photorealistic editorial photo at the outdoor exhibition area of a construction machinery fair in Shanghai on a sunny late-November day: huge yellow and red excavators, a crane boom and concrete pump trucks stand in rows under a clear blue sky, a small group of foreign business visitors with lanyards walks among them, one woman pointing up at an excavator arm and laughing, signs and banners blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic inspiring mood of China building. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Ноябрь в Шанхае — месяц, когда город примеряет две роли сразу. В начале месяца Китай покупает: на Международной импортной выставке CIIE иностранные компании показывают товары китайскому покупателю. В конце месяца — раз в два года — Китай строит: на bauma China экскаваторы, краны и бетононасосы стоят так плотно, что сама выставка напоминает стройку.

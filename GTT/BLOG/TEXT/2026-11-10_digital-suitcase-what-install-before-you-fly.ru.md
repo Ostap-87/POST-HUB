@@ -6,6 +6,13 @@ title: "Цифровой чемодан: что установить до выл
 meta_description: "WeChat, Alipay, мобильная связь, карты и такси в Китае: что установить и настроить до деловой поездки, как платят иностранцы и почему российские карты UnionPay работают через раз. Чек-лист Global Tech Tour."
 slug: "digital-suitcase-what-install-before-you-fly"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-10_digital-suitcase-what-install-before-you-fly.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1bf9baf8-87b5-41b8-89d0-a617ab013ee4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a breakfast stall in a Shanghai lane in the morning: a Russian business traveller in a light jacket scans the vendor's payment code with his smartphone while the laughing vendor hands him a hot savory crepe in a paper bag, steam rising from the griddle, locals on bicycles passing, signs blurred and unreadable, warm morning light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, playful successful mood of a phone that works as a wallet. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В обычную командировку собирают обычный чемодан: костюм, рубашки, зарядку, которую всё равно забудут. В Китай нужен второй чемодан, цифровой. Он ничего не весит, но если его забыть, первый можно не распаковывать: без телефона в Китае вы не закажете такси, не заплатите за кофе и не найдёте завод, который «сразу за мостом».

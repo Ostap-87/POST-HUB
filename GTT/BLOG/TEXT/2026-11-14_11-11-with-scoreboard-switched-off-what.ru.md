@@ -7,6 +7,13 @@ seo_title: "День холостяка 11.11 в Китае: распродаж�
 meta_description: "Как изменился «День холостяка» 11.11: почему Alibaba и JD перестали публиковать оборот, как распродажа растянулась на пять недель, что показали данные Syntun за 2024 и 2025 годы, зачем в игру вошли мгновенная доставка и ИИ-ассистенты и что это говорит о китайском покупателе."
 slug: "11-11-with-scoreboard-switched-off-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-14_11-11-with-scoreboard-switched-off-what.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3671f76c-6f44-464b-9838-734ffebb270a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at night on November 11 in a residential compound in Hangzhou: a smiling delivery rider in a plain helmet hands a paper bag of groceries and a small parcel to a young woman at the entrance of her building just minutes after she ordered, she laughs with her phone in hand, scooters and lit apartment windows behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, joyful mood of a shopping festival that became fast and everyday. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть праздники, которые со временем становятся длиннее. Новый год у нас, например, давно уже не ночь, а агрегатное состояние, в котором страна пребывает до середины января. Китайский «День холостяка» пошёл тем же путём, только быстрее и с куда лучшей логистикой.

@@ -7,6 +7,13 @@ seo_title: "DeepSeek для бизнеса: история High-Flyer и Лян 
 meta_description: "Как ханчжоуская лаборатория при квантовом фонде заставила рынок пересчитать стоимость ИИ: модели DeepSeek от V3 до V4.1-Flash, открытые веса под лицензией MIT, цены API на октябрь 2026 года, опыт внедрения в китайских компаниях и вопросы, которые стоит задать в Ханчжоу."
 slug: "tokens-are-cheaper-than-meetings-what-deepseek"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-01_tokens-are-cheaper-than-meetings-what-deepseek.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bde0aaa8-2e00-4160-8918-ecca0feb5571"
+image_cost: "0.5"
+image_logos: "DeepSeek"
+image_prompt: "Photorealistic candid photo in a sunny modern office in Hangzhou with a window view of green hills and a lake: in the background a long conference table with neatly pushed-in empty chairs, in the foreground two young colleagues at a small standing desk with a laptop laugh as they solve a task in minutes, a third colleague brings them coffee, the laptop screen is blurred with no readable characters, bright natural light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light energetic mood of AI that costs less than a meeting. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Ещё недавно искусственный интеллект в бюджете компании выглядел как строка «инновации»: сумма круглая, смысл туманный, отчитываться по ней никто не собирался. Потом пришёл [DeepSeek](/companies/deepseek), и строку пришлось разбить на части. Выяснилось, что сам интеллект стоит копейки. Дорого стоит всё вокруг него.

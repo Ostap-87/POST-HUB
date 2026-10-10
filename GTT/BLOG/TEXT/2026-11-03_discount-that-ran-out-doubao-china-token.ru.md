@@ -7,6 +7,13 @@ seo_title: "Doubao и Volcano Engine: как ByteDance сделала ИИ ма�
 meta_description: "Как ByteDance с помощью Doubao и облака Volcano Engine сделала ИИ самым массовым продуктом Китая, чем кончилась ценовая война токенов, почему в 2026 году цены пошли вверх, кто лидирует на рынке по разным подсчётам и что из этого следует для компании, которая покупает ИИ."
 slug: "discount-that-ran-out-doubao-china-token"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-03_discount-that-ran-out-doubao-china-token.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "78f2838c-8c1f-4409-9e21-7b1859984218"
+image_cost: "0.5"
+image_logos: "ByteDance"
+image_prompt: "Photorealistic documentary photo inside a bright Beijing metro carriage in the morning: commuters of different ages hold smartphones and chat with AI assistants, the screens blurred and unreadable, a young woman smiles at her phone, an older man shows his screen to a neighbour and both laugh, soft motion blur of the tunnel lights through the windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively everyday mood of AI as the most mass product in the country. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Любой закупщик знает: самая опасная скидка — та, к которой успел привыкнуть. Пока она действует, под неё перестраивают бюджет, процессы и ожидания начальства. А потом приходит письмо «в связи с изменением рыночной конъюнктуры» и вежливо возвращает всё на место. Только бюджет уже не на месте.

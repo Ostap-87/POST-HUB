@@ -7,6 +7,13 @@ seo_title: "China’s “Six AI Tigers” in 2026: Zhipu, MiniMax, Moonshot, Ste
 meta_description: "Zhipu and MiniMax are listed in Hong Kong, Moonshot and StepFun are preparing IPOs, Baichuan moved into medicine and 01.AI stopped training its own models. What the “Six Tigers” story means for a company choosing a Chinese AI partner. Figures as of October 2026."
 slug: "skinning-tiger-you-haven-t-caught-what"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-05_skinning-tiger-you-haven-t-caught-what.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "65d7fa3f-6d3c-4a6b-89d2-c6783b0716ea"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo in a bright startup office in Beijing's tech district: a small group of investors and partners in smart casual clothes stand at a big window and discuss with lively smiles, a large monitor behind shows only abstract rising line charts without numbers or letters, on the table a small ceramic tiger figurine among coffee cups and notebooks, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, thoughtful optimistic mood of choosing an AI partner who will still be there. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 When executives ask which Chinese AI company will win, they are usually asking the wrong question. The winner will be named later, in hindsight, and everyone will say it was obvious. The right question is humbler: which of them will still be around when your contract runs out?

@@ -7,6 +7,13 @@ seo_title: "Alibaba’s Qwen for Business: Apache 2.0 Open Models, Alibaba Cloud
 meta_description: "Why Alibaba open-sources its Qwen models, how Alibaba Cloud makes money from them, what the 2026 Apsara Conference revealed, how the Qwen app learned to order and pay through Taobao and Alipay, and what that means for manufacturers and sellers."
 slug: "keys-shop-window-why-alibaba-gives-away"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-02_keys-shop-window-why-alibaba-gives-away.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8b5f900a-aaaa-499c-aa83-e904452c068b"
+image_cost: "0.5"
+image_logos: "Alibaba"
+image_prompt: "Photorealistic candid photo in a bright modern apartment in Hangzhou: a smiling young Chinese woman sits on a sofa holding her smartphone with a blurred chat on the screen, while at the open front door a courier in a plain jacket hands her husband a parcel, he laughs and holds it up to show her, warm afternoon light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, delighted everyday mood of an AI assistant that orders and pays by itself. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In business, “free” rarely travels alone. It comes with a contract, an appendix to the contract, and someone who calls a month later to check that everything is to your satisfaction. So when China’s biggest technology company spends years giving away its language models, an executive’s first question is the right one: where is the till?

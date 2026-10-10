@@ -6,6 +6,13 @@ title: "Завод — не музей: как подготовиться к в�
 meta_description: "Как подготовить деловой визит на китайский завод: цели и вопросы, состав делегации, что отправить заранее, этикет в цеху, переговоры и работа после поездки. Чек-лист Global Tech Tour."
 slug: "factory-is-not-museum-how-prepare-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-08_factory-is-not-museum-how-prepare-for.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3777f93a-09ff-40c8-ae81-d199b99f314a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright changing area at the entrance to a Chinese factory: a Russian business delegation puts on white hard hats, visitor vests and blue shoe covers, one man laughs while hopping on one foot pulling on a shoe cover, a smiling Chinese host hands out safety glasses, lockers and a glass wall with the production hall visible behind, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, friendly prepared mood before a factory visit. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть два способа съездить на китайский завод. Первый: прилететь, надеть бахилы, пройти по цеху, сфотографироваться у логотипа и улететь с ощущением, что всё видел. Второй: сделать то же самое, но заранее знать, зачем.

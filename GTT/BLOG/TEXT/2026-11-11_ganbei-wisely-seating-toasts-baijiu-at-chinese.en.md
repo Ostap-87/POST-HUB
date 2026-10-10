@@ -6,6 +6,13 @@ title: "Ganbei, Wisely: Seating, Toasts and Baijiu at a Chinese Business Banquet
 meta_description: "A business banquet in China: who sits where, how toasts work, what “ganbei” really means, how to handle 50-plus-proof baijiu and how to decline without causing offence. Dining etiquette for business travellers."
 slug: "ganbei-wisely-seating-toasts-baijiu-at-chinese"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-11_ganbei-wisely-seating-toasts-baijiu-at-chinese.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8afdb823-8df0-482f-b855-09c294792b46"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic overhead photo of a round banquet table in a private room of a Chinese restaurant: a glass lazy Susan filled with colorful dishes — Peking duck, fish, dumplings, greens — and around the edge many hands from both sides raise small glasses of clear liquor and cups of tea toward the center in a toast, white tablecloth, warm golden light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, festive friendly mood of a well-mannered business banquet. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A business trip to China comes in two halves: day and evening. During the day you inspect the factory. In the evening, the factory inspects you.

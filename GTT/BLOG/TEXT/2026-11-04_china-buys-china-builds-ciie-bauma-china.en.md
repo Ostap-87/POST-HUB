@@ -6,6 +6,13 @@ title: "China Buys, China Builds: CIIE and bauma China in a Shanghai November"
 meta_description: "Shanghai’s two big November trade shows: the CIIE import expo and the bauma China construction machinery fair. 2026 dates, how the shows differ, why you cannot combine them every year, and how to plan a trip with visits to construction equipment makers. Check 2027 dates with the organisers."
 slug: "china-buys-china-builds-ciie-bauma-china"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-04_china-buys-china-builds-ciie-bauma-china.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a6ae7b8c-90ce-4948-b134-4a37e3872ccd"
+image_cost: "0.5"
+image_logos: "bauma CHINA"
+image_prompt: "Photorealistic editorial photo at the outdoor exhibition area of a construction machinery fair in Shanghai on a sunny late-November day: huge yellow and red excavators, a crane boom and concrete pump trucks stand in rows under a clear blue sky, a small group of foreign business visitors with lanyards walks among them, one woman pointing up at an excavator arm and laughing, signs and banners blurred and unreadable, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, energetic inspiring mood of China building. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 November in Shanghai is the month the city plays two roles at once. Early in the month, China buys: at the China International Import Expo, foreign companies show their goods to Chinese buyers. Late in the month, every other year, China builds: at bauma China, excavators, cranes and concrete pumps stand so close together that the show itself looks like a construction site.

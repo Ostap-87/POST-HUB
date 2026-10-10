@@ -7,6 +7,13 @@ seo_title: "Внедрение ИИ в Китае 2025–2026: заводы, б�
 meta_description: "Как китайские компании применяют большие модели и ИИ-агентов в работе: завод TCL с двумя тысячами агентов, 856 сценариев в China Merchants Bank, DeepSeek в ведущих больницах, «ИИ-сотрудники» района Футянь и агенты для продавцов Tmall. Цифры с датами и вопросы, которые стоит задать на месте."
 slug: "model-clocks-where-chinese-ai-works-instead"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-06_model-clocks-where-chinese-ai-works-instead.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "34139da6-faf1-451d-9640-40f646e83594"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a small bright home warehouse of an online sock seller in Zhejiang: shelves full of colorful socks in clear bags, a smiling young woman seller packs an order while glancing at her laptop where an AI assistant answers customers in a blurred chat window, a ring light and a phone on a tripod beside her, daylight from a window, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful hardworking mood of AI that quietly works for a small business. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Искусственный интеллект умеет две вещи: работать и выступать. Выступает он прекрасно. На конференциях он пишет стихи, рисует котов в стиле гохуа и отвечает на вопросы ведущего быстрее, чем тот успевает их задать.

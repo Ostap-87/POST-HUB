@@ -7,6 +7,13 @@ seo_title: "ИИ в Китае своими глазами: что смотре�
 meta_description: "Пекин — столица больших моделей, Ханчжоу — город облака и вычислительных ваучеров, Шэньчжэнь — ИИ внутри устройств. Цифры 2025–2026 годов, на что смотреть в каждом городе и какие вопросы задать, чтобы привезти из поездки не впечатления, а решения."
 slug: "going-china-get-smarter-ai-expedition-beijing"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-07_going-china-get-smarter-ai-expedition-beijing.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "099f325d-6c51-40a2-a61d-1200346a36af"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright AI incubator café in Hangzhou: a Russian business delegation with visitor lanyards chats with young Chinese founders around a wooden table with laptops, a short queue at the coffee machine behind them, plants and glass walls, everyone smiling and gesturing, laptop screens blurred, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, curious inspiring mood of a trip to see where AI is really made. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 У искусственного интеллекта есть неприятная для путешественника особенность: его нельзя потрогать. Робота можно сфотографировать, завод можно обойти, автомобиль можно хотя бы пнуть по колесу. Модель живёт в серверной, а в серверную, как правило, не водят. Да и смотреть там не на что: шкафы, лампочки, холодно.

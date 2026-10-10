@@ -7,6 +7,13 @@ seo_title: "DeepSeek for Business: High-Flyer and Liang Wenfeng, V3, R1, V4 and 
 meta_description: "How a Hangzhou lab spun out of a quant fund made the market recalculate the cost of AI: DeepSeek models from V3 to V4.1-Flash, MIT-licensed open weights, API prices as of October 2026, what adoption looked like inside Chinese companies, and the questions worth asking in Hangzhou."
 slug: "tokens-are-cheaper-than-meetings-what-deepseek"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-01_tokens-are-cheaper-than-meetings-what-deepseek.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bde0aaa8-2e00-4160-8918-ecca0feb5571"
+image_cost: "0.5"
+image_logos: "DeepSeek"
+image_prompt: "Photorealistic candid photo in a sunny modern office in Hangzhou with a window view of green hills and a lake: in the background a long conference table with neatly pushed-in empty chairs, in the foreground two young colleagues at a small standing desk with a laptop laugh as they solve a task in minutes, a third colleague brings them coffee, the laptop screen is blurred with no readable characters, bright natural light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light energetic mood of AI that costs less than a meeting. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Not long ago, AI sat in most company budgets as a single line called “innovation”: a round number, a vague purpose and no one expecting to report on it. Then [DeepSeek](/en/companies/deepseek) arrived, and the line had to be broken down. The intelligence itself, it turned out, costs pennies. Everything around it does not.

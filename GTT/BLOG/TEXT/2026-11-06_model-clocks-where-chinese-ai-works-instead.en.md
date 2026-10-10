@@ -7,6 +7,13 @@ seo_title: "AI Adoption in China 2025–2026: Factories, Banks, Hospitals, Publi
 meta_description: "How Chinese companies put large models and AI agents to work: a TCL plant running 2,000 agents, 856 use cases at China Merchants Bank, DeepSeek in leading hospitals, Futian’s “AI civil servants” and agent teams for Tmall sellers. Dated figures, plus the questions to ask on site."
 slug: "model-clocks-where-chinese-ai-works-instead"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-06_model-clocks-where-chinese-ai-works-instead.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "34139da6-faf1-451d-9640-40f646e83594"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a small bright home warehouse of an online sock seller in Zhejiang: shelves full of colorful socks in clear bags, a smiling young woman seller packs an order while glancing at her laptop where an AI assistant answers customers in a blurred chat window, a ring light and a phone on a tripod beside her, daylight from a window, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cheerful hardworking mood of AI that quietly works for a small business. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Artificial intelligence can do two things: work and perform. It performs beautifully. At conferences it writes poems, paints cats in the style of classical ink painting and answers the host’s questions before he has finished asking them.

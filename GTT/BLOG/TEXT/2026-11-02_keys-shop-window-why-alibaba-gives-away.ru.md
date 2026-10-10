@@ -7,6 +7,13 @@ seo_title: "Qwen от Alibaba для бизнеса: открытые модел
 meta_description: "Почему Alibaba выкладывает модели Qwen в открытый доступ, как на этом зарабатывает облако Alibaba Cloud, что показала конференция Apsara 2026, как приложение Qwen научилось заказывать и платить через Taobao и Alipay и что это значит для производителя и продавца."
 slug: "keys-shop-window-why-alibaba-gives-away"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-02_keys-shop-window-why-alibaba-gives-away.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8b5f900a-aaaa-499c-aa83-e904452c068b"
+image_cost: "0.5"
+image_logos: "Alibaba"
+image_prompt: "Photorealistic candid photo in a bright modern apartment in Hangzhou: a smiling young Chinese woman sits on a sofa holding her smartphone with a blurred chat on the screen, while at the open front door a courier in a plain jacket hands her husband a parcel, he laughs and holds it up to show her, warm afternoon light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, delighted everyday mood of an AI assistant that orders and pays by itself. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В деловой жизни слово «бесплатно» обычно приходит не одно. С ним приходят договор, приложение к договору и человек, который через месяц позвонит уточнить, всё ли устраивает. Поэтому, когда крупнейшая технологическая компания Китая годами раздаёт свои языковые модели, первый вопрос руководителя правильный: а где здесь касса?

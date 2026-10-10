@@ -7,6 +7,13 @@ seo_title: "Doubao and Volcano Engine: How ByteDance Made AI a Mass Product, the
 meta_description: "How ByteDance used Doubao and its Volcano Engine cloud to make AI China’s most widely used product, how the token price war ended, why prices rose in 2026, who leads the market depending on how you count, and what it means for a company buying AI."
 slug: "discount-that-ran-out-doubao-china-token"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/08_Блог_Global_Tech_Tour_66_статей.docx"
+image: "2026-11-03_discount-that-ran-out-doubao-china-token.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "78f2838c-8c1f-4409-9e21-7b1859984218"
+image_cost: "0.5"
+image_logos: "ByteDance"
+image_prompt: "Photorealistic documentary photo inside a bright Beijing metro carriage in the morning: commuters of different ages hold smartphones and chat with AI assistants, the screens blurred and unreadable, a young woman smiles at her phone, an older man shows his screen to a neighbour and both laugh, soft motion blur of the tunnel lights through the windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively everyday mood of AI as the most mass product in the country. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every procurement manager knows that the most dangerous discount is the one you get used to. While it lasts, budgets, processes and the board’s expectations are rebuilt around it. Then a letter arrives citing “changing market conditions” and politely puts the price back where it was. The budget, however, stays where it went.
