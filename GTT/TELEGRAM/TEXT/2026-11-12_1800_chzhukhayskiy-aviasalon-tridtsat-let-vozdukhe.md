@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Выставки и события"
 title: "Чжухайский авиасалон: тридцать лет в воздухе"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-12_1800_chzhukhayskiy-aviasalon-tridtsat-let-vozdukhe.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "3ddf66a2-33e5-49b6-bced-e3ef06e5f465"
+image_cost: "0.5"
+image_logos: "Airshow China"
+image_prompt: "Photorealistic photo at an outdoor aerospace exhibition in Zhuhai: a static display on the tarmac with a large cargo drone and a passenger air taxi with multiple rotors, delighted visitors with earplugs looking up and pointing at a formation of jets trailing smoke in the clear sky, bright daylight, signs blurred and unreadable, festive joyful airshow mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Чжухайский авиасалон: тридцать лет в воздухе**

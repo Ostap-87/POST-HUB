@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Отрасль недели"
 title: "Логистика: склад, где людей видно только у ворот"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-08_1800_logistika-sklad-gde-lyudey-vidno-tolko.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "5a5fd7ea-66d7-4691-8100-8965d40d8035"
+image_cost: "0.5"
+image_logos: "JD Logistics"
+image_prompt: "Photorealistic high-angle photo from a mezzanine inside a gigantic bright parcel sorting center in Kunshan: a grid floor covered with hundreds of small flat sorting robots, each carrying one parcel, moving in organized patterns, and only at the far loading gates a few cheerful workers receive trucks, bright white lighting, impressive upbeat mood of order and scale. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Логистика: склад, где людей видно только у ворот**

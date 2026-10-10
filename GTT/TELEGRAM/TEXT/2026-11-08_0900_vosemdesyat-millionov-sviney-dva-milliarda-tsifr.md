@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Восемьдесят миллионов свиней и два миллиарда цифр"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-08_0900_vosemdesyat-millionov-sviney-dva-milliarda-tsifr.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "48c5d4fd-132a-4090-aa15-28e7cf2eef1e"
+image_cost: "0.5"
+image_logos: "Muyuan"
+image_prompt: "Photorealistic documentary photo inside a modern, very clean bright Chinese pig farm building: long rows of pens with healthy pink pigs, small sensor boxes and cameras mounted on rails above every pen, automated feeding pipes, a farm technician in a white protective suit and rubber boots smiling at a tablet, soft bright diffused light, hygienic high-tech agriculture, upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Восемьдесят миллионов свиней и два миллиарда цифр**

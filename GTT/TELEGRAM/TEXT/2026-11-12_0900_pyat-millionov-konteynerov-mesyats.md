@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Пять миллионов контейнеров за месяц"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-12_0900_pyat-millionov-konteynerov-mesyats.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "cf79a968-2e26-4aa4-86ab-cc1e6b3edf16"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic aerial photo of a fully automated container terminal on an island near Shanghai at sunset: endless rows of colorful container stacks, giant automated gantry cranes unloading a mega container ship, driverless container trucks moving along the quay, the sea and a long bridge in the background, golden hour light, impressive optimistic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Пять миллионов контейнеров за месяц**

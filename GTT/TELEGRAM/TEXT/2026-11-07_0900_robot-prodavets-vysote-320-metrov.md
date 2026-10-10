@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Робот-продавец на высоте 320 метров"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-07_0900_robot-prodavets-vysote-320-metrov.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "acf62ddd-f4b5-44a9-8b4c-514b08658d87"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic editorial photo inside an upscale bright perfume boutique in a Shanghai skyscraper mall: a compact humanoid robot stands behind a glass counter among elegant unlabeled perfume bottles, gesturing toward the display while a young woman shopper smiles as she smells a paper test strip, warm boutique lighting, floor-to-ceiling window with the sunny city skyline far below, playful upscale mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Робот-продавец на высоте 320 метров**

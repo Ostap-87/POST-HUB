@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Chery и BYD: гонка за границей"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/02_Telegram_Global_Tech_Tour_120_постов.docx"
+image: "2026-11-09_0900_chery-byd-gonka-granitsey.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "93018cc5-9a2c-4ec4-8455-c50f6720641b"
+image_cost: "0.5"
+image_logos: "Chery, BYD"
+image_prompt: "Photorealistic aerial photo of a Chinese car export terminal at a seaport: thousands of new unbranded cars in different colors parked in neat rows on the quay, two huge car-carrier ships docked side by side while cars drive up both ramps in two parallel lines like a race, warm late afternoon golden light, energetic mood of scale and friendly competition. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Chery и BYD: гонка за границей**

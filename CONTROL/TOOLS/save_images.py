@@ -67,7 +67,7 @@ def main(list_path):
             if name.endswith(lang):
                 name = name[:-len(lang)]
         raw = tmp / f'{name}.png'
-        subprocess.run(['curl', '-sSL', '-o', str(raw), it['url']], check=True)
+        subprocess.run(['curl', '-sSL', '--retry', '4', '--retry-all-errors', '-o', str(raw), it['url']], check=True)
         logos = [ensure_logo(l) for l in it.get('logos', [])]
         out = photo_dir / f'{name}.jpg'
         subprocess.run([sys.executable, str(HUB / 'CONTROL/TOOLS/logo_badge.py'), str(raw), *map(str, logos), '-o', str(out)],
