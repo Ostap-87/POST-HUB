@@ -7,6 +7,13 @@ seo_title: "Automating Cleaning and Sanitation in Food Production: CIP, Tunnel C
 meta_description: "How CIP systems and tunnel washers for crates and gastronorm pans work, what typical cleaning parameters look like, where water, chemicals and line hours are lost, and how to calculate payback on automated washing."
 slug: "clean-work-crate-washing-cip-line-sanitation"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-28_clean-work-crate-washing-cip-line-sanitation.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f1791d06-4e72-4d5f-a6bb-84058f48879c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a clean food factory washing area: stacks of clean wet blue plastic crates come out of a stainless-steel tunnel crate washer, water spray and steam visible at the open inlet behind, a smiling worker in a white apron and rubber boots stacks the gleaming crates, shiny stainless pipes and valves of a clean-in-place station along the wall, bright light reflecting on wet surfaces, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh satisfying mood of the automation nobody writes press releases about. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 In press releases, robots fry burgers, place dumplings and smile for the camera. No press release has ever featured a robot washing a crate. A pity, because a crate after a shift in a food plant is where the real work is: no audience, no applause.

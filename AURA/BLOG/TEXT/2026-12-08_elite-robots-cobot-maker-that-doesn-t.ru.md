@@ -7,6 +7,13 @@ seo_title: "Elite Robots: обзор производителя коботов, 
 meta_description: "Профиль Elite Robots: серии коботов CS и EC от 3 до 30 кг, сертификаты ISO 10218-1 и ISO 13849 PL d, 20 000+ поставленных роботов, раунд 600 млн юаней в 2026 году. Что важно знать покупателю."
 slug: "elite-robots-cobot-maker-that-doesn-t"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-08_elite-robots-cobot-maker-that-doesn-t.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "09ddd381-e964-474b-9694-07897dfc445b"
+image_cost: "0.5"
+image_logos: "Elite Robots"
+image_prompt: "Photorealistic photo in a quiet, bright small electronics workshop early in the morning: a compact white collaborative robot arm calmly applies a thin even bead of glue around the edge of a metal device housing, a technician sits beside it without ear protection, smiling, a cup of tea in his hand, sunlight through tall windows, dust motes in the air, everything orderly and calm, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, peaceful confident mood of a cobot maker that doesn't like noise. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Есть производители, о которых знает каждый, кто хоть раз открывал новости робототехники. Они выходят на биржу, выпускают ролики с танцующими роботами и проводят пресс-конференции с дымом. И есть производители, о которых знают в основном те, кто роботов покупает. Elite Robots из второй категории.

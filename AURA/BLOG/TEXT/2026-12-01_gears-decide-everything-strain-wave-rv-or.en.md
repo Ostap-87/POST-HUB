@@ -7,6 +7,13 @@ seo_title: "Strain Wave vs RV vs Planetary Reducers in Robots: Service Life, Bac
 meta_description: "Where robots use strain wave, RV cycloidal and planetary reducers, what rated lives of 6,000 and 7,000 hours really mean, when to change the grease, and what to ask the factory before you buy."
 slug: "gears-decide-everything-strain-wave-rv-or"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-01_gears-decide-everything-strain-wave-rv-or.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "78b316b7-3778-4c81-a650-a7b41c22f33c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright robot service workshop: a smiling service engineer in a grey work jacket holds a heavy cycloidal RV reducer with both hands next to the opened base joint of a large orange industrial robot arm, a thin flexible strain wave gear and a compact planetary gearbox lie on a clean cloth on the workbench beside him, a little fresh grease on his gloves, soft daylight from a side window, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, satisfied knowledgeable mood of looking inside the joint. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 At a trade show people ask a robot what it can do. At acceptance they ask what it cost. Three years later an engineer asks what is inside it, usually at the exact moment something inside it starts to crunch.

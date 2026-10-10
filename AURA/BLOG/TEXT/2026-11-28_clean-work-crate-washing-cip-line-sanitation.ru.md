@@ -7,6 +7,13 @@ seo_title: "Автоматизация мойки и санитарной обр
 meta_description: "Как устроены системы CIP и тоннельные мойки ящиков и гастроёмкостей, какие параметры мойки считаются типовыми, где теряются вода, химия и часы работы линии и как посчитать окупаемость автоматической мойки."
 slug: "clean-work-crate-washing-cip-line-sanitation"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-28_clean-work-crate-washing-cip-line-sanitation.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "f1791d06-4e72-4d5f-a6bb-84058f48879c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a clean food factory washing area: stacks of clean wet blue plastic crates come out of a stainless-steel tunnel crate washer, water spray and steam visible at the open inlet behind, a smiling worker in a white apron and rubber boots stacks the gleaming crates, shiny stainless pipes and valves of a clean-in-place station along the wall, bright light reflecting on wet surfaces, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, fresh satisfying mood of the automation nobody writes press releases about. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 В пресс-релизах роботы жарят котлеты, раскладывают пельмени и улыбаются в камеру. Ни в одном пресс-релизе робот не моет ящик. А зря: ящик после смены пищевого производства — это и есть настоящая работа, без зрителей и без аплодисментов.

@@ -7,6 +7,13 @@ seo_title: "Chinese Robot Software: Interface Languages, SDKs, ROS 2 and Offline
 meta_description: "How Chinese cobots and humanoids are programmed: teach pendants and graphical tools, scripts, SDKs and ROS 2, offline programming. What to do when menus are only in Chinese and English, and what to check before you buy."
 slug: "robot-speaks-chinese-software-sdks-localisation-programming"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-05_robot-speaks-chinese-software-sdks-localisation-programming.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b803bfb9-d3a0-46c2-a844-52198ac9ac46"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright Russian workshop: two young engineers at a laptop on a workbench next to a white collaborative robot arm, one typing and the other holding the robot's teach pendant, the robot arm smoothly sets a part into a fixture and both high-five with big smiles, the laptop screen shows blurred abstract lines of code with no readable characters, daylight from large windows, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, triumphant mood of programming the robot without a translator. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A Chinese robot arrives and the first thing it does is say hello. In Chinese. Then, with luck, in English. Other languages sometimes appear in the menu, and people usually find out whether yours is one of them on commissioning day, just after the interpreter has left.

@@ -7,6 +7,13 @@ seo_title: "Как проверить пищевое оборудование и
 meta_description: "Что проверять при закупке пищевого оборудования в Китае: чем отличаются стали 304, 316 и 201 и почему магнит не помогает, какими должны быть швы и поверхности, что значат IP69K и смазка NSF H1, какие документы нужны и как устроить приёмку."
 slug: "not-all-stainless-is-equal-steel-grades"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-30_not-all-stainless-is-equal-steel-grades.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "41403b31-b37a-4a42-87cc-c46d8b783395"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Chinese food-equipment factory: a Russian quality inspector in a white hard hat points a handheld metal analyzer gun at a polished weld seam on a large stainless-steel tank, a smiling Chinese welder in a work jacket stands beside it, a small magnet on a string and a surface roughness gauge lie on the tank ledge, gleaming brushed steel reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, attentive confident mood of acceptance done right. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Все пищевые машины на фотографиях блестят одинаково. Нержавейка на фото — как улыбка на собеседовании: есть у всех, но о характере ничего не говорит. Характер проявляется через год, в рассоле, после пятисотой мойки щёлочью.

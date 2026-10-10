@@ -7,6 +7,13 @@ seo_title: "Lidars and Depth Cameras for Robots: Hesai, RoboSense, Livox and Orb
 meta_description: "Which Chinese lidars and 3D cameras ship in mobile robots, humanoids and robot dogs, how 2D lidar differs from 3D, how dust, sunlight and glass confuse sensors, and what to ask before you buy."
 slug: "you-can-t-borrow-eyes-chinese-lidars"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-03_you-can-t-borrow-eyes-chinese-lidars.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8992f85b-cd8e-426b-86b0-fb1cd510040e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a sunlit modern office corridor: a waist-high mobile service robot with a dome lidar sensor and a small depth camera has politely stopped in front of a perfectly clear glass door, a smiling young engineer opens the door for it while laughing, bright sun patches and reflections on the polished floor, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light humorous mood about how sensors see glass and sunlight. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Robots are usually judged by their legs, their arms and their price. The eyes come as standard, and nobody thinks about them until the robot politely stops in front of a glass door it insists is not there. Or refuses to drive past a patch of sunlight.

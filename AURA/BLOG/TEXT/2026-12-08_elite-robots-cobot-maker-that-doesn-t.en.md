@@ -7,6 +7,13 @@ seo_title: "Elite Robots Profile: CS and EC Cobot Series, Certifications and Mar
 meta_description: "A profile of Elite Robots: CS and EC cobots from 3 to 30 kg, ISO 10218-1 and ISO 13849 PL d certification, 20,000+ robots shipped and a 600 million yuan round in 2026. What buyers need to know."
 slug: "elite-robots-cobot-maker-that-doesn-t"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-08_elite-robots-cobot-maker-that-doesn-t.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "09ddd381-e964-474b-9694-07897dfc445b"
+image_cost: "0.5"
+image_logos: "Elite Robots"
+image_prompt: "Photorealistic photo in a quiet, bright small electronics workshop early in the morning: a compact white collaborative robot arm calmly applies a thin even bead of glue around the edge of a metal device housing, a technician sits beside it without ear protection, smiling, a cup of tea in his hand, sunlight through tall windows, dust motes in the air, everything orderly and calm, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, peaceful confident mood of a cobot maker that doesn't like noise. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Some robot makers are impossible to miss. They list on stock exchanges, release videos of dancing humanoids and hold launches with smoke machines. Others are known mostly to people who actually buy robots. Elite Robots belongs to the second group.

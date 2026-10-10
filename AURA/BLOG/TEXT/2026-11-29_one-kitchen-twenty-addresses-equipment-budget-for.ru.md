@@ -7,6 +7,13 @@ seo_title: "Центральная кухня для сети кафе на 20 �
 meta_description: "Модельный проект центральной кухни для сети из 20 точек: как идёт поток продукции, какие зоны и линии нужны, как считать пароконвектоматы, котлы и шоковое охлаждение, сколько людей потребуется и из чего складывается бюджет."
 slug: "one-kitchen-twenty-addresses-equipment-budget-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-29_one-kitchen-twenty-addresses-equipment-budget-for.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6dd2165e-480a-43a0-921d-32ec4b424a3e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the dispatch dock of a large central kitchen early in the morning: a row of small white delivery vans with open rear doors, cooks and drivers load insulated food containers onto them, one driver laughs with a cook handing him the last box, through the open doors behind the bright kitchen with combi ovens and kettles is visible, soft dawn light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy friendly mood of one kitchen feeding twenty addresses. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Когда у сети пять кафе, у неё пять кухонь и пять поваров, каждый из которых знает, как правильно. Когда кафе двадцать, правильных способов становится двадцать. Центральная кухня нужна не для того, чтобы готовить больше. Она нужна, чтобы «правильно» снова стало одно.

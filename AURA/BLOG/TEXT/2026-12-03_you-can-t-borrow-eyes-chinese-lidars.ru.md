@@ -7,6 +7,13 @@ seo_title: "Лидары и камеры глубины для роботов: H
 meta_description: "Какие китайские лидары и 3D-камеры стоят в мобильных роботах, гуманоидах и робособаках, чем 2D-лидар отличается от 3D, как пыль, солнце и стекло мешают датчикам и о чём спросить при покупке."
 slug: "you-can-t-borrow-eyes-chinese-lidars"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-03_you-can-t-borrow-eyes-chinese-lidars.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "8992f85b-cd8e-426b-86b0-fb1cd510040e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a sunlit modern office corridor: a waist-high mobile service robot with a dome lidar sensor and a small depth camera has politely stopped in front of a perfectly clear glass door, a smiling young engineer opens the door for it while laughing, bright sun patches and reflections on the polished floor, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, light humorous mood about how sensors see glass and sunlight. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Робота обычно оценивают по ногам, рукам и цене. Глаза идут в комплекте, и про них вспоминают, когда робот впервые вежливо останавливается перед стеклянной дверью, которой, по его мнению, нет. Или, наоборот, отказывается проехать мимо солнечного зайчика.

@@ -7,6 +7,13 @@ seo_title: "Технология cook-chill и шоковая заморозка
 meta_description: "Как работает cook-chill и cook-freeze: почему охлаждать нужно быстро, какие ориентиры по времени и температуре используют, что изменилось в санитарных правилах в 2026 году, как рассчитать мощность шокового охлаждения и что спросить у завода."
 slug: "cold-calculation-hot-lunch-cook-chill-blast"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-27_cold-calculation-hot-lunch-cook-chill-blast.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "77dc660b-34fa-48cd-913b-1b93d5c558b5"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright central kitchen: a smiling cook in white pushes a trolley of steaming gastronorm pans with stew into an open blast chiller, white steam from the hot food meets the cold mist from the chiller, a colleague in a cap checks a core temperature probe in one pan, stainless steel everywhere, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, lively precise mood of cooling fast, not just keeping cold. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Обед на центральной [кухне](/catalog/centralkitchen) готовят не к обеду. Его готовят к четвергу. Это главное, что нужно понять про cook-chill: еда здесь не остывает, а охлаждается. Разница примерно как между «опоздал» и «пришёл заранее». Звучит похоже, а последствия противоположные.

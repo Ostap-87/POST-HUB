@@ -7,6 +7,13 @@ seo_title: "Industrial Robot and Cobot Safety: ISO 10218:2025, ISO/TS 15066 and 
 meta_description: "What changed in ISO 10218 in 2025, which contact force limits ISO/TS 15066 sets, which national standards apply in Russia, why safety scanners and light curtains matter, and who is responsible for a robot cell."
 slug: "safety-by-standard-not-by-promise-iso"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-06_safety-by-standard-not-by-promise-iso.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ca192819-8e8d-4753-91ac-7f4ffd09b502"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright factory: a worker in a reflective vest steps across the yellow-and-black floor marking into the outer zone of a robot cell, a small safety laser scanner at floor level and slim light curtain posts guard the opening, the industrial robot arm inside has slowed down, a smiling safety engineer with a tablet watches approvingly from the side, clean even light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, calm reassuring mood of safety proven by standard. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 [Cobots](/en/catalog/cobots) are sold with the line “works next to people without fencing”. True, but incomplete. The full version reads: “can work next to people without fencing if the cell is designed, assessed and verified to the standard.” The second half does not fit on a banner.

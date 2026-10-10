@@ -7,6 +7,13 @@ seo_title: "Ловкая роботизированная кисть: степе
 meta_description: "Какие ловкие кисти делают в Китае (Inspire Robots, DH-Robotics, PaXini и другие), что означают степени свободы и усилие на пальце, сколько стоит кисть относительно гуманоида и когда достаточно простого захвата."
 slug: "five-fingers-forty-sensors-dexterous-hands-sense"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-04_five-fingers-forty-sensors-dexterous-hands-sense.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9e8d6cc-d682-4575-b84a-661fc7efb686"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a bright robotics lab: a five-fingered robotic hand with small tactile sensor pads on its fingertips gently picks a ripe strawberry from a punnet without crushing it, behind it in soft focus a smiling young woman researcher watches a monitor showing an abstract colorful pressure map with no numbers or letters, soft daylight, shallow depth of field, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, delicate wondering mood of a hand that can feel. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Человеческая рука — инструмент, который никто не проектировал, но все хотят повторить. Двадцать с лишним степеней свободы, кожа с тысячами рецепторов, и всё это умеет одновременно держать чашку, жестикулировать и не ронять телефон. Почти всегда.

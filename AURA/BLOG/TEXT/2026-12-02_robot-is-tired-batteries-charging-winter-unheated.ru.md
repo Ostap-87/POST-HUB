@@ -7,6 +7,13 @@ seo_title: "Батарея робота: время работы, зарядка
 meta_description: "Сколько на самом деле работает от батареи складской робот, гуманоид и робособака, чем LFP отличается от NMC, почему литий нельзя заряжать на морозе и как батареи едут из Китая."
 slug: "robot-is-tired-batteries-charging-winter-unheated"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-02_robot-is-tired-batteries-charging-winter-unheated.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "4dc29dee-e860-4cb1-b875-4263b5331cba"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo inside an unheated Russian warehouse on a frosty winter morning: a low autonomous mobile robot docks at a charging station in a small insulated warm corner with a heater, its small green charging light glowing, frost on the steel gate and pallets, a rosy-cheeked warehouse worker in a padded jacket with a thermos smiles at it as his breath turns to vapor, cold blue daylight mixed with the warm light of the corner, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, cozy caring mood of a robot that needs warmth to charge. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Про робота говорят, что он не устаёт. Это правда ровно до того момента, пока не сядет батарея. После этого робот устаёт сразу, целиком и, как правило, в самом дальнем углу склада.

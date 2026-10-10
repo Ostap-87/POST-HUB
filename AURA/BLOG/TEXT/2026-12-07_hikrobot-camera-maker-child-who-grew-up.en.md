@@ -7,6 +7,13 @@ seo_title: "Hikrobot Profile: Hikvision’s Mobile Robot and Machine Vision Arm,
 meta_description: "Who Hikrobot is: AMRs, robotic forklifts and case-handling robots, industrial cameras and VisionMaster, 6.45 billion yuan in 2025 revenue, a long road to IPO, and the Hikvision sanctions backdrop."
 slug: "hikrobot-camera-maker-child-who-grew-up"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-07_hikrobot-camera-maker-child-who-grew-up.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7daeaa9f-5ad4-44da-95dc-1bb114ec1b27"
+image_cost: "0.5"
+image_logos: "Hikrobot"
+image_prompt: "Photorealistic industrial photo in a bright modern Chinese electronics factory logistics area: several low orange latent-lifting mobile robots slide under wheeled carts of parts and carry them toward an assembly line, above a nearby conveyor a row of compact industrial cameras with ring lights inspects passing boxes, a smiling young woman engineer in a navy uniform checks a tablet with an abstract map without text, clean grey floor with lane markings, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, smart orderly mood of a camera maker that grew into a warehouse company. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 When Hikrobot comes up, someone always asks, “Isn’t that the camera company?” Not quite. The camera company is the parent. Hikrobot makes the things that drive around warehouses and stare at conveyor belts. Still, a surname is hard to shake, so this article keeps both in view: the family name, and the fact that the child moved out a while ago.

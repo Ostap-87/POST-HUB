@@ -7,6 +7,13 @@ seo_title: "Hikrobot: мобильные роботы и машинное зре
 meta_description: "Кто такие Hikrobot: AMR, роботы-штабелёры и CTU, промышленные камеры и VisionMaster, выручка 6,45 млрд юаней в 2025 году, долгий путь к IPO и санкционный фон Hikvision. Что это значит для покупателя из России."
 slug: "hikrobot-camera-maker-child-who-grew-up"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-07_hikrobot-camera-maker-child-who-grew-up.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "7daeaa9f-5ad4-44da-95dc-1bb114ec1b27"
+image_cost: "0.5"
+image_logos: "Hikrobot"
+image_prompt: "Photorealistic industrial photo in a bright modern Chinese electronics factory logistics area: several low orange latent-lifting mobile robots slide under wheeled carts of parts and carry them toward an assembly line, above a nearby conveyor a row of compact industrial cameras with ring lights inspects passing boxes, a smiling young woman engineer in a navy uniform checks a tablet with an abstract map without text, clean grey floor with lane markings, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, smart orderly mood of a camera maker that grew into a warehouse company. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Про Hikrobot у нас обычно спрашивают так: «Это те, которые камеры?» Нет. Камеры делает мама. Hikrobot делает всё, что ездит по складу и смотрит на конвейер. Но фамилия, как известно, прилипает на всю жизнь, и в этой статье мы будем честно помнить и про фамилию, и про то, что ребёнок давно живёт своим домом.

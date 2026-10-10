@@ -7,6 +7,13 @@ seo_title: "Central Kitchen for a 20-Outlet Restaurant Chain: Zones, Equipment, 
 meta_description: "A model central kitchen for a chain of 20 outlets: how product flows, which zones and lines you need, how to size combi ovens, kettles and blast chilling, how many people it takes and what the budget is made of."
 slug: "one-kitchen-twenty-addresses-equipment-budget-for"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-29_one-kitchen-twenty-addresses-equipment-budget-for.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "6dd2165e-480a-43a0-921d-32ec4b424a3e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the dispatch dock of a large central kitchen early in the morning: a row of small white delivery vans with open rear doors, cooks and drivers load insulated food containers onto them, one driver laughs with a cook handing him the last box, through the open doors behind the bright kitchen with combi ovens and kettles is visible, soft dawn light, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, busy friendly mood of one kitchen feeding twenty addresses. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 A chain with five cafés has five kitchens and five head cooks, each of whom knows the right way to do it. At twenty cafés there are twenty right ways. A central kitchen is not there to cook more. It is there to make “the right way” singular again.

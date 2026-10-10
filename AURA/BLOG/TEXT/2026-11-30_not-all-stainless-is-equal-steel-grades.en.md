@@ -7,6 +7,13 @@ seo_title: "How to Inspect Food Processing Equipment From China: 304, 316 and 20
 meta_description: "What to check when buying food equipment in China: how 304, 316 and 201 stainless differ and why a magnet will not tell you, what welds and surfaces should look like, what IP69K and NSF H1 mean, which documents you need and how to run acceptance."
 slug: "not-all-stainless-is-equal-steel-grades"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-11-30_not-all-stainless-is-equal-steel-grades.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "41403b31-b37a-4a42-87cc-c46d8b783395"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo in a bright Chinese food-equipment factory: a Russian quality inspector in a white hard hat points a handheld metal analyzer gun at a polished weld seam on a large stainless-steel tank, a smiling Chinese welder in a work jacket stands beside it, a small magnet on a string and a surface roughness gauge lie on the tank ledge, gleaming brushed steel reflections, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, attentive confident mood of acceptance done right. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Every food machine in a photo shines the same way. Stainless steel in a photo is like a smile at a job interview: everyone has one, and it tells you nothing about character. Character shows a year later, in brine, after the five hundredth caustic wash.

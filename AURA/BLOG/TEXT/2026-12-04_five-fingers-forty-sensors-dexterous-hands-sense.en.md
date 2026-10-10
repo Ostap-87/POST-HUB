@@ -7,6 +7,13 @@ seo_title: "Dexterous Robot Hands: Degrees of Freedom, Grip Force, Tactile Sensi
 meta_description: "Which dexterous hands Chinese makers offer (Inspire Robots, DH-Robotics, PaXini and others), what degrees of freedom and fingertip force mean, what a hand costs relative to a humanoid, and when a simple gripper will do."
 slug: "five-fingers-forty-sensors-dexterous-hands-sense"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/07_Блог_Aura_Robotics_60_статей.docx"
+image: "2026-12-04_five-fingers-forty-sensors-dexterous-hands-sense.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9e8d6cc-d682-4575-b84a-661fc7efb686"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic close-up photo in a bright robotics lab: a five-fingered robotic hand with small tactile sensor pads on its fingertips gently picks a ripe strawberry from a punnet without crushing it, behind it in soft focus a smiling young woman researcher watches a monitor showing an abstract colorful pressure map with no numbers or letters, soft daylight, shallow depth of field, wide 16:9 composition with the main subject in the center-right and a calm, uncluttered lower-left corner, delicate wondering mood of a hand that can feel. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Nobody designed the human hand, yet everyone wants to copy it. Twenty-odd degrees of freedom, skin with thousands of receptors, and the ability to hold a cup, gesture and not drop a phone at the same time. Most of the time.
