@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Итоги недели"
 title: "Итоги: роботов учат, страхуют и сдают по подписке"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-28_1800_itogi-robotov-uchat-strakhuyut-sdayut-podpiske.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "e009f574-1152-4dd3-b189-1a4966c57ad8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo in a bright factory training classroom at the end of the day: a smiling trainer shakes hands with two cheerful workers in uniforms, a full-size humanoid robot stands at the back of the room plugged into a wall charger, a whiteboard with simple diagrams without text, warm light through blinds, proud graduation mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Итоги: роботов учат, страхуют и сдают по подписке**

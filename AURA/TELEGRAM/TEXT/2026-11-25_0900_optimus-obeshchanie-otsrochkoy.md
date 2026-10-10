@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Optimus: обещание с отсрочкой"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-25_0900_optimus-obeshchanie-otsrochkoy.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "dd6e63f3-85ef-43d4-8b2b-c2df793240b3"
+image_cost: "0.5"
+image_logos: "Tesla"
+image_prompt: "Photorealistic editorial photo inside a vast bright converted car factory hall in California: a new humanoid robot assembly line in one corner, several humanoid robots on assembly stands, smiling technicians working on them with enthusiasm, lots of open clean floor space ready for expansion, warm daylight from skylights, optimistic early-stage mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Optimus: обещание с отсрочкой**

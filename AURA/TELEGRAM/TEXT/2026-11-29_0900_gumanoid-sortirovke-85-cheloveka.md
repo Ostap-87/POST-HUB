@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Гуманоид на сортировке: 85 % человека"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-29_0900_gumanoid-sortirovke-85-cheloveka.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "37f48bb8-de2e-4463-828d-98e7fb4dba38"
+image_cost: "0.5"
+image_logos: "Robotera"
+image_prompt: "Photorealistic industrial photo inside a bright Chinese parcel sorting center: a humanoid robot standing at a conveyor picks parcels and places them into sorting bins, streams of cardboard boxes moving on belts, smiling workers in reflective vests nearby chat and supervise, bright overhead lights, labels blurred and unreadable, energetic productive mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Гуманоид на сортировке: 85 % человека**

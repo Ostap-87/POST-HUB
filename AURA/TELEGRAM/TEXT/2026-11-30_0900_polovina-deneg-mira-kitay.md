@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Половина денег мира — в Китай"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-30_0900_polovina-deneg-mira-kitay.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "c61a2d1d-8894-4786-83a1-72cef6b1daa9"
+image_cost: "0.5"
+image_logos: "Unitree, XPeng"
+image_prompt: "Photorealistic documentary photo of smiling investors in business suits touring a busy bright Chinese robotics startup lab: enthusiastic engineers at workbenches demonstrate humanoid robots and quadruped robot dogs on safety harnesses, one investor laughs with delight as a robot takes its first steps, tools and cables around, bright lab lighting, signs blurred and unreadable, optimistic money-meets-motors mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Половина денег мира — в Китай**

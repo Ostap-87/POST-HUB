@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Домашний гуманоид по подписке"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-27_0900_domashniy-gumanoid-podpiske.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "aff89a46-d057-48f9-a601-e799bf5d26bf"
+image_cost: "0.5"
+image_logos: "1X"
+image_prompt: "Photorealistic photo in a cozy sunlit Californian home kitchen: a slim home humanoid robot covered in soft grey knit fabric wipes the countertop with a cloth, while in the background a smiling person wearing a VR headset mirrors the wiping motion with their hands to teach it, warm light, happy everyday domestic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Домашний гуманоид по подписке**

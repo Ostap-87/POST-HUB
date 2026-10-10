@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот недели"
 title: "UBTech Walker S2: гуманоид, который сам меняет себе батарею"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-29_1800_ubtech-walker-s2-gumanoid-kotoryy-sam.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "87a142f1-e3dd-44c1-9057-57638249fc7a"
+image_cost: "0.5"
+image_logos: "UBTech"
+image_prompt: "Photorealistic close-up industrial photo in a bright factory: a full-size industrial humanoid robot stands with its back to a wall-mounted battery swap station and reaches behind itself to pull a battery pack out of its back, fresh battery packs in charging slots with small green indicator lights, a smiling technician with a tablet watches nearby, assembly line blurred in the background, efficient upbeat mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **UBTech Walker S2: гуманоид, который сам меняет себе батарею**

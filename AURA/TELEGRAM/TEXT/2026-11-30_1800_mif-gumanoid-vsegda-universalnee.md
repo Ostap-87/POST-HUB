@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Миф о роботах и правда"
 title: "Миф: гуманоид всегда универсальнее специализированного робота"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-30_1800_mif-gumanoid-vsegda-universalnee.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "ed4c67d6-a094-4e55-a4c2-684f0d83570c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo in a bright logistics warehouse: a humanoid robot awkwardly holds a mop next to a compact autonomous floor-scrubbing robot that has already left a clean glossy stripe on the concrete floor, a warehouse worker laughs at the scene, in the background an autonomous pallet robot carries a loaded pallet, daylight from skylights, cheerful ironic mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Миф: гуманоид всегда универсальнее специализированного робота**

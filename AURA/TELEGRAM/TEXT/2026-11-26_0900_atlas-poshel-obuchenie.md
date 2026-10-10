@@ -5,6 +5,13 @@ time: "09:00"
 rubric: "Сводка"
 title: "Atlas пошёл в обучение"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-26_0900_atlas-poshel-obuchenie.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a9759563-9467-4a6f-8f3e-499da6a6ffff"
+image_cost: "0.5"
+image_logos: "Boston Dynamics"
+image_prompt: "Photorealistic documentary photo inside a bright robot training area in a modern American car plant: a full-size humanoid robot practices taking automotive parts from mock-up racks and placing them into a bin, smiling engineers with laptops watch its progress and one gives a thumbs-up, taped floor grid and practice stations, a car body assembly line in the soft-focus background, upbeat learning mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Atlas пошёл в обучение**

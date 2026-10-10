@@ -5,6 +5,13 @@ time: "18:00"
 rubric: "Робот и человек"
 title: "Собеседование"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/01_Telegram_Aura_Robotics_120_постов.docx"
+image: "2026-11-25_1800_sobesedovanie.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "860c3f36-daf4-4a0c-87af-03a59ae1ae2e"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a bright small office meeting room: a cheerful female HR manager with a clipboard questionnaire smiles while interviewing a full-size humanoid robot sitting upright on a chair across the table, a glass of water on the table, a charging cable lying on the floor leading toward a wall socket, soft daylight, papers without readable text, light-hearted humorous mood. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 **Собеседование**
