@@ -12,6 +12,13 @@ tag: "Перезапуски"
 time: "7 мин"
 slug: "pig-wind-let-go"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-12-11_pig-wind-let-go.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "320d38be-2a6b-42ac-af68-a6d47ed3ee7c"
+image_cost: "0.5"
+image_logos: "Xiaomi"
+image_prompt: "Photorealistic photo in a wide green park in Beijing on a windy spring day: a smiling middle-aged man in a casual jacket runs across the grass relaunching a big pink pig-shaped kite that is just catching the wind again, children and parents nearby laughing and cheering, other kites in the clear blue sky, bright sunlight, wide 16:9 composition with a calm, uncluttered lower-left corner of grass, joyful comeback mood of a pig that learned to fly on purpose. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Если стоять в эпицентре урагана, полетит даже свинья. — Лэй Цзюнь

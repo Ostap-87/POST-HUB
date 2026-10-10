@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "love-with-reminder"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-13_love-with-reminder.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "9e7bab18-4753-4dce-b7cb-62140541c472"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo in a cozy apartment in the evening: a young woman sits cross-legged on the sofa laughing during a phone call, the phone at her ear, a tablet lies face down beside her, and on the low coffee table a small retro kitchen timer stands next to a mug of tea, warm lamp light, a soft blanket and books, city lights in the window, wide 16:9 composition with a calm, uncluttered lower-left corner, warm hopeful mood: the best outcome is to close the app and call your brother. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > “Where a user has used the service continuously for more than two hours, the provider shall remind the user of the time spent.” — China’s Interim Measures on Anthropomorphic AI Interaction Services, Article 18 (paraphrased)

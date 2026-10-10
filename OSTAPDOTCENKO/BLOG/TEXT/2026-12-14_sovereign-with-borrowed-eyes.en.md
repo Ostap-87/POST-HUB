@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "sovereign-with-borrowed-eyes"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-14_sovereign-with-borrowed-eyes.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1ec208d9-3fe0-4bed-9d78-013f797703f8"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic photo on two adjacent apartment balconies in Seoul at dusk: one neighbour leans over the low partition to hand a pair of binoculars to the other, both laughing, potted plants and drying laundry on the balconies, the Han River, its bridges and the city lights spreading out before them under a violet sky, wide 16:9 composition with a calm, uncluttered lower-left corner, warm friendly mood: everyone borrows eyes from a neighbour, then learns to see on their own. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “Is the model yours?” “It’s ours.” “All of it?” “Our brain. Our architecture. Our training.” “And the eyes?” “The eyes… we borrowed from the neighbors. Good eyes. Open source. Everyone uses them.” “Then it’s not yours.”

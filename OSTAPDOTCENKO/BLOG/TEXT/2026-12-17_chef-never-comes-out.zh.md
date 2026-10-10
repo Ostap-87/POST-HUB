@@ -12,6 +12,13 @@ tag: "多肽"
 time: "5 分钟"
 slug: "chef-never-comes-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-17_chef-never-comes-out.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bf303bf2-5eb9-4827-8364-1cdb98b39d6a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo inside a bright modern peptide manufacturing plant in Jiangsu: a row of tall stainless-steel solid-phase synthesis reactors with glass sight windows and polished pipework, and in the foreground a woman chemist in a white cleanroom coverall, cap and safety glasses holds a small vial of white powder up to the light with a satisfied smile while a colleague checks a control panel, spotless floor, cool even lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, proud quiet mood of the kitchen the restaurant guests never see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 先声明：我不是医生，不是药剂师，也不是化学家，我是做营销的。所以这篇文章里不会有任何“谁该用什么、用多少”的内容。只聊我懂的：谁在生产，谁在买，以及为什么大家都不太愿意大声说。

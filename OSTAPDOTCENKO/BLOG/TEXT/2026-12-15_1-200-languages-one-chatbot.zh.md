@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "1-200-languages-one-chatbot"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-15_1-200-languages-one-chatbot.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1ed65b53-6bac-488b-a842-96705439b207"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo on the wooden veranda of a traditional Javanese house in Yogyakarta in the late afternoon: a young girl holds up a smartphone and speaks into it with a big grin, while her grandmother in a batik sarong laughs beside her and leans in to listen to the answer, a tray of tea and fried bananas between them, tropical plants and warm slanting sunlight, the phone screen not visible, wide 16:9 composition with a calm, uncluttered lower-left corner, warm hopeful mood of a machine learning the language of a grandmother. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 我能用东南亚语言自信说出口的全部内容：

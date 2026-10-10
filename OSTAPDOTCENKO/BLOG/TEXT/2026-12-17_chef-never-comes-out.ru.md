@@ -12,6 +12,13 @@ tag: "Пептиды"
 time: "5 мин"
 slug: "chef-never-comes-out"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-17_chef-never-comes-out.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "bf303bf2-5eb9-4827-8364-1cdb98b39d6a"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic industrial photo inside a bright modern peptide manufacturing plant in Jiangsu: a row of tall stainless-steel solid-phase synthesis reactors with glass sight windows and polished pipework, and in the foreground a woman chemist in a white cleanroom coverall, cap and safety glasses holds a small vial of white powder up to the light with a satisfied smile while a colleague checks a control panel, spotless floor, cool even lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, proud quiet mood of the kitchen the restaurant guests never see. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Сразу оговорюсь: я не врач, не фармацевт и не химик. Я маркетолог. Поэтому в этом тексте не будет ни одного совета, что, кому и сколько. Будет только про то, что я умею: кто производит, кто покупает и почему никто не любит об этом говорить вслух.

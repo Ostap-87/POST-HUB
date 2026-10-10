@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "6 min"
 slug: "smart-glasses-blurry-market"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-10_smart-glasses-blurry-market.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "10ac3d92-0f03-45d1-af4f-aa465b297926"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a sunny street café in Lisbon: an elderly woman tourist wearing slim, ordinary-looking smart glasses reads a paper menu and laughs as she asks the friendly waiter something, her husband smiling beside her, the menu text blurred and unreadable, coffee cups and pastries on the small table, a tiled facade and tram rails behind, warm daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, gentle optimistic mood: the real hit is glasses that simply help people see and ask. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 There’s an old saying about rose-tinted glasses. China has gone one better: glasses tinted with a large language model. With a camera, a microphone and a chatbot in the temple arm, they don’t make the world look better. They just tell you what you’re looking at, which is arguably more useful and certainly less romantic.

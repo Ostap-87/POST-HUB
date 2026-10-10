@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "agent-without-fixed-address"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-07_agent-without-fixed-address.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "063fbf84-4f9d-45b4-a81b-548adb8430f3"
+image_cost: "0.5"
+image_logos: "Manus"
+image_prompt: "Photorealistic candid photo on a sunny street of colorful shophouses in Singapore: a small team of young engineers in casual clothes unloads cardboard boxes, monitors and potted plants from a van into their new office, laughing as one of them carries a small server case, palm trees and the towers of the Marina Bay skyline in the distance, bright tropical daylight, signs blurred and unreadable, wide 16:9 composition with a calm, uncluttered lower-left corner of pavement, optimistic but thoughtful mood of a new address that cannot change where you started. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 一个小场景。虚构的，但你一定见过。办公室，桌子，一张表。

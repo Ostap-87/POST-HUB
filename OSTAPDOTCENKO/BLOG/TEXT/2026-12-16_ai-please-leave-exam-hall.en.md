@@ -12,6 +12,13 @@ tag: "Artificial Intelligence"
 time: "5 min"
 slug: "ai-please-leave-exam-hall"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-16_ai-please-leave-exam-hall.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b94acaf8-d96f-444b-bc98-cb1a67c9aea1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the gate of a Chinese high school on an early June morning during the national university entrance exam: teenage students in plain T-shirts walk in with clear pencil cases, a mother in a sun hat holding a thermos waves and cheers, other parents clap and smile behind a barrier, a friendly policeman nearby, sunlit trees, no banners or signs, wide 16:9 composition with a calm, uncluttered lower-left corner, warm supportive mood: these four days belong to the person. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “This feature is unavailable during the gaokao period.”

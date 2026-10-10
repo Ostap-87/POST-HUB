@@ -12,6 +12,13 @@ tag: "观察"
 time: "5 分钟"
 slug: "store-that-knows-you-better-than-your"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "2026-12-12_store-that-knows-you-better-than-your.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "a606b5fc-84cf-4814-9809-25421d1a680b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic night street photo in a quiet Tokyo residential neighbourhood at three in the morning: a small convenience store glows like an aquarium on a dark corner, and through the glass a young cashier smiles as he places a warmed bento box on the counter for a tired office worker in a suit, shelves of rice balls and drinks, an umbrella stand by the door, the rest of the street dark and empty, signs blurred and unreadable, wide 16:9 composition with a calm, uncluttered lower-left corner of dark pavement, tender warm mood of a store that is glad to see whoever comes in. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 “いらっしゃいませ！”

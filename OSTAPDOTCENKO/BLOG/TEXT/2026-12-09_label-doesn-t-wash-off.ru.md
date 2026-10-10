@@ -12,6 +12,13 @@ tag: "Искусственный интеллект"
 time: "5 мин"
 slug: "label-doesn-t-wash-off"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-09_label-doesn-t-wash-off.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1363baf0-0886-4dcf-9178-579cb86f3569"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on a bright modern desk in a creative agency: a vintage brass Morse telegraph key sits beside an open laptop whose screen shows an abstract generated landscape image with a small blank rectangular tag in its corner, a cup of tea with two sugar cubes on the saucer, a pencil and a blank sticky label, soft morning light from a window, shallow depth of field, wide 16:9 composition with a calm, uncluttered lower-left corner, witty thoughtful mood of an honest mark that machine-made content must carry. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Начну с признания, оформленного по всем правилам.

@@ -12,6 +12,13 @@ tag: "Restarts"
 time: "6 min"
 slug: "load-last-save"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/10_Личный_блог_Всё_хуйня_давай_по_новой_10_статей.docx"
+image: "2026-12-18_load-last-save.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b61f6dee-f0b2-4223-9293-313772b5ff1b"
+image_cost: "0.5"
+image_logos: "Nintendo"
+image_prompt: "Photorealistic candid photo in a cozy Japanese family living room in the evening: three generations laugh together while playing a video game — a grandmother concentrating on a handheld game console, two children cheering, the parents on the sofa holding small controllers — the TV screen glowing with abstract bright colors, no brand markings on any device, cushions, tea and snacks on a low table, warm lamp light, wide 16:9 composition with a calm, uncluttered lower-left corner, joyful mood of a second chance that worked. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 > Game over. Continue? — A question computers ask more honestly than life does

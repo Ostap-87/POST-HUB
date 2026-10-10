@@ -12,6 +12,13 @@ tag: "人工智能"
 time: "6 分钟"
 slug: "smart-glasses-blurry-market"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-10_smart-glasses-blurry-market.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "10ac3d92-0f03-45d1-af4f-aa465b297926"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic candid photo at a sunny street café in Lisbon: an elderly woman tourist wearing slim, ordinary-looking smart glasses reads a paper menu and laughs as she asks the friendly waiter something, her husband smiling beside her, the menu text blurred and unreadable, coffee cups and pastries on the small table, a tiled facade and tram rails behind, warm daylight, wide 16:9 composition with a calm, uncluttered lower-left corner, gentle optimistic mood: the real hit is glasses that simply help people see and ask. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 俄语里有句老话，叫“往人眼镜上抹东西”，意思是糊弄人、忽悠人。抹眼镜的是骗子，被抹的是客户。我做了很多年营销，一直怀疑这其实是同一个职业，只是坐在桌子两边而已。

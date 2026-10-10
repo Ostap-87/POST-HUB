@@ -12,6 +12,13 @@ tag: "Искусственный интеллект"
 time: "5 мин"
 slug: "homegrown-silicon"
 source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "2026-12-08_homegrown-silicon.jpg"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "66dae1b4-2840-47d8-98d9-983ae074e51b"
+image_cost: "0.5"
+image_logos: "Huawei"
+image_prompt: "Photorealistic documentary photo in a bright Chinese engineering lab: a team of young engineers assembles a tall AI computing cabinet, one sliding one of many identical accelerator boards into a densely packed rack while another connects thick bundles of orange optical cables, a long row of identical boards waits on an anti-static bench, the team exchanging satisfied smiles, cool daylight and white LED lighting, wide 16:9 composition with a calm, uncluttered lower-left corner, determined optimistic mood: thousands of ordinary chips taught to work as one. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
 ---
 
 Чтобы сделать свой чип для искусственного интеллекта, если вам запретили почти всё, нужно:
