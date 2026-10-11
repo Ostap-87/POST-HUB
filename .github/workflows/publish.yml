@@ -47,7 +47,7 @@ jobs:
       IG_TOKEN_OSTAPDOTCENKO: ${{ secrets.IG_TOKEN_OSTAPDOTCENKO }}
       IG_USER_OSTAPDOTCENKO: ${{ secrets.IG_USER_OSTAPDOTCENKO }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Проверить доступ
         if: env.MODE == 'check'
