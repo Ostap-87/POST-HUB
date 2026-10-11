@@ -1,0 +1,53 @@
+---
+number: 9
+order: 39
+day: 44
+rubric: "тема недели"
+week: 7
+title: "Ритейл Китая: 9 флагманов вживую"
+source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
+slides: 9
+image: "039_tur-china-retail-showrooms"
+image_status: "на согласовании"
+image_model: "gpt_image_2_5 medium 1k"
+image_cost: "4.5"
+image_count: 9
+video_hub: "reels-studio/props/carousels/2026-10-10-foto-tur-china-retail-showrooms.json"
+caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+anons: "040_anons-tur-china-retail-showrooms"
+reels: "041_novyi-riteil"
+---
+Ритейл Китая: 9 флагманов вживую.
+Продуктовый ритейл и доставка · 6 дней · 4 города.
+Листай карусель →
+
+40 млн заказов в день — мгновенная доставка (Taobao Instant (Ele.me)). Доставка за 30–60 минут.
+
+Маршрут:
+• Дни 1–2 · Пекин: JD, Meituan
+• Дни 3–4 · Шанхай: Hema, Pinduoduo, Ele.me
+• День 5 · Ханчжоу: кампус Alibaba
+• День 6 · Шэньчжэнь: Sam's Club, Yonghui
+
+Что вы поймёте:
+• Как Hema совмещает рынок и доставку
+• Доставка за 30 минут изнутри
+• Кейс Yonghui в стиле Pang Dong Lai
+• Private label Sam's Club
+
+Почему с нами:
+• 9 флагманов, отобранных за «вау»
+• Визиты даже в Pinduoduo
+• Перевод на каждой встрече
+
+Что входит:
+• Только эффектные шоурумы и флагманы
+• Согласование визитов, включая Pinduoduo
+• Один перелёт, остальное — скоростной поезд
+• Перевод и сопровождение
+
+Не слушать, а видеть. «Тёмные склады» и закрытые офисы без витрин мы сознательно исключили.
+
+За подробностями пиши в личные сообщения или заходи на globaltechtour.ru и оставляй заявку — свяжемся в течение 2 минут.
+
+#Китай #Ритейл #Ретейл #БизнесЭкспедиция #GTT #GlobalTechTour #Техтуризм

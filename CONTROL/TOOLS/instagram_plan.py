@@ -5,9 +5,13 @@ python3 CONTROL/TOOLS/instagram_plan.py GTT              # показать ка
 python3 CONTROL/TOOLS/instagram_plan.py GTT --apply      # разложить: даты в именах, тексты Reels/Stories, анонсы, КАЛЕНДАРЬ.md
 python3 CONTROL/TOOLS/instagram_plan.py GTT --html out.html   # календарь с картинками (показать пользователю)
 
-Правила — `<ПРОЕКТ>/INSTAGRAM/PLAN.json`:
-- `launch` — первые публикации вручную (дата, время, type, carousel / reels); `week` у них занимает слоты этой недели;
-- `weeks_from`, `weeks`, `rhythm` — неделя: день (пн…вс), время, type: `carousel` (pool: theme / china / asia …),
+Правила — `<ПРОЕКТ>/INSTAGRAM/PLAN.json`.
+**Даты можно не назначать** (решение пользователя 11.10.2026: «пока не ставь время… время определим позже»): при `"start": null`
+план — только порядок: файлы называются `NNN_тема` (NNN — номер публикации по порядку), в шапке `order` и `day`
+(«День N» от старта), времени и даты нет; такие посты `to_ready.py` в очередь не переносит — выйти они не могут.
+Когда пользователь назначит старт и время — `start`, `time` в `launch` и `rhythm` → `--apply` переименует в `ГГГГ-ММ-ДД_ЧЧММ_тема`.
+- `launch` — первые публикации вручную (`day` — день от старта или `date`, `time`, type, carousel / reels); `week` у них занимает слоты этой недели;
+- `weeks_from_day` (день от старта) или `weeks_from` (дата), `weeks`, `rhythm` — неделя (без даты старта первый день считается воскресеньем): день (пн…вс), время, type: `carousel` (pool: theme / china / asia …),
   `anons` (Stories-анонс карусели недели), `reels` (ролик недели), `reels_stories` (две части ролика недели в Stories);
 - `theme_weeks` — по неделе: [номер карусели, ролик или null]; `pools` — очереди каруселей по номерам;
 - `moves` — праздники: дата → куда перенести (`ГГГГ-ММ-ДД` или `ГГГГ-ММ-ДД ЧЧ:ММ`; без времени карусель встаёт на 12:00); `reels` — ролики (файл в VIDEO-HUB, название, длина);
@@ -37,6 +41,8 @@ WD = ['пн', 'вт', 'ср', 'чт', 'пт', 'сб', 'вс']
 DAYS_ACC = ['в понедельник', 'во вторник', 'в среду', 'в четверг', 'в пятницу', 'в субботу', 'в воскресенье']
 MON = ['', 'января', 'февраля', 'марта', 'апреля', 'мая', 'июня', 'июля', 'августа', 'сентября', 'октября', 'ноября', 'декабря']
 DATED = re.compile(r'^\d{4}-\d{2}-\d{2}_\d{4}_')
+PREFIX = re.compile(r'^(\d{4}-\d{2}-\d{2}_\d{4}_|\d{3}_)')     # дата и время или номер по порядку
+BASE = dt.date(2000, 1, 2)                                      # воскресенье: опора для плана без дат
 LAUNCH = 'первый запуск — тест форматов'
 
 
@@ -58,11 +64,13 @@ class Plan:
         self.project = project
         self.ig = HUB / project / 'INSTAGRAM'
         self.cfg = json.loads((self.ig / 'PLAN.json').read_text(encoding='utf-8'))
+        self.dated = bool(self.cfg.get('start'))
+        self.base = dt.date.fromisoformat(self.cfg['start']) if self.dated else BASE
         self.car = {}
         for f in sorted((self.ig / 'CAROUSEL/TEXT').glob('*.md')):
             m, _ = meta_of(f)
             n = int(m['number'])
-            self.car[n] = {'file': f, 'stem': f.stem, 'theme': DATED.sub('', re.sub(r'^\d+_', '', f.stem)),
+            self.car[n] = {'file': f, 'stem': f.stem, 'theme': re.sub(r'^\d+_', '', PREFIX.sub('', f.stem)),
                            'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""'))}
         self.ev = self.build()
 
@@ -72,13 +80,14 @@ class Plan:
         ev = []
         covered = set()
         for e in c['launch']:
-            x = {**e, 'date': dt.date.fromisoformat(e['date']), 'launch': True, 'week': e.get('week', 0)}
+            d0 = self.base + dt.timedelta(days=e['day'] - 1) if 'day' in e else dt.date.fromisoformat(e['date'])
+            x = {**e, 'date': d0, 'time': e.get('time'), 'launch': True, 'week': e.get('week', 0)}
             ev.append(x)
             if 'week' in e:
                 covered.add((e['week'], e['type']))
         theme = list(c['theme_weeks'])
         pools = {k: list(v) for k, v in c['pools'].items()}
-        start = dt.date.fromisoformat(c['weeks_from'])
+        start = self.base + dt.timedelta(days=c['weeks_from_day'] - 1) if 'weeks_from_day' in c else dt.date.fromisoformat(c['weeks_from'])
         for w in range(1, c['weeks'] + 1):
             no, reels = theme.pop(0) if theme else (None, None)
             monday = start + dt.timedelta(weeks=w - 1)
@@ -88,16 +97,16 @@ class Plan:
                 if t == 'carousel' and r['pool'] == 'theme':
                     if (w, 'carousel') in covered or no is None:
                         continue
-                    ev.append({'date': d, 'time': r['time'], 'type': 'carousel', 'carousel': no, 'week': w, 'theme_reels': reels})
+                    ev.append({'date': d, 'time': r.get('time'), 'type': 'carousel', 'carousel': no, 'week': w, 'theme_reels': reels})
                 elif t == 'carousel':
                     if pools.get(r['pool']):
-                        ev.append({'date': d, 'time': r['time'], 'type': 'carousel', 'carousel': pools[r['pool']].pop(0), 'week': w})
+                        ev.append({'date': d, 'time': r.get('time'), 'type': 'carousel', 'carousel': pools[r['pool']].pop(0), 'week': w})
                 elif t == 'anons':
                     if (w, 'anons') not in covered and no is not None:
-                        ev.append({'date': d, 'time': r['time'], 'type': 'anons', 'carousel': no, 'week': w, 'theme_reels': reels})
+                        ev.append({'date': d, 'time': r.get('time'), 'type': 'anons', 'carousel': no, 'week': w, 'theme_reels': reels})
                 elif reels and (w, t) not in covered:
-                    ev.append({'date': d, 'time': r['time'], 'type': t, 'reels': reels, 'week': w, 'carousel_of_week': no})
-        moves = {dt.date.fromisoformat(k): v for k, v in c.get('moves', {}).items()}
+                    ev.append({'date': d, 'time': r.get('time'), 'type': t, 'reels': reels, 'week': w, 'carousel_of_week': no})
+        moves = {dt.date.fromisoformat(k): v for k, v in c.get('moves', {}).items()} if self.dated else {}
         for e in ev:
             if e['date'] in moves:
                 to = moves[e['date']].split()
@@ -112,8 +121,12 @@ class Plan:
         missing = sorted(set(self.car) - set(used))
         if missing:
             print('⚠ нет в расписании:', ', '.join(f'№{n}' for n in missing))
-        ev.sort(key=lambda e: (e['date'], e['time'], ['reels', 'carousel', 'anons', 'reels_stories'].index(e['type'])))
-        for e in ev:
+        ev.sort(key=lambda e: (e['date'], e['time'] or '', ['reels', 'carousel', 'anons', 'reels_stories'].index(e['type'])))
+        if self.dated:
+            no_time = [e for e in ev if not e['time']]
+            assert not no_time, f'старт назначен, а время нет у {len(no_time)} публикаций — впиши time в launch и rhythm'
+        for i, e in enumerate(ev, 1):
+            e['order'], e['day'] = i, (e['date'] - self.base).days + 1
             e['name'] = self.name(e)
             if e['type'] == 'carousel':
                 asia = any(k in self.car[e['carousel']]['theme'] for k in ('japan', 'thailand', 'vietnam', 'korea', 'uae'))
@@ -121,12 +134,12 @@ class Plan:
         return ev
 
     def name(self, e):
-        d, hm = e['date'].isoformat(), e['time'].replace(':', '')
+        pre = f"{e['date'].isoformat()}_{e['time'].replace(':', '')}_" if self.dated else f"{e['order']:03d}_"
         if e['type'] == 'carousel':
-            return f"{d}_{hm}_{self.car[e['carousel']]['theme']}"
+            return f"{pre}{self.car[e['carousel']]['theme']}"
         if e['type'] == 'anons':
-            return f"{d}_{hm}_anons-{self.car[e['carousel']]['theme']}"
-        return f"{d}_{hm}_{e['reels']}"
+            return f"{pre}anons-{self.car[e['carousel']]['theme']}"
+        return f"{pre}{e['reels']}"
 
     def find(self, typ, key):
         return next((e for e in self.ev if e['type'] == typ and (e.get('carousel') == key or e.get('reels') == key)), None)
@@ -135,6 +148,9 @@ class Plan:
         if not e.get('theme_reels'):
             return self.cfg['anons']['no_reels_note']
         r = self.find('reels', e['theme_reels'])
+        if not self.dated:
+            n = r['day'] - e['day']
+            return {1: 'Завтра', 2: 'Послезавтра'}.get(n, f'Через {n} дн.') + ' — ролик об этом туре'
         when = 'Завтра' if r['date'] - e['date'] == dt.timedelta(days=1) else DAYS_ACC[r['date'].weekday()].capitalize()
         return f"{when} в {r['time']} — ролик об этом туре"
 
@@ -154,7 +170,8 @@ class Plan:
         for e in self.ev:
             kind, what = self.label(e)
             mv = f" (перенос с {e['moved_from'].strftime('%d.%m')})" if e.get('moved_from') else ''
-            out.append(f"{e['date'].strftime('%d.%m')} {WD[e['date'].weekday()]} {e['time']} | {kind:<10} | {what}{mv}")
+            when = f"{e['date'].strftime('%d.%m')} {WD[e['date'].weekday()]} {e['time']}" if self.dated else f"{e['order']:03d} · день {e['day']:>3}"
+            out.append(f"{when} | {kind:<10} | {what}{mv}")
         n = lambda t: sum(e['type'] == t for e in self.ev)
         out.append(f"Итого: каруселей {n('carousel')}, Reels {n('reels')}, Stories из роликов {n('reels_stories')}, анонсов {n('anons')}.")
         return out
@@ -166,7 +183,7 @@ class Plan:
 
     def existing(self, folder, suffix):
         """Файл в TEXT, имя которого (без даты) равно suffix."""
-        return next((f for f in sorted((self.ig / folder / 'TEXT').glob('*.md')) if DATED.sub('', f.stem) == suffix), None)
+        return next((f for f in sorted((self.ig / folder / 'TEXT').glob('*.md')) if PREFIX.sub('', f.stem) == suffix), None)
 
     def links(self, e):
         out = {}
@@ -185,7 +202,8 @@ class Plan:
         return {k: v for k, v in out.items() if v}
 
     def head(self, e):
-        h = {'date': e['date'].isoformat(), 'time': e['time'], 'rubric': e.get('rubric') or {
+        when = {'date': e['date'].isoformat(), 'time': e['time']} if self.dated else {'order': e['order'], 'day': e['day']}
+        h = {**when, 'rubric': e.get('rubric') or {
             'reels': 'тема недели' if e['week'] else 'знакомство', 'anons': 'анонс карусели',
             'reels_stories': 'части ролика недели' if e['week'] else 'знакомство'}[e['type']], 'week': e['week']}
         if e.get('launch'):
@@ -197,7 +215,8 @@ class Plan:
     def apply(self):
         R = self.cfg['reels']
         anons = [e for e in self.ev if e['type'] == 'anons']
-        self.render_anons(anons)
+        if self.dated:                                                   # без времени анонс не рисуем: в нём «Завтра в 19:00»
+            self.render_anons(anons)
         for e in self.ev:
             n = e['name']
             h = {**self.head(e), **self.links(e)}
@@ -207,7 +226,7 @@ class Plan:
                 self.mv(c['file'], self.ig / 'CAROUSEL/TEXT' / f'{n}.md')
                 f = self.ig / 'CAROUSEL/TEXT' / f'{n}.md'
                 m, body = meta_of(f)
-                for k in ('date', 'time', 'rubric', 'week', 'launch', 'moved_from', 'anons', 'reels'):
+                for k in ('date', 'time', 'order', 'day', 'rubric', 'week', 'launch', 'moved_from', 'anons', 'reels'):
                     m.pop(k, None)
                 m['image'] = q(n)
                 order = {'number': m.pop('number')}
@@ -253,13 +272,14 @@ class Plan:
                 i = anons.index(e) + 1
                 dst = self.ig / 'STORIES/PHOTO' / n
                 dst.mkdir(parents=True, exist_ok=True)
-                Image.open(self.anons_png(i)).convert('RGB').save(dst / '01.jpg', quality=92, optimize=True)
+                if self.dated:
+                    Image.open(self.anons_png(i)).convert('RGB').save(dst / '01.jpg', quality=92, optimize=True)
                 m = {k: q(v) for k, v in h.items()}
                 m['title'] = q(f"Анонс карусели №{e['carousel']} «{self.car[e['carousel']]['title']}»")
                 m['image'] = q(n)
                 m['note'] = q(self.note(e))
                 m['video_hub'] = q(f'finished-videos/анонсы/{self.ann_name()}/{i:02d}.png')
-                m['image_status'] = q('на согласовании')
+                m['image_status'] = q('на согласовании' if self.dated else 'перерисовать после назначения времени')
                 m['image_cost'] = q('0')
                 f.write_text(fm(m, ''), encoding='utf-8')
         (self.ig / 'КАЛЕНДАРЬ.md').write_text(self.markdown(), encoding='utf-8')
@@ -297,6 +317,9 @@ class Plan:
         lines = [f'# Календарь Instagram {self.project}', '',
                  f'Собран командой `python3 CONTROL/TOOLS/instagram_plan.py {self.project} --apply` из `PLAN.json` '
                  '(правила — `RULES.md`, «Время публикаций»). Время — по Москве. Руками не править: меняй `PLAN.json` и запускай заново.', '']
+        if not self.dated:
+            lines += ['**Даты и время не назначены** (решение пользователя 11.10.2026) — ниже только порядок публикаций и день от старта. '
+                      'Без даты пост не может попасть в очередь и выйти.', '']
         week = None
         for e in self.ev:
             if self.group(e) != week:
@@ -306,12 +329,13 @@ class Plan:
                 if week and th:
                     title += f" — тема: №{th['carousel']} {self.car[th['carousel']]['title']}"
                     title += ' (карусель — в первом запуске)' if th.get('launch') else ''
-                lines += ['', f'## {title}', '', '| Дата | Время | Формат | Что | Файл |', '|---|---|---|---|---|']
+                lines += ['', f'## {title}', '', ('| Дата | Время | Формат | Что | Файл |' if self.dated else '| № | День | Формат | Что | Файл |'), '|---|---|---|---|---|']
             kind, what = self.label(e)
             mark = ' · тест' if e.get('launch') else ''
             mv = f" · перенос с {e['moved_from'].strftime('%d.%m')}" if e.get('moved_from') else ''
             folder = {'carousel': 'CAROUSEL', 'reels': 'REELS'}.get(e['type'], 'STORIES')
-            lines.append(f"| {WD[e['date'].weekday()]} {e['date'].day} {MON[e['date'].month]} | {e['time']} | {kind}{mark} | "
+            when = f"{WD[e['date'].weekday()]} {e['date'].day} {MON[e['date'].month]} | {e['time']}" if self.dated else f"{e['order']:03d} | День {e['day']}"
+            lines.append(f"| {when} | {kind}{mark} | "
                          f"{what.replace('|', '/')}{mv} | `{folder}/TEXT/{e['name']}.md` |")
         lines += ['', self.table()[-1], '']
         return '\n'.join(lines)
@@ -358,8 +382,10 @@ class Plan:
             cls = {'carousel': 'car', 'reels': 'rl', 'anons': 'st', 'reels_stories': 'st'}[e['type']]
             tag = '<span class="t">тест</span>' if e.get('launch') else ''
             mv = f'<div class="mv">перенос с {e["moved_from"].strftime("%d.%m")}</div>' if e.get('moved_from') else ''
-            cards.append(f'<div class="c {cls}"><div class="d">{WD[e["date"].weekday()]}, {e["date"].day} {MON[e["date"].month]} · '
-                         f'<b>{e["time"]}</b></div><div class="k">{kind}{tag}</div>{img}<div class="w">{what}</div>{mv}</div>')
+            when = (f'{WD[e["date"].weekday()]}, {e["date"].day} {MON[e["date"].month]} · <b>{e["time"]}</b>' if self.dated
+                    else f'№{e["order"]} · <b>День {e["day"]}</b>')
+            cards.append(f'<div class="c {cls}"><div class="d">{when}'
+                         f'</div><div class="k">{kind}{tag}</div>{img}<div class="w">{what}</div>{mv}</div>')
         page = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Календарь Instagram {self.project}</title><style>
 :root{{--bg:#f4f5f8;--card:#fff;--ink:#17171d;--mute:#6b6b76;--line:#e3e3ea;--car:#2563eb;--rl:#e11d48;--st:#f59e0b}}
@@ -372,7 +398,7 @@ h2{{grid-column:1/-1;margin:22px 0 2px;font-size:17px}}.g{{display:grid;grid-tem
 .c img{{display:block;max-width:100%;max-height:200px;border-radius:8px;margin:0 auto 6px}}.w{{font-size:13px}}.mv{{color:var(--rl);font-size:12px;margin-top:4px}}
 .t{{background:var(--rl);color:#fff;border-radius:4px;padding:0 5px;font-size:11px;margin-left:6px;font-weight:600}}
 </style></head><body><h1>Календарь Instagram {self.project}</h1>
-<p class="sub">С {dt.date.fromisoformat(self.cfg["start"]).day} {MON[dt.date.fromisoformat(self.cfg["start"]).month]}, время по Москве. Выходит только утверждённое. Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая,
+<p class="sub">{(f'С {self.base.day} {MON[self.base.month]}, время по Москве.' if self.dated else '<b>Даты и время не назначены</b> — порядок публикаций и день от старта.')} Выходит только утверждённое. Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая,
 пт две части ролика в Stories, сб карусель Азии, вс пусто. {self.table()[-1]}</p>
 <p class="sub lg"><span><i style="background:var(--car)"></i>карусель</span><span><i style="background:var(--rl)"></i>Reels</span><span><i style="background:var(--st)"></i>Stories</span></p>
 <div class="g">{"".join(cards)}</div></body></html>'''
