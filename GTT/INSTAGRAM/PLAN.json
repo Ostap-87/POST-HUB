@@ -1,44 +1,211 @@
 {
   "_": "Раскладка Instagram GTT. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py GTT --apply. Описание полей — CONTROL/TOOLS/instagram_plan.py.",
-  "start": "2026-11-01",
+  "start": "2026-10-11",
   "launch": [
-    {"date": "2026-11-01", "time": "19:00", "type": "reels", "reels": "intro"},
-    {"date": "2026-11-02", "time": "19:00", "type": "carousel", "carousel": 1, "week": 1, "theme_reels": "roboty"},
-    {"date": "2026-11-02", "time": "19:00", "type": "anons", "carousel": 1, "week": 1, "theme_reels": "roboty"},
-    {"date": "2026-11-03", "time": "10:00", "type": "reels_stories", "reels": "intro"}
+    {
+      "date": "2026-10-11",
+      "time": "19:00",
+      "type": "reels",
+      "reels": "intro"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "19:00",
+      "type": "carousel",
+      "carousel": 1,
+      "week": 1,
+      "theme_reels": "roboty"
+    },
+    {
+      "date": "2026-10-12",
+      "time": "19:00",
+      "type": "anons",
+      "carousel": 1,
+      "week": 1,
+      "theme_reels": "roboty"
+    },
+    {
+      "date": "2026-10-13",
+      "time": "10:00",
+      "type": "reels_stories",
+      "reels": "intro"
+    }
   ],
-  "weeks_from": "2026-11-02",
+  "weeks_from": "2026-10-12",
   "weeks": 12,
   "rhythm": [
-    {"day": "пн", "time": "19:00", "type": "carousel", "pool": "theme"},
-    {"day": "вт", "time": "10:00", "type": "anons"},
-    {"day": "ср", "time": "19:00", "type": "reels"},
-    {"day": "чт", "time": "19:00", "type": "carousel", "pool": "china"},
-    {"day": "пт", "time": "10:00", "type": "reels_stories"},
-    {"day": "сб", "time": "12:00", "type": "carousel", "pool": "asia"}
+    {
+      "day": "пн",
+      "time": "19:00",
+      "type": "carousel",
+      "pool": "theme"
+    },
+    {
+      "day": "вт",
+      "time": "10:00",
+      "type": "anons"
+    },
+    {
+      "day": "ср",
+      "time": "19:00",
+      "type": "reels"
+    },
+    {
+      "day": "чт",
+      "time": "19:00",
+      "type": "carousel",
+      "pool": "china"
+    },
+    {
+      "day": "пт",
+      "time": "10:00",
+      "type": "reels_stories"
+    },
+    {
+      "day": "сб",
+      "time": "12:00",
+      "type": "carousel",
+      "pool": "asia"
+    }
   ],
   "theme_weeks": [
-    [1, "roboty"], [2, "tech-giganty"], [3, "chai-kofe"], [4, "kosmetika"], [5, "avto"],
-    [6, "byt-tehnika"], [9, "novyi-riteil"], [20, "konditerka"], [21, "ai"],
-    [27, null], [34, null], [28, null]
+    [
+      1,
+      "roboty"
+    ],
+    [
+      2,
+      "tech-giganty"
+    ],
+    [
+      3,
+      "chai-kofe"
+    ],
+    [
+      4,
+      "kosmetika"
+    ],
+    [
+      5,
+      "avto"
+    ],
+    [
+      6,
+      "byt-tehnika"
+    ],
+    [
+      9,
+      "novyi-riteil"
+    ],
+    [
+      20,
+      "konditerka"
+    ],
+    [
+      21,
+      "ai"
+    ],
+    [
+      27,
+      null
+    ],
+    [
+      34,
+      null
+    ],
+    [
+      28,
+      null
+    ]
   ],
   "pools": {
-    "china": [8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 35],
-    "asia": [22, 29, 23, 30, 36, 24, 31, 25, 32, 37, 26, 33]
+    "china": [
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      35
+    ],
+    "asia": [
+      22,
+      29,
+      23,
+      30,
+      36,
+      24,
+      31,
+      25,
+      32,
+      37,
+      26,
+      33
+    ]
   },
-  "moves": {"2026-12-31": "2027-01-03", "2027-01-01": "2027-01-02"},
+  "moves": {
+    "2026-12-31": "2026-12-30 19:00"
+  },
   "reels": {
-    "intro": {"video": "2026-10-07-intro", "title": "Интро — кто такой Остап и что такое Global Tech Tour", "seconds": 83},
-    "roboty": {"video": "2026-10-08-roboty", "title": "Роботы", "seconds": 81},
-    "tech-giganty": {"video": "2026-10-07-tech-giganty", "title": "Техгиганты Китая", "seconds": 105},
-    "chai-kofe": {"video": "2026-10-07-chai-kofe", "title": "Чай и кофе Китая", "seconds": 88},
-    "kosmetika": {"video": "2026-10-07-kosmetika", "title": "Косметика и anti-age", "seconds": 107},
-    "avto": {"video": "2026-10-07-avto", "title": "Автопром и электромобили", "seconds": 105},
-    "byt-tehnika": {"video": "2026-10-07-byt-tehnika-v3", "title": "Бытовая техника и умный дом", "seconds": 105},
-    "novyi-riteil": {"video": "2026-10-07-novyi-riteil", "title": "Новый ритейл и доставка", "seconds": 112},
-    "konditerka": {"video": "2026-10-07-konditerka", "title": "Кондитерка", "seconds": 102},
-    "ai": {"video": "2026-10-07-ai", "title": "ИИ Китая", "seconds": 93}
+    "intro": {
+      "video": "2026-10-07-intro",
+      "title": "Интро — кто такой Остап и что такое Global Tech Tour",
+      "seconds": 83
+    },
+    "roboty": {
+      "video": "2026-10-08-roboty",
+      "title": "Роботы",
+      "seconds": 81
+    },
+    "tech-giganty": {
+      "video": "2026-10-07-tech-giganty",
+      "title": "Техгиганты Китая",
+      "seconds": 105
+    },
+    "chai-kofe": {
+      "video": "2026-10-07-chai-kofe",
+      "title": "Чай и кофе Китая",
+      "seconds": 88
+    },
+    "kosmetika": {
+      "video": "2026-10-07-kosmetika",
+      "title": "Косметика и anti-age",
+      "seconds": 107
+    },
+    "avto": {
+      "video": "2026-10-07-avto",
+      "title": "Автопром и электромобили",
+      "seconds": 105
+    },
+    "byt-tehnika": {
+      "video": "2026-10-07-byt-tehnika-v3",
+      "title": "Бытовая техника и умный дом",
+      "seconds": 105
+    },
+    "novyi-riteil": {
+      "video": "2026-10-07-novyi-riteil",
+      "title": "Новый ритейл и доставка",
+      "seconds": 112
+    },
+    "konditerka": {
+      "video": "2026-10-07-konditerka",
+      "title": "Кондитерка",
+      "seconds": 102
+    },
+    "ai": {
+      "video": "2026-10-07-ai",
+      "title": "ИИ Китая",
+      "seconds": 93
+    }
   },
-  "anons": {"title": "Листай карусель **в профиле**", "no_reels_note": "Сохрани, чтобы не потерять"},
+  "anons": {
+    "title": "Листай карусель **в профиле**",
+    "no_reels_note": "Сохрани, чтобы не потерять"
+  },
   "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 }

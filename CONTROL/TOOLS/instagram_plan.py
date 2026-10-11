@@ -10,7 +10,7 @@ python3 CONTROL/TOOLS/instagram_plan.py GTT --html out.html   # календар
 - `weeks_from`, `weeks`, `rhythm` — неделя: день (пн…вс), время, type: `carousel` (pool: theme / china / asia …),
   `anons` (Stories-анонс карусели недели), `reels` (ролик недели), `reels_stories` (две части ролика недели в Stories);
 - `theme_weeks` — по неделе: [номер карусели, ролик или null]; `pools` — очереди каруселей по номерам;
-- `moves` — праздники: дата → куда перенести; `reels` — ролики (файл в VIDEO-HUB, название, длина);
+- `moves` — праздники: дата → куда перенести (`ГГГГ-ММ-ДД` или `ГГГГ-ММ-ДД ЧЧ:ММ`; без времени карусель встаёт на 12:00); `reels` — ролики (файл в VIDEO-HUB, название, длина);
 - `anons` — заголовок анонса и плашка для недели без ролика.
 Что делает --apply (файлы только переносятся `git mv`, не удаляются):
 - карусели `CAROUSEL/TEXT|PHOTO/<имя>` → `ГГГГ-ММ-ДД_ЧЧММ_тема`, в шапке date, time, rubric, week, launch, связка anons / reels;
@@ -97,11 +97,14 @@ class Plan:
                         ev.append({'date': d, 'time': r['time'], 'type': 'anons', 'carousel': no, 'week': w, 'theme_reels': reels})
                 elif reels and (w, t) not in covered:
                     ev.append({'date': d, 'time': r['time'], 'type': t, 'reels': reels, 'week': w, 'carousel_of_week': no})
-        moves = {dt.date.fromisoformat(k): dt.date.fromisoformat(v) for k, v in c.get('moves', {}).items()}
+        moves = {dt.date.fromisoformat(k): v for k, v in c.get('moves', {}).items()}
         for e in ev:
             if e['date'] in moves:
-                e['moved_from'], e['date'] = e['date'], moves[e['date']]
-                if e['type'] == 'carousel':
+                to = moves[e['date']].split()
+                e['moved_from'], e['date'] = e['date'], dt.date.fromisoformat(to[0])
+                if len(to) > 1:
+                    e['time'] = to[1]
+                elif e['type'] == 'carousel':
                     e['time'] = '12:00'
         used = [e['carousel'] for e in ev if e['type'] == 'carousel']
         dup = {n for n in used if used.count(n) > 1}
