@@ -1,0 +1,77 @@
+# Публикация по расписанию — без агента (CONTROL/TOOLS/publish.py, CONTROL/AGENT.md, раздел 6).
+# Каждый час публикует посты из READY, чьё время наступило (время — в имени папки поста, по Москве),
+# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключён Instagram; остальные сети пока публикуют другие системы.
+#
+# Доступы — Settings → Secrets and variables → Actions (сеть проекта без секрета пропускается):
+#   IG_TOKEN_GTT, IG_USER_GTT · IG_TOKEN_AURA, IG_USER_AURA · IG_TOKEN_OSTAPDOTCENKO, IG_USER_OSTAPDOTCENKO
+# Как получить токен — <ПРОЕКТ>/INSTAGRAM/RULES.md, «Подключение».
+# Стоп-кран — CONTROL/PUBLISHING.yaml (pause: true).
+# Руками: Actions → «Публикация» → Run workflow → режим: check — проверить доступ, dry-run — что вышло бы сейчас,
+# publish — опубликовать; «Один пост» — путь к папке в READY, выходит сразу.
+name: Публикация
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check — проверить доступ; dry-run — что вышло бы сейчас; publish — опубликовать"
+        type: choice
+        options: [check, dry-run, publish]
+        default: check
+      post:
+        description: "Один пост (необязательно): папка в READY, например GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  # два одновременных прогона опубликовали бы пост дважды
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      MODE: ${{ github.event_name == 'schedule' && 'publish' || inputs.mode }}
+      POST: ${{ inputs.post }}
+      IG_TOKEN_GTT: ${{ secrets.IG_TOKEN_GTT }}
+      IG_USER_GTT: ${{ secrets.IG_USER_GTT }}
+      IG_TOKEN_AURA: ${{ secrets.IG_TOKEN_AURA }}
+      IG_USER_AURA: ${{ secrets.IG_USER_AURA }}
+      IG_TOKEN_OSTAPDOTCENKO: ${{ secrets.IG_TOKEN_OSTAPDOTCENKO }}
+      IG_USER_OSTAPDOTCENKO: ${{ secrets.IG_USER_OSTAPDOTCENKO }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Проверить доступ
+        if: env.MODE == 'check'
+        run: python3 CONTROL/TOOLS/publish.py --check
+
+      - name: Что выходит сейчас (проверка, без публикации)
+        if: env.MODE != 'check'
+        run: |
+          if [ -n "$POST" ]; then python3 CONTROL/TOOLS/publish.py --post "$POST" --dry-run || true
+          else python3 CONTROL/TOOLS/publish.py --due --dry-run || true; fi
+
+      - name: Опубликовать
+        if: env.MODE == 'publish'
+        run: |
+          if [ -n "$POST" ]; then python3 CONTROL/TOOLS/publish.py --post "$POST"
+          else python3 CONTROL/TOOLS/publish.py --due; fi
+
+      - name: Записать результат в репозиторий
+        if: always() && env.MODE == 'publish'
+        run: |
+          git add -A
+          if git diff --cached --quiet; then echo "Ничего не вышло — записывать нечего."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Публикация: результат прогона $(date -u '+%Y-%m-%d %H:%M') UTC"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
+          exit 1

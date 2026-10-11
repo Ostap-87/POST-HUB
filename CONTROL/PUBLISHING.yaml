@@ -1,0 +1,3 @@
+# Стоп-кран публикаций POST-HUB (CONTROL/TOOLS/publish.py).
+# pause: true — все публикации по расписанию останавливаются (проверка --dry-run продолжает работать).
+pause: false

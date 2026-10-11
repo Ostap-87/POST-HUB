@@ -64,8 +64,15 @@
 5. POST-HUB → Settings → Secrets and variables → Actions → New repository secret: `IG_TOKEN_GTT` (токен), `IG_USER_GTT` (ID).
 Токен обновлять раз в ~50 дней (тот же шаг 4 → заменить секрет). Для своего аккаунта проверка приложения Meta (App Review)
 не нужна: хватает роли тестировщика.
-Ещё нужно публичное место для файлов на выход (POST-HUB закрытый, а Instagram забирает медиа только по публичной
-ссылке) — решение пользователя, варианты в `CONTROL/TASKS/IN-WORK/2026-10-11_стратегия-instagram.md`, «Автоматизация».
+Проверить доступ: GitHub → Actions → «Публикация» → Run workflow → режим `check`.
+
+**Как выходит пост** (`CONTROL/TOOLS/publish.py`, каждый час через GitHub Actions `publish.yml`, без агента):
+1. Пользователь утверждает пост → в шапке `image_status` / `caption_status` (у сторис из роликов — `status`) = «утверждено».
+2. `python3 CONTROL/TOOLS/to_ready.py GTT/INSTAGRAM/<ФОРМАТ> [--only <имя>]` переносит его в `READY/<имя>/`;
+   картинки копируются в публичный VIDEO-HUB `finished-videos/publish/gtt-instagram/<имя>/` (Instagram берёт файлы
+   только по публичной ссылке, POST-HUB закрытый), видео — по `video_hub` из VIDEO-HUB. Закоммитить и запушить оба репозитория.
+3. В назначенное время публикатор проверяет ссылки и совпадение файлов с утверждёнными, публикует, переносит пост в
+   `PUBLISHED/ГГГГ-ММ/` со ссылкой в `info.json`. Стоп-кран — `CONTROL/PUBLISHING.yaml` (`pause: true`).
 
 ## Правила проекта для этой сети
 - Карусели — шаблон `Carousel` с `"brand": "gtt"` (`../BRAND/TEMPLATES/README.md`).
