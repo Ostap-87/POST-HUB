@@ -372,7 +372,7 @@ h2{{grid-column:1/-1;margin:22px 0 2px;font-size:17px}}.g{{display:grid;grid-tem
 .c img{{display:block;max-width:100%;max-height:200px;border-radius:8px;margin:0 auto 6px}}.w{{font-size:13px}}.mv{{color:var(--rl);font-size:12px;margin-top:4px}}
 .t{{background:var(--rl);color:#fff;border-radius:4px;padding:0 5px;font-size:11px;margin-left:6px;font-weight:600}}
 </style></head><body><h1>Календарь Instagram {self.project}</h1>
-<p class="sub">С 1 ноября, время по Москве. Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая,
+<p class="sub">С {dt.date.fromisoformat(self.cfg["start"]).day} {MON[dt.date.fromisoformat(self.cfg["start"]).month]}, время по Москве. Выходит только утверждённое. Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая,
 пт две части ролика в Stories, сб карусель Азии, вс пусто. {self.table()[-1]}</p>
 <p class="sub lg"><span><i style="background:var(--car)"></i>карусель</span><span><i style="background:var(--rl)"></i>Reels</span><span><i style="background:var(--st)"></i>Stories</span></p>
 <div class="g">{"".join(cards)}</div></body></html>'''
