@@ -210,8 +210,14 @@ class Plan:
 
     # ——— применить ———
     def mv(self, a, b):
-        if a != b:
-            subprocess.run(['git', 'mv', str(a), str(b)], cwd=HUB, check=True)
+        if a == b or not Path(a).exists():
+            return
+        r = subprocess.run(['git', 'mv', str(a), str(b)], cwd=HUB, capture_output=True)
+        if r.returncode:                                                 # не в git (пустая папка, новый файл) — просто переносим
+            if Path(b).exists() and Path(b).is_dir() and not any(Path(a).iterdir()):
+                Path(a).rmdir()
+            else:
+                Path(a).rename(b)
 
     def existing(self, folder, suffix):
         """Файл в TEXT, имя которого (без даты) равно suffix."""
