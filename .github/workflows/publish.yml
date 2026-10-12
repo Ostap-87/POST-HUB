@@ -1,10 +1,11 @@
 # Публикация по расписанию — без агента (CONTROL/TOOLS/publish.py, CONTROL/AGENT.md, раздел 6).
 # Каждый час публикует посты из READY, чьё время наступило (время — в имени папки поста, по Москве),
-# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключён Instagram; остальные сети пока публикуют другие системы.
+# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключены Instagram и страницы Facebook; остальные сети пока публикуют другие системы.
 #
 # Доступы — Settings → Secrets and variables → Actions (сеть проекта без секрета пропускается):
 #   IG_TOKEN_GTT, IG_USER_GTT · IG_TOKEN_AURA, IG_USER_AURA · IG_TOKEN_OSTAPDOTCENKO, IG_USER_OSTAPDOTCENKO
-# Как получить токен — <ПРОЕКТ>/INSTAGRAM/RULES.md, «Подключение».
+#   FB_PAGE_TOKEN_AURA · FB_PAGE_TOKEN_GTT (токены страниц Facebook)
+# Как получить токен — <ПРОЕКТ>/INSTAGRAM/RULES.md и <ПРОЕКТ>/FACEBOOK/RULES.md, «Подключение».
 # Стоп-кран — CONTROL/PUBLISHING.yaml (pause: true).
 # Руками: Actions → «Публикация» → Run workflow → режим: check — проверить доступ, dry-run — что вышло бы сейчас,
 # publish — опубликовать; «Один пост» — путь к папке в READY, выходит сразу.
@@ -46,6 +47,8 @@ jobs:
       IG_USER_AURA: ${{ secrets.IG_USER_AURA }}
       IG_TOKEN_OSTAPDOTCENKO: ${{ secrets.IG_TOKEN_OSTAPDOTCENKO }}
       IG_USER_OSTAPDOTCENKO: ${{ secrets.IG_USER_OSTAPDOTCENKO }}
+      FB_PAGE_TOKEN_AURA: ${{ secrets.FB_PAGE_TOKEN_AURA }}
+      FB_PAGE_TOKEN_GTT: ${{ secrets.FB_PAGE_TOKEN_GTT }}
     steps:
       - uses: actions/checkout@v5
 
