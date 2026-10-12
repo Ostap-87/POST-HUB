@@ -1,9 +1,13 @@
 ---
 number: 0
+order: 1
+day: 1
+rubric: "о компании"
+week: 1
 title: "Роботы от китайских заводов — без посредников"
 source: "сценарий согласован с пользователем в чате 11–12.10.2026 (факты — aura-robotics.ru + слова пользователя о турах)"
 slides: 9
-image: "00_aura-intro"
+image: "001_aura-intro"
 image_status: "на согласовании"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4"

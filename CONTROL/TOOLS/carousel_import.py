@@ -25,7 +25,8 @@ from PIL import Image
 HUB = Path(__file__).resolve().parents[2]
 SOURCES = {'AURA': 'CONTROL/SOURCES/2026-10-10_карусели-instagram/04_Aura_карусели_Instagram_20.docx',
            'GTT': 'CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx'}
-CTA = {'AURA': 'Пиши в личные сообщения или оставляй заявку на сайте aura-robotics.ru — рассчитаем стоимость и окупаемость.',
+CTA = {'AURA': 'Пишите в личные сообщения или оставляйте заявку на сайте — рассчитаем стоимость и окупаемость.\n\n'
+                'aura-robotics.ru — выбрать робота под вашу задачу',   # AURA/RULES.md: «на вы», в конце строка с сайтом
        'GTT': 'За подробностями пиши в личные сообщения или заходи на globaltechtour.ru и оставляй заявку — свяжемся в течение 2 минут.'}
 TAGS = {'AURA': '#технологии #AI #Роботы #Роботизация #Гуманоиды #AGV',   # AURA/RULES.md, раздел 7
         'GTT': '#GTT #GlobalTechTour #Техтуризм'}
@@ -51,9 +52,20 @@ TOPIC_TAGS = [('fintech', '#Финтех #Платежи'), ('bubble-tea', '#Б�
               ('ticketing', '#Ивенты #Тревел'), ('confectionery', '#Кондитерская #Десерты'),
               ('agibot', '#AgiBot'), ('matrix', '#MATRIX'), ('robotera', '#Robotera')]
 AUTO_PREFIX = 'собрана из слайдов'
+# Aura: характеристики остаются на слайдах, в подписи — кто делает, цифры, «честно», применение, цена и поставка
+AURA_SKIP = {'Размеры', 'Начинка', 'Характеристики', 'Проходимость', 'Открытость', 'Две версии', 'Два поколения',
+             'Колёсные AgiBot', 'Мозги'}
+
+
+AURA_BRAND = [('agibot', '#AgiBot'), ('matrix', '#MATRIX'), ('robotera', '#Robotera'), ('unitree', '#Unitree')]
+AURA_DOGS = ('agibot-d1', 'go2', 'b2')                                # робопсы — без #Гуманоиды
 
 
 def tags(project, slides, topic):
+    if project == 'AURA':                                            # AURA/RULES.md, раздел 7: 1–2 из набора по смыслу + тема
+        base = ['#Роботы', '#Роботизация'] if any(k in topic for k in AURA_DOGS) else ['#Гуманоиды', '#Роботы']
+        brand = [t for k, t in AURA_BRAND if k in topic][:1]
+        return ' '.join(base + brand + ['#РоботыИзКитая'])
     if project != 'GTT':
         return TAGS[project]
     out = []
@@ -70,7 +82,14 @@ def caption(project, slides, topic=''):
     blocks = [[dot(plain(cover.get('title'))), dot(plain(cover.get('text'))), 'Листай карусель →']]
     for sl in slides[1:-1]:
         b = []
-        if sl.get('value'):                                            # цифра
+        if project == 'AURA' and plain(sl.get('kicker')) in AURA_SKIP:
+            continue
+        if sl.get('value') and project == 'AURA':                      # «Скорость: 3,5 м/с — это больше 12 км/ч.»
+            v, t = plain(sl['value']), plain(sl.get('title'))
+            joint = ' — ' if t.startswith('это ') or ':' in t else ' '      # «3,5 м/с — это…», но «5 кг на каждую руку»
+            line = f"{plain(sl['kicker'])}: {v}{joint}{t}" if sl.get('kicker') else f'{v}{joint}{t}'
+            b.append(dot(line) + (' ' + dot(plain(sl.get('text'))) if sl.get('text') else ''))
+        elif sl.get('value'):                                          # цифра
             src = f" (источник: {plain(sl['source'])})" if sl.get('source') else ''
             where = f" ({plain(sl['kicker'])})" if sl.get('kicker') and plain(sl['kicker']).lower() not in plain(sl.get('title')).lower() else ''
             b.append(dot(f"{plain(sl['value'])} {plain(sl.get('title'))}{where}") + (' ' + dot(plain(sl.get('text'))) if sl.get('text') else '') + src)

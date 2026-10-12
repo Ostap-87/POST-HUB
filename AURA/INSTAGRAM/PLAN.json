@@ -1,0 +1,226 @@
+{
+  "_": "Раскладка Instagram Aura: только карусели (видео пока нет) — одна карусель в день, на следующее утро её Stories-анонс. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py AURA --apply. Дата старта и время — после утверждения пользователем.",
+  "start": null,
+  "launch": [
+    {
+      "day": 1,
+      "type": "carousel",
+      "carousel": 0,
+      "rubric": "о компании",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 2,
+      "type": "anons",
+      "carousel": 0,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 2,
+      "type": "carousel",
+      "carousel": 2,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 3,
+      "type": "anons",
+      "carousel": 2,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 3,
+      "type": "carousel",
+      "carousel": 8,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 4,
+      "type": "anons",
+      "carousel": 8,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 4,
+      "type": "carousel",
+      "carousel": 3,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 5,
+      "type": "anons",
+      "carousel": 3,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 5,
+      "type": "carousel",
+      "carousel": 9,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 6,
+      "type": "anons",
+      "carousel": 9,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 6,
+      "type": "carousel",
+      "carousel": 1,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 7,
+      "type": "anons",
+      "carousel": 1,
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 7,
+      "type": "carousel",
+      "carousel": 7,
+      "rubric": "модель",
+      "launch": false,
+      "week": 1,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 8,
+      "type": "anons",
+      "carousel": 7,
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 8,
+      "type": "carousel",
+      "carousel": 6,
+      "rubric": "модель",
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 9,
+      "type": "anons",
+      "carousel": 6,
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 9,
+      "type": "carousel",
+      "carousel": 10,
+      "rubric": "линейка",
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 10,
+      "type": "anons",
+      "carousel": 10,
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 10,
+      "type": "carousel",
+      "carousel": 4,
+      "rubric": "модель",
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 11,
+      "type": "anons",
+      "carousel": 4,
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "утро"
+    },
+    {
+      "day": 11,
+      "type": "carousel",
+      "carousel": 5,
+      "rubric": "модель",
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "вечер"
+    },
+    {
+      "day": 12,
+      "type": "anons",
+      "carousel": 5,
+      "launch": false,
+      "week": 2,
+      "time": null,
+      "part": "утро"
+    }
+  ],
+  "weeks_from_day": 1,
+  "weeks": 0,
+  "rhythm": [],
+  "theme_weeks": [],
+  "pools": {},
+  "moves": {},
+  "reels": {},
+  "anons": {
+    "title": "Листай карусель **в профиле**",
+    "no_reels_note": "Сохрани, чтобы не потерять"
+  }
+}

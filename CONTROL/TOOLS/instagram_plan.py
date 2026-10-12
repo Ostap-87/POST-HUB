@@ -10,7 +10,8 @@ python3 CONTROL/TOOLS/instagram_plan.py GTT --html out.html   # календар
 план — только порядок: файлы называются `NNN_тема` (NNN — номер публикации по порядку), в шапке `order` и `day`
 («День N» от старта), времени и даты нет; такие посты `to_ready.py` в очередь не переносит — выйти они не могут.
 Когда пользователь назначит старт и время — `start`, `time` в `launch` и `rhythm` → `--apply` переименует в `ГГГГ-ММ-ДД_ЧЧММ_тема`.
-- `launch` — первые публикации вручную (`day` — день от старта или `date`, `time`, type, carousel / reels); `week` у них занимает слоты этой недели;
+- `launch` — публикации вручную (`day` — день от старта или `date`, `time`, type, carousel / reels; `rubric` — своя рубрика,
+  `launch: false` — не «первый запуск», `week` — к какой неделе отнести, `part` — утро / день / вечер, пока нет времени); план из одних таких записей — `weeks: 0` (так у Aura); `week` у них занимает слоты этой недели;
 - `weeks_from_day` (день от старта) или `weeks_from` (дата), `weeks`, `rhythm` — неделя (без даты старта первый день считается воскресеньем): день (пн…вс), время, type: `carousel` (pool: theme / china / asia …),
   `anons` (Stories-анонс карусели недели), `reels` (ролик недели), `reels_stories` (две части ролика недели в Stories);
 - `theme_weeks` — по неделе: [номер карусели, ролик или null]; `pools` — очереди каруселей по номерам;
@@ -81,7 +82,7 @@ class Plan:
         covered = set()
         for e in c['launch']:
             d0 = self.base + dt.timedelta(days=e['day'] - 1) if 'day' in e else dt.date.fromisoformat(e['date'])
-            x = {**e, 'date': d0, 'time': e.get('time'), 'launch': True, 'week': e.get('week', 0)}
+            x = {**e, 'date': d0, 'time': e.get('time'), 'launch': e.get('launch', True), 'week': e.get('week', 0)}
             ev.append(x)
             if 'week' in e:
                 covered.add((e['week'], e['type']))
@@ -121,14 +122,15 @@ class Plan:
         missing = sorted(set(self.car) - set(used))
         if missing:
             print('⚠ нет в расписании:', ', '.join(f'№{n}' for n in missing))
-        ev.sort(key=lambda e: (e['date'], e['time'] or '', ['reels', 'carousel', 'anons', 'reels_stories'].index(e['type'])))
+        part = {'утро': '10', 'день': '13', 'вечер': '19'}               # без времени порядок внутри дня — по `part`
+        ev.sort(key=lambda e: (e['date'], e['time'] or part.get(e.get('part'), ''), ['reels', 'carousel', 'anons', 'reels_stories'].index(e['type'])))
         if self.dated:
             no_time = [e for e in ev if not e['time']]
             assert not no_time, f'старт назначен, а время нет у {len(no_time)} публикаций — впиши time в launch и rhythm'
         for i, e in enumerate(ev, 1):
             e['order'], e['day'] = i, (e['date'] - self.base).days + 1
             e['name'] = self.name(e)
-            if e['type'] == 'carousel':
+            if e['type'] == 'carousel' and not e.get('rubric'):
                 asia = any(k in self.car[e['carousel']]['theme'] for k in ('japan', 'thailand', 'vietnam', 'korea', 'uae'))
                 e['rubric'] = 'тема недели' if 'theme_reels' in e else 'Азия' if asia else 'Китай'
         return ev
@@ -170,7 +172,7 @@ class Plan:
         for e in self.ev:
             kind, what = self.label(e)
             mv = f" (перенос с {e['moved_from'].strftime('%d.%m')})" if e.get('moved_from') else ''
-            when = f"{e['date'].strftime('%d.%m')} {WD[e['date'].weekday()]} {e['time']}" if self.dated else f"{e['order']:03d} · день {e['day']:>3}"
+            when = f"{e['date'].strftime('%d.%m')} {WD[e['date'].weekday()]} {e['time']}" if self.dated else f"{e['order']:03d} · день {e['day']:>3}" + (f" · {e['part']}" if e.get('part') else '')
             out.append(f"{when} | {kind:<10} | {what}{mv}")
         n = lambda t: sum(e['type'] == t for e in self.ev)
         out.append(f"Итого: каруселей {n('carousel')}, Reels {n('reels')}, Stories из роликов {n('reels_stories')}, анонсов {n('anons')}.")
@@ -334,7 +336,7 @@ class Plan:
             mark = ' · тест' if e.get('launch') else ''
             mv = f" · перенос с {e['moved_from'].strftime('%d.%m')}" if e.get('moved_from') else ''
             folder = {'carousel': 'CAROUSEL', 'reels': 'REELS'}.get(e['type'], 'STORIES')
-            when = f"{WD[e['date'].weekday()]} {e['date'].day} {MON[e['date'].month]} | {e['time']}" if self.dated else f"{e['order']:03d} | День {e['day']}"
+            when = f"{WD[e['date'].weekday()]} {e['date'].day} {MON[e['date'].month]} | {e['time']}" if self.dated else f"{e['order']:03d} | День {e['day']}" + (f", {e['part']}" if e.get('part') else '')
             lines.append(f"| {when} | {kind}{mark} | "
                          f"{what.replace('|', '/')}{mv} | `{folder}/TEXT/{e['name']}.md` |")
         lines += ['', self.table()[-1], '']
@@ -383,7 +385,7 @@ class Plan:
             tag = '<span class="t">тест</span>' if e.get('launch') else ''
             mv = f'<div class="mv">перенос с {e["moved_from"].strftime("%d.%m")}</div>' if e.get('moved_from') else ''
             when = (f'{WD[e["date"].weekday()]}, {e["date"].day} {MON[e["date"].month]} · <b>{e["time"]}</b>' if self.dated
-                    else f'№{e["order"]} · <b>День {e["day"]}</b>')
+                    else f'№{e["order"]} · <b>День {e["day"]}</b>' + (f', {e["part"]}' if e.get('part') else ''))
             cards.append(f'<div class="c {cls}"><div class="d">{when}'
                          f'</div><div class="k">{kind}{tag}</div>{img}<div class="w">{what}</div>{mv}</div>')
         page = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
