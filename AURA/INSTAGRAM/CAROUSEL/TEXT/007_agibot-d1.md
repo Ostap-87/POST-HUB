@@ -14,6 +14,7 @@ image_cost: "5"
 image_count: 10
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-agibot-d1.json"
 caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+music_video: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 AgiBot D1: робопёс с сальто.
 Четвероногий робот для разработки и демонстраций.

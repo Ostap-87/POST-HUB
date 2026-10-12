@@ -14,6 +14,7 @@ image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-agibot-a2-w.json"
 caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+music_video: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 AgiBot A2-W: гуманоид на колёсах для цеха.
 Две руки, лидар и разворот на месте.

@@ -14,6 +14,7 @@ image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-robotera-lineyka.json"
 caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+music_video: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 Линейка Robotera.
 L7, STAR1, M7, Q5 и кисть XHAND1: кого выбрать.

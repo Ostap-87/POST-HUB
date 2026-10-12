@@ -14,6 +14,7 @@ image_cost: "5"
 image_count: 10
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-agibot-x2.json"
 caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+music_video: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 AgiBot X2: маленький, но шустрый.
 Компактный гуманоид для магазинов и мероприятий.

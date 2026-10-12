@@ -14,6 +14,7 @@ image_cost: "4"
 image_count: 8
 video_hub: "reels-studio/props/carousels/2026-10-12-foto-aura-intro.json"
 caption_status: "текст из согласованного сценария, на согласовании"
+music_video: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 Aura Robotics — роботы и роботизированное оборудование от китайских заводов. Работаем напрямую и лично знаем производителей — без посредников.
 

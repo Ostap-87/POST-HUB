@@ -14,6 +14,7 @@ image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-matrix-3.json"
 caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+music_video: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 MATRIX-3: гуманоид, который чувствует кожей.
 Флагман от бывшего главы дизайн-центра Tesla в Китае.
