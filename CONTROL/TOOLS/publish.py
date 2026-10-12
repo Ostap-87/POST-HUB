@@ -124,6 +124,8 @@ def run_one(t, project, network, fmt, d, dry):
         return 'ok'
     dst = archive(d, project, network, fmt, result, dt.datetime.now(MSK))
     print(f'  ✓ {rel} → {dst.relative_to(HUB)} · {result.get("url")}')
+    if result.get('warning'):
+        print(f"  ! {result['warning']}")
     return 'ok'
 
 

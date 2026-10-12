@@ -10,6 +10,10 @@ Instagram забирает файлы сам по публичной ссылк�
 отдельная сторис, по порядку), POST (одно фото с подписью; одно видео уходит как Reels).
 Обложка Reels: `cover_url` (картинка) или `thumb_offset` (кадр ролика, мс; без поля — первый кадр).
 API не умеет: музыку из библиотеки Instagram, стикеры и ссылки в Stories, отметки товаров.
+Отметка аккаунтов в Stories (`user_tags`, Instagram API с 09.07.2025): поле `story_mentions` в шапке — список @имён
+публичных аккаунтов. Отмеченный аккаунт получает уведомление и кнопку «Добавить в свою историю» — так делается репост
+(решение пользователя 12.10.2026: «Сделай пост сторис для Ауры, чтобы я репост мог сделать далее»). Если Instagram
+отметку не принял (аккаунт закрытый, имя с ошибкой), сторис выходит без неё, в результате — `warning`.
 """
 import hashlib
 import json
@@ -179,7 +183,7 @@ def publish(project, fmt, d, meta, body, dry=False):
     if fmt == 'POST' and media[0][0] == 'video':
         fmt = 'REELS'
     verify(media, caption if fmt != 'STORIES' else '', fmt)
-    plan = f"{fmt}: {len(media)} файл(ов), подпись {len(caption)} знаков" if fmt != 'STORIES' else f'STORIES: {len(media)} шт.'
+    plan = f"{fmt}: {len(media)} файл(ов), подпись {len(caption)} знаков" if fmt != 'STORIES' else f'STORIES: {len(media)} шт.' + (f" · отметка {meta['story_mentions']}" if meta.get('story_mentions') else '')
     if dry:
         return {'plan': plan}
     token, user = creds(project)
@@ -208,13 +212,31 @@ def publish(project, fmt, d, meta, body, dry=False):
         mid, link = _publish(token, user, cid)
         return {'post_id': mid, 'url': link, 'format': fmt}
     if fmt == 'STORIES':
-        ids = []
+        ids, warn = [], None
+        tags = meta.get('story_mentions') or []
+        tags = [tags] if isinstance(tags, str) else tags
+        tags = json.dumps([{'username': t.lstrip('@')} for t in tags]) if tags else None
         for kind, url, _ in media:                                  # по порядку: часть 1, часть 2 …
             p = {'media_type': 'STORIES', **({'image_url': url} if kind == 'image' else {'video_url': url})}
-            cid = _container(token, user, p)
+            if tags:
+                p['user_tags'] = tags                               # отметка аккаунта → у него кнопка «Добавить в свою историю»
+            try:
+                cid = _container(token, user, p)
+            except IGError as e:
+                if not tags:
+                    raise
+                warn = f'отметку {meta.get("story_mentions")} Instagram не принял ({e}) — сторис вышла без неё'
+                tags = None
+                p.pop('user_tags')
+                cid = _container(token, user, p)
             _wait(token, cid, vid_wait if kind == 'video' else 120)
             ids.append(_publish(token, user, cid)[0])
-        return {'post_id': ids[0], 'url': None, 'format': fmt, 'story_ids': ids}
+        res = {'post_id': ids[0], 'url': None, 'format': fmt, 'story_ids': ids}
+        if meta.get('story_mentions'):
+            res['mentions'] = [] if warn else meta['story_mentions']
+        if warn:
+            res['warning'] = warn
+        return res
     if fmt == 'POST':
         cid = _container(token, user, {'image_url': media[0][1], 'caption': caption})
         _wait(token, cid, 120)
