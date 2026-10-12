@@ -157,7 +157,23 @@ class Plan:
     def find(self, typ, key):
         return next((e for e in self.ev if e['type'] == typ and (e.get('carousel') == key or e.get('reels') == key)), None)
 
+    def model(self, n):
+        """«AgiBot A2: гуманоид-рекордсмен» → («AgiBot A2», «Гуманоид-рекордсмен»); без двоеточия — подзаголовок обложки."""
+        t = self.car[n]['title']
+        if ':' in t:
+            a, b = t.split(':', 1)
+            return a.strip(), b.strip()[:1].upper() + b.strip()[1:]
+        try:
+            cover = json.loads((VH / self.car[n]['vh']).read_text(encoding='utf-8'))['slides'][0]
+            return t, re.sub(r'\*\*', '', cover.get('text', ''))
+        except Exception:
+            return t, ''
+
     def note(self, e):
+        if e.get('note'):
+            return e['note']
+        if self.cfg['anons'].get('model_of_day'):                         # Aura: анонс модели дня — подзаголовок карусели
+            return self.model(e['carousel'])[1]
         if not e.get('theme_reels'):
             return self.cfg['anons']['no_reels_note']
         r = self.find('reels', e['theme_reels'])
@@ -176,6 +192,8 @@ class Plan:
             return 'Reels', R[e['reels']]['title']
         if e['type'] == 'anons':
             same = ' (одновременно с каруселью)' if e.get('launch') else ''
+            if self.cfg['anons'].get('model_of_day'):
+                return 'Stories', f"{self.cfg['anons'].get('kicker', 'Модель дня')}: {self.model(e['carousel'])[0]} · «{self.note(e)}»"
             return 'Stories', f"анонс карусели №{e['carousel']} · «{self.note(e)}»{same}"
         return 'Stories ×2', f"части ролика «{R[e['reels']]['title']}»"
 
@@ -261,7 +279,9 @@ class Plan:
                 m = {'number': list(R).index(e['reels']) + 1, **h, 'title': r['title'],
                      'video_hub': f"finished-videos/{r['video']}.mp4", 'duration': f"{r['seconds']} с",
                      'video_status': 'мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя',
-                     'music': self.cfg.get('music', ''), 'caption_status': 'черновик по тексту ролика, на согласовании'}
+                     'music': r.get('music') or self.cfg.get('music', ''), 'caption_status': 'черновик по тексту ролика, на согласовании'}
+                if r.get('guest'):
+                    m['guest'] = r['guest']
                 if old:
                     om, _ = meta_of(f)
                     m['caption_status'] = json.loads(om.get('caption_status', json.dumps(m['caption_status'])))
@@ -291,7 +311,7 @@ class Plan:
                 if self.dated:
                     Image.open(self.anons_png(i)).convert('RGB').save(dst / '01.jpg', quality=92, optimize=True)
                 m = {k: q(v) for k, v in h.items()}
-                m['title'] = q(f"Анонс карусели №{e['carousel']} «{self.car[e['carousel']]['title']}»")
+                m['title'] = q(f"{'Модель дня' if self.cfg['anons'].get('model_of_day') else 'Анонс карусели'} №{e['carousel']} «{self.car[e['carousel']]['title']}»")
                 m['image'] = q(n)
                 m['note'] = q(self.note(e))
                 m['video_hub'] = q(f'finished-videos/анонсы/{self.ann_name()}/{i:02d}.png')
@@ -313,8 +333,13 @@ class Plan:
         for e in anons:
             d = Path(self.car[e['carousel']]['vh']).stem                 # 2026-10-10-foto-<тема>
             base = f'finished-videos/карусели/{d}'
-            stories.append({'cover': f'{base}/01.png', 'back': [f'{base}/02.png', f'{base}/03.png'],
-                            'title': self.cfg['anons']['title'], 'note': self.note(e)})
+            st = {'cover': f'{base}/01.png', 'back': [f'{base}/02.png', f'{base}/03.png'],
+                  'title': e.get('title') or self.cfg['anons']['title'], 'note': self.note(e)}
+            if self.cfg['anons'].get('model_of_day') and not e.get('title'):
+                st['title'] = f"**{self.model(e['carousel'])[0]}**"
+            if e.get('kicker') or self.cfg['anons'].get('kicker'):
+                st['kicker'] = e.get('kicker') or self.cfg['anons']['kicker']
+            stories.append(st)
         props = {'brand': self.project.lower(), 'stories': stories}
         p = VH / 'reels-studio/props/announces' / f'{self.ann_name()}.json'
         text = json.dumps(props, ensure_ascii=False, indent=2) + '\n'
