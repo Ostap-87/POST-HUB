@@ -8,6 +8,7 @@ Instagram забирает файлы сам по публичной ссылк�
 - видео: поле `video_hub` (путь мастера в VIDEO-HUB, строка или список) → ссылка Git LFS media.githubusercontent.com.
 Форматы: CAROUSEL (2–10 картинок/видео + подпись), REELS (видео + подпись, `share_to_feed`), STORIES (каждый файл —
 отдельная сторис, по порядку), POST (одно фото с подписью; одно видео уходит как Reels).
+Обложка Reels: `cover_url` (картинка) или `thumb_offset` (кадр ролика, мс; без поля — первый кадр).
 API не умеет: музыку из библиотеки Instagram, стикеры и ссылки в Stories, отметки товаров.
 """
 import hashlib
@@ -200,6 +201,8 @@ def publish(project, fmt, d, meta, body, dry=False):
         p = {'media_type': 'REELS', 'video_url': media[0][1], 'caption': caption, 'share_to_feed': 'true'}
         if meta.get('cover_url'):
             p['cover_url'] = meta['cover_url']
+        elif meta.get('thumb_offset') is not None:                # обложка — кадр ролика на этой миллисекунде
+            p['thumb_offset'] = str(meta['thumb_offset'])
         cid = _container(token, user, p)
         _wait(token, cid, vid_wait)
         mid, link = _publish(token, user, cid)

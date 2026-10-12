@@ -2,10 +2,11 @@
 number: 0
 order: 0
 rubric: "о компании"
-title: "Reels-версия интро-карусели «Роботы от китайских заводов — без посредников» (робот-ведущий вытаскивает слайды)"
+title: "Reels-версия интро-карусели «Роботы от китайских заводов — без посредников» (робот-ведущий вытаскивает слайды из-за правого края, с первого по девятый)"
 source: "карусель AURA/INSTAGRAM/CAROUSEL/PUBLISHED/2026-10/2026-10-12_0405_aura-intro (вышла 12.10.2026); пользователь 12.10.2026: «А можешь еще сразу публиковать карусель в Рилс?»"
 video_hub: "finished-videos/2026-10-12-foto-aura-intro-reels.mp4"
-duration: "43,5 с"
+duration: "45,5 с"
+thumb_offset: 2600
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 status: "на согласовании"
 caption_status: "на согласовании"
