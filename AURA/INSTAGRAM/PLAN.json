@@ -1,5 +1,5 @@
 {
-  "_": "Раскладка Instagram Aura (решение пользователя 12.10.2026): каждый день одна модель — 08:00 Reels-версия карусели (гуманоид и робособака во вступлении, гость по кругу AGV → манипулятор → роборука → танец собаки), 13:00 Stories «Модель дня» (название модели крупно, без «сегодня в 19:00»), 19:00 карусель. Время — Москва. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py AURA --apply. Выходит только утверждённое (стоп-кран CONTROL/PUBLISHING.yaml).",
+  "_": "Раскладка Instagram Aura (решение пользователя 12.10.2026): каждый день одна модель — 07:30 Reels-версия карусели (гуманоид и робособака во вступлении, гость по кругу AGV → манипулятор → роборука → танец собаки), 11:00 Stories «Модель дня» (название модели крупно, без «сегодня в 19:00»), 18:00 карусель. Время — Москва. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py AURA --apply. Выходит только утверждённое (стоп-кран CONTROL/PUBLISHING.yaml). Время изменено пользователем 12.10.2026: «07:30 — Reels, 11:00 — Stories «Модель дня», 18:00 — карусель».",
   "start": "2026-10-12",
   "launch": [
     {
@@ -19,7 +19,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 2,
@@ -28,7 +28,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 2,
@@ -37,7 +37,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 3,
@@ -47,7 +47,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 3,
@@ -56,7 +56,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 3,
@@ -65,7 +65,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 4,
@@ -75,7 +75,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 4,
@@ -84,7 +84,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 4,
@@ -93,7 +93,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 5,
@@ -103,7 +103,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 5,
@@ -112,7 +112,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 5,
@@ -121,7 +121,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 6,
@@ -131,7 +131,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 6,
@@ -140,7 +140,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 6,
@@ -149,7 +149,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 7,
@@ -159,7 +159,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 1,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 7,
@@ -168,7 +168,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 1,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 7,
@@ -177,7 +177,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 1,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 8,
@@ -187,7 +187,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 8,
@@ -196,7 +196,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 8,
@@ -205,7 +205,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 9,
@@ -215,7 +215,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 9,
@@ -224,7 +224,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 9,
@@ -233,7 +233,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 10,
@@ -243,7 +243,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 10,
@@ -252,7 +252,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 10,
@@ -261,7 +261,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 11,
@@ -271,7 +271,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 11,
@@ -280,7 +280,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 11,
@@ -289,7 +289,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 12,
@@ -299,7 +299,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 12,
@@ -308,7 +308,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 12,
@@ -317,7 +317,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 13,
@@ -327,7 +327,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 13,
@@ -336,7 +336,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 13,
@@ -345,7 +345,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 14,
@@ -355,7 +355,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 2,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 14,
@@ -364,7 +364,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 2,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 14,
@@ -373,7 +373,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 2,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 15,
@@ -383,7 +383,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 15,
@@ -392,7 +392,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 15,
@@ -401,7 +401,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 16,
@@ -411,7 +411,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 16,
@@ -420,7 +420,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 16,
@@ -429,7 +429,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 17,
@@ -439,7 +439,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 17,
@@ -448,7 +448,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 17,
@@ -457,7 +457,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 18,
@@ -467,7 +467,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 18,
@@ -476,7 +476,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 18,
@@ -485,7 +485,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 19,
@@ -495,7 +495,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 19,
@@ -504,7 +504,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 19,
@@ -513,7 +513,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 20,
@@ -523,7 +523,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 20,
@@ -532,7 +532,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 20,
@@ -541,7 +541,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     },
     {
       "day": 21,
@@ -551,7 +551,7 @@
       "rubric": "Reels карусели",
       "launch": false,
       "week": 3,
-      "time": "08:00"
+      "time": "07:30"
     },
     {
       "day": 21,
@@ -560,7 +560,7 @@
       "rubric": "модель дня",
       "launch": false,
       "week": 3,
-      "time": "13:00"
+      "time": "11:00"
     },
     {
       "day": 21,
@@ -569,7 +569,7 @@
       "rubric": "модель",
       "launch": false,
       "week": 3,
-      "time": "19:00"
+      "time": "18:00"
     }
   ],
   "weeks_from_day": 1,
