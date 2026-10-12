@@ -73,6 +73,15 @@ class Plan:
             n = int(m['number'])
             self.car[n] = {'file': f, 'stem': f.stem, 'theme': re.sub(r'^\d+_', '', PREFIX.sub('', f.stem)),
                            'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""'))}
+        for f in sorted((self.ig / 'CAROUSEL/PUBLISHED').glob('*/*/post.md')):   # вышедшие: в плане остаются, файлы не трогаем
+            m, _ = meta_of(f)
+            n = int(m['number'])
+            if n in self.car:
+                continue
+            info = f.parent / 'info.json'
+            self.car[n] = {'file': f, 'stem': f.parent.name, 'theme': re.sub(r'^\d+_', '', PREFIX.sub('', f.parent.name)),
+                           'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""')), 'published': f.parent.name,
+                           'url': json.loads(info.read_text(encoding='utf-8')).get('url') if info.exists() else None}
         self.ev = self.build()
 
     # ——— календарь ———
@@ -136,6 +145,8 @@ class Plan:
         return ev
 
     def name(self, e):
+        if e['type'] == 'carousel' and self.car[e['carousel']].get('published'):
+            return self.car[e['carousel']]['published']
         pre = f"{e['date'].isoformat()}_{e['time'].replace(':', '')}_" if self.dated else f"{e['order']:03d}_"
         if e['type'] == 'carousel':
             return f"{pre}{self.car[e['carousel']]['theme']}"
@@ -159,7 +170,8 @@ class Plan:
     def label(self, e):
         R = self.cfg['reels']
         if e['type'] == 'carousel':
-            return 'Карусель', f"№{e['carousel']} {self.car[e['carousel']]['title']}"
+            done = f" · ✓ вышла {self.car[e['carousel']]['url'] or ''}".rstrip() if self.car[e['carousel']].get('published') else ''
+            return 'Карусель', f"№{e['carousel']} {self.car[e['carousel']]['title']}{done}"
         if e['type'] == 'reels':
             return 'Reels', R[e['reels']]['title']
         if e['type'] == 'anons':
@@ -222,6 +234,8 @@ class Plan:
         for e in self.ev:
             n = e['name']
             h = {**self.head(e), **self.links(e)}
+            if e['type'] == 'carousel' and self.car[e['carousel']].get('published'):
+                continue                                                 # уже вышла — архив не трогаем
             if e['type'] == 'carousel':
                 c = self.car[e['carousel']]
                 self.mv(self.ig / 'CAROUSEL/PHOTO' / c['stem'], self.ig / 'CAROUSEL/PHOTO' / n)
