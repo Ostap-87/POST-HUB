@@ -1,204 +1,1244 @@
 {
-  "_": "Раскладка Instagram GTT. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py GTT --apply. Описание полей — CONTROL/TOOLS/instagram_plan.py. Дата старта и время не назначены (решение пользователя 11.10.2026: «время определим позже») — start: null, time: null.",
-  "start": null,
+  "_": "Раскладка Instagram GTT (решение пользователя 12.10.2026): 12.10 — тестовый запуск (Reels «Интро», карусель №1 «12 заводов роботов», Stories). С 13.10 сначала ролики с Остапом — по одному в день: 08:00 ролик, 13:00 карусель на ту же тему + Stories с Остапом (две части ролика) [П: «делать карусель под роботов и сторис со мной про роботов, и так по всем остальным видео со мной, и только потом запускать рандомные карусели»]. Потом остальные карусели: 08:00 Reels-версия карусели, 13:00 карусель + Stories тура («Листай карусель в профиле»). Время — Москва. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py GTT --apply. Выходит только утверждённое (стоп-кран CONTROL/PUBLISHING.yaml).",
+  "start": "2026-10-12",
   "launch": [
     {
-      "day": 1,
-      "type": "reels",
-      "reels": "intro",
-      "time": null
-    },
-    {
-      "day": 2,
+      "date": "2026-10-12",
+      "time": "13:30",
       "type": "carousel",
       "carousel": 1,
-      "week": 1,
-      "theme_reels": "roboty",
-      "time": null
+      "rubric": "тема недели",
+      "launch": false,
+      "week": 1
     },
     {
-      "day": 2,
-      "type": "anons",
-      "carousel": 1,
-      "week": 1,
-      "theme_reels": "roboty",
-      "time": null
+      "date": "2026-10-13",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "roboty",
+      "carousel_of_week": 24,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
     },
     {
-      "day": 3,
+      "date": "2026-10-13",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 24,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-13",
+      "time": "13:00",
       "type": "reels_stories",
-      "reels": "intro",
-      "time": null
+      "reels": "roboty",
+      "carousel_of_week": 24,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-14",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tech-giganty",
+      "carousel_of_week": 2,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-14",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 2,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-14",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "tech-giganty",
+      "carousel_of_week": 2,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-15",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "chai-kofe",
+      "carousel_of_week": 3,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-15",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 3,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-15",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "chai-kofe",
+      "carousel_of_week": 3,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-16",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "kosmetika",
+      "carousel_of_week": 4,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-16",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 4,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-16",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "kosmetika",
+      "carousel_of_week": 4,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-17",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "avto",
+      "carousel_of_week": 5,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-17",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 5,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-17",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "avto",
+      "carousel_of_week": 5,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-18",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "byt-tehnika",
+      "carousel_of_week": 6,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-18",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 6,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-18",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "byt-tehnika",
+      "carousel_of_week": 6,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-19",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "novyi-riteil",
+      "carousel_of_week": 9,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 9,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-19",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "novyi-riteil",
+      "carousel_of_week": 9,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-20",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "konditerka",
+      "carousel_of_week": 20,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-20",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 20,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-20",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "konditerka",
+      "carousel_of_week": 20,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-21",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "ai",
+      "carousel_of_week": 21,
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-21",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 21,
+      "rubric": "тема ролика",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-21",
+      "time": "13:00",
+      "type": "reels_stories",
+      "reels": "ai",
+      "carousel_of_week": 21,
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 1
+    },
+    {
+      "date": "2026-10-22",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-tech-parks-reels",
+      "carousel_of_week": 8,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-22",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 8,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-22",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 8,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-23",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-ticketing-travel-reels",
+      "carousel_of_week": 10,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-23",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 10,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-23",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 10,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-24",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-logistics-top10-reels",
+      "carousel_of_week": 11,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-24",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 11,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-24",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 11,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-25",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-petrochemicals-guangdong-reels",
+      "carousel_of_week": 12,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-25",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 12,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-25",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 12,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-26",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-waste-management-reels",
+      "carousel_of_week": 13,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-26",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 13,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-26",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 13,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-27",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-film-industry-reels",
+      "carousel_of_week": 14,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-27",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 14,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-27",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 14,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-28",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-global-brands-reels",
+      "carousel_of_week": 15,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-28",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 15,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-28",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 15,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-29",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-china-fintech-giants-reels",
+      "carousel_of_week": 16,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-29",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 16,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-29",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 16,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-30",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-hotel-giants-china-reels",
+      "carousel_of_week": 17,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-30",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 17,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-30",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 17,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-31",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-global-hospitality-china-reels",
+      "carousel_of_week": 18,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-31",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 18,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-31",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 18,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-01",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-hongkong-luxury-legacy-reels",
+      "carousel_of_week": 19,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 19,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 19,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-02",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-retail-reels",
+      "carousel_of_week": 22,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-02",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 22,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-02",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 22,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-03",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-food-dairy-reels",
+      "carousel_of_week": 23,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-03",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 23,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-03",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 23,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-04",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-tech-internet-giants-reels",
+      "carousel_of_week": 25,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-04",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 25,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-04",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 25,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-05",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-beauty-industry-reels",
+      "carousel_of_week": 26,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-05",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 26,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-05",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 26,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-06",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-longevity-biotech-reels",
+      "carousel_of_week": 27,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-06",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 27,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-06",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 27,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-07",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-japan-bubble-tea-coffee-reels",
+      "carousel_of_week": 28,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-07",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 28,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-07",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 28,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-08",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-retail-reels",
+      "carousel_of_week": 29,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-08",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 29,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-08",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 29,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-09",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-food-dairy-reels",
+      "carousel_of_week": 30,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-09",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 30,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-09",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 30,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-10",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-dark-kitchen-delivery-reels",
+      "carousel_of_week": 31,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-10",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 31,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-10",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 31,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-11",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-tech-internet-giants-reels",
+      "carousel_of_week": 32,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-11",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 32,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-11",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 32,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-12",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-beauty-industry-reels",
+      "carousel_of_week": 33,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 33,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-12",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 33,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-13",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-longevity-biotech-reels",
+      "carousel_of_week": 34,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 34,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 34,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-14",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-thailand-bubble-tea-coffee-reels",
+      "carousel_of_week": 35,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-14",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 35,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-14",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 35,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-15",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-vietnam-retail-reels",
+      "carousel_of_week": 36,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-15",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 36,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-15",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 36,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-16",
+      "time": "08:00",
+      "type": "reels",
+      "reels": "tur-vietnam-food-dairy-reels",
+      "carousel_of_week": 37,
+      "rubric": "Reels карусели",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-16",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 37,
+      "rubric": "карусель тура",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-11-16",
+      "time": "13:00",
+      "type": "anons",
+      "carousel": 37,
+      "rubric": "Stories тура",
+      "launch": false,
+      "week": 2
     }
   ],
   "weeks_from_day": 2,
-  "weeks": 12,
-  "rhythm": [
-    {
-      "day": "пн",
-      "time": null,
-      "type": "carousel",
-      "pool": "theme"
-    },
-    {
-      "day": "вт",
-      "time": null,
-      "type": "anons"
-    },
-    {
-      "day": "ср",
-      "time": null,
-      "type": "reels"
-    },
-    {
-      "day": "чт",
-      "time": null,
-      "type": "carousel",
-      "pool": "china"
-    },
-    {
-      "day": "пт",
-      "time": null,
-      "type": "reels_stories"
-    },
-    {
-      "day": "сб",
-      "time": null,
-      "type": "carousel",
-      "pool": "asia"
-    }
-  ],
-  "theme_weeks": [
-    [
-      1,
-      "roboty"
-    ],
-    [
-      2,
-      "tech-giganty"
-    ],
-    [
-      3,
-      "chai-kofe"
-    ],
-    [
-      4,
-      "kosmetika"
-    ],
-    [
-      5,
-      "avto"
-    ],
-    [
-      6,
-      "byt-tehnika"
-    ],
-    [
-      9,
-      "novyi-riteil"
-    ],
-    [
-      20,
-      "konditerka"
-    ],
-    [
-      21,
-      "ai"
-    ],
-    [
-      27,
-      null
-    ],
-    [
-      34,
-      null
-    ],
-    [
-      28,
-      null
-    ]
-  ],
-  "pools": {
-    "china": [
-      8,
-      10,
-      11,
-      12,
-      13,
-      14,
-      15,
-      16,
-      17,
-      18,
-      19,
-      35
-    ],
-    "asia": [
-      22,
-      29,
-      23,
-      30,
-      36,
-      24,
-      31,
-      25,
-      32,
-      37,
-      26,
-      33
-    ]
-  },
+  "weeks": 0,
+  "rhythm": [],
+  "theme_weeks": [],
+  "pools": {},
   "moves": {},
   "reels": {
     "intro": {
       "video": "2026-10-07-intro",
       "title": "Интро — кто такой Остап и что такое Global Tech Tour",
-      "seconds": 83
+      "seconds": "85,7"
     },
     "roboty": {
       "video": "2026-10-08-roboty",
       "title": "Роботы",
-      "seconds": 81
+      "seconds": "84,1"
     },
     "tech-giganty": {
       "video": "2026-10-07-tech-giganty",
       "title": "Техгиганты Китая",
-      "seconds": 105
+      "seconds": "107,6"
     },
     "chai-kofe": {
       "video": "2026-10-07-chai-kofe",
       "title": "Чай и кофе Китая",
-      "seconds": 88
+      "seconds": "90,6"
     },
     "kosmetika": {
       "video": "2026-10-07-kosmetika",
       "title": "Косметика и anti-age",
-      "seconds": 107
+      "seconds": "109,7"
     },
     "avto": {
       "video": "2026-10-07-avto",
       "title": "Автопром и электромобили",
-      "seconds": 105
+      "seconds": "107,6"
     },
     "byt-tehnika": {
       "video": "2026-10-07-byt-tehnika-v3",
       "title": "Бытовая техника и умный дом",
-      "seconds": 105
+      "seconds": "107,6"
     },
     "novyi-riteil": {
       "video": "2026-10-07-novyi-riteil",
       "title": "Новый ритейл и доставка",
-      "seconds": 112
+      "seconds": "114,6"
     },
     "konditerka": {
       "video": "2026-10-07-konditerka",
       "title": "Кондитерка",
-      "seconds": 102
+      "seconds": "104,2"
     },
     "ai": {
       "video": "2026-10-07-ai",
       "title": "ИИ Китая",
-      "seconds": 93
+      "seconds": "95,6"
+    },
+    "tur-china-tech-parks-reels": {
+      "video": "2026-10-10-foto-tur-china-tech-parks-reels",
+      "title": "Reels-версия карусели «Как попасть в технопарки Китая»",
+      "seconds": "42,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 8
+    },
+    "tur-china-ticketing-travel-reels": {
+      "video": "2026-10-10-foto-tur-china-ticketing-travel-reels",
+      "title": "Reels-версия карусели «От билета до стриминга: 7 штаб-квартир»",
+      "seconds": "44,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 10
+    },
+    "tur-china-logistics-top10-reels": {
+      "video": "2026-10-10-foto-tur-china-logistics-top10-reels",
+      "title": "Reels-версия карусели «10 лидеров логистики Китая»",
+      "seconds": "43,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 11
+    },
+    "tur-china-petrochemicals-guangdong-reels": {
+      "video": "2026-10-10-foto-tur-china-petrochemicals-guangdong-reels",
+      "title": "Reels-версия карусели «6 крупнейших комплексов Гуандуна»",
+      "seconds": "44,7",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 12
+    },
+    "tur-china-waste-management-reels": {
+      "video": "2026-10-10-foto-tur-china-waste-management-reels",
+      "title": "Reels-версия карусели «Завод, где сгорает треть мусора Шанхая»",
+      "seconds": "44,7",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 13
+    },
+    "tur-china-film-industry-reels": {
+      "video": "2026-10-10-foto-tur-china-film-industry-reels",
+      "title": "Reels-версия карусели «Киноиндустрия Китая изнутри»",
+      "seconds": "45,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 14
+    },
+    "tur-china-global-brands-reels": {
+      "video": "2026-10-10-foto-tur-china-global-brands-reels",
+      "title": "Reels-версия карусели «Как китайские бренды покорили мир»",
+      "seconds": "45,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 15
+    },
+    "tur-china-fintech-giants-reels": {
+      "video": "2026-10-10-foto-tur-china-fintech-giants-reels",
+      "title": "Reels-версия карусели «Кто построил финтех Китая»",
+      "seconds": "44,7",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 16
+    },
+    "tur-hotel-giants-china-reels": {
+      "video": "2026-10-10-foto-tur-hotel-giants-china-reels",
+      "title": "Reels-версия карусели «Как китайские отели растут на франшизе»",
+      "seconds": "40,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 17
+    },
+    "tur-global-hospitality-china-reels": {
+      "video": "2026-10-10-foto-tur-global-hospitality-china-reels",
+      "title": "Reels-версия карусели «Как Marriott и Hilton адаптируются к Китаю»",
+      "seconds": "42,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 18
+    },
+    "tur-hongkong-luxury-legacy-reels": {
+      "video": "2026-10-10-foto-tur-hongkong-luxury-legacy-reels",
+      "title": "Reels-версия карусели «Люкс на наследии, а не на франшизе»",
+      "seconds": "41,2",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 19
+    },
+    "tur-japan-retail-reels": {
+      "video": "2026-10-10-foto-tur-japan-retail-reels",
+      "title": "Reels-версия карусели «Как Япония автоматизирует магазины»",
+      "seconds": "43,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 22
+    },
+    "tur-japan-food-dairy-reels": {
+      "video": "2026-10-10-foto-tur-japan-food-dairy-reels",
+      "title": "Reels-версия карусели «Где придумали умами и Cup Noodles»",
+      "seconds": "43,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 23
+    },
+    "tur-japan-tech-internet-giants-reels": {
+      "video": "2026-10-10-foto-tur-japan-tech-internet-giants-reels",
+      "title": "Reels-версия карусели «Японский ИИ и интернет изнутри»",
+      "seconds": "43,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 25
+    },
+    "tur-japan-beauty-industry-reels": {
+      "video": "2026-10-10-foto-tur-japan-beauty-industry-reels",
+      "title": "Reels-версия карусели «Как Япония изобретает косметику»",
+      "seconds": "41,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 26
+    },
+    "tur-japan-longevity-biotech-reels": {
+      "video": "2026-10-10-foto-tur-japan-longevity-biotech-reels",
+      "title": "Reels-версия карусели «Лаборатория нобелевского открытия»",
+      "seconds": "38,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 27
+    },
+    "tur-japan-bubble-tea-coffee-reels": {
+      "video": "2026-10-10-foto-tur-japan-bubble-tea-coffee-reels",
+      "title": "Reels-версия карусели «Кофе Японии от завода до чашки»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 28
+    },
+    "tur-thailand-retail-reels": {
+      "video": "2026-10-10-foto-tur-thailand-retail-reels",
+      "title": "Reels-версия карусели «Вторая в мире сеть 7-Eleven»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 29
+    },
+    "tur-thailand-food-dairy-reels": {
+      "video": "2026-10-10-foto-tur-thailand-food-dairy-reels",
+      "title": "Reels-версия карусели «Тунец, йогурт и растительное мясо»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 30
+    },
+    "tur-thailand-dark-kitchen-delivery-reels": {
+      "video": "2026-10-10-foto-tur-thailand-dark-kitchen-delivery-reels",
+      "title": "Reels-версия карусели «Кто выигрывает доставку Бангкока»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 31
+    },
+    "tur-thailand-tech-internet-giants-reels": {
+      "video": "2026-10-10-foto-tur-thailand-tech-internet-giants-reels",
+      "title": "Reels-версия карусели «Как Таиланд строит свой ИИ»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 32
+    },
+    "tur-thailand-beauty-industry-reels": {
+      "video": "2026-10-10-foto-tur-thailand-beauty-industry-reels",
+      "title": "Reels-версия карусели «Тайская косметика изнутри»",
+      "seconds": "38,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 33
+    },
+    "tur-thailand-longevity-biotech-reels": {
+      "video": "2026-10-10-foto-tur-thailand-longevity-biotech-reels",
+      "title": "Reels-версия карусели «Биовозраст, теломеры и стволовые клетки»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 34
+    },
+    "tur-thailand-bubble-tea-coffee-reels": {
+      "video": "2026-10-10-foto-tur-thailand-bubble-tea-coffee-reels",
+      "title": "Reels-версия карусели «Кофейня на заправке — 5000+ точек»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 35
+    },
+    "tur-vietnam-retail-reels": {
+      "video": "2026-10-10-foto-tur-vietnam-retail-reels",
+      "title": "Reels-версия карусели «Больше двух магазинов в день»",
+      "seconds": "38,1",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 36
+    },
+    "tur-vietnam-food-dairy-reels": {
+      "video": "2026-10-10-foto-tur-vietnam-food-dairy-reels",
+      "title": "Reels-версия карусели «Ферма на 70 000 коров»",
+      "seconds": "38,6",
+      "music": "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0",
+      "carousel": 37
     }
   },
   "anons": {
