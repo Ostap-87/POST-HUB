@@ -1,16 +1,30 @@
 # AURA · THREADS — Threads
 
 ## Канал
-[адрес аккаунта или канала — уточнить]
+Threads того же Instagram-аккаунта: @aura_robotics_ru (профиль Threads привязан к Instagram).
 
 ## Особенности сети
 - Пост — до 500 символов (текст из Instagram не подходит, нужен свой). Карусель — до 20 элементов.
 
 ## Время публикаций
-[настроим позже]
+**Дубль Instagram** [предложение 12.10.2026, на согласовании]: в то же время, что и в Instagram (Москва) — Reels → видео-пост,
+карусель → карусель Threads (слайды те же, до 20). Сторис в Threads нет. Текст — свой, до 500 знаков: публикатор ужимает подпись
+Instagram сам (абзацы целиком, без хештегов, последней строкой aura-robotics.ru) или берёт поле `threads_text` из шапки.
+Очередь — `THREADS/READY/<ГГГГ-ММ-ДД_ЧЧММ_тема>/post.md`; утверждённые посты Instagram попадают туда командой
+`to_ready.py AURA/INSTAGRAM/<ФОРМАТ> --threads` (вместе с `--facebook`).
 
 ## Подключение
-[коннектор добавим позже]
+Публикатор POST-HUB — `CONTROL/TOOLS/net_threads.py` (Threads API, graph.threads.net). Доступ — секрет `THREADS_TOKEN_AURA`
+(токен Threads, 60 дней — обновлять раз в ~50 дней). Токен получает пользователь, в чат и в файлы он не попадает:
+1. Войти в Threads под Instagram-аккаунтом @aura_robotics_ru (если профиля Threads ещё нет — создать в приложении Threads).
+2. developers.facebook.com → POST-HUB Publisher → Сценарии использования → «Доступ к Threads API» → Настроить →
+   разрешения `threads_basic`, `threads_content_publish`.
+3. Роли приложения → Роли → Добавить людей → «Тестировщик Threads» → профиль @aura_robotics_ru; принять приглашение:
+   threads.net → Настройки → Аккаунт → Разрешения сайтов → Приглашения → Принять.
+4. В сценарии «Доступ к Threads API» → Настройки → «Генератор маркеров пользователя» → «Сгенерировать маркер доступа» у @aura_robotics_ru
+   → войти → скопировать токен (начинается с `THAA`).
+5. POST-HUB → Settings → Secrets and variables → Actions → New repository secret: `THREADS_TOKEN_AURA`.
+Проверить: Actions → «Публикация» → режим `check`.
 
 ## Правила проекта для этой сети
 [заполним вместе]. Общие правила проекта — `../RULES.md`.

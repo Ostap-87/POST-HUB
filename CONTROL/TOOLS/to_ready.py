@@ -20,6 +20,7 @@ Facebook (решение пользователя 12.10.2026: «чтобы и в
 Instagram сразу получает копию в очереди страницы Facebook проекта с тем же именем (временем): Reels → FACEBOOK/REELS/READY,
 сторис → FACEBOOK/STORIES/READY, карусель → FACEBOOK/POST/READY (пост со всеми слайдами). Файлы копируются, в шапке
 `mirror_of` — путь поста Instagram. Публикует `publish.py` (адаптер `net_facebook.py`) в то же время.
+`--threads` — так же копия в `THREADS/READY/<имя>` (Reels и карусели; сторис в Threads нет), текст ужимается до 500 знаков сам.
 
 Статья блога — несколько языковых файлов (`тема.ru.md`, `тема.en.md`, `тема.zh.md`) с одной обложкой: они едут в одну папку
 READY/ГГГГ-ММ-ДД_ЧЧММ_тема/ как post.ru.md, post.en.md, post.zh.md + photo.jpg. Время выхода блога в имени не стоит —
@@ -112,6 +113,22 @@ def to_facebook(dst, channel):
     return fdst
 
 
+def to_threads(dst, channel):
+    """Копия поста Instagram (Reels, карусель) в очередь Threads проекта; сторис в Threads нет."""
+    parts = Path(channel).parts
+    fmt = parts[2] if len(parts) > 2 else 'POST'
+    if fmt == 'STORIES':
+        return None
+    tdst = HUB / parts[0] / 'THREADS' / 'READY' / dst.name
+    if tdst.exists():
+        return None
+    tdst.mkdir(parents=True)
+    shutil.copy2(dst / 'post.md', tdst / 'post.md')
+    set_field(tdst / 'post.md', 'mirror_of', str(dst.relative_to(HUB)), after='time')
+    subprocess.run(['git', 'add', str(tdst)], cwd=HUB, check=True)
+    return tdst
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('channel', help='например AURA/TELEGRAM, GTT/FACEBOOK/POST, GTT/INSTAGRAM/CAROUSEL или OSTAPDOTCENKO/BLOG')
@@ -119,6 +136,7 @@ def main():
     ap.add_argument('--only', action='append', help='перенести только этот пост (имя без .md), можно несколько')
     ap.add_argument('--video-hub', default='/home/user/VIDEO-HUB', help='клон VIDEO-HUB (для Instagram)')
     ap.add_argument('--facebook', action='store_true', help='сразу копия в очередь Facebook проекта (для Instagram)')
+    ap.add_argument('--threads', action='store_true', help='сразу копия в очередь Threads проекта (Reels и карусели Instagram)')
     ap.add_argument('--dry-run', action='store_true')
     a = ap.parse_args()
     ch = HUB / a.channel
@@ -179,6 +197,10 @@ def main():
                 f = to_facebook(dst, a.channel)
                 if f:
                     print('  + Facebook:', f.relative_to(HUB))
+            if a.threads:
+                t = to_threads(dst, a.channel)
+                if t:
+                    print('  + Threads:', t.relative_to(HUB))
         moved += 1
     print(f'перенесено: {moved}')
     if mirrored:

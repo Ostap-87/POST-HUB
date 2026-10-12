@@ -9,7 +9,7 @@ python3 CONTROL/TOOLS/publish.py --post GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_
 
 Очередь — папки `<ПРОЕКТ>/<СЕТЬ>[/<ФОРМАТ>]/READY/ГГГГ-ММ-ДД_ЧЧММ_тема/` (время — Москва, в имени папки), в папке —
 `post.md` (шапка + текст) и файлы поста. Сеть публикует адаптер `net_<сеть>.py` (сейчас — `net_instagram.py` и
-`net_facebook.py`, страницы Facebook — с 12.10.2026);
+`net_facebook.py`, страницы Facebook — с 12.10.2026, `net_threads.py` — Threads);
 сеть без адаптера пропускается. Вышедший пост переносится в `PUBLISHED/ГГГГ-ММ/<имя>/` и получает `info.json`
 (когда вышло, ссылка, id). Ошибка — `publish-error.json` в папке поста; после 3 ошибок пост ждёт человека.
 Стоп-кран — `CONTROL/PUBLISHING.yaml`: `pause: true` останавливает публикации по расписанию (`--due`); один утверждённый пост
@@ -31,7 +31,7 @@ HUB = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 MSK = dt.timezone(dt.timedelta(hours=3))
 NAME = re.compile(r'^(\d{4}-\d{2}-\d{2})_(\d{4})_.+$')
-ADAPTERS = {'INSTAGRAM': 'net_instagram', 'FACEBOOK': 'net_facebook'}
+ADAPTERS = {'INSTAGRAM': 'net_instagram', 'FACEBOOK': 'net_facebook', 'THREADS': 'net_threads'}
 FEED_FIRST = {'POST': 0, 'CAROUSEL': 0, 'REELS': 0, 'VIDEO': 0, 'STORIES': 1}
 MAX_ATTEMPTS = 3
 
