@@ -1,4 +1,6 @@
 ---
+date: "2026-10-12"
+time: "13:25"
 number: 1
 order: 1
 day: 1
@@ -7,10 +9,12 @@ week: 0
 launch: "первый запуск — тест форматов"
 title: "Интро — кто такой Остап и что такое Global Tech Tour"
 video_hub: "finished-videos/2026-10-07-intro.mp4"
-duration: "83 с"
+duration: "85,7 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
+thumb_offset: 4000
+approved: "пользователь 12.10.2026, 13:22 МСК: «сейчас публикуй Интро по ГТТ в Инстаграмм аккаунт, далее публикуй Карусель по роботуру… не жди 14:00 — публикуй сейчас» (тестовый прогон, шаги 1–2)"
 ---
 «Остап, ты турагент?» Нет. Сейчас объясню почему.
 

@@ -1,4 +1,7 @@
 ---
+date: "2026-10-12"
+time: "13:30"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-12_1330_tur-robotics/09.jpg"]
 number: 1
 order: 2
 day: 2
@@ -8,13 +11,14 @@ launch: "первый запуск — тест форматов"
 title: "12 заводов роботов за одну поездку"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
 slides: 9
-image: "002_tur-robotics"
-image_status: "на согласовании"
+image: "01.jpg"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-tur-robotics.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 12.10.2026, 13:22 МСК: «сейчас публикуй Интро по ГТТ в Инстаграмм аккаунт, далее публикуй Карусель по роботуру… не жди 14:00 — публикуй сейчас» (тестовый прогон, шаги 1–2)"
 anons: "003_anons-tur-robotics"
 reels: "005_roboty"
 ---
