@@ -11,7 +11,8 @@ python3 CONTROL/TOOLS/publish.py --post GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_
 `post.md` (шапка + текст) и файлы поста. Сеть публикует адаптер `net_<сеть>.py` (сейчас — `net_instagram.py`);
 сеть без адаптера пропускается. Вышедший пост переносится в `PUBLISHED/ГГГГ-ММ/<имя>/` и получает `info.json`
 (когда вышло, ссылка, id). Ошибка — `publish-error.json` в папке поста; после 3 ошибок пост ждёт человека.
-Стоп-кран — `CONTROL/PUBLISHING.yaml`: `pause: true` останавливает все публикации.
+Стоп-кран — `CONTROL/PUBLISHING.yaml`: `pause: true` останавливает публикации по расписанию (`--due`); один утверждённый пост
+по прямой команде пользователя выходит вручную: `--post <папка>` (Actions → «Публикация» → publish + путь).
 Пост, опоздавший больше чем на `--max-late` часов (по умолчанию 36), сам не выходит — только через `--post`.
 """
 import argparse
@@ -148,8 +149,8 @@ def main():
                 print(f'{"✓" if ok else "·" if ok is None else "✗"} {project}/{network}: {msg}')
         sys.exit(1 if bad else 0)
 
-    if paused() and not a.dry_run:
-        print('⏸ публикации на паузе (CONTROL/PUBLISHING.yaml: pause: true) — ничего не публикую')
+    if paused() and not a.dry_run and not a.post:                   # пауза держит расписание; один утверждённый пост — вручную
+        print('⏸ публикации по расписанию на паузе (CONTROL/PUBLISHING.yaml: pause: true) — ничего не публикую')
         return
     now = dt.datetime.strptime(a.now, '%Y-%m-%d %H:%M').replace(tzinfo=MSK) if a.now else dt.datetime.now(MSK)
     items = queue()
