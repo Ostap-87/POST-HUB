@@ -24,7 +24,7 @@ from pathlib import Path
 
 from net_instagram import VH_LFS, VIDEO_EXT, _probe, caption_of
 
-VER = os.environ.get('FB_API_VERSION', 'v25.0')
+VER = os.environ.get('FB_API_VERSION', 'v26.0')
 API = f'https://graph.facebook.com/{VER}'
 IMG_EXT = ('.jpg', '.jpeg', '.png')
 PAGE_IDS = {'AURA': '1275368875661067', 'GTT': '1254540414416697'}     # страницы из RULES.md (проверка, что токен от той страницы)
@@ -104,12 +104,7 @@ def check(project):
 
 def files_of(d, meta):
     """(картинки из папки поста, ссылки на видео VIDEO-HUB)."""
-    imgs = []
-    for name in ([meta['image']] if isinstance(meta.get('image'), str) and Path(meta['image']).suffix else []):
-        if (d / name).exists():
-            imgs.append(d / name)
-    if not imgs:
-        imgs = sorted(p for p in d.iterdir() if p.suffix.lower() in IMG_EXT)
+    imgs = sorted(p for p in d.iterdir() if p.suffix.lower() in IMG_EXT)    # все картинки папки по порядку (карусель → пост с фото)
     vids = meta.get('video_hub') or []
     vids = [vids] if isinstance(vids, str) else vids
     return imgs, [VH_LFS + urllib.parse.quote(v) for v in vids if v.lower().endswith(VIDEO_EXT)]

@@ -16,6 +16,11 @@ Instagram (решение пользователя 11.10.2026, автопубл�
   (`media_urls`): Instagram забирает файлы только по публичной ссылке. После переноса закоммить и запушь VIDEO-HUB
   (скрипт напомнит), иначе публикатор увидит битые ссылки ещё на проверке.
 
+Facebook (решение пользователя 12.10.2026: «чтобы и в инсте и в фб публикации делались»): `--facebook` — утверждённый пост
+Instagram сразу получает копию в очереди страницы Facebook проекта с тем же именем (временем): Reels → FACEBOOK/REELS/READY,
+сторис → FACEBOOK/STORIES/READY, карусель → FACEBOOK/POST/READY (пост со всеми слайдами). Файлы копируются, в шапке
+`mirror_of` — путь поста Instagram. Публикует `publish.py` (адаптер `net_facebook.py`) в то же время.
+
 Статья блога — несколько языковых файлов (`тема.ru.md`, `тема.en.md`, `тема.zh.md`) с одной обложкой: они едут в одну папку
 READY/ГГГГ-ММ-ДД_ЧЧММ_тема/ как post.ru.md, post.en.md, post.zh.md + photo.jpg. Время выхода блога в имени не стоит —
 его даёт `--time` (время канала из RULES.md), в шапку пишется `publish_time` (поле `time` у блога — время чтения).
@@ -88,12 +93,32 @@ def mirror(dst, project, vh):
     return len(files)
 
 
+FB_FORMAT = {'CAROUSEL': 'POST', 'REELS': 'REELS', 'STORIES': 'STORIES', 'POST': 'POST'}
+
+
+def to_facebook(dst, channel):
+    """Копия поста Instagram в очередь Facebook проекта (то же имя — то же время выхода)."""
+    parts = Path(channel).parts
+    fmt = parts[2] if len(parts) > 2 else 'POST'
+    fdst = HUB / parts[0] / 'FACEBOOK' / FB_FORMAT.get(fmt, 'POST') / 'READY' / dst.name
+    if fdst.exists():
+        return None
+    fdst.mkdir(parents=True)
+    for f in sorted(dst.iterdir()):
+        if f.is_file() and f.name != 'publish-error.json':
+            shutil.copy2(f, fdst / f.name)
+    set_field(fdst / 'post.md', 'mirror_of', str(dst.relative_to(HUB)), after='time')
+    subprocess.run(['git', 'add', str(fdst)], cwd=HUB, check=True)
+    return fdst
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('channel', help='например AURA/TELEGRAM, GTT/FACEBOOK/POST, GTT/INSTAGRAM/CAROUSEL или OSTAPDOTCENKO/BLOG')
     ap.add_argument('--time', help='время выхода ЧЧ:ММ по Москве для текстов без времени в имени (блоги)')
     ap.add_argument('--only', action='append', help='перенести только этот пост (имя без .md), можно несколько')
     ap.add_argument('--video-hub', default='/home/user/VIDEO-HUB', help='клон VIDEO-HUB (для Instagram)')
+    ap.add_argument('--facebook', action='store_true', help='сразу копия в очередь Facebook проекта (для Instagram)')
     ap.add_argument('--dry-run', action='store_true')
     a = ap.parse_args()
     ch = HUB / a.channel
@@ -150,6 +175,10 @@ def main():
         if instagram:
             mirrored += mirror(dst, project, Path(a.video_hub))
             subprocess.run(['git', 'add', str(dst)], cwd=HUB, check=True)
+            if a.facebook:
+                f = to_facebook(dst, a.channel)
+                if f:
+                    print('  + Facebook:', f.relative_to(HUB))
         moved += 1
     print(f'перенесено: {moved}')
     if mirrored:
