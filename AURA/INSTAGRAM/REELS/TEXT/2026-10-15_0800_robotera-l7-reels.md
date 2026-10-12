@@ -7,7 +7,7 @@ week: 1
 carousel: "2026-10-15_1900_robotera-l7"
 title: "Reels-версия карусели «Robotera L7: быстрый и рукастый» (гость: роборука)"
 video_hub: "finished-videos/2026-10-10-foto-robotera-l7-reels.mp4"
-duration: "0 с"
+duration: "51,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №9 + строка «Музыка», на согласовании"

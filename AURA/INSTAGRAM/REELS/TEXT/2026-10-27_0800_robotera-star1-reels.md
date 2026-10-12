@@ -7,7 +7,7 @@ week: 3
 carousel: "2026-10-27_1900_robotera-star1"
 title: "Reels-версия карусели «Robotera STAR1: бегун по Гоби» (гость: роборука)"
 video_hub: "finished-videos/2026-10-12-foto-robotera-star1-reels.mp4"
-duration: "0 с"
+duration: "46,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №13 + строка «Музыка», на согласовании"

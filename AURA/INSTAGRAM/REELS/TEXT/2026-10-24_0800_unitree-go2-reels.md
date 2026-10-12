@@ -7,7 +7,7 @@ week: 2
 carousel: "2026-10-24_1900_unitree-go2"
 title: "Reels-версия карусели «Unitree Go2: робособака на каждый день» (гость: танец собаки)"
 video_hub: "finished-videos/2026-10-12-foto-unitree-go2-reels.mp4"
-duration: "0 с"
+duration: "53,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №17 + строка «Музыка», на согласовании"

@@ -7,7 +7,7 @@ week: 2
 carousel: "2026-10-25_1900_robotera-q5"
 title: "Reels-версия карусели «Robotera Q5: талия уже iPhone» (гость: AGV)"
 video_hub: "finished-videos/2026-10-12-foto-robotera-q5-reels.mp4"
-duration: "0 с"
+duration: "46,6 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №12 + строка «Музыка», на согласовании"

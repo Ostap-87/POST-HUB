@@ -7,7 +7,7 @@ week: 3
 carousel: "2026-10-26_1900_robotera-m7"
 title: "Reels-версия карусели «Robotera M7: L7 без ног» (гость: манипулятор)"
 video_hub: "finished-videos/2026-10-12-foto-robotera-m7-reels.mp4"
-duration: "0 с"
+duration: "46,6 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №11 + строка «Музыка», на согласовании"

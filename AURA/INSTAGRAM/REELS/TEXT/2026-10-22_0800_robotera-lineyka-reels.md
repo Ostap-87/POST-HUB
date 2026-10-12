@@ -7,7 +7,7 @@ week: 2
 carousel: "2026-10-22_1900_robotera-lineyka"
 title: "Reels-версия карусели «Линейка Robotera» (гость: манипулятор)"
 video_hub: "finished-videos/2026-10-10-foto-robotera-lineyka-reels.mp4"
-duration: "0 с"
+duration: "52,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "по подписи карусели №10 + строка «Музыка», на согласовании"

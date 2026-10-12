@@ -426,29 +426,36 @@ class Plan:
                 img = thumb(self.anons_png(anons.index(e) + 1), 110)
             else:
                 img = thumb(self.frame(R[e['reels']]['video'], 2.0 if e['type'] == 'reels' else 30.0), 110)
+            link = ''
+            if e['type'] == 'reels':
+                link = f'<a class="l" href="https://media.githubusercontent.com/media/Ostap-87/VIDEO-HUB/main/finished-videos/{R[e["reels"]]["video"]}.mp4">смотреть ролик ↗</a>'
+            elif e['type'] == 'carousel':
+                stem = Path(self.car[e['carousel']]['vh']).stem
+                link = f'<a class="l" href="https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/карусели/{stem}/_лист.jpg">все слайды ↗</a>'
             cls = {'carousel': 'car', 'reels': 'rl', 'anons': 'st', 'reels_stories': 'st'}[e['type']]
             tag = '<span class="t">тест</span>' if e.get('launch') else ''
             mv = f'<div class="mv">перенос с {e["moved_from"].strftime("%d.%m")}</div>' if e.get('moved_from') else ''
             when = (f'{WD[e["date"].weekday()]}, {e["date"].day} {MON[e["date"].month]} · <b>{e["time"]}</b>' if self.dated
                     else f'№{e["order"]} · <b>День {e["day"]}</b>' + (f', {e["part"]}' if e.get('part') else ''))
             cards.append(f'<div class="c {cls}"><div class="d">{when}'
-                         f'</div><div class="k">{kind}{tag}</div>{img}<div class="w">{what}</div>{mv}</div>')
-        page = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Календарь Instagram {self.project}</title><style>
+                         f'</div><div class="k">{kind}{tag}</div>{img}<div class="w">{what}</div>{link}{mv}</div>')
+        rhythm = self.cfg.get('_', '').split(' Меняешь здесь')[0]
+        page = f'''<title>Календарь Instagram {self.project}</title><style>
 :root{{--bg:#f4f5f8;--card:#fff;--ink:#17171d;--mute:#6b6b76;--line:#e3e3ea;--car:#2563eb;--rl:#e11d48;--st:#f59e0b}}
-@media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#111216;--card:#1b1c22;--ink:#ececf1;--mute:#9a9aa6;--line:#2c2d35}}}}
-*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.4 -apple-system,Segoe UI,Inter,Roboto,sans-serif;padding:20px 16px 48px}}
+@media (prefers-color-scheme:dark){{:root:not([data-theme="light"]){{--bg:#111216;--card:#1b1c22;--ink:#ececf1;--mute:#9a9aa6;--line:#2c2d35;color-scheme:dark}}}}
+:root[data-theme="dark"]{{--bg:#111216;--card:#1b1c22;--ink:#ececf1;--mute:#9a9aa6;--line:#2c2d35;color-scheme:dark}}
+.l{{display:inline-block;margin-top:6px;font-size:12px;color:var(--car);text-decoration:none}}.l:hover{{text-decoration:underline}}
+*{{box-sizing:border-box}}body{{margin:0;background:var(--bg);color:var(--ink);font:14px/1.4 -apple-system,Segoe UI,Roboto,sans-serif;padding:20px 16px 48px}}
 h1{{margin:0 0 4px;font-size:24px}}.sub{{color:var(--mute);margin:0 0 8px;max-width:960px}}.lg span{{margin-right:16px}}.lg i{{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px}}
 h2{{grid-column:1/-1;margin:22px 0 2px;font-size:17px}}.g{{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px}}
 .c{{background:var(--card);border:1px solid var(--line);border-top:4px solid var(--car);border-radius:12px;padding:10px}}
 .c.rl{{border-top-color:var(--rl)}}.c.st{{border-top-color:var(--st)}}.d{{color:var(--mute);font-size:12px}}.k{{font-weight:700;margin:2px 0 6px}}
 .c img{{display:block;max-width:100%;max-height:200px;border-radius:8px;margin:0 auto 6px}}.w{{font-size:13px}}.mv{{color:var(--rl);font-size:12px;margin-top:4px}}
 .t{{background:var(--rl);color:#fff;border-radius:4px;padding:0 5px;font-size:11px;margin-left:6px;font-weight:600}}
-</style></head><body><h1>Календарь Instagram {self.project}</h1>
-<p class="sub">{(f'С {self.base.day} {MON[self.base.month]}, время по Москве.' if self.dated else '<b>Даты и время не назначены</b> — порядок публикаций и день от старта.')} Выходит только утверждённое. Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая,
-пт две части ролика в Stories, сб карусель Азии, вс пусто. {self.table()[-1]}</p>
+</style><h1>Календарь Instagram {self.project}</h1>
+<p class="sub">{(f'С {self.base.day} {MON[self.base.month]}, время по Москве.' if self.dated else '<b>Даты и время не назначены</b> — порядок публикаций и день от старта.')} Выходит только утверждённое. {rhythm or 'Неделя = один тур: пн карусель → вт Stories-анонс → ср Reels того же тура; чт карусель Китая, пт две части ролика в Stories, сб карусель Азии, вс пусто.'} {self.table()[-1]}</p>
 <p class="sub lg"><span><i style="background:var(--car)"></i>карусель</span><span><i style="background:var(--rl)"></i>Reels</span><span><i style="background:var(--st)"></i>Stories</span></p>
-<div class="g">{"".join(cards)}</div></body></html>'''
+<div class="g">{"".join(cards)}</div>'''
         Path(out).write_text(page, encoding='utf-8')
         print('календарь →', out)
 
