@@ -10,7 +10,6 @@ video_hub: "finished-videos/2026-10-10-foto-tur-china-waste-management-reels.mp4
 duration: "44,7 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
 caption_status: "по подписи карусели + строка «Музыка», на согласовании"
 ---
 Завод, где сгорает треть мусора Шанхая.

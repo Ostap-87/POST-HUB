@@ -1,17 +1,17 @@
 ---
 number: 2
 date: "2026-10-13"
-time: "08:00"
+time: "06:40"
 rubric: "ролик с Остапом"
 week: 1
-carousel: "2026-10-13_1300_tur-robotics-humanoids"
+carousel: "2026-10-13_0640_tur-robotics-humanoids"
 title: "Роботы"
 video_hub: "finished-videos/2026-10-08-roboty.mp4"
 duration: "84,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 3000
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 13.10.2026, 05:38 МСК: «Публикуй через час, эту карусель утверждаю и остальные посты тоже» — выходит в 06:40"
 ---
 Как делают роботов, которые меняют реальность уже сейчас? Не гугли — приезжай и посмотри сам.
 

@@ -22,7 +22,7 @@ on:
         options: [check, dry-run, publish]
         default: check
       post:
-        description: "Один пост (необязательно): папка в READY, например GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics"
+        description: "Посты (необязательно): папки в READY через пробел, например GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics GTT/FACEBOOK/POST/READY/2026-11-02_1900_tur-robotics — выходят сразу, по порядку"
         required: false
         default: ""
 
@@ -61,13 +61,13 @@ jobs:
       - name: Что выходит сейчас (проверка, без публикации)
         if: env.MODE != 'check'
         run: |
-          if [ -n "$POST" ]; then python3 CONTROL/TOOLS/publish.py --post "$POST" --dry-run || true
+          if [ -n "$POST" ]; then for p in $POST; do python3 CONTROL/TOOLS/publish.py --post "$p" --dry-run || true; done
           else python3 CONTROL/TOOLS/publish.py --due --dry-run || true; fi
 
       - name: Опубликовать
         if: env.MODE == 'publish'
         run: |
-          if [ -n "$POST" ]; then python3 CONTROL/TOOLS/publish.py --post "$POST"
+          if [ -n "$POST" ]; then rc=0; for p in $POST; do python3 CONTROL/TOOLS/publish.py --post "$p" || rc=1; done; exit $rc
           else python3 CONTROL/TOOLS/publish.py --due; fi
 
       - name: Записать результат в репозиторий

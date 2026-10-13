@@ -10,7 +10,6 @@ video_hub: "finished-videos/2026-10-10-foto-tur-china-global-brands-reels.mp4"
 duration: "45,1 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
 caption_status: "по подписи карусели + строка «Музыка», на согласовании"
 ---
 Как китайские бренды покорили мир.

@@ -1,19 +1,21 @@
 ---
 number: 75
 date: "2026-10-13"
-time: "13:00"
+time: "06:40"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/09.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-13_0640_tur-robotics-humanoids/10.jpg"]
 rubric: "тема ролика"
 week: 1
 title: "Кто делает гуманоидов в Китае"
 source: "пользователь 13.10.2026: «Надо бы про Китай карусели — про роботов» (вместо японской №24 в день ролика «Роботы»); факты — описания компаний сайта GTT (SINOTECH src/data/companies.json)"
 slides: 10
-image: "2026-10-13_1300_tur-robotics-humanoids"
-image_status: "на согласовании"
+image: "01.jpg"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-13-foto-tur-robotics-humanoids.json"
-caption_status: "собрана из слайдов, на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 13.10.2026, 05:38 МСК: «Публикуй через час, эту карусель утверждаю и остальные посты тоже» — выходит в 06:40"
 ---
 Кто делает гуманоидов в Китае.
 8 компаний из маршрута Robotics Expedition.

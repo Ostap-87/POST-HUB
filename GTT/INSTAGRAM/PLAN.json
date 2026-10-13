@@ -13,7 +13,7 @@
     },
     {
       "date": "2026-10-13",
-      "time": "08:00",
+      "time": "06:40",
       "type": "reels",
       "reels": "roboty",
       "carousel_of_week": 75,
@@ -23,7 +23,7 @@
     },
     {
       "date": "2026-10-13",
-      "time": "13:00",
+      "time": "06:40",
       "type": "carousel",
       "carousel": 75,
       "rubric": "тема ролика",
@@ -32,7 +32,7 @@
     },
     {
       "date": "2026-10-13",
-      "time": "13:00",
+      "time": "06:40",
       "type": "reels_stories",
       "reels": "roboty",
       "carousel_of_week": 75,

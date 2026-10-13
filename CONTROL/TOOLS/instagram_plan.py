@@ -260,6 +260,9 @@ class Plan:
             h = {**self.head(e), **self.links(e)}
             if e['type'] == 'carousel' and self.car[e['carousel']].get('published'):
                 continue                                                 # уже вышла — архив не трогаем
+            fmt_dir = {'reels': 'REELS', 'reels_stories': 'STORIES', 'anons': 'STORIES'}.get(e['type'])
+            if fmt_dir and any((self.ig / fmt_dir / 'PUBLISHED').glob(f'*/{n}')):
+                continue                                                 # Reels / Stories уже вышли — черновик заново не создаём
             if e['type'] == 'carousel':
                 c = self.car[e['carousel']]
                 self.mv(self.ig / 'CAROUSEL/PHOTO' / c['stem'], self.ig / 'CAROUSEL/PHOTO' / n)
