@@ -70,14 +70,20 @@ def check(project):
         return False, f'ошибка доступа: {e}'
 
 
-def short_text(project, body, meta):
-    """Текст для Threads: `threads_text` или подпись, ужатая до 500 знаков абзацами, без хештегов, с сайтом в конце."""
+def short_text(project, body, meta, video=False):
+    """Текст для Threads: `threads_text` или подпись, ужатая до 500 знаков абзацами, без хештегов, с сайтом в конце.
+
+    Видео — без «Листай карусель →»; Reels-версия карусели (в подписи есть «Листай карусель») берёт только первый абзац,
+    чтобы в ленте Threads не было двух одинаковых длинных текстов за день (полный текст уйдёт с каруселью).
+    """
     if meta.get('threads_text'):
         return meta['threads_text'][:TEXT_MAX]
     paras = [p.strip() for p in caption_of(body).split('\n\n') if p.strip()]
     paras = [p for p in paras if not re.fullmatch(r'(#\S+\s*)+', p) and not p.startswith('Музыка:')]
     site = SITE.get(project, '')
     paras = [p for p in paras if site not in p] if site else paras
+    if video and any('Листай карусель' in p for p in paras):
+        paras = ['\n'.join(l for l in paras[0].split('\n') if 'Листай карусель' not in l).strip()]
     out = ''
     for p in paras:
         cand = (out + '\n\n' + p).strip()
@@ -112,8 +118,8 @@ def _wait(token, cid, timeout):
 
 
 def publish(project, fmt, d, meta, body, dry=False):
-    text = short_text(project, body, meta)
     imgs, vids = media_of(meta)
+    text = short_text(project, body, meta, video=bool(vids))
     kind = 'VIDEO' if vids else 'CAROUSEL' if len(imgs) > 1 else 'IMAGE' if imgs else 'TEXT'
     for u in vids + imgs:
         try:
