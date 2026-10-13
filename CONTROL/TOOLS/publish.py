@@ -6,14 +6,16 @@ python3 CONTROL/TOOLS/publish.py --check                 # проверить д
 python3 CONTROL/TOOLS/publish.py --due --dry-run         # что вышло бы сейчас — ничего не публикует, токены не нужны
 python3 CONTROL/TOOLS/publish.py --due                   # опубликовать всё, чему наступило время
 python3 CONTROL/TOOLS/publish.py --post GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics [--dry-run]
+python3 CONTROL/TOOLS/publish.py --test TELEGRAM          # пробный пост сети не в канал, а в личку (у адаптеров с test())
 
 Очередь — папки `<ПРОЕКТ>/<СЕТЬ>[/<ФОРМАТ>]/READY/ГГГГ-ММ-ДД_ЧЧММ_тема/` (время — Москва, в имени папки), в папке —
 `post.md` (шапка + текст) и файлы поста. Сеть публикует адаптер `net_<сеть>.py` (сейчас — `net_instagram.py` и
-`net_facebook.py`, страницы Facebook — с 12.10.2026, `net_threads.py` — Threads);
+`net_facebook.py`, страницы Facebook — с 12.10.2026, `net_threads.py` — Threads, `net_telegram.py` — Telegram с 13.10.2026);
 сеть без адаптера пропускается. Вышедший пост переносится в `PUBLISHED/ГГГГ-ММ/<имя>/` и получает `info.json`
 (когда вышло, ссылка, id). Ошибка — `publish-error.json` в папке поста; после 3 ошибок пост ждёт человека.
 Стоп-кран — `CONTROL/PUBLISHING.yaml`: `pause: true` останавливает публикации по расписанию (`--due`); один утверждённый пост
 по прямой команде пользователя выходит вручную: `--post <папка>` (Actions → «Публикация» → publish + путь).
+`pause_except: [TELEGRAM]` там же — сети, которые выходят по расписанию и во время паузы (их очередь уже утверждена).
 Пост, опоздавший больше чем на `--max-late` часов (по умолчанию 36), сам не выходит — только через `--post`.
 """
 import argparse
@@ -31,7 +33,7 @@ HUB = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 MSK = dt.timezone(dt.timedelta(hours=3))
 NAME = re.compile(r'^(\d{4}-\d{2}-\d{2})_(\d{4})_.+$')
-ADAPTERS = {'INSTAGRAM': 'net_instagram', 'FACEBOOK': 'net_facebook', 'THREADS': 'net_threads'}
+ADAPTERS = {'INSTAGRAM': 'net_instagram', 'FACEBOOK': 'net_facebook', 'THREADS': 'net_threads', 'TELEGRAM': 'net_telegram'}
 FEED_FIRST = {'POST': 0, 'CAROUSEL': 0, 'REELS': 0, 'VIDEO': 0, 'STORIES': 1}
 MAX_ATTEMPTS = 3
 
@@ -55,6 +57,13 @@ def parse_meta(text):
 def paused():
     f = HUB / 'CONTROL/PUBLISHING.yaml'
     return f.exists() and re.search(r'^pause:\s*true\b', f.read_text(encoding='utf-8'), re.M) is not None
+
+
+def pause_except():
+    """Сети, которые выходят по расписанию и во время паузы: `pause_except: [TELEGRAM]` в PUBLISHING.yaml."""
+    f = HUB / 'CONTROL/PUBLISHING.yaml'
+    m = re.search(r'^pause_except:\s*\[([^\]]*)\]', f.read_text(encoding='utf-8'), re.M) if f.exists() else None
+    return {x.strip().strip('"\'') for x in m.group(1).split(',') if x.strip()} if m else set()
 
 
 def queue():
@@ -137,7 +146,21 @@ def main():
     ap.add_argument('--dry-run', action='store_true', help='только показать и проверить, ничего не публиковать')
     ap.add_argument('--max-late', type=float, default=36, help='часов опоздания, после которых пост сам не выходит')
     ap.add_argument('--now', help='считать «сейчас» этим временем (ГГГГ-ММ-ДД ЧЧ:ММ, Москва) — для проверки плана')
+    ap.add_argument('--test', metavar='СЕТЬ', help='пробный пост сети (первый в очереди) не в канал, а в личку')
     a = ap.parse_args()
+
+    if a.test:
+        ad = adapter(a.test)
+        if not ad or not hasattr(ad, 'test'):
+            sys.exit(f'у сети {a.test} нет пробной отправки')
+        bad = 0
+        for project in sorted({x[1] for x in queue() if x[2] == a.test}):
+            first = next(x for x in queue() if x[1] == project and x[2] == a.test)
+            meta, body = parse_meta((first[4] / 'post.md').read_text(encoding='utf-8'))
+            ok, msg = ad.test(project, first[4], meta, body)
+            bad += ok is False
+            print(f'{"✓" if ok else "·" if ok is None else "✗"} {project}/{a.test}: {msg}')
+        sys.exit(1 if bad else 0)
 
     if a.check:
         bad = 0
@@ -152,9 +175,13 @@ def main():
                 print(f'{"✓" if ok else "·" if ok is None else "✗"} {project}/{network}: {msg}')
         sys.exit(1 if bad else 0)
 
+    only = None
     if paused() and not a.dry_run and not a.post:                   # пауза держит расписание; один утверждённый пост — вручную
-        print('⏸ публикации по расписанию на паузе (CONTROL/PUBLISHING.yaml: pause: true) — ничего не публикую')
-        return
+        only = pause_except()
+        if not only:
+            print('⏸ публикации по расписанию на паузе (CONTROL/PUBLISHING.yaml: pause: true) — ничего не публикую')
+            return
+        print(f'⏸ пауза (pause: true) — по расписанию выходят только {", ".join(sorted(only))} (pause_except)')
     now = dt.datetime.strptime(a.now, '%Y-%m-%d %H:%M').replace(tzinfo=MSK) if a.now else dt.datetime.now(MSK)
     items = queue()
     if a.post:
@@ -164,7 +191,7 @@ def main():
             sys.exit(f'нет такого поста в READY: {a.post}')
     elif a.due:
         other = [x for x in items if x[2] not in ADAPTERS and x[0] <= now]
-        items = [x for x in items if x[2] in ADAPTERS]
+        items = [x for x in items if x[2] in ADAPTERS and (only is None or x[2] in only)]
         if other:
             print(f'  · в сетях без публикатора POST-HUB: {len(other)} (их пока публикуют другие системы — не трогаю)')
         due, late = [], []

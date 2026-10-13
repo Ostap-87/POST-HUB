@@ -1,10 +1,11 @@
 # Публикация по расписанию — без агента (CONTROL/TOOLS/publish.py, CONTROL/AGENT.md, раздел 6).
 # Каждый час публикует посты из READY, чьё время наступило (время — в имени папки поста, по Москве),
-# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключены Instagram, страницы Facebook и Threads; остальные сети пока публикуют другие системы.
+# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключены Instagram, страницы Facebook, Threads и Telegram; остальные сети пока публикуют другие системы.
 #
 # Доступы — Settings → Secrets and variables → Actions (сеть проекта без секрета пропускается):
 #   IG_TOKEN_GTT, IG_USER_GTT · IG_TOKEN_AURA, IG_USER_AURA · IG_TOKEN_OSTAPDOTCENKO, IG_USER_OSTAPDOTCENKO
 #   FB_PAGE_TOKEN_AURA · FB_PAGE_TOKEN_GTT (токены страниц Facebook) · THREADS_TOKEN_AURA · THREADS_TOKEN_GTT (Threads)
+#   TG_BOT_TOKEN_AURA · TG_BOT_TOKEN_GTT (боты каналов Telegram)
 # Как получить токен — <ПРОЕКТ>/INSTAGRAM/RULES.md и <ПРОЕКТ>/FACEBOOK/RULES.md, «Подключение».
 # Стоп-кран — CONTROL/PUBLISHING.yaml (pause: true).
 # Руками: Actions → «Публикация» → Run workflow → режим: check — проверить доступ, dry-run — что вышло бы сейчас,
@@ -17,9 +18,9 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "check — проверить доступ; dry-run — что вышло бы сейчас; publish — опубликовать"
+        description: "check — проверить доступ; dry-run — что вышло бы сейчас; publish — опубликовать; tg-test — пробный пост Telegram в личку"
         type: choice
-        options: [check, dry-run, publish]
+        options: [check, dry-run, publish, tg-test]
         default: check
       post:
         description: "Посты (необязательно): папки в READY через пробел, например GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics GTT/FACEBOOK/POST/READY/2026-11-02_1900_tur-robotics — выходят сразу, по порядку"
@@ -51,6 +52,8 @@ jobs:
       FB_PAGE_TOKEN_GTT: ${{ secrets.FB_PAGE_TOKEN_GTT }}
       THREADS_TOKEN_AURA: ${{ secrets.THREADS_TOKEN_AURA }}
       THREADS_TOKEN_GTT: ${{ secrets.THREADS_TOKEN_GTT }}
+      TG_BOT_TOKEN_AURA: ${{ secrets.TG_BOT_TOKEN_AURA }}
+      TG_BOT_TOKEN_GTT: ${{ secrets.TG_BOT_TOKEN_GTT }}
     steps:
       - uses: actions/checkout@v5
 
@@ -58,8 +61,12 @@ jobs:
         if: env.MODE == 'check'
         run: python3 CONTROL/TOOLS/publish.py --check
 
+      - name: Пробный пост Telegram в личку (в каналы ничего не уходит)
+        if: env.MODE == 'tg-test'
+        run: python3 CONTROL/TOOLS/publish.py --test TELEGRAM
+
       - name: Что выходит сейчас (проверка, без публикации)
-        if: env.MODE != 'check'
+        if: env.MODE != 'check' && env.MODE != 'tg-test'
         run: |
           if [ -n "$POST" ]; then for p in $POST; do python3 CONTROL/TOOLS/publish.py --post "$p" --dry-run || true; done
           else python3 CONTROL/TOOLS/publish.py --due --dry-run || true; fi
