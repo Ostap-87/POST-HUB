@@ -1,0 +1,13 @@
+---
+date: "2026-11-04"
+time: "13:00"
+rubric: "Stories тура"
+week: 2
+carousel: "2026-11-04_1300_tur-japan-dark-kitchen-delivery"
+title: "Анонс карусели №24 «Кухня, где готовят роботы»"
+image: "2026-11-04_1300_anons-tur-japan-dark-kitchen-delivery"
+note: "Сохрани, чтобы не потерять"
+video_hub: "finished-videos/анонсы/gtt-instagram/14.png"
+image_status: "на согласовании"
+image_cost: "0"
+---
