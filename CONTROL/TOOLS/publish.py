@@ -66,6 +66,17 @@ def pause_except():
     return {x.strip().strip('"\'') for x in m.group(1).split(',') if x.strip()} if m else set()
 
 
+def pause_allow():
+    """Утверждённые посты, которые выходят по расписанию и во время паузы: `pause_allow:` — список путей папок в READY
+    (решение пользователя 14.10.2026: «утверждаю» на публикации дня, а остальная очередь — например, посты Facebook с 03.11 —
+    остаётся на паузе). Путь — от корня POST-HUB, например AURA/INSTAGRAM/REELS/READY/2026-10-14_0730_matrix-1-reels."""
+    f = HUB / 'CONTROL/PUBLISHING.yaml'
+    if not f.exists():
+        return set()
+    m = re.search(r'^pause_allow:[ \t]*\n((?:[ \t]+-[ \t]+.+\n?)*)', f.read_text(encoding='utf-8'), re.M)
+    return {re.sub(r'^\s*-\s*', '', l).strip().strip('"\'').rstrip('/') for l in m.group(1).splitlines() if l.strip()} if m else set()
+
+
 def queue():
     """Все посты в READY: (время, проект, сеть, формат, папка)."""
     out = []
@@ -175,13 +186,14 @@ def main():
                 print(f'{"✓" if ok else "·" if ok is None else "✗"} {project}/{network}: {msg}')
         sys.exit(1 if bad else 0)
 
-    only = None
+    only = allow = None
     if paused() and not a.dry_run and not a.post:                   # пауза держит расписание; один утверждённый пост — вручную
-        only = pause_except()
-        if not only:
+        only, allow = pause_except(), pause_allow()
+        if not only and not allow:
             print('⏸ публикации по расписанию на паузе (CONTROL/PUBLISHING.yaml: pause: true) — ничего не публикую')
             return
-        print(f'⏸ пауза (pause: true) — по расписанию выходят только {", ".join(sorted(only))} (pause_except)')
+        print(f'⏸ пауза (pause: true) — по расписанию выходят только {", ".join(sorted(only)) or "—"} (pause_except)'
+              f' и утверждённые посты из pause_allow: {len(allow)}')
     now = dt.datetime.strptime(a.now, '%Y-%m-%d %H:%M').replace(tzinfo=MSK) if a.now else dt.datetime.now(MSK)
     items = queue()
     if a.post:
@@ -191,7 +203,8 @@ def main():
             sys.exit(f'нет такого поста в READY: {a.post}')
     elif a.due:
         other = [x for x in items if x[2] not in ADAPTERS and x[0] <= now]
-        items = [x for x in items if x[2] in ADAPTERS and (only is None or x[2] in only)]
+        items = [x for x in items if x[2] in ADAPTERS and (only is None or x[2] in only
+                                                             or x[4].relative_to(HUB).as_posix() in allow)]
         if other:
             print(f'  · в сетях без публикатора POST-HUB: {len(other)} (их пока публикуют другие системы — не трогаю)')
         due, late = [], []

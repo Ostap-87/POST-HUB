@@ -6,6 +6,8 @@ rubric: "ролик с Остапом"
 week: 1
 carousel: "2026-10-14_1300_tur-china-tech-giants"
 title: "Техгиганты Китая"
+status: "утверждено"
+approved: "пользователь 14.10.2026, ~05:35 МСК: «Отлично! утверждаю» — все 6 публикаций дня (Instagram + Facebook), после листа превью и обложек; карусель Aura №7 — как есть, со строкой «Поставка 4–7 недель»"
 video_hub: "finished-videos/2026-10-07-tech-giganty-cover.mp4"
 duration: "108,7 с"
 cover: "finished-videos/обложки/2026-10-07-tech-giganty.jpg"
@@ -13,7 +15,7 @@ thumb_offset: 500
 cover_status: "утверждено: пользователь 14.10.2026, вариант «кадр целиком» — «этот вариант идеальный, только плашка закрывает голову, подними чуть саму плашку» (поднята)"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
 ---
 Скорее всего, у вас в кармане Xiaomi или Huawei. А вы были у них в офисе? Мы едем туда.
 

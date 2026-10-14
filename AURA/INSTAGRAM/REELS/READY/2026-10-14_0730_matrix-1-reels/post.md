@@ -1,20 +1,22 @@
 ---
-number: 7
+number: 2
 date: "2026-10-14"
-time: "18:00"
-rubric: "модель"
+time: "07:30"
+rubric: "Reels карусели"
 week: 1
-title: "MATRIX-1: большой и выносливый"
-source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/04_Aura_карусели_Instagram_20.docx"
-slides: 9
-image: "2026-10-14_1800_matrix-1"
-image_status: "на согласовании"
-image_model: "gpt_image_2_5 medium 1k"
-image_cost: "4.5"
-image_count: 9
-video_hub: "reels-studio/props/carousels/2026-10-10-foto-matrix-1.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
-music_video: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
+carousel: "2026-10-14_1800_matrix-1"
+title: "Reels-версия карусели «MATRIX-1: большой и выносливый» (гость: манипулятор)"
+status: "утверждено"
+approved: "пользователь 14.10.2026, ~05:35 МСК: «Отлично! утверждаю» — все 6 публикаций дня (Instagram + Facebook), после листа превью и обложек; карусель Aura №7 — как есть, со строкой «Поставка 4–7 недель»"
+video_hub: "finished-videos/2026-10-10-foto-matrix-1-reels-cover.mp4"
+duration: "47,1 с"
+cover: "finished-videos/обложки/2026-10-10-foto-matrix-1-reels.jpg"
+thumb_offset: 500
+cover_status: "утверждено: пользователь 14.10.2026, «по матрикс для аура все хорошо, можешь вставлять в ролик» — обложка первой секундой ролика"
+video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
+music: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
+caption_status: "утверждено"
+guest: "arm"
 ---
 MATRIX-1: большой и выносливый.
 Первое поколение гуманоида Matrix Robotics.
@@ -41,5 +43,7 @@ Matrix Robotics, Шанхай. Команда Чжан Хайсина, бывш�
 Пишите в личные сообщения или оставляйте заявку на сайте — рассчитаем стоимость и окупаемость.
 
 aura-robotics.ru — выбрать робота под вашу задачу
+
+Музыка: Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0
 
 #Гуманоиды #Роботы #MATRIX #РоботыИзКитая

@@ -2,10 +2,13 @@
 number: 2
 date: "2026-10-14"
 time: "07:30"
+mirror_of: "AURA/INSTAGRAM/REELS/READY/2026-10-14_0730_matrix-1-reels"
 rubric: "Reels карусели"
 week: 1
 carousel: "2026-10-14_1800_matrix-1"
 title: "Reels-версия карусели «MATRIX-1: большой и выносливый» (гость: манипулятор)"
+status: "утверждено"
+approved: "пользователь 14.10.2026, ~05:35 МСК: «Отлично! утверждаю» — все 6 публикаций дня (Instagram + Facebook), после листа превью и обложек; карусель Aura №7 — как есть, со строкой «Поставка 4–7 недель»"
 video_hub: "finished-videos/2026-10-10-foto-matrix-1-reels-cover.mp4"
 duration: "47,1 с"
 cover: "finished-videos/обложки/2026-10-10-foto-matrix-1-reels.jpg"
@@ -13,7 +16,7 @@ thumb_offset: 500
 cover_status: "утверждено: пользователь 14.10.2026, «по матрикс для аура все хорошо, можешь вставлять в ролик» — обложка первой секундой ролика"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Ambient Motivation — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "по подписи карусели №7 + строка «Музыка», на согласовании"
+caption_status: "утверждено"
 guest: "arm"
 ---
 MATRIX-1: большой и выносливый.
