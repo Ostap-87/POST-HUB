@@ -9,6 +9,8 @@
 - POST — текст (+ ссылка внутри текста); одна картинка — фото-пост; несколько — один пост с несколькими фото;
   видео (`video_hub`) — видео-пост страницы;
 - REELS — вертикальное видео 9:16 (`video_hub`) + подпись — Reels страницы (3 шага: start → загрузка по ссылке → finish);
+  Reels Facebook через API — от 3 до 90 с; ролик длиннее (поле `duration`, например «108,7 с») выходит видео-постом
+  страницы (`/videos`) — тот же ролик и подпись (14.10.2026: «Техгиганты» GTT 108,7 с);
 - STORIES — каждый файл отдельной историей по порядку (картинка — photo_stories, видео — video_stories).
 """
 import json
@@ -27,6 +29,7 @@ from net_instagram import VH_LFS, VIDEO_EXT, _probe, caption_of
 VER = os.environ.get('FB_API_VERSION', 'v26.0')
 API = f'https://graph.facebook.com/{VER}'
 IMG_EXT = ('.jpg', '.jpeg', '.png')
+REELS_MAX_SEC = 90                                                  # предел Reels Facebook через API (3–90 с)
 PAGE_IDS = {'AURA': '1275368875661067', 'GTT': '1254540414416697'}     # страницы из RULES.md (проверка, что токен от той страницы)
 
 
@@ -110,6 +113,12 @@ def files_of(d, meta):
     return imgs, [VH_LFS + urllib.parse.quote(v) for v in vids if v.lower().endswith(VIDEO_EXT)]
 
 
+def seconds_of(meta):
+    """Длительность ролика из поля `duration` («108,7 с», «85.7», 49) — или None."""
+    m = re.search(r'\d+(?:[.,]\d+)?', str(meta.get('duration') or ''))
+    return float(m.group(0).replace(',', '.')) if m else None
+
+
 def verify(fmt, imgs, vids, text):
     if fmt == 'REELS' and len(vids) != 1:
         raise FBError(f'для Reels нужно одно видео (video_hub), а их {len(vids)}')
@@ -156,13 +165,17 @@ def publish(project, fmt, d, meta, body, dry=False):
     text = caption_of(body)
     imgs, vids = files_of(d, meta)
     verify(fmt, imgs, vids, text)
+    sec = seconds_of(meta)
+    as_video = fmt == 'REELS' and sec is not None and sec > REELS_MAX_SEC    # длинный ролик — видео-постом, Reels не примет
     plan = f"{fmt}: картинок {len(imgs)}, видео {len(vids)}, текст {len(text)} знаков"
+    if as_video:
+        plan += f' — ролик {sec:g} с длиннее {REELS_MAX_SEC} с: выйдет видео-постом страницы'
     if dry:
         return {'plan': plan}
     token, page = creds(project)
     if not token:
         raise NotConnected(f'Facebook {project} не подключён (нет секрета FB_PAGE_TOKEN_{project})')
-    if fmt == 'REELS':
+    if fmt == 'REELS' and not as_video:
         st = _http('POST', f'{API}/{page}/video_reels', {'upload_phase': 'start', 'access_token': token})
         vid = st['video_id']
         _upload_by_url(st.get('upload_url') or f'https://rupload.facebook.com/video-upload/{VER}/{vid}', token, vids[0])
@@ -181,7 +194,7 @@ def publish(project, fmt, d, meta, body, dry=False):
             ids.append(_http('POST', f'{API}/{page}/video_stories', {'upload_phase': 'finish', 'video_id': st['video_id'],
                                                                      'access_token': token}).get('post_id'))
         return {'post_id': ids[0] if ids else None, 'url': None, 'format': fmt, 'story_ids': ids}
-    # POST
+    # POST (и Reels длиннее 90 с)
     if vids:
         r = _http('POST', f'{API}/{page}/videos', {'file_url': vids[0], 'description': text, 'access_token': token}, timeout=600)
         _wait_video(token, r['id'])
