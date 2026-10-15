@@ -1,19 +1,22 @@
 ---
 number: 4
-date: "2026-10-16"
-time: "13:00"
+date: "2026-10-15"
+time: "17:15"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-15_1715_tur-china-beauty-antiage/08.jpg"]
 rubric: "тема ролика"
 week: 1
 title: "Где рождаются бьюти-хиты Китая"
+status: "утверждено"
+approved: "пользователь 15.10.2026, ~05:00 МСК: расписание дня — GTT Reels 08:30 и 17:00, Aura Reels 09:00 и 18:00, карусели через 15 мин после Reels, сторис через 15 мин после каруселей («карусели выпускай вместе с рилсами»)"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
 slides: 8
-image: "2026-10-16_1300_tur-china-beauty-antiage"
-image_status: "на согласовании"
+image: "01.jpg"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "3.5"
 image_count: 7
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-tur-china-beauty-antiage.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+caption_status: "утверждено"
 ---
 Где рождаются бьюти-хиты Китая.
 Индустрия красоты и anti-age · 5 дней · 3 города.

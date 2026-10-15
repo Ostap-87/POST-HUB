@@ -1,16 +1,21 @@
 ---
 number: 4
 date: "2026-10-15"
-time: "08:00"
+time: "08:30"
 rubric: "ролик с Остапом"
 week: 1
-carousel: "2026-10-15_1300_tur-china-tea-coffee-retail"
+carousel: "2026-10-15_0845_tur-china-tea-coffee-retail"
 title: "Чай и кофе Китая"
-video_hub: "finished-videos/2026-10-07-chai-kofe.mp4"
+status: "утверждено"
+approved: "пользователь 15.10.2026, ~05:00 МСК: расписание дня — GTT Reels 08:30 и 17:00, Aura Reels 09:00 и 18:00, карусели через 15 мин после Reels, сторис через 15 мин после каруселей («карусели выпускай вместе с рилсами»)"
+cover: "finished-videos/обложки/2026-10-07-chai-kofe.jpg"
+thumb_offset: 500
+cover_status: "утверждено: обложка первой секундой ролика (правило пользователя 14.10.2026), показана 15.10.2026"
+video_hub: "finished-videos/2026-10-07-chai-kofe-cover.mp4"
 duration: "90,6 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
 ---
 Открываете кофейню или чайную? Ваш главный учитель сейчас не в Италии и не в Америке — он в Китае.
 

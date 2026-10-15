@@ -8,18 +8,19 @@ pause: true
 # Решение пользователя 13.10.2026: «Телеграмм по расписанию — да» — Telegram Aura и GTT с 01.11.2026 (09:00 и 18:00 МСК).
 pause_except: [TELEGRAM]
 # Утверждённые посты, которые выходят по расписанию и во время паузы (папки в READY; вышедшие уезжают в PUBLISHED сами).
-# Решение пользователя 14.10.2026, ~05:35 МСК: «Отлично! утверждаю» — 6 публикаций дня в Instagram + их дубли в Facebook.
-# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю».
+# Решение пользователя 15.10.2026, ~05:00 МСК: темп 2 Reels в день — GTT 08:30 и 17:00, Aura 09:00 и 18:00, карусели через
+# 15 мин после Reels, сторис через 15 мин после каруселей (только Instagram; дубли в Facebook — не утверждены).
+# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю». Список 14.10 весь вышел.
 pause_allow:
-  - AURA/INSTAGRAM/REELS/READY/2026-10-14_0730_matrix-1-reels
-  - AURA/FACEBOOK/REELS/READY/2026-10-14_0730_matrix-1-reels
-  - GTT/INSTAGRAM/REELS/READY/2026-10-14_0800_tech-giganty
-  - GTT/FACEBOOK/REELS/READY/2026-10-14_0800_tech-giganty
-  - AURA/INSTAGRAM/STORIES/READY/2026-10-14_1100_anons-matrix-1
-  - AURA/FACEBOOK/STORIES/READY/2026-10-14_1100_anons-matrix-1
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-14_1300_tur-china-tech-giants
-  - GTT/FACEBOOK/POST/READY/2026-10-14_1300_tur-china-tech-giants
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-14_1300_tech-giganty
-  - GTT/FACEBOOK/STORIES/READY/2026-10-14_1300_tech-giganty
-  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-14_1800_matrix-1
-  - AURA/FACEBOOK/POST/READY/2026-10-14_1800_matrix-1
+  - GTT/INSTAGRAM/REELS/READY/2026-10-15_0830_chai-kofe
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-15_0845_tur-china-tea-coffee-retail
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-15_0900_chai-kofe
+  - AURA/INSTAGRAM/REELS/READY/2026-10-15_0900_robotera-l7-reels
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-15_0915_robotera-l7
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-15_0930_anons-robotera-l7
+  - GTT/INSTAGRAM/REELS/READY/2026-10-15_1700_kosmetika
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-15_1715_tur-china-beauty-antiage
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-15_1730_kosmetika
+  - AURA/INSTAGRAM/REELS/READY/2026-10-15_1800_agibot-d1-reels
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-15_1815_agibot-d1
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-15_1830_anons-agibot-d1

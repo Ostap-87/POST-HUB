@@ -1,16 +1,21 @@
 ---
 number: 4
-date: "2026-10-16"
-time: "07:30"
+date: "2026-10-15"
+time: "18:00"
 rubric: "Reels карусели"
 week: 1
-carousel: "2026-10-16_1800_agibot-d1"
+carousel: "2026-10-15_1815_agibot-d1"
 title: "Reels-версия карусели «AgiBot D1: робопёс с сальто» (гость: танец собаки)"
-video_hub: "finished-videos/2026-10-10-foto-agibot-d1-reels.mp4"
+status: "утверждено"
+approved: "пользователь 15.10.2026, ~05:00 МСК: расписание дня — GTT Reels 08:30 и 17:00, Aura Reels 09:00 и 18:00, карусели через 15 мин после Reels, сторис через 15 мин после каруселей («карусели выпускай вместе с рилсами»)"
+cover: "finished-videos/обложки/2026-10-10-foto-agibot-d1-reels.jpg"
+thumb_offset: 500
+cover_status: "утверждено: обложка первой секундой ролика (правило пользователя 14.10.2026), показана 15.10.2026"
+video_hub: "finished-videos/2026-10-10-foto-agibot-d1-reels-cover.mp4"
 duration: "49,6 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "по подписи карусели №3 + строка «Музыка», на согласовании"
+caption_status: "утверждено"
 guest: "dog"
 ---
 AgiBot D1: робопёс с сальто.

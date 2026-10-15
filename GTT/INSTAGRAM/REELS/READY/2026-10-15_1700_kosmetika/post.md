@@ -1,16 +1,21 @@
 ---
 number: 5
-date: "2026-10-16"
-time: "08:00"
+date: "2026-10-15"
+time: "17:00"
 rubric: "ролик с Остапом"
 week: 1
-carousel: "2026-10-16_1300_tur-china-beauty-antiage"
+carousel: "2026-10-15_1715_tur-china-beauty-antiage"
 title: "Косметика и anti-age"
-video_hub: "finished-videos/2026-10-07-kosmetika.mp4"
+status: "утверждено"
+approved: "пользователь 15.10.2026, ~05:00 МСК: расписание дня — GTT Reels 08:30 и 17:00, Aura Reels 09:00 и 18:00, карусели через 15 мин после Reels, сторис через 15 мин после каруселей («карусели выпускай вместе с рилсами»)"
+cover: "finished-videos/обложки/2026-10-07-kosmetika.jpg"
+thumb_offset: 500
+cover_status: "утверждено: обложка первой секундой ролика (правило пользователя 14.10.2026), показана 15.10.2026"
+video_hub: "finished-videos/2026-10-07-kosmetika-cover.mp4"
 duration: "109,7 с"
 video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
 ---
 L'Oréal строил свою империю больше 100 лет. Perfect Diary и Florasis понадобилось всего несколько, чтобы стать лидерами одного из крупнейших рынков красоты в мире. Едем узнать, как им это удалось.
 

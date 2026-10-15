@@ -1,19 +1,22 @@
 ---
 number: 9
 date: "2026-10-15"
-time: "18:00"
+time: "09:15"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/09.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/aura-instagram/2026-10-15_0915_robotera-l7/10.jpg"]
 rubric: "модель"
 week: 1
 title: "Robotera L7: быстрый и рукастый"
+status: "утверждено"
+approved: "пользователь 15.10.2026, ~05:00 МСК: расписание дня — GTT Reels 08:30 и 17:00, Aura Reels 09:00 и 18:00, карусели через 15 мин после Reels, сторис через 15 мин после каруселей («карусели выпускай вместе с рилсами»)"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/04_Aura_карусели_Instagram_20.docx"
 slides: 10
-image: "2026-10-15_1800_robotera-l7"
-image_status: "на согласовании"
+image: "01.jpg"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-robotera-l7.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+caption_status: "утверждено"
 music_video: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 ---
 Robotera L7: быстрый и рукастый.
