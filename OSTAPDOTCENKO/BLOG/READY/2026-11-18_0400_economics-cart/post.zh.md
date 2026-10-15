@@ -1,0 +1,109 @@
+---
+number: 5
+date: "2026-11-18"
+publish_time: "04:00"
+rubric: "Смотрящий за происходящим"
+category: "life"
+lang: "zh"
+title: "一辆推车的经济学"
+subtitle: "一个画了一辈子销售漏斗的营销人，在中国和台湾的夜市里，遇见了一个用烟做成的漏斗"
+meta_description: "把中国大陆和台湾的夜市当成商业模式来看：一辆推车、一口锅、只卖一样东西；2020年的“地摊经济”、成都的3.6万个摊位、入选米其林必比登的夜市小吃，以及一门每天早上清盘、每天晚上重新开张的生意。"
+excerpt: "一个画了一辈子销售漏斗的营销人，在中国和台湾的夜市里，遇见了一个用烟做成的漏斗"
+tag: "观察"
+time: "5 分钟"
+slug: "economics-cart"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/11_Личный_блог_Смотрящий_за_происходящим_10_статей.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "25d12c3c-e645-4fc8-ba54-d40d910c219c"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a busy night market in Taipei: a married couple runs a small food cart lit by a single bare bulb, the wife flipping scallion pancakes on a hot griddle without looking at it while smiling at a customer, the husband handing over a paper bag, fragrant smoke curling in the lamplight, a short queue of happy customers, neighbouring stalls glowing behind, signs blurred and unreadable, wide 16:9 composition with a calm, uncluttered lower-left corner, warm lively mood of a whole business model resting on one cart. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+> 大生意从一辆小推车开始，小生意从一份大商业计划书开始。 ——摘自一堂我始终没讲出来的课
+
+很多年来，我一直在教企业怎么卖东西：漏斗、线索、触点、用户旅程。我一本正经地说“触点”，可这么多年，我一个客户都没“触”过。不合规矩。
+
+后来某天晚上，我走进夜市，烟先“触”了我。立刻，不需要我点“同意隐私政策”。烟牵着我的鼻子，穿过三排摊位，来到一辆推车前。系着围裙的阿姨在翻锅，眼睛不看锅，看我。她知道我已经买了，我自己还不知道。
+
+这才叫漏斗：顺风二十米，转化率百分之百。
+
+## 假如做成路演材料拿给我看
+
+假如有人把这门生意做成路演材料拿给我看，大概会是这样。我看过很多商业计划书，这份会是最好的。
+
+**投资备忘录：“推车”项目**
+
+*资本支出：* 推车一辆，锅一口，煤气罐一个，灯泡一个。灯泡必不可少：没有灯泡，有货，没生意。
+
+*运营成本：* 油、面、葱。还有隔壁大姐——你跑去买葱的时候，她帮你看着摊。
+
+*团队：* 夫妻二人。董事会就在同一口锅旁边，天天开会，不做纪要，但决议全条街都听得见。
+
+*产品线：* 一个SKU，偶尔一个半。
+
+*营销：* 香味。覆盖三条巷子，顺风四条。
+
+*核心竞争力：* 同一个手腕动作，练了二十年。
+
+*扩张计划：* 第二口锅。
+
+*风险：* 下雨；城管；隔壁一模一样的煎饼便宜五块，灯泡还更亮。
+
+*退出机制：* 早上六点。每天。
+
+我愿意投。可人家不会要我的钱：没有股东，不招人，而且推车前的队伍，比我在任何展会上站过的展台前都长。
+
+## 菜单上只有一样，是战略
+
+菜单上只有一样，不是穷，是战略。
+
+大公司花大价钱请咨询顾问，就为了听一个词：“聚焦”。卖臭豆腐的阿姨三十年前就免费聚焦了，从此再没分过心。她没有产品矩阵，她有臭豆腐，还有排队的人。
+
+米其林的星星是给餐厅的；推车的星星，是队伍。队伍更诚实：买不来，只能排出来。
+
+不过说句公道话，米其林也来过推车前。2019年台北必比登推介里，有来自八个夜市的24个小吃摊：臭豆腐、饶河的胡椒饼、药炖排骨、葱油饼。评审员来找推车，推车可没去找评审员——它晚上还有生意要做。
+
+在台湾，夜市不只是市场，而是一种制度。据台湾观光署的数据，八成以上的外国游客会把夜市排进行程。博物馆可去可不去，士林必须去。我理解：博物馆告诉你人们过去怎么生活，夜市告诉你人们现在怎么生活。
+
+## 时而被爱，时而被赶
+
+在大陆，推车的履历更复杂。时而被爱，时而被赶，而且和中国的一切一样，规模都很大。
+
+2020年春天，经济刚从疫情封控里走出来，人们得谋生，总理公开为地摊说话。“地摊经济”成了那一季的热词。他举了成都的例子：放开3.6万个摊位，带来10万个就业岗位。股市反应神速：做餐饮设备和售货车的公司，股票连续几天涨停。
+
+推车上市了。没走IPO，直接推上去的。
+
+没过几天，北京的媒体表示，地摊不符合首都的形象。外地摆摊，首都旁观。也对：在哪个国家，推车都可以推到任何地方——除了显眼的地方。
+
+推车是唯一一种把“躲避监管”写进产品设计的生意：轮子。
+
+## 测试产品，一口就够
+
+我站在中国某地一辆炒面推车前算账。职业病。
+
+出餐周期：不到一分钟。仓库：推车底下。物流：离家一百米。收款：一张胶带粘着的二维码，一个角已经翘起来了。没有办公室，几乎没有租金。营销靠香味。用户反馈靠顾客咬下第一口时的表情——这是我见过最快的数据分析。没有哪套系统能在一秒半内告诉你产品好不好，一张脸可以。
+
+我们这行，测试一个产品要好几个月；这里，一口就够。而且，说来惭愧，还更准。
+
+## 写不进报表的一本账
+
+推车还有一本账，是写不进报表的。
+
+它每天早上清盘，每天晚上重新开张。不用律师，不用公证，不用章程。如果非要有一条章程，那就是：再累，明天也得出摊。
+
+我见过收摊的样子。快到半夜，夜市稀了，灯一盏一盏地灭，像散场后的剧院。一位老大爷擦干净锅，摞好凳子，绑好煤气罐。动作慢，仔细，还是那个翻了二十年炒面的手腕。他推着车回家，一个轮子吱吱响——大概也二十年没换过了。
+
+我这个画了一辈子商业模式的人，忽然明白：我在亚洲见过的最稳的商业模式，不靠投资人，也不靠算法。它靠的是一个人的背。
+
+明天早上，这里是停车位。到了晚上，又是一片烟火。
+
+**来源**
+
+1.  South China Morning Post, «China turns to ‘street vendor economy’ to help manage unemployment crisis», июнь 2020 — https://amp.scmp.com/economy/china-economy/article/3087770/china-turns-street-vendor-economy-help-manage-unemployment (выступление премьера Ли Кэцяна в Яньтае, пример Чэнду: 36 тыс. лотков и 100 тыс. рабочих мест).
+2.  Caixin Global, «Premier Promises Government Support for Street Vendors», 02.06.2020 — https://www.caixinglobal.com/2020-06-02/premier-promises-government-support-for-street-vendors-101562239.html (поддержка уличной торговли со стороны премьера).
+3.  The World of Chinese, «Stalled Economy», июнь 2020 — https://www.theworldofchinese.com/2020/06/stalled-economy/ (термин «экономика лотков» 地摊经济; рост акций производителей оборудования и фургонов до дневного лимита; позиция пекинской прессы о том, что лотки не подходят столице).
+4.  Michelin Guide, «Michelin Guide Taipei 2019 Bib Gourmand Selection: Street Foods», 02.04.2019 — https://guide.michelin.com/en/article/news-and-views/michelin-guide-taipei-2019-bib-gourmand-selection-street-foods (24 уличных лотка с 8 ночных рынков Тайбэя).
+5.  Retail Insight Network, «Night markets drive Taiwan retail tourism», 06.10.2025 — https://www.retail-insight-network.com/newsletters/night-markets-drive-taiwan-retail-tourism (данные Туристической администрации Тайваня: более 80% иностранных гостей посещают ночные рынки).

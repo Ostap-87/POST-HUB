@@ -1,7 +1,7 @@
 """Блог ostapdotcenko.ru из пула POST-HUB (решение пользователя 15.10.2026: «с сегодняшнего дня начнем использовать пул статей»).
 
   python3 CONTROL/TOOLS/blog_od.py --queue                         # очередь READY: дата, время, заголовок
-  python3 CONTROL/TOOLS/blog_od.py --redate 2026-10-15             # даты пула подряд, по статье в день с этой даты (git mv + date)
+  python3 CONTROL/TOOLS/blog_od.py --redate 2026-10-16 --time 04:00 # даты пула подряд, по статье в день с этой даты (git mv + date)
   python3 CONTROL/TOOLS/blog_od.py --post <папка READY> --dry-run  # показать, что уйдёт на сайт (ничего не меняет)
   python3 CONTROL/TOOLS/blog_od.py --post <папка READY>            # опубликовать одну статью сейчас (команда пользователя)
   python3 CONTROL/TOOLS/blog_od.py --due                           # опубликовать статьи, время которых наступило (стоп-кран учитывается)
@@ -48,9 +48,11 @@ def parse(path):
     return meta, body
 
 
-def set_date(path, date):
+def set_date(path, date, hhmm=None):
     text = path.read_text(encoding='utf-8')
     text = re.sub(r'^date: ".*"$', f'date: "{date}"', text, count=1, flags=re.M)
+    if hhmm:
+        text = re.sub(r'^publish_time: ".*"$', f'publish_time: "{hhmm}"', text, count=1, flags=re.M)
     path.write_text(text, encoding='utf-8')
 
 
@@ -140,12 +142,12 @@ def git(*args, cwd):
 
 
 def allowed(d):
-    """Стоп-кран CONTROL/PUBLISHING.yaml: на паузе выходят только BLOG из pause_except или папки из pause_allow."""
+    """Стоп-кран CONTROL/PUBLISHING.yaml: на паузе выходят только OSTAPDOTCENKO/BLOG из pause_except или папки из pause_allow."""
     text = (HUB / 'CONTROL' / 'PUBLISHING.yaml').read_text(encoding='utf-8')
     if not re.search(r'^pause:\s*true', text, re.M):
         return True
     exc = re.search(r'^pause_except:\s*\[(.*)\]', text, re.M)
-    if exc and 'BLOG' in [x.strip() for x in exc.group(1).split(',')]:
+    if exc and 'OSTAPDOTCENKO/BLOG' in [x.strip().strip('"\'') for x in exc.group(1).split(',')]:
         return True
     rel = str(d.relative_to(HUB))
     return any(line.strip() == f'- {rel}' for line in text.split('\n'))
@@ -202,6 +204,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--queue', action='store_true')
     ap.add_argument('--redate')
+    ap.add_argument('--time', help='с --redate: новое время выхода по Москве, например 04:00 (= 09:00 по Пекину)')
     ap.add_argument('--post')
     ap.add_argument('--due', action='store_true')
     ap.add_argument('--dry-run', action='store_true')
@@ -217,12 +220,13 @@ def main():
         for i, d in enumerate(folders()):
             date = (start + dt.timedelta(days=i)).isoformat()
             when, meta = when_of(d)
-            name = f"{date}_{meta.get('publish_time', '15:00').replace(':', '')}_{d.name.split('_', 2)[2]}"
+            hhmm = a.time or meta.get('publish_time', '15:00')
+            name = f"{date}_{hhmm.replace(':', '')}_{d.name.split('_', 2)[2]}"
             for lang in LANGS:
-                set_date(d / f'post.{lang}.md', date)
+                set_date(d / f'post.{lang}.md', date, hhmm if a.time else None)
             if name != d.name:
                 git('mv', str(d), str(READY / name), cwd=HUB)
-        print(f'пул: {len(folders())} статей с {start:%d.%m.%Y}, по одной в день')
+        print(f'пул: {len(folders())} статей с {start:%d.%m.%Y}, по одной в день' + (f', в {a.time} МСК' if a.time else ''))
     elif a.post:
         d = Path(a.post)
         d = d if d.is_absolute() else (HUB / d if (HUB / d).exists() else READY / d)

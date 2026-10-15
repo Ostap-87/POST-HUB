@@ -1,0 +1,108 @@
+---
+number: 10
+date: "2026-10-26"
+publish_time: "04:00"
+rubric: "Tech (роботы)"
+category: "tech"
+lang: "zh"
+title: "铁面交警"
+subtitle: "中国的机器人站上了路口、走上了街头，还有的干脆变成一个球滚着巡逻。谁在真干活，谁在摆拍？"
+meta_description: "杭州身高1.88米的机器人交警发出了17万多次提醒；芜湖路口站着“智能警务R001”；深圳的人形机器人跟着民警巡逻；温州的警用球形机器人能发射捕捉网。是展品还是员工？一个俄罗斯营销人的观察。"
+excerpt: "中国的机器人站上了路口、走上了街头，还有的干脆变成一个球滚着巡逻。谁在真干活，谁在摆拍？"
+tag: "机器人"
+time: "6 分钟"
+slug: "robocop-without-handcuffs"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "1cad2f21-d5ce-47a9-9b4f-e2c86d140f09"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic street photo at a busy sunny intersection in central Hangzhou at midday: a tall humanoid traffic robot in a reflective vest stands on a small traffic island and raises one arm in a clear traffic-control gesture; in the foreground a young woman on an electric bike, stopped at the stop line, puts on her helmet with a sheepish smile, other cyclists in helmets waiting behind her, plane trees and modern buildings, signs blurred and unreadable, bright clear light, wide 16:9 composition with a calm, uncluttered lower-left corner of road, kind humorous mood of order kept simply by being visible. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+> 铁面无私。 ——成语。原本是比喻，现在是参数。
+
+好几代苏联孩子都认识同一位警察：童诗里的“斯捷帕叔叔”。个子特别高，心地特别好，总在救人；最重要的是，大老远就能看见他。说白了，他是全国第一盏长着人脸的红绿灯。
+
+我一直以为斯捷帕叔叔是虚构的。后来发现，他只是还没量产。中国把他造出来了：身高1米88，体重98公斤，每条手臂七个关节。态度和气，不带枪，脚下是轮子。
+
+真正的铁面——还无私。
+
+## 好脾气是固件里写的
+
+先说最像在干活的。2026年5月1日起，杭州市中心的重点路口上岗了一支15台机器人组成的“机器人交警中队”。路透社后来做了详细介绍：这是本地企业中控信息的T2，身高1.88米，穿着反光背心，双臂按交警手势动作，与信号灯同步。
+
+它会什么：用摄像头和雷达识别电动自行车骑行不戴头盔、违规载人、越过停止线、行人闯红灯，然后语音提醒；能回答怎么走、在哪儿停车。在西湖景区，游客按下“我要说话”按钮，大模型就会给出路线。
+
+它不会什么：不能抓人，不能罚款，更不能“当场处理”。企业说，目的是在违规变成习惯之前提醒，而不是惩罚。
+
+斯捷帕叔叔的好脾气是天生的，T2的好脾气是固件里写的。
+
+## 17万次提醒
+
+再看企业自己给的数字：5月以来，杭州的机器人发出了17万多次提醒，每月不戴头盔和越线的情况下降了40%以上。路透社也注明，这些数字无法独立核实，杭州交警没有回复采访请求。
+
+17万次提醒，相当于给整个片区配了一位极有耐心的居委会大妈。只不过大妈会累。
+
+“它不会累。”中控信息无人系统创新中心的负责人说。它早7点到晚6点工作，自己在点位之间移动，交警可以通过中央平台监控和调度。一位杭州交警对新华社说，这种机器人每天能工作8到9个小时，承担日常事务。
+
+8到9个小时，正好是一个人的标准工时。不会累的机器人，按会累的人的作息上班。这里头有一种公平。
+
+也得说说短板，不然就成广告了。强烈阳光、雨天、极端高温或低温，都会影响摄像头和雷达。也就是说，机器人交警的难处和人类交警一模一样：热了不行，下雨不行，冷了更不行。
+
+区别只是：人在这种天气里会发牢骚，机器人会默默认错人。当然，企业称违法识别准确率超过95%。
+
+## 交警还得落户
+
+杭州不是唯一的。芜湖的路口安全岛上，站着胸牌编号“智能警务R001”的人形机器人，出自与奇瑞关联的墨甲机器人（AiMOGA）。2026年五一假期，喀什和鄂尔多斯也有机器人交警上岗。据路透社统计，到8月，三个省份约八个城市共有近50台这类机器人，中控信息预计年底达到约200台。
+
+墨甲的一位负责人说了句很有意思的话：这种机器人出口比出口汽车难。要接入当地警务系统，要认证，还要符合数据保护法规。他看到的需求在两类地方：热的——中东；多雨的——东南亚。
+
+汽车卖出去就行，交警还得“落户”。
+
+## 上小学的交警
+
+巡逻则是另一回事。
+
+2025年2月，深圳南山区万象天地门口，众擎机器人（EngineAI）的PM01穿着警用装备，和民警一起巡逻。身高1.38米，体重40公斤。2026年元旦前后，一段更大个子的机器人跟着两名民警走在世界之窗附近的视频火遍全网，外媒立刻想到了“终结者”。官方并没有称之为常态化上岗，更像是演示。
+
+1米38，算是上小学的交警。
+
+温州则有一位完全不像人的“警员”：Logon Technology公司的球形机器人RT-G。约125公斤，水陆两栖，时速最高约35公里，能发射捕捉网、施放烟雾和催泪剂、高分贝鸣笛。视频全球刷屏。可同一段视频里也看得出，它转弯时有点晃；外媒还说，一段普通楼梯可能就让它追不下去。
+
+对付高科技追捕，最可靠的办法是一栋有楼梯的老楼。我早就这么怀疑，现在有视频为证。
+
+插一段没发生过、但很可能发生的对话。路口，一位骑电动车没戴头盔的大哥：
+
+——您好，请戴好头盔。 ——你谁啊？ ——交通引导员。 ——证件呢？ ——胸牌R001。 ——你能罚我款？ ——不能。 ——能把我带走？ ——不能。 ——那你能把我怎么样？ ——我记住你了。
+
+大哥把头盔戴上了。不是怕，是不好意思。
+
+## 展品还是员工
+
+那么，是展品还是员工？我按营销人的方式回答——也就是老实说，再加几条备注。
+
+跟着民警走的人形机器人，目前还是展品，为城市、企业和行业的形象服务。会发射网的球，是网红展品。但杭州路口那位早7晚6、不停提醒骑车人的机器人，已经像个员工了。不是英雄，也不是终结者，更像一位特别客气的老交警：不休假，也不收东西。
+
+一个分工很窄的员工。交给它的不是权力，而是提醒。这也许正是整件事最聪明的地方。路口是机器人最理想的第一份工作：规则清楚，手势标准，最坏的结果不过是没人听。
+
+秩序靠的不是手铐，而是让人看得见。
+
+在后来的童诗里，斯捷帕叔叔已经退休，成了老兵，孩子们却依然以他为榜样——不是因为抓过谁，而是因为他一直站在大家看得见的地方，帮人。
+
+他的中国接班人，现在也站在大家看得见的地方，帮人。不让它抓人，我觉得是对的。
+
+铁面，无私，也无权。
+
+可头盔，大家还是戴上了。
+
+**来源**
+
+1.  Reuters / CP24, «China puts robocops on traffic duty, minus the arrest powers», 20.08.2026 — https://www.cp24.com/news/world/2026/08/20/china-puts-robocops-on-traffic-duty-minus-the-arrest-powers/ (T2 компании SUPCON Information: 1,88 м, 98 кг, без права задержания, 15 роботов в Ханчжоу с мая, 170 000+ предупреждений и снижение нарушений более чем на 40 % по данным компании, работа с 7 до 18, влияние погоды, точность выше 95 %, около 50 роботов в 8 городах, план около 200 к концу года, слова Цао Хуэя и Чжан Гуйбина).
+2.  Borneo Post / Xinhua, «China’s robot police patrol cities during Labor Day holiday», 06.05.2026 — https://www.theborneopost.com/2026/05/06/chinas-robot-police-patrol-cities-during-labor-day-holiday-signaling-ai-powered-urban-governance/ (отряд из 15 роботов в Ханчжоу с 1 мая, кнопка «Хочу спросить» у Западного озера, 8 команд, 8–9 часов в день по словам Чэнь Саньчуаня, Кашгар, Ордос, Уху).
+3.  IoT M2M Council, «AI-Powered Traffic Robot debuts in Wuhu», 02.02.2026 — https://iotm2mcouncil.org/iot-library/news/smart-cities-news/ai-powered-traffic-robot-debuts-in-wuhu/ («Умный полицейский R001», AiMOGA).
+4.  Eye Shenzhen, 19.02.2025 — https://www.eyeshenzhen.com/content/2025-02/19/content_31469161.htm (PM01 EngineAI в патруле в Наньшане, 1,38 м, 40 кг).
+5.  Interesting Engineering, «Terminator-style humanoid robot cop», 01.01.2026 — https://interestingengineering.com/ai-robotics/terminator-style-humanoid-robot-cop (гуманоид EngineAI с полицейскими у «Окна в мир», без официального статуса постоянной службы).
+6.  Fox News, «China rolls out its crime-fighting ball to chase down criminals», 03.01.2025 — https://www.foxnews.com/tech/china-rolls-out-its-crime-fighting-ball-chase-down-criminals (RT-G, Logon Technology, Вэньчжоу, 276 фунтов, до 22 миль в час, сетемёт, газ, неустойчивость на поворотах, лестницы).

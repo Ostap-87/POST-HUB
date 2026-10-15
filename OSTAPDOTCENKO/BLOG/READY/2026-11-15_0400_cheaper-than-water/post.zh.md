@@ -1,0 +1,95 @@
+---
+number: 24
+date: "2026-11-15"
+publish_time: "04:00"
+rubric: "Tech (искусственный интеллект)"
+category: "tech"
+lang: "zh"
+title: "大模型卖出了白菜价"
+subtitle: "2024年5月，中国公司用两周时间把AI的价格打到几乎为零；2026年，它们又开始涨价。这笔账，最后谁来付？"
+meta_description: "2024年5月，字节一元钱卖125万Token，阿里降价97%，百度、腾讯部分模型直接免费。两年后，腾讯、阿里、智谱纷纷涨价。一个俄罗斯营销人自嘲地复盘这场让“智力比水还便宜”的价格战，以及它的结局。"
+excerpt: "2024年5月，中国公司用两周时间把AI的价格打到几乎为零；2026年，它们又开始涨价。这笔账，最后谁来付？"
+tag: "人工智能"
+time: "5 分钟"
+slug: "cheaper-than-water"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "db5b7901-ed8a-4e9e-9a68-f244e85fd4d4"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo on the counter of a bright small Chinese convenience store: a plastic bottle of water stands beside a stack of three thick classic hardcover novels with plain blank covers, a single shiny coin on top of the stack, a smiling young cashier blurred in the background, shelves of snacks out of focus, clean daylight, wide 16:9 composition with a calm, uncluttered lower-left corner of countertop, witty mood: thinking became cheaper than water. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+“多少钱？”这个问题，我职业性地问了二十年。最近两年，问的是Token。Token是模型读写文本的最小单位，大约一个词或半个词。企业把AI接进自己的服务，按Token付钱。而在中国，Token的价格走出了我这辈子没见过的曲线：先是降，然后接着降。
+
+2024年5月15日，火山引擎总裁谭待在北京台上宣布豆包主力模型的价格：每千Token 0.0008元，比行业平均便宜99.3%。怕大家数不清零，他还换算了一下：一元钱能买125万Token，大约200万个汉字，相当于三本《三国演义》。
+
+一块钱，三本《三国演义》。
+
+这句话我记下来了。我写了二十年广告文案，从来没写出过这么好的一句：有价格，有数量，有经典，还带着一点疯劲儿。
+
+## 两周，七家公司
+
+说是字节挑起的，其实不准确。DeepSeek更早：5月6日发布V2，输入每百万Token一元。5月11日，智谱把一款模型从5元降到1元。5月15日，豆包。5月21日，阿里把Qwen-Long从每百万Token 20元砍到0.5元，降幅97%。几个小时后，百度宣布两款文心模型免费。第二天，腾讯混元的轻量模型免费，科大讯飞也跟上了。
+
+两周，七家公司，价格降了几十倍，有的直接归零。
+
+在我们这一行，一条横幅广告打九折，有时谈得比这还久，双方都能谈出白头发。
+
+新浪微博新技术研发负责人张俊林当时对第一财经说：一家互联网公司降价，其他公司就得跟，不然就会掉队。这不是经济学，这是物理学：有多大的降价，就有多大的反降价。
+
+## 想事情比喝水还便宜
+
+在中国便利店，一瓶水两块钱左右。同样的钱，能在豆包上“买”六本《三国演义》。区别是：水能喝，六本《三国演义》只能硬着头皮读。
+
+“AI比水还便宜”，听起来像比喻，在2024年5月，几乎就是一笔会计账。
+
+人类历史上第一次，想事情比喝水还便宜。
+
+## 结果怎样
+
+结果怎样？我试着列了个清单，跟往常一样，有点歪。
+
+1.  用的人多了。2024年5月，豆包每天处理1200亿Token文本；2026年3月，120万亿。不到两年，翻了一千倍。
+2.  小公司挤不下了。巨头几乎白送，你的模型怎么卖？有的创业公司，比如李开复的零一万物，干脆不再训练自己的大模型，转而基于别人的模型做产品。
+3.  模型底下的东西都涨了。据财新援引国金证券的数据，2025年DDR5内存价格涨了约五倍。
+4.  营销人一次生成一百版横幅，而不是一版。客户还是选第一版。
+5.  我开始对聊天机器人说“谢谢”。后来才知道，“谢谢”也要花Token。我照说不误——家教比Token贵。
+
+## 钟摆荡了回来
+
+2026年，钟摆荡了回来。
+
+3月11日，腾讯云结束多款大模型的免费公测，两款混元2.0模型价格涨了四倍多。3月18日，阿里云宣布自4月18日起，AI算力产品涨价5%至34%，理由是全球AI需求旺盛、供应链成本上升、Token用量激增。智谱2月涨价30%，4月又涨8%到17%。5月，字节开始测试豆包付费订阅。
+
+天下没有免费的午餐。免费的Token，也只免费到第一张显卡账单寄来为止。
+
+有意思的是：价格涨了，需求没掉。经过几轮提价，智谱2026年上半年营收同比增长近4倍，大头恰恰来自模型API收费。
+
+所以，价格战完成了它的任务：它没有打垮市场，而是把市场养成了习惯。
+
+## 战争的代价总比和平高
+
+战争的代价总比和平高，价格战也一样。只是账单来得晚，付账的也不一定是开战的人。
+
+我理解为什么要这么做。营销里这叫“降低门槛”：没尝过的东西，你卖不出去。中国公司让全国都尝了一口，价格比水还低。现在大家接着尝，只是开始付钱了。
+
+我有点怀念那个时代。它不到两年，带着点大学生活的味道：什么都便宜，人人都在试，没人想账单。这样的时代，回忆起来很美，结账时很疼。
+
+一块钱，三本《三国演义》。说实话，这两年我一本也没读完。不过，它值多少钱，我门儿清。
+
+**来源**
+
+1.  ifanr, «字节发布豆包大模型家族，一块钱生成三本《三国演义》», 15.05.2024 — https://www.ifanr.com/1585486 (цена 0,0008 юаня за 1000 токенов, 99,3 %, слова Тань Дая про 1,25 млн токенов и три «Троецарствия», 120 млрд токенов в сутки).
+2.  KrAsia, «LLM prices hit rock bottom in China as Alibaba Cloud enters the fray», май 2024 — https://kr-asia.com/llm-prices-hit-rock-bottom-in-china-as-alibaba-cloud-enters-the-fray (хронология: DeepSeek V2 6 мая, Zhipu 11 мая, Doubao 15 мая, Alibaba 21 мая, Baidu).
+3.  Yicai Global, «Tencent, iFlytek Join China’s LLM Price War», 23.05.2024 — https://yicaiglobal.com/news/tencent-and-iflytek-join-chinas-llm-price-wars-to-gain-ai-users (Tencent Hunyuan-Lite и iFlytek Spark Lite бесплатно, цитата Чжан Цзюньлиня).
+4.  TechNode, «Doubao surpasses 120 trillion daily tokens as usage doubles in three months», 07.04.2026 — https://technode.com/2026/04/07/doubao-surpasses-120-trillion-daily-tokens-as-usage-doubles-in-three-months/ (120 трлн токенов в сутки).
+5.  The Next Web, о стратегии 01.AI, июль 2026 — https://thenextweb.com/news/01ai-kai-fu-lee-hong-kong-ipo-2027-palantir-china (отказ от собственных базовых моделей).
+6.  Caixin Global, «Alibaba, Tencent hike cloud prices as AI boom drives up hardware costs», 19.03.2026 — https://www.caixinglobal.com/2026-03-19/alibaba-tencent-hike-cloud-prices-as-ai-boom-drives-up-hardware-costs-102424744.html (Tencent Cloud 11 марта, рост цен Hunyuan 2.0 более чем на 400 %, Alibaba Cloud 5–34 % с 18 апреля, данные Sinolink по памяти).
+7.  TechNode, «Alibaba Cloud raises AI computing and storage prices by up to 34% amid surging demand», 18.03.2026 — https://technode.com/2026/03/18/alibaba-cloud-raises-ai-computing-and-storage-prices-by-up-to-34-amid-surging-demand/ (причины повышения).
+8.  Techloy, «China’s Zhipu AI launches GLM-5 with 30% price increase», 13.02.2026 — https://techloy.com/chinas-zhipu-ai-launches-glm-5-with-30-price-increase-as-stock-jumps-34
+9.  Yahoo Finance / Bloomberg, «Zhipu raises AI model prices 8%–17% as GLM-5.1 launches», 08.04.2026 — https://finance.yahoo.com/sectors/technology/articles/zhipu-raises-ai-model-prices-131652529.html
+10. TechNode, «ByteDance tests paid subscriptions for AI app Doubao», 06.05.2026 — https://technode.com/2026/05/06/bytedance-tests-paid-subscriptions-for-ai-app-doubao-in-push-toward-monetization/
+11. 36Kr, обзор Zhipu и MiniMax, сентябрь 2026 — https://eu.36kr.com/zh/p/3971481903306372 (выручка Zhipu за первое полугодие 2026 года и доля платного доступа к моделям).

@@ -1,0 +1,89 @@
+---
+number: 34
+date: "2026-11-29"
+publish_time: "04:00"
+rubric: "Tech (искусственный интеллект)"
+category: "tech"
+lang: "zh"
+title: "AI同学，请你先出去一下"
+subtitle: "每年六月有四天，中国的AI认不出试卷；第五天，媒体又把它们请回考场，挨个打分"
+meta_description: "高考期间，豆包、千问、Kimi、元宝等纷纷“限时上锁”，关闭拍题答疑；智能安检门开始查智能眼镜；考试一结束，大模型做数学卷拿到137到150分。一个俄罗斯营销人，看中国如何一边培养AI，一边请它出考场。"
+excerpt: "每年六月有四天，中国的AI认不出试卷；第五天，媒体又把它们请回考场，挨个打分"
+tag: "人工智能"
+time: "5 分钟"
+slug: "ai-please-leave-exam-hall"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "b94acaf8-d96f-444b-bc98-cb1a67c9aea1"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic documentary photo at the gate of a Chinese high school on an early June morning during the national university entrance exam: teenage students in plain T-shirts walk in with clear pencil cases, a mother in a sun hat holding a thermos waves and cheers, other parents clap and smile behind a barrier, a friendly policeman nearby, sunlit trees, no banners or signs, wide 16:9 composition with a calm, uncluttered lower-left corner, warm supportive mood: these four days belong to the person. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+“此项功能在高考时段无法使用。”
+
+这是我听过的AI说的最老实的一句话。平时它什么都答：人生意义、红菜汤做法、客户为什么还不付款——答得又快又长，还带项目符号。偏偏这时候，像个板着脸的监考老师：不行。连项目符号都省了。
+
+我当场肃然起敬。干营销的人，一辈子学不会说“不行”。会说“不行”的营销，那叫法务。
+
+## 一个中等欧洲国家坐进考场
+
+先说高考本身。1977年恢复高考，此后每年六月，都是中国家庭最紧张的几天。2025年约1340万人参考；2026年，教育部公布报名人数1290万，6月7日开考。
+
+1290万，不是一届考生，是一个中等欧洲国家，集体坐进考场四天。校门外还站着同样数量的家长，那股紧张劲儿，够给一座城市供暖。
+
+这种时候，谁都不希望题是手机替孩子做的。
+
+## AI先闭上了眼睛
+
+于是AI先闭上了眼睛。2025年6月，腾讯元宝和月之暗面的Kimi在考试时段关闭了图片识别；阿里说通义千问的拍照功能6月7日至10日暂停；豆包能收照片，可一看到试卷，就提示图片“不符合规定”。问为什么，几家的回答几乎一模一样：为了保障高考公平，考试期间该功能无法使用。
+
+2026年，豆包、千问、夸克、Kimi一起进入“限时上锁”模式。千问明确宣布暂时关闭“拍题答疑”；百度说文心正常可用，但部分涉高考的请求可能受限。豆包五月底就说清楚了：考前陪你复习，考后帮你复盘，考试当中——不行。
+
+考前考后都行，考试当中，请你先出去一下。
+
+我看过的企业规章不少，能一句话说完、还不撒谎的，这是第一份。
+
+## 跟它学可以，抄它的不行
+
+说到眼睛。AI闭眼的同时，教育部升级了考点的智能安检门：不光查手机，还要查智能眼镜。去年它还是“戴在脸上的AI”，今年已经跟袖子里的小抄一个待遇。
+
+中国的科技进步很公平：每样新发明，先卖出去，再在高考考场门口被查出来。
+
+教育部对AI的态度，像严父对待一个有天赋的儿子。2025年5月提出：学生不得把生成内容直接当作业和考试答案，同时学校要从小培养AI人才。2026年4月的“人工智能+教育”行动方案，又专门写了防范AI学术作弊的机制。
+
+跟它学，可以；抄它的，不行；把试卷给它看，更不行。
+
+教育部还提醒家长警惕“AI押题”：“靠AI或所谓的‘专家’押中题目的可能性极小。”这句话，我建议全世界的营销公司都裱起来挂在门口——包括我待过的那几家。
+
+## 媒体把模型请回了考场
+
+最有意思的在后面。考试一结束，锁一解开，媒体立刻把模型请回了考场。
+
+《新京报》用网传的2026年新课标一卷数学题考了六个模型，请两位老师阅卷：讯飞星火148分，Kimi 145，DeepSeek 144，智谱143，MiniMax 142，ChatGPT 137。智东西单独测了元宝：数学150，语文142；前高考作文阅卷组长看了它的一篇作文，说能拿满分或接近满分，只是希望多一点个人的真知灼见。
+
+个人见解。对一个模型提的。我这才明白：哪怕卷子是机器写的，高考考的，依然是人。
+
+四天里，不让机器进考场，怕它帮了孩子；第五天，又请它上黑板，证明自己有多聪明。这不矛盾。这正是中国和AI的关系：可以骄傲，但不能替考。
+
+## 在走廊里等一会儿，里面坐着一个人
+
+我做了这么多年营销，现在去考高考数学，大概也就是“此项功能无法使用”的水平。可我挺喜欢这个故事。一个在AI上下了大力气的国家，每年总有几天对它说：在走廊里等一会儿。里面坐着一个人，十八岁，手心冒汗，校门外妈妈拎着保温杯——这四天，是他的。
+
+AI同学，请你先出去一下。
+
+以后会叫你回来的。上大学、找工作，这一辈子都会用到你。
+
+但这四天，是他的。
+
+**来源**
+
+1.  Fortune / Bloomberg, «Alibaba, Tencent freeze AI tools during high-stakes China college exam», 09.06.2025 — https://fortune.com/asia/2025/06/09/alibaba-tencent-freeze-ai-tools-gaokao-china-exam (Yuanbao и Kimi отключили распознавание фото, Qwen с 7 по 10 июня, реакция Doubao, ответ ботов, 13,4 млн участников, правила Минобразования мая 2025 г.).
+2.  新京报 (Beijing News), 03.06.2026 — https://www.bjnews.com.cn/detail/1780460956129787.html (12,9 млн заявок на гаокао-2026, модернизация «умных рамок» для поиска телефонов и умных очков).
+3.  中华网 (China.com), 07.06.2026 — https://news.china.com/socialgd/10000169/20260607/49534771.html (начало экзамена 7 июня, «временный замок» у Doubao, Qianwen, Quark, Kimi, позиция Baidu).
+4.  界面新闻 (Jiemian), 27.05.2026 — https://www.jiemian.com/article/14490571.html (ответ Doubao «до и после, но не во время», план «ИИ + образование» апреля 2026 г., тест Southern Metropolis Daily 2025 г.).
+5.  网易 / China Daily, 27.05.2026 — https://www.163.com/dy/article/KTV844R90530SFP3.html (сообщение «此项功能在高考时段无法使用», предупреждение Минобразования об «ИИ-прогнозах заданий»).
+6.  新京报 (Beijing News), тест моделей на математике гаокао-2026 — https://www.bjnews.com.cn/detail/1780914137169182.html (iFlytek Spark 148, Kimi 145, DeepSeek 144, Zhipu 143, MiniMax 142, ChatGPT 137).
+7.  新浪财经 / 智东西 (Zhidongxi), 17.06.2026 — https://finance.sina.cn/2026-06-17/detail-inictnum7014254.d.html (Yuanbao: математика 150, китайский 142, оценка сочинения Шэнь И).

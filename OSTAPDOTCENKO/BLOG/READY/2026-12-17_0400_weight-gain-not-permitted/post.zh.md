@@ -1,0 +1,90 @@
+---
+number: 46
+date: "2026-12-17"
+publish_time: "04:00"
+rubric: "Tech (пептиды)"
+category: "tech"
+lang: "zh"
+title: "国家不让你胖"
+subtitle: "中国开启为期三年的“体重管理年”，在医院开设体重管理门诊，倡导家家备体重秤。GLP-1药物市场则有自己的理解"
+meta_description: "2024年，国家卫健委等16部门启动为期三年的“体重管理年”活动：我国成年人超重肥胖率已超过50%。体重管理门诊、“国家喊你减肥”热梗、未纳入医保的减重GLP-1药物，以及分析师预计2030年达千亿元的市场——一个俄罗斯营销人的观察，不含任何医疗建议。"
+excerpt: "中国开启为期三年的“体重管理年”，在医院开设体重管理门诊，倡导家家备体重秤。GLP-1药物市场则有自己的理解"
+tag: "多肽"
+time: "5 分钟"
+slug: "weight-gain-not-permitted"
+source: "CONTROL/SOURCES/2026-10-10_тексты-ноябрь-декабрь/09_Личный_блог_Tech_50_статей.docx"
+image: "photo.jpg"
+image_status: "утверждено"
+image_model: "gpt_image_2_5 medium 1k 16:9"
+image_job: "993b8efb-7c54-4b58-83c8-0e73333ec34b"
+image_cost: "0.5"
+image_logos: ""
+image_prompt: "Photorealistic still-life photo in a bright hotel room in China in the morning: a white digital bathroom scale with a blank display stands on the wooden floor by the window, a guest's feet in white hotel slippers about to step onto it, running shoes and a bottle of water nearby, a bowl of fresh fruit on the side table, soft sunlight through sheer curtains, wide 16:9 composition with a calm, uncluttered lower-left corner, light humorous and encouraging mood: the state can place the scale, stepping on it is up to you. Realistic materials, natural colors. No text, no letters, no logos, no watermarks."
+---
+
+> 国家是不让你胖，但也没让你瘦啊。 ——沈阳市第一人民医院一位医生接受新华社采访时说
+
+我小时候在苏联，国家也关心大家的身材：广播里放工间操，学校考“劳卫制”体育标准，食堂每周有“鱼日”。现在想来，“鱼日”就是我们国家第一个体重管理项目——说是自愿，其实没得选。
+
+后来国家不管我们的身材了，我们也就，说实话，放开了。
+
+## 一个“年”持续三年
+
+中国走了相反的路。2024年6月，国家卫健委联合另外15个部门启动为期三年的“体重管理年”活动。一个“年”持续三年——只有政府项目和邻居家装修是这么算时间的。
+
+原因简单，也不太愉快。2020年数据显示，我国成年人超重率34.3%、肥胖率16.4%，合计超过一半；6至17岁儿童青少年肥胖率接近20%。媒体和医生引用的预测认为，到2030年成年人超重肥胖率可能超过三分之二，相关医疗费用或达4180亿元，占全国医疗总费用的五分之一。
+
+五分之一的医疗费用。这已经不是腰围问题，是预算问题。
+
+## 市场听到的是“买”
+
+2025年3月全国两会期间，国家卫健委主任雷海潮在记者会上谈到体重管理，中国网友的反应一如既往：“国家喊你减肥”冲上热搜。第二天，健身App Keep股价涨了近5%；据Jing Daily，美团买药上司美格鲁肽的搜索量一周上涨180%。
+
+国家说“减肥”，市场听到的是“买”。
+
+## 五位专家管一条腰围
+
+活动本身提倡什么？政府、行业、单位、个人共同负责；推动家庭和宾馆配备体重秤；普及合理膳食和运动；医疗机构增设体重管理门诊。2025年4月，国家卫健委和国家中医药局要求委属委管和省级综合医院、儿童医院、中医医院在6月底前基本实现体重管理门诊全覆盖，团队由儿科、全科、内分泌、临床营养和中医等专业人员组成。生活方式干预优先，药物合理使用、对症治疗。
+
+五位专家管一条腰围。腰围这辈子头一次觉得自己是个大人物。
+
+宾馆里放体重秤，这条特别打动我。我住酒店的日子比想象的多，一直以为房间里最要紧的是安静和床头插座，现在看来，还有真相。
+
+来一份戏仿文件。没人发过，但从网友反应看，很多人都在字里行间读到了。
+
+《关于本户体重管理的通知》 一、体重秤放在显眼处，不得藏在浴缸底下。 二、早上称重，喝茶前、看新闻前。 三、称重结果不得在节日饭桌上与亲戚讨论。 四、不摆节日饭桌。 五、第四条仅供参考。
+
+## 你得减肥，但要自费
+
+再说市场。这个栏目讲肽，而这十年最出名的肽就是GLP-1类药物。只谈市场和监管，不提任何建议。
+
+2024年年中，诺和诺德的司美格鲁肽和礼来的替尔泊肽在中国获批体重管理适应症；2025年6月，信达生物的玛仕度肽获批，成为全球首个获批减重的GCG/GLP-1双受体激动剂。司美格鲁肽在中国的专利于2026年3月20日到期，十多家本土企业排队申报。L.E.K.咨询认为，到2030年中国GLP-1市场或达千亿元。
+
+但有一个细节说明了一切：用于体重管理的GLP-1药物不在医保报销范围内。2026年7月，司美格鲁肽进入国家基本药物目录，但仅限2型糖尿病。
+
+这就是中国式辩证法：国家说，你得减肥；又补充一句：自费。
+
+## 国家喊你存肌肉
+
+体重管理两周年时，新华社发了一篇稿子，标题是我见过对政府项目最好的评语：“国家不让你胖”也没让你瘦啊。据医生介绍，某体重管理门诊里真正达到肥胖标准的不到三分之一，约六成是超重，还有近一成体重正常却仍想减。另一家医院的医生说得很直接：“这类患者，我们会明确拒绝。”与此同时，网上流行“躺瘦神针”，后来又有了新梗：“国家喊你存肌肉”。
+
+存肌肉。像存粮、存盐、冬天存火柴一样。这里面有种让我特别亲切的东西。
+
+看中国的这场行动，我几乎不带讽刺。一个在许多人记忆里还担心吃不饱的国家，如今认真地和超重作战，而且有条不紊：靠文件，靠门诊，靠宾馆里的体重秤。我们当年也会排队整齐地行动——主要是排队去食堂。
+
+国家可以放好体重秤，站上去得靠自己。
+
+沈阳那位医生，我觉得替我们所有人把话说完了：不让你胖，也没让你瘦。剩下的，同志们，自己看着办。
+
+**来源**
+
+1.  Nutrition Insight, «China launches three-year public weight control campaign to tackle rising obesity», 27.06.2024 — https://www.nutritioninsight.com/news/china-launches-three-year-public-weight-control-campaign-to-tackle-rising-obesity.html (запуск кампании, трёхлетний срок, цели).
+2.  京报网 / 新华社, «体重管理两周年观察：“国家不让你胖” 也没让 你瘦啊», 02.06.2026 — https://news.bjd.com.cn/2026/06/02/11781327.shtml (16 ведомств, цитата Лю Вэя, структура пациентов, отказы врачей, мемы «躺瘦神针» и «国家喊你存肌肉»).
+3.  RFA, «“腰围太大”压垮医保？“两会”罕见强调体重管理», 12.03.2025 — https://rfa.org/mandarin/shehui/2025/03/12/china-two-sessions-rolls-out-weight-loss-plan/ (34,3 % и 16,4 % в 2020 г., прогноз 65,3 % к 2030 г. и 418 млрд юаней, весы в домах и отелях, кабинеты в больницах).
+4.  CBNData / 精练GymSquare, «“体重管理”的国家队出手，是健身健康行业的新风口», 13.03.2025 — https://www.cbndata.com/information/293757 (мем «国家喊你减肥», рост акций Keep почти на 5 %, прогноз 70,5 % к 2030 г.).
+5.  Jing Daily, «China launches weight loss campaign as Ozempic searches soar», 12.03.2025 — https://jingdaily.com/intels/2025-03/12/china-launches-weight-loss-campaign-as-ozempic-searches-soar (поиск семаглутида в аптеке Meituan +180 % за неделю).
+6.  新华网, «这些医院今年6月底前体重管理门诊有望全覆盖», 10.04.2025 — https://www.news.cn/politics/20250410/0c64d79ffc324083a54ec00470f56016/c.html (кабинеты управления весом, состав команды, больше 50 % взрослых с лишним весом, около 20 % детей 6–17 лет с ожирением).
+7.  L.E.K. Consulting, «Race to Winning Smart: Intensifying GLP-1 Market in China», 15.05.2025 — https://www.lek.com/insights/healthcare/race-winning-smart-intensifying-glp-1-market-china (одобрение семаглутида и тирзепатида для веса в середине 2024 г., рынок до 100 млрд юаней к 2030 г., исключение из страховки).
+8.  The Pharma Letter, «Innovent wins China approval for obesity drug mazdutide», 30.06.2025 — https://www.thepharmaletter.com/pharma-news/innovent-wins-china-approval-for-obesity-drug-mazdutide (маздутид, первый двойной агонист GCG/GLP-1 для похудения).
+9.  Tiger Brokers, «Domestic Semaglutide’s First Approval Faces Delays…», 25.04.2026 — https://www.itiger.com/news/1141827555 (истечение патента 20.03.2026, больше десяти заявителей).
+10. GxP News, «Китай включил семаглутид в перечень основных лекарств», 09.07.2026 — https://gxpnews.net/2026/07/kitaj-vklyuchil-semaglutid-v-perechen-osnovnyh-lekarstv/ (включение только для диабета 2-го типа, с 01.09.2026).
