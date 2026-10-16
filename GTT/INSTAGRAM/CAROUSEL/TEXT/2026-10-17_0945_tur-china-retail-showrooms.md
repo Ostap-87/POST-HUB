@@ -1,13 +1,13 @@
 ---
 number: 9
 date: "2026-10-17"
-time: "08:45"
+time: "09:45"
 rubric: "тема ролика"
 week: 1
 title: "Ритейл Китая: 9 флагманов вживую"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
 slides: 9
-image: "2026-10-17_0845_tur-china-retail-showrooms"
+image: "2026-10-17_0945_tur-china-retail-showrooms"
 image_status: "на согласовании"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
