@@ -10,19 +10,31 @@ pause: true
 # (пул OSTAPDOTCENKO/BLOG/READY, 04:00 МСК, CONTROL/TOOLS/blog_od.py --due).
 pause_except: [TELEGRAM, OSTAPDOTCENKO/BLOG]
 # Утверждённые посты, которые выходят по расписанию и во время паузы (папки в READY; вышедшие уезжают в PUBLISHED сами).
-# Решение пользователя 15.10.2026, ~05:00 МСК: темп 2 Reels в день — GTT 08:30 и 17:00, Aura 09:00 и 18:00, карусели через
-# 15 мин после Reels, сторис через 15 мин после каруселей (только Instagram; дубли в Facebook — не утверждены).
-# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю». Список 14.10 весь вышел.
+# Решение пользователя 16.10.2026, ~08:30 МСК: «Утверждаю и в том числе сразу в ФБ» — 12 постов Instagram на 16.10 (темп 2 Reels
+# в день: GTT 08:30 и 17:00, Aura 09:00 и 18:00, карусели +15 мин, сторис +15 мин) и их копии на страницах Facebook в то же время.
+# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю». Список 15.10 весь вышел.
 pause_allow:
-  - GTT/INSTAGRAM/REELS/READY/2026-10-15_0830_chai-kofe
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-15_0845_tur-china-tea-coffee-retail
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-15_0900_chai-kofe
-  - AURA/INSTAGRAM/REELS/READY/2026-10-15_0900_robotera-l7-reels
-  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-15_0915_robotera-l7
-  - AURA/INSTAGRAM/STORIES/READY/2026-10-15_0930_anons-robotera-l7
-  - GTT/INSTAGRAM/REELS/READY/2026-10-15_1700_kosmetika
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-15_1715_tur-china-beauty-antiage
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-15_1730_kosmetika
-  - AURA/INSTAGRAM/REELS/READY/2026-10-15_1800_agibot-d1-reels
-  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-15_1815_agibot-d1
-  - AURA/INSTAGRAM/STORIES/READY/2026-10-15_1830_anons-agibot-d1
+  - GTT/FACEBOOK/REELS/READY/2026-10-16_0830_avto
+  - GTT/INSTAGRAM/REELS/READY/2026-10-16_0830_avto
+  - GTT/FACEBOOK/POST/READY/2026-10-16_0845_tur-china-auto-plants
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-16_0845_tur-china-auto-plants
+  - AURA/FACEBOOK/REELS/READY/2026-10-16_0900_agibot-g2-reels
+  - AURA/INSTAGRAM/REELS/READY/2026-10-16_0900_agibot-g2-reels
+  - GTT/FACEBOOK/STORIES/READY/2026-10-16_0900_avto
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-16_0900_avto
+  - AURA/FACEBOOK/POST/READY/2026-10-16_0915_agibot-g2
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-16_0915_agibot-g2
+  - AURA/FACEBOOK/STORIES/READY/2026-10-16_0930_anons-agibot-g2
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-16_0930_anons-agibot-g2
+  - GTT/FACEBOOK/REELS/READY/2026-10-16_1700_byt-tehnika
+  - GTT/INSTAGRAM/REELS/READY/2026-10-16_1700_byt-tehnika
+  - GTT/FACEBOOK/POST/READY/2026-10-16_1715_tur-china-appliances
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-16_1715_tur-china-appliances
+  - GTT/FACEBOOK/STORIES/READY/2026-10-16_1730_byt-tehnika
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-16_1730_byt-tehnika
+  - AURA/FACEBOOK/REELS/READY/2026-10-16_1800_agibot-x1-reels
+  - AURA/INSTAGRAM/REELS/READY/2026-10-16_1800_agibot-x1-reels
+  - AURA/FACEBOOK/POST/READY/2026-10-16_1815_agibot-x1
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-16_1815_agibot-x1
+  - AURA/FACEBOOK/STORIES/READY/2026-10-16_1830_anons-agibot-x1
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-16_1830_anons-agibot-x1
