@@ -1,0 +1,6 @@
+{
+  "attempts": 1,
+  "last_error": "IGError: Only photo or video can be accepted as media type. (code 9004, subcode 2207052)",
+  "at": "2026-10-16T18:20:14+03:00",
+  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/publish.py\", line 129, in run_one\n    result = ad.publish(project, fmt, d, meta, body, dry=dry)\n             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 197, in publish\n    kids.append(_container(token, user, p))\n                ^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 154, in _container\n    return _http('POST', f'{API}/{user}/media', {**params, 'access_token': token})['id']\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 59, in _http\n    raise IGError(msg.replace(os.environ.get('_IG_TOKEN', '§'), '***')) from None\nnet_instagram.IGError: Only photo or video can be accepted as media type. (code 9004, subcode 2207052)\n"
+}
