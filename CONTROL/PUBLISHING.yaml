@@ -10,31 +10,44 @@ pause: true
 # (пул OSTAPDOTCENKO/BLOG/READY, 04:00 МСК, CONTROL/TOOLS/blog_od.py --due).
 pause_except: [TELEGRAM, OSTAPDOTCENKO/BLOG]
 # Утверждённые посты, которые выходят по расписанию и во время паузы (папки в READY; вышедшие уезжают в PUBLISHED сами).
-# Решение пользователя 16.10.2026, ~08:30 МСК: «Утверждаю и в том числе сразу в ФБ» — 12 постов Instagram на 16.10 (темп 2 Reels
-# в день: GTT 08:30 и 17:00, Aura 09:00 и 18:00, карусели +15 мин, сторис +15 мин) и их копии на страницах Facebook в то же время.
-# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю». Список 15.10 весь вышел.
+# Решение пользователя 16.10.2026, ~20:50 МСК: «утверждаю. Как и проговорили по 1 рилс в день с субботы по понедельник»
+# + «Да, и в Facebook» — 17–19.10: GTT и Aura по одному Reels в день (сб, вс 09:30; пн 08:30), карусель +15 мин,
+# сторис +30 мин; копии на страницах Facebook в то же время. Список 16.10 вышел весь (12 Instagram + 12 Facebook).
+# Остальная очередь (в т.ч. посты Facebook с 03.11) — на паузе до отдельного «утверждаю».
 pause_allow:
-  - GTT/FACEBOOK/REELS/READY/2026-10-16_0830_avto
-  - GTT/INSTAGRAM/REELS/READY/2026-10-16_0830_avto
-  - GTT/FACEBOOK/POST/READY/2026-10-16_0845_tur-china-auto-plants
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-16_0845_tur-china-auto-plants
-  - AURA/FACEBOOK/REELS/READY/2026-10-16_0900_agibot-g2-reels
-  - AURA/INSTAGRAM/REELS/READY/2026-10-16_0900_agibot-g2-reels
-  - GTT/FACEBOOK/STORIES/READY/2026-10-16_0900_avto
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-16_0900_avto
-  - AURA/FACEBOOK/POST/READY/2026-10-16_0915_agibot-g2
-  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-16_0915_agibot-g2
-  - AURA/FACEBOOK/STORIES/READY/2026-10-16_0930_anons-agibot-g2
-  - AURA/INSTAGRAM/STORIES/READY/2026-10-16_0930_anons-agibot-g2
-  - GTT/FACEBOOK/REELS/READY/2026-10-16_1700_byt-tehnika
-  - GTT/INSTAGRAM/REELS/READY/2026-10-16_1700_byt-tehnika
-  - GTT/FACEBOOK/POST/READY/2026-10-16_1715_tur-china-appliances
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-16_1715_tur-china-appliances
-  - GTT/FACEBOOK/STORIES/READY/2026-10-16_1730_byt-tehnika
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-16_1730_byt-tehnika
-  - AURA/FACEBOOK/REELS/READY/2026-10-16_1800_agibot-x1-reels
-  - AURA/INSTAGRAM/REELS/READY/2026-10-16_1800_agibot-x1-reels
-  - AURA/FACEBOOK/POST/READY/2026-10-16_1815_agibot-x1
-  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-16_1815_agibot-x1
-  - AURA/FACEBOOK/STORIES/READY/2026-10-16_1830_anons-agibot-x1
-  - AURA/INSTAGRAM/STORIES/READY/2026-10-16_1830_anons-agibot-x1
+  - AURA/FACEBOOK/REELS/READY/2026-10-17_0930_matrix-3-reels
+  - AURA/INSTAGRAM/REELS/READY/2026-10-17_0930_matrix-3-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-17_0930_novyi-riteil
+  - GTT/INSTAGRAM/REELS/READY/2026-10-17_0930_novyi-riteil
+  - AURA/FACEBOOK/POST/READY/2026-10-17_0945_matrix-3
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-17_0945_matrix-3
+  - GTT/FACEBOOK/POST/READY/2026-10-17_0945_tur-china-retail-showrooms
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-17_0945_tur-china-retail-showrooms
+  - AURA/FACEBOOK/STORIES/READY/2026-10-17_1000_anons-matrix-3
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-17_1000_anons-matrix-3
+  - GTT/FACEBOOK/STORIES/READY/2026-10-17_1000_novyi-riteil
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-17_1000_novyi-riteil
+  - AURA/FACEBOOK/REELS/READY/2026-10-18_0930_agibot-a2-reels
+  - AURA/INSTAGRAM/REELS/READY/2026-10-18_0930_agibot-a2-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-18_0930_konditerka
+  - GTT/INSTAGRAM/REELS/READY/2026-10-18_0930_konditerka
+  - AURA/FACEBOOK/POST/READY/2026-10-18_0945_agibot-a2
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-18_0945_agibot-a2
+  - GTT/FACEBOOK/POST/READY/2026-10-18_0945_tur-confectionery
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-18_0945_tur-confectionery
+  - AURA/FACEBOOK/STORIES/READY/2026-10-18_1000_anons-agibot-a2
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-18_1000_anons-agibot-a2
+  - GTT/FACEBOOK/STORIES/READY/2026-10-18_1000_konditerka
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-18_1000_konditerka
+  - AURA/FACEBOOK/REELS/READY/2026-10-19_0830_agibot-x2-reels
+  - AURA/INSTAGRAM/REELS/READY/2026-10-19_0830_agibot-x2-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-19_0830_ai
+  - GTT/INSTAGRAM/REELS/READY/2026-10-19_0830_ai
+  - AURA/FACEBOOK/POST/READY/2026-10-19_0845_agibot-x2
+  - AURA/INSTAGRAM/CAROUSEL/READY/2026-10-19_0845_agibot-x2
+  - GTT/FACEBOOK/POST/READY/2026-10-19_0845_tur-china-ai
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-19_0845_tur-china-ai
+  - AURA/FACEBOOK/STORIES/READY/2026-10-19_0900_anons-agibot-x2
+  - AURA/INSTAGRAM/STORIES/READY/2026-10-19_0900_anons-agibot-x2
+  - GTT/FACEBOOK/STORIES/READY/2026-10-19_0900_ai
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-19_0900_ai
