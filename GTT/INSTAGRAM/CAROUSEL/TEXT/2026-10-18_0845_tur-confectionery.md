@@ -1,13 +1,13 @@
 ---
 number: 20
-date: "2026-10-20"
-time: "13:00"
+date: "2026-10-18"
+time: "08:45"
 rubric: "тема ролика"
 week: 1
 title: "Китайские торты обгоняют мировые бренды"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
 slides: 8
-image: "2026-10-20_1300_tur-confectionery"
+image: "2026-10-18_0845_tur-confectionery"
 image_status: "на согласовании"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "3.5"
