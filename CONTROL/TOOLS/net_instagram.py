@@ -169,7 +169,16 @@ def _wait(token, cid, timeout):
 
 
 def _publish(token, user, cid):
-    mid = _http('POST', f'{API}/{user}/media_publish', {'creation_id': cid, 'access_token': token})['id']
+    # Instagram иногда отвечает «Media ID is not available (9007/2207027)», хотя контейнер уже FINISHED: медиа ещё
+    # не доехало до публикации. Ждём и повторяем тот же контейнер (17.10.2026 так не вышла карусель Aura MATRIX-3).
+    for attempt in range(4):
+        try:
+            mid = _http('POST', f'{API}/{user}/media_publish', {'creation_id': cid, 'access_token': token})['id']
+            break
+        except IGError as e:
+            if 'code 9007' not in str(e) or attempt == 3:
+                raise
+            time.sleep(20)
     try:
         link = _http('GET', f'{API}/{mid}', {'fields': 'permalink', 'access_token': token}).get('permalink')
     except IGError:
