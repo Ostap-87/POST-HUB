@@ -46,6 +46,8 @@ class NotConnected(Exception):
 # 17 и 18.10.2026 так не вышли карусели Aura по 10 слайдов: после роликов и карусели GTT лимит за час был выбран,
 # и media_publish отвечал «Application request limit reached (code 4, subcode 2207051)». Лимит считается за
 # скользящий час, поэтому ждём и повторяем тот же вызов (до ~20 минут), а не тратим попытку публикации.
+# Исключение — подкод 2207051 («публикация похожа на спам», официальная таблица ошибок Meta): его не повторяем.
+# 2207085 («Fatal», code -1) — по описанию Ayrshare, ошибка состояния аккаунта, а не поста: тоже не повторяем.
 RATE_CODES = ('code 4,', 'code 17,', 'code 32,', 'code 613,')
 RATE_WAITS = (60, 60, 120, 120, 180, 180, 240, 240)
 
@@ -55,7 +57,8 @@ def _http(method, url, params=None, timeout=60):
         try:
             return _http_once(method, url, params, timeout)
         except IGError as e:
-            if wait is None or not any(c in str(e) for c in RATE_CODES):
+            # 2207051 — Instagram заподозрил спам и закрыл публикацию для аккаунта: повторы только усугубят, ждём человека
+            if wait is None or 'subcode 2207051' in str(e) or not any(c in str(e) for c in RATE_CODES):
                 raise
             print(f'  … Instagram: лимит запросов ({e}), жду {wait} с и повторяю', flush=True)
             time.sleep(wait)
