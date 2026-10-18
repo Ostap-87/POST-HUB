@@ -42,7 +42,26 @@ class NotConnected(Exception):
     pass
 
 
+# Лимиты запросов Instagram (code 4 — лимит приложения, 17 — пользователя, 32 — страницы, 613 — частота вызовов).
+# 17 и 18.10.2026 так не вышли карусели Aura по 10 слайдов: после роликов и карусели GTT лимит за час был выбран,
+# и media_publish отвечал «Application request limit reached (code 4, subcode 2207051)». Лимит считается за
+# скользящий час, поэтому ждём и повторяем тот же вызов (до ~20 минут), а не тратим попытку публикации.
+RATE_CODES = ('code 4,', 'code 17,', 'code 32,', 'code 613,')
+RATE_WAITS = (60, 60, 120, 120, 180, 180, 240, 240)
+
+
 def _http(method, url, params=None, timeout=60):
+    for wait in RATE_WAITS + (None,):
+        try:
+            return _http_once(method, url, params, timeout)
+        except IGError as e:
+            if wait is None or not any(c in str(e) for c in RATE_CODES):
+                raise
+            print(f'  … Instagram: лимит запросов ({e}), жду {wait} с и повторяю', flush=True)
+            time.sleep(wait)
+
+
+def _http_once(method, url, params=None, timeout=60):
     data = urllib.parse.urlencode(params or {}).encode() if method == 'POST' else None
     if method == 'GET' and params:
         url += ('&' if '?' in url else '?') + urllib.parse.urlencode(params)
@@ -165,7 +184,7 @@ def _wait(token, cid, timeout):
             raise IGError(f'Instagram не принял файл: {st.get("status")}')
         if time.time() - t0 > timeout:
             raise IGError(f'файл обрабатывается дольше {timeout} с (контейнер {cid})')
-        time.sleep(5)
+        time.sleep(5 if timeout <= 120 else 15)                 # видео обрабатывается минутами — опрашиваем реже, это экономит лимит
 
 
 def _publish(token, user, cid):
