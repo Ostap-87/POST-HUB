@@ -142,9 +142,17 @@ def _upload_by_url(upload_url, token, file_url):
 
 
 def _wait_video(token, vid, timeout=900):
+    # Сразу после загрузки по ссылке Facebook может отвечать «объект не существует» (code 100, subcode 33), пока сам
+    # скачивает файл: 19.10.2026 так «упал» видео-пост GTT «ИИ Китая». Несколько минут считаем это «ещё не готово».
     t0 = time.time()
     while True:
-        st = _http('GET', f'{API}/{vid}', {'fields': 'status', 'access_token': token}).get('status', {})
+        try:
+            st = _http('GET', f'{API}/{vid}', {'fields': 'status', 'access_token': token}).get('status', {})
+        except FBError as e:
+            if 'subcode 33' not in str(e) or time.time() - t0 > 600:
+                raise
+            time.sleep(20)
+            continue
         if st.get('video_status') == 'error' or (st.get('processing_phase') or {}).get('status') == 'error':
             raise FBError(f'Facebook не обработал видео: {json.dumps(st, ensure_ascii=False)[:400]}')
         if st.get('video_status') == 'ready' and (st.get('publishing_phase') or {}).get('status') in (None, 'complete'):
@@ -152,6 +160,20 @@ def _wait_video(token, vid, timeout=900):
         if time.time() - t0 > timeout:
             raise FBError(f'видео обрабатывается дольше {timeout} с (id {vid})')
         time.sleep(10)
+
+
+def _pending(d):
+    """id видео, созданного прошлой попыткой (pending-video.json): повтор ждёт его, а не загружает ролик заново — без дублей."""
+    f = d / 'pending-video.json'
+    return json.loads(f.read_text(encoding='utf-8')).get('video_id') if f.exists() else None
+
+
+def _remember(d, vid):
+    (d / 'pending-video.json').write_text(json.dumps({'video_id': vid, 'at': time.strftime('%Y-%m-%dT%H:%M:%S%z')}) + '\n', encoding='utf-8')
+
+
+def _forget(d):
+    (d / 'pending-video.json').unlink(missing_ok=True)
 
 
 def _photo(token, page, path, published=True, message=None):
@@ -176,12 +198,16 @@ def publish(project, fmt, d, meta, body, dry=False):
     if not token:
         raise NotConnected(f'Facebook {project} не подключён (нет секрета FB_PAGE_TOKEN_{project})')
     if fmt == 'REELS' and not as_video:
-        st = _http('POST', f'{API}/{page}/video_reels', {'upload_phase': 'start', 'access_token': token})
-        vid = st['video_id']
-        _upload_by_url(st.get('upload_url') or f'https://rupload.facebook.com/video-upload/{VER}/{vid}', token, vids[0])
-        _http('POST', f'{API}/{page}/video_reels', {'upload_phase': 'finish', 'video_id': vid, 'video_state': 'PUBLISHED',
-                                                     'description': text, 'access_token': token})
+        vid = _pending(d)
+        if not vid:
+            st = _http('POST', f'{API}/{page}/video_reels', {'upload_phase': 'start', 'access_token': token})
+            vid = st['video_id']
+            _upload_by_url(st.get('upload_url') or f'https://rupload.facebook.com/video-upload/{VER}/{vid}', token, vids[0])
+            _http('POST', f'{API}/{page}/video_reels', {'upload_phase': 'finish', 'video_id': vid, 'video_state': 'PUBLISHED',
+                                                         'description': text, 'access_token': token})
+            _remember(d, vid)
         _wait_video(token, vid)
+        _forget(d)
         return {'post_id': vid, 'url': f'https://www.facebook.com/reel/{vid}', 'format': fmt}
     if fmt == 'STORIES':
         ids = []
@@ -196,9 +222,13 @@ def publish(project, fmt, d, meta, body, dry=False):
         return {'post_id': ids[0] if ids else None, 'url': None, 'format': fmt, 'story_ids': ids}
     # POST (и Reels длиннее 90 с)
     if vids:
-        r = _http('POST', f'{API}/{page}/videos', {'file_url': vids[0], 'description': text, 'access_token': token}, timeout=600)
-        _wait_video(token, r['id'])
-        return {'post_id': r['id'], 'url': f'https://www.facebook.com/{page}/videos/{r["id"]}', 'format': 'VIDEO'}
+        vid = _pending(d)
+        if not vid:
+            vid = _http('POST', f'{API}/{page}/videos', {'file_url': vids[0], 'description': text, 'access_token': token}, timeout=600)['id']
+            _remember(d, vid)
+        _wait_video(token, vid)
+        _forget(d)
+        return {'post_id': vid, 'url': f'https://www.facebook.com/{page}/videos/{vid}', 'format': 'VIDEO'}
     if len(imgs) == 1:
         r = _photo(token, page, imgs[0], message=text)
         pid = r.get('post_id') or r.get('id')
