@@ -10,7 +10,10 @@
 PROTOCOL_ARTICLES.md сайта) + обложка `public/img/<slug>-cover.jpg` → коммит «Publish blog article: <slug> (POST-HUB)»
 и пуш в `main` репозитория `Ostap-87/ostapdotcenko` (`--site`, по умолчанию ../ostapdotcenko рядом с POST-HUB).
 Сервер собирает сайт каждые 2 минуты и сам постит новую статью в Facebook (RU) и LinkedIn (EN).
-Папка статьи уезжает в `PUBLISHED/ГГГГ-ММ/` с `info.json` (ссылка на статью).
+Папка статьи уезжает в `PUBLISHED/ГГГГ-ММ/` с `info.json` (ссылка на статью); коммит и пуш POST-HUB скрипт делает сам.
+Картинка для Facebook и LinkedIn (с 22.10.2026) — обложка из этой папки на GitHub (POST-HUB публичный): с ostapdotcenko.ru
+Facebook картинки больше не скачивает (ошибка 324 в Make). Ссылка пишется в `scripts/social-images.json` сайта в том же
+коммите, что и статья; POST-HUB пушится сразу после сайта, а автопост сервера ждёт, пока GitHub начнёт отдавать файл.
 
 Разметка md → сайт (рендер сайта понимает только `## `, `![подпись](путь)`, списки `* `, метку «строка:» и ссылки):
 эпиграф `> …` → абзац; `**…**` отдельной строкой → `## …`; жирный и курсив внутри текста — без звёздочек;
@@ -33,6 +36,7 @@ MSK = dt.timezone(dt.timedelta(hours=3))
 LANGS = ('ru', 'en', 'zh')
 ANCHOR = '\n    ],\n    videos: ['
 URL_RE = re.compile(r'https?://[^\s)>\]]+')
+RAW = 'https://raw.githubusercontent.com/Ostap-87/POST-HUB/main/'
 
 
 def parse(path):
@@ -170,13 +174,20 @@ def publish(d, site, dry):
         print(items['ru'][:3000])
         return None
     assert kb <= 500, f'обложка {kb} КБ — больше 500 КБ'
+    when = dt.datetime.now(MSK)
+    base = BLOG / 'PUBLISHED' / when.strftime('%Y-%m')
+    social = RAW + str((base / d.name / photo.name).relative_to(HUB))
     git('pull', '-q', '--rebase', 'origin', 'main', cwd=site)
     for lang in LANGS:
         insert(site / 'src' / 'i18n' / f'{lang}.ts', items[lang], slug)
     dst = site / 'public' / 'img' / cover_name
     shutil.copy(photo, dst)
     dst.chmod(0o644)
-    git('add', 'src/i18n/ru.ts', 'src/i18n/en.ts', 'src/i18n/zh.ts', f'public/img/{cover_name}', cwd=site)
+    sim = site / 'scripts' / 'social-images.json'
+    links = json.loads(sim.read_text(encoding='utf-8')) if sim.exists() else {}
+    links[slug] = social
+    sim.write_text(json.dumps(links, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+    git('add', 'src/i18n/ru.ts', 'src/i18n/en.ts', 'src/i18n/zh.ts', f'public/img/{cover_name}', 'scripts/social-images.json', cwd=site)
     git('commit', '-q', '-m', f'Publish blog article: {slug} (POST-HUB)', cwd=site)
     for attempt in range(4):
         try:
@@ -187,15 +198,24 @@ def publish(d, site, dry):
                 raise
             git('pull', '-q', '--rebase', 'origin', 'main', cwd=site)
     sha = git('rev-parse', '--short', 'HEAD', cwd=site).strip()
-    when = dt.datetime.now(MSK)
-    base = BLOG / 'PUBLISHED' / when.strftime('%Y-%m')
     base.mkdir(parents=True, exist_ok=True)
     git('mv', str(d), str(base / d.name), cwd=HUB)
     url = f'https://ostapdotcenko.ru/blog/{slug}/'
     info = {'published_at': when.isoformat(timespec='seconds'), 'url': url, 'site_commit': sha, 'published_by': 'blog_od.py',
-            'autopost': 'сервер сайта: Facebook (RU) и LinkedIn (EN) через auto-post-new-articles.mjs'}
+            'autopost': 'сервер сайта: Facebook (RU) и LinkedIn (EN) через auto-post-new-articles.mjs', 'social_image': social}
     (base / d.name / 'info.json').write_text(json.dumps(info, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     git('add', '-A', str(BLOG), cwd=HUB)
+    # обложка для Facebook и LinkedIn берётся отсюда — POST-HUB пушим сразу, пока сервер собирает сайт
+    git('commit', '-q', '-m', f'Блог ostapdotcenko: {slug} опубликована', cwd=HUB)
+    for attempt in range(4):
+        try:
+            git('push', '-q', 'origin', 'HEAD:main', cwd=HUB)
+            break
+        except subprocess.CalledProcessError:
+            if attempt == 3:
+                print('POST-HUB не отправлен — отправьте вручную (git push), иначе автопост возьмёт картинку с сайта')
+                break
+            git('pull', '-q', '--rebase', 'origin', 'main', cwd=HUB)
     print(f'опубликовано: {url} (коммит сайта {sha})')
     return url
 

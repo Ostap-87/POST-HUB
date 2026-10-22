@@ -20,7 +20,8 @@ https://ostapdotcenko.ru — статьи в `Ostap-87/ostapdotcenko`, `blog.art
 - Прежняя публикация (до 14.10.2026): очередь `claude-control/data/ostap-queue/` → коммит → сервер собирает сайт каждые 2 минуты → автопост в Facebook и LinkedIn. [OD]
 - С 15.10.2026 статьи идут из пула `READY/` (решение пользователя: «с сегодняшнего дня начнем использовать пул статей»):
   первая вышла 15.10 сразу («сделай публикацию сейчас»), дальше по одной в день в 04:00 МСК (09:00 по Пекину) — с 16.10 по 23.12.2026;
-  блог в `pause_except` стоп-крана (`OSTAPDOTCENKO/BLOG`), ежедневный запуск — плановое задание Claude `blog_od.py --due`. Публикует `CONTROL/TOOLS/blog_od.py`
+  блог в `pause_except` стоп-крана (`OSTAPDOTCENKO/BLOG`), ежедневный запуск — плановое задание Claude `blog_od.py --due`. С 22.10.2026 скрипт сам коммитит и пушит POST-HUB
+  (обложка из `PUBLISHED/` — картинка постов Facebook и LinkedIn по ссылке GitHub, `scripts/social-images.json` сайта). Публикует `CONTROL/TOOLS/blog_od.py`
   (`--queue` очередь, `--post <папка> --dry-run` проверка, `--post <папка>` публикация, `--due` — всё, чьё время наступило,
   со стоп-краном `CONTROL/PUBLISHING.yaml`): статья в конец `blog.articles[]` трёх языков сайта + обложка
   `public/img/<slug>-cover.jpg` → пуш в `main` `Ostap-87/ostapdotcenko` → сервер собирает сайт за 2 минуты и **сам постит

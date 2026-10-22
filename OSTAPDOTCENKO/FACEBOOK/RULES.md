@@ -5,6 +5,9 @@
 
 ## Особенности сети
 - Длинные тексты допустимы. Подключение — через Make (вебхук).
+- Картинка поста (с 22.10.2026) — обложка статьи из `OSTAPDOTCENKO/BLOG/PUBLISHED/…/photo.jpg` по ссылке GitHub (POST-HUB
+  публичный), а не с ostapdotcenko.ru: оттуда Facebook картинки больше не скачивает (ошибка 324 в Make). Ссылки — в
+  `scripts/social-images.json` сайта, их пишет `blog_od.py`.
 
 ## Форматы
 У каждого формата своя очередь: внутри формата папки TEXT, PHOTO, VIDEO, READY, PUBLISHED.
