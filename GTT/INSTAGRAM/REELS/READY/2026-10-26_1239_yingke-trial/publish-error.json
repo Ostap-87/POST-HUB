@@ -1,0 +1,6 @@
+{
+  "attempts": 1,
+  "last_error": "IGError: Application does not have permission for this action (code 10, subcode 2207081)",
+  "at": "2026-10-26T12:41:07+03:00",
+  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/publish.py\", line 129, in run_one\n    result = ad.publish(project, fmt, d, meta, body, dry=dry)\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 254, in publish\n    cid = _container(token, user, p)\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 181, in _container\n    return _http('POST', f'{API}/{user}/media', {**params, 'access_token': token})['id']\n           ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 63, in _http\n    return _http_once(method, url, params, timeout)\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 86, in _http_once\n    raise IGError(msg.replace(os.environ.get('_IG_TOKEN', '§'), '***')) from None\nnet_instagram.IGError: Application does not have permission for this action (code 10, subcode 2207081)\n"
+}
