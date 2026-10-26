@@ -9,6 +9,10 @@ Instagram забирает файлы сам по публичной ссылк�
 Форматы: CAROUSEL (2–10 картинок/видео + подпись), REELS (видео + подпись, `share_to_feed`), STORIES (каждый файл —
 отдельная сторис, по порядку), POST (одно фото с подписью; одно видео уходит как Reels).
 Обложка Reels: `cover_url` (картинка) или `thumb_offset` (кадр ролика, мс; без поля — первый кадр).
+Пробный Reels (Trial Reels, решение пользователя 26.10.2026): поле `trial` в шапке — `manual` (ролик видят только
+неподписанные; показать подписчикам — кнопкой в приложении Instagram) или `auto` (Instagram сам покажет подписчикам, если
+ролик хорошо зайдёт). API: `trial_params.graduation_strategy` = MANUAL / SS_PERFORMANCE, без `share_to_feed`. Только Reels;
+если Instagram пробный режим не принял — ошибка, обычным Reels пост не выходит.
 API не умеет: музыку из библиотеки Instagram, стикеры и ссылки в Stories, отметки товаров.
 Отметка аккаунтов в Stories (`user_tags`, Instagram API с 09.07.2025): поле `story_mentions` в шапке — список @имён
 публичных аккаунтов. Отмеченный аккаунт получает уведомление и кнопку «Добавить в свою историю» — так делается репост
@@ -32,6 +36,7 @@ VH_RAW = f'https://raw.githubusercontent.com/{VH_REPO}/{VH_BRANCH}/'
 VH_LFS = f'https://media.githubusercontent.com/media/{VH_REPO}/{VH_BRANCH}/'
 VIDEO_EXT = ('.mp4', '.mov', '.m4v')
 CAPTION_MAX, TAGS_MAX = 2200, 30
+TRIAL = {'manual': 'MANUAL', 'auto': 'SS_PERFORMANCE'}   # поле `trial` → trial_params.graduation_strategy
 
 
 class IGError(Exception):
@@ -214,7 +219,12 @@ def publish(project, fmt, d, meta, body, dry=False):
     if fmt == 'POST' and media[0][0] == 'video':
         fmt = 'REELS'
     verify(media, caption if fmt != 'STORIES' else '', fmt)
+    trial = str(meta.get('trial') or '').strip().lower()
+    if trial and (fmt != 'REELS' or trial not in TRIAL):
+        raise IGError(f'trial: {meta.get("trial")!r} — пробным бывает только Reels, значения: manual / auto')
     plan = f"{fmt}: {len(media)} файл(ов), подпись {len(caption)} знаков" if fmt != 'STORIES' else f'STORIES: {len(media)} шт.' + (f" · отметка {meta['story_mentions']}" if meta.get('story_mentions') else '')
+    if trial:
+        plan += f' · пробный ({trial})'
     if dry:
         return {'plan': plan}
     token, user = creds(project)
@@ -234,6 +244,9 @@ def publish(project, fmt, d, meta, body, dry=False):
         return {'post_id': mid, 'url': link, 'format': fmt, 'files': len(media)}
     if fmt == 'REELS':
         p = {'media_type': 'REELS', 'video_url': media[0][1], 'caption': caption, 'share_to_feed': 'true'}
+        if trial:                                                 # пробный: сначала только неподписанным, без ленты подписчиков
+            del p['share_to_feed']
+            p['trial_params'] = json.dumps({'graduation_strategy': TRIAL[trial]})
         if meta.get('cover_url'):
             p['cover_url'] = meta['cover_url']
         elif meta.get('thumb_offset') is not None:                # обложка — кадр ролика на этой миллисекунде
@@ -241,7 +254,7 @@ def publish(project, fmt, d, meta, body, dry=False):
         cid = _container(token, user, p)
         _wait(token, cid, vid_wait)
         mid, link = _publish(token, user, cid)
-        return {'post_id': mid, 'url': link, 'format': fmt}
+        return {'post_id': mid, 'url': link, 'format': fmt, **({'trial': TRIAL[trial]} if trial else {})}
     if fmt == 'STORIES':
         ids, warn = [], None
         tags = meta.get('story_mentions') or []

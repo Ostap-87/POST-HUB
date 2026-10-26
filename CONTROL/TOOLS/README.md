@@ -8,7 +8,7 @@
 | `queue` | показать очередь READY по всем проектам и сетям |
 | `prepare` | собрать пост в READY из TEXT + PHOTO/VIDEO на нужную дату и время |
 | `check` | проверить пост: лимиты сети, ссылка, уникальность против READY и PUBLISHED всех сетей |
-| `publish` | **готово:** `publish.py` — публикует посты из READY, время которых наступило, переносит в PUBLISHED + `info.json`; каждый час через GitHub Actions (`publish.yml`); `--check` доступы, `--due --dry-run` план, `--post <папка>` один пост; адаптеры сетей — `net_<сеть>.py` (Instagram, Facebook, Threads, Telegram); `--test TELEGRAM` — пробный пост в личку; стоп-кран `CONTROL/PUBLISHING.yaml` (`pause_except` — сети, которые выходят и на паузе; `pause_allow` — список папок утверждённых постов в READY, которые выходят и на паузе) |
+| `publish` | **готово:** `publish.py` — публикует посты из READY, время которых наступило, переносит в PUBLISHED + `info.json`; каждый час через GitHub Actions (`publish.yml`); `--check` доступы, `--due --dry-run` план, `--post <папка>` один пост; адаптеры сетей — `net_<сеть>.py` (Instagram, Facebook, Threads, Telegram; пробный Reels Instagram — `trial: manual` / `auto` в шапке); `--test TELEGRAM` — пробный пост в личку; стоп-кран `CONTROL/PUBLISHING.yaml` (`pause_except` — сети, которые выходят и на паузе; `pause_allow` — список папок утверждённых постов в READY, которые выходят и на паузе) |
 | `archive` | **готово внутри `publish`:** вышедший пост → PUBLISHED/ГГГГ-ММ/ + info.json (дата, время, ссылка) |
 | `image-request` | заявка на картинку Higgsfield (генерация — только после согласия пользователя на цену) |
 
