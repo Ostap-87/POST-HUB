@@ -61,3 +61,6 @@ pause_allow:
   # в Instagram GTT и копия на странице Facebook GTT; видео — по прямой ссылке (media_urls), бюджет LFS исчерпан.
   - GTT/INSTAGRAM/REELS/READY/2026-10-26_0800_sany
   - GTT/FACEBOOK/REELS/READY/2026-10-26_0800_sany
+  # Решение пользователя 26.10.2026, ~16:30 по Пекину: «А давай сегодня опубликуем в 18:00 по Москве… в профиле Глобалтехтур» —
+  # карусель «Технопарк 兴旺 (Xingwang)» 26.10 18:00 МСК, только Instagram GTT.
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-26_1800_xingwang
