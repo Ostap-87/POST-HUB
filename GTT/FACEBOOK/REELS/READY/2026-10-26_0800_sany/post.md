@@ -1,13 +1,15 @@
 ---
 date: "2026-10-26"
 time: "08:00"
+mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-10-26_0800_sany"
 rubric: "ролик с Остапом"
 title: "SANY изнутри: завод, менеджмент, переговоры о программе по заводам техники"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-26_0800_sany/sany.mp4"]
 duration: "110 с"
 video_status: "мастер — finished-videos/2026-10-25-sany.mp4 (LFS не принят: бюджет); для публикации — копия ~60 МБ обычным git в finished-videos/publish/"
 music: "Upbeat Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 26.10.2026, ~11:55 по Пекину: «Утверждаю» (подпись показана ему перед этим; «полный ролик рилс про Сани выложить в 13:00 по Пекину в аккаунт ГТТ»)"
 thumb_offset: 3000
 ---
 Утро на заводе SANY — крупнейшего производителя строительной техники с представительствами по всему миру.

@@ -57,3 +57,7 @@ pause_allow:
   - GTT/FACEBOOK/STORIES/READY/2026-10-27_0600_anons-yingke
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-27_0800_yingke
   - GTT/FACEBOOK/POST/READY/2026-10-27_0800_yingke
+  # Решение пользователя 26.10.2026, ~12:00 по Пекину: «Утверждаю» — полный Reels SANY в 13:00 по Пекину (08:00 МСК)
+  # в Instagram GTT и копия на странице Facebook GTT; видео — по прямой ссылке (media_urls), бюджет LFS исчерпан.
+  - GTT/INSTAGRAM/REELS/READY/2026-10-26_0800_sany
+  - GTT/FACEBOOK/REELS/READY/2026-10-26_0800_sany
