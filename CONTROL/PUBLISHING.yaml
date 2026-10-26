@@ -64,6 +64,6 @@ pause_allow:
   # Решение пользователя 26.10.2026, ~16:30 по Пекину: «А давай сегодня опубликуем в 18:00 по Москве… в профиле Глобалтехтур» —
   # карусель «Технопарк 兴旺 (Xingwang)» 26.10 18:00 МСК, только Instagram GTT.
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-26_1800_xingwang
-  # Решение пользователя 26.10.2026, ~17:35 по Пекину: «в пробном режиме… видео рилс по мотивам Yingke и выложишь прямо сейчас» —
-  # пробный Reels (trial: manual) в Instagram GTT, выходит сразу (publish.yml --post).
-  - GTT/INSTAGRAM/REELS/READY/2026-10-26_1239_yingke-trial
+  # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
+  # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
+  # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.
