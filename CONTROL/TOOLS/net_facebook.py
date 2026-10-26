@@ -110,7 +110,9 @@ def files_of(d, meta):
     imgs = sorted(p for p in d.iterdir() if p.suffix.lower() in IMG_EXT)    # все картинки папки по порядку (карусель → пост с фото)
     vids = meta.get('video_hub') or []
     vids = [vids] if isinstance(vids, str) else vids
-    return imgs, [VH_LFS + urllib.parse.quote(v) for v in vids if v.lower().endswith(VIDEO_EXT)]
+    urls = meta.get('media_urls') or []                                      # видео по прямой ссылке (бюджет LFS исчерпан
+    urls = [urls] if isinstance(urls, str) else urls                         # 25.10.2026 — копия в VIDEO-HUB publish/ обычным git)
+    return imgs, [VH_LFS + urllib.parse.quote(v) for v in vids if v.lower().endswith(VIDEO_EXT)] + [u for u in urls if u.lower().endswith(VIDEO_EXT)]
 
 
 def seconds_of(meta):
