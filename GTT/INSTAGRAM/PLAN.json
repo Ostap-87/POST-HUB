@@ -313,22 +313,22 @@
     },
     {
       "date": "2026-10-29",
-      "time": "17:31",
+      "time": "17:45",
+      "type": "carousel",
+      "carousel": 15,
+      "rubric": "карусель тура ролика дня",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-29",
+      "time": "18:00",
       "type": "reels_stories",
       "reels": "legprom",
       "rubric": "Stories с Остапом",
       "launch": false,
       "week": 2,
       "carousel_of_week": 15
-    },
-    {
-      "date": "2026-10-29",
-      "time": "20:00",
-      "type": "carousel",
-      "carousel": 15,
-      "rubric": "карусель тура ролика дня",
-      "launch": false,
-      "week": 2
     },
     {
       "date": "2026-10-30",
