@@ -4,7 +4,7 @@ date: "2026-10-29"
 time: "17:30"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-10-29_2000_tur-china-global-brands"
+carousel: "2026-10-29_1745_tur-china-global-brands"
 title: "Китайские бренды, покорившие мир"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_1800_legprom/legprom.mp4"]
 duration: "90,5 с"

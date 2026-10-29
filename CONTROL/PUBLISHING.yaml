@@ -67,6 +67,7 @@ pause_allow:
   # Решение пользователя 29.10.2026, ~07:45–08:05 МСК: «Сегодня я бы опубликовал два рилса и сторис по программам Технопарки и легпром…»,
   # «Карусель для Технопарков и Кит брендов тоже сегодня должны выйти», «Первая публикация Технопарки — Рилс, потом сторис сразу в 8:30
   # по Москве, вторая публикация Бренды Китая — в 17:30 по Москве» (+ копии на странице Facebook, как в прошлые выпуски).
+  # ~11:00 МСК, новый порядок: «2 Программа — Рилс в 17:30, Карусель в 17:45, Сторис в 18:00» — карусель №15 и Stories Брендов перенесены.
   - GTT/INSTAGRAM/REELS/READY/2026-10-29_0830_tehnoparki
   - GTT/FACEBOOK/REELS/READY/2026-10-29_0830_tehnoparki
   - GTT/INSTAGRAM/STORIES/READY/2026-10-29_0831_tehnoparki
@@ -75,12 +76,13 @@ pause_allow:
   - GTT/FACEBOOK/POST/READY/2026-10-29_1500_tur-china-tech-parks
   - GTT/INSTAGRAM/REELS/READY/2026-10-29_1730_legprom
   - GTT/FACEBOOK/REELS/READY/2026-10-29_1730_legprom
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-29_1731_legprom
-  - GTT/FACEBOOK/STORIES/READY/2026-10-29_1731_legprom
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-29_2000_tur-china-global-brands
-  - GTT/FACEBOOK/POST/READY/2026-10-29_2000_tur-china-global-brands
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-29_1800_legprom
+  - GTT/FACEBOOK/STORIES/READY/2026-10-29_1800_legprom
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-29_1745_tur-china-global-brands
+  - GTT/FACEBOOK/POST/READY/2026-10-29_1745_tur-china-global-brands
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.

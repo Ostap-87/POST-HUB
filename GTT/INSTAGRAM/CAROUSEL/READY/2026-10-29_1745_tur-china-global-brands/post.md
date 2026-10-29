@@ -1,8 +1,7 @@
 ---
 number: 15
 date: "2026-10-29"
-time: "20:00"
-mirror_of: "GTT/INSTAGRAM/CAROUSEL/READY/2026-10-29_2000_tur-china-global-brands"
+time: "17:45"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-29_2000_tur-china-global-brands/09.jpg"]
 rubric: "карусель тура ролика дня"
 week: 2
