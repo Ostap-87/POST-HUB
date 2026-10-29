@@ -85,6 +85,13 @@ class Plan:
             self.car[n] = {'file': f, 'stem': f.parent.name, 'theme': re.sub(r'^\d+_', '', PREFIX.sub('', f.parent.name)),
                            'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""')), 'published': f.parent.name,
                            'url': json.loads(info.read_text(encoding='utf-8')).get('url') if info.exists() else None}
+        for f in sorted((self.ig / 'CAROUSEL/READY').glob('*/post.md')):        # утверждённые в очереди: файлы тоже не трогаем
+            m, _ = meta_of(f)
+            if 'number' not in m or int(m['number']) in self.car:
+                continue
+            self.car[int(m['number'])] = {'file': f, 'stem': f.parent.name, 'theme': re.sub(r'^\d+_', '', PREFIX.sub('', f.parent.name)),
+                                          'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""')),
+                                          'published': f.parent.name, 'ready': True, 'url': None}
         self.ev = self.build()
 
     # ——— календарь ———
@@ -189,7 +196,8 @@ class Plan:
     def label(self, e):
         R = self.cfg['reels']
         if e['type'] == 'carousel':
-            done = f" · ✓ вышла {self.car[e['carousel']]['url'] or ''}".rstrip() if self.car[e['carousel']].get('published') else ''
+            c = self.car[e['carousel']]
+            done = ' · в очереди READY' if c.get('ready') else f" · ✓ вышла {c['url'] or ''}".rstrip() if c.get('published') else ''
             return 'Карусель', f"№{e['carousel']} {self.car[e['carousel']]['title']}{done}"
         if e['type'] == 'reels':
             return 'Reels', R[e['reels']]['title']
@@ -264,7 +272,7 @@ class Plan:
             if e['type'] == 'carousel' and self.car[e['carousel']].get('published'):
                 continue                                                 # уже вышла — архив не трогаем
             fmt_dir = {'reels': 'REELS', 'reels_stories': 'STORIES', 'anons': 'STORIES'}.get(e['type'])
-            if fmt_dir and any((self.ig / fmt_dir / 'PUBLISHED').glob(f'*/{n}')):
+            if fmt_dir and (any((self.ig / fmt_dir / 'PUBLISHED').glob(f'*/{n}')) or (self.ig / fmt_dir / 'READY' / n).exists()):
                 continue                                                 # Reels / Stories уже вышли — черновик заново не создаём
             if e['type'] in ('reels', 'reels_stories') and any(PREFIX.sub('', p.name) == e['reels']
                                                                for p in (self.ig / fmt_dir / 'PUBLISHED').glob('*/*')):
