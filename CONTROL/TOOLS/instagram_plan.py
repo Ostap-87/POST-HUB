@@ -15,7 +15,8 @@ python3 CONTROL/TOOLS/instagram_plan.py GTT --html out.html   # календар
 - `weeks_from_day` (день от старта) или `weeks_from` (дата), `weeks`, `rhythm` — неделя (без даты старта первый день считается воскресеньем): день (пн…вс), время, type: `carousel` (pool: theme / china / asia …),
   `anons` (Stories-анонс карусели недели), `reels` (ролик недели), `reels_stories` (две части ролика недели в Stories);
 - `theme_weeks` — по неделе: [номер карусели, ролик или null]; `pools` — очереди каруселей по номерам;
-- `moves` — праздники: дата → куда перенести (`ГГГГ-ММ-ДД` или `ГГГГ-ММ-ДД ЧЧ:ММ`; без времени карусель встаёт на 12:00); `reels` — ролики (файл в VIDEO-HUB, название, длина);
+- `moves` — праздники: дата → куда перенести (`ГГГГ-ММ-ДД` или `ГГГГ-ММ-ДД ЧЧ:ММ`; без времени карусель встаёт на 12:00); `reels` — ролики (файл в VIDEO-HUB, название, длина;
+  `cover` — обложка первой секундой, тогда в шапке `thumb_offset` 500; `stories` — имя ролика, от которого части Stories, если `video` — версия с обложкой);
 - `anons` — заголовок анонса и плашка для недели без ролика.
 Что делает --apply (файлы только переносятся `git mv`, не удаляются):
 - карусели `CAROUSEL/TEXT|PHOTO/<имя>` → `ГГГГ-ММ-ДД_ЧЧММ_тема`, в шапке date, time, rubric, week, launch, связка anons / reels;
@@ -75,6 +76,8 @@ class Plan:
                            'title': json.loads(m['title']), 'vh': json.loads(m.get('video_hub', '""'))}
         for f in sorted((self.ig / 'CAROUSEL/PUBLISHED').glob('*/*/post.md')):   # вышедшие: в плане остаются, файлы не трогаем
             m, _ = meta_of(f)
+            if 'number' not in m:                                        # разовые карусели вне плана (Yingke, Xingwang)
+                continue
             n = int(m['number'])
             if n in self.car:
                 continue
@@ -263,6 +266,9 @@ class Plan:
             fmt_dir = {'reels': 'REELS', 'reels_stories': 'STORIES', 'anons': 'STORIES'}.get(e['type'])
             if fmt_dir and any((self.ig / fmt_dir / 'PUBLISHED').glob(f'*/{n}')):
                 continue                                                 # Reels / Stories уже вышли — черновик заново не создаём
+            if e['type'] in ('reels', 'reels_stories') and any(PREFIX.sub('', p.name) == e['reels']
+                                                               for p in (self.ig / fmt_dir / 'PUBLISHED').glob('*/*')):
+                continue                                                 # ролик вышел в другое время, чем стоит в плане
             if e['type'] == 'carousel':
                 c = self.car[e['carousel']]
                 self.mv(self.ig / 'CAROUSEL/PHOTO' / c['stem'], self.ig / 'CAROUSEL/PHOTO' / n)
@@ -291,6 +297,11 @@ class Plan:
                      'music': r.get('music') or self.cfg.get('music', ''), 'caption_status': 'черновик по тексту ролика, на согласовании'}
                 if r.get('guest'):
                     m['guest'] = r['guest']
+                if r.get('cover'):                                       # обложка первой секундой ролика (VIDEO-HUB `npm run cover`)
+                    m['cover'] = r['cover']
+                    m['thumb_offset'] = r.get('thumb_offset', 500)
+                if r.get('video_status'):
+                    m['video_status'] = r['video_status']
                 if old:
                     om, _ = meta_of(f)
                     m['caption_status'] = json.loads(om.get('caption_status', json.dumps(m['caption_status'])))
@@ -301,7 +312,8 @@ class Plan:
                 if old:
                     self.mv(old, f)
                 r = R[e['reels']]
-                parts = sorted(p.name for p in (VH / 'finished-videos').glob(f"{r['video']}-stories-[0-9].mp4"))
+                base = r.get('stories', r['video'])                     # у ролика с обложкой Stories — от ролика без неё
+                parts = sorted(p.name for p in (VH / 'finished-videos').glob(f"{base}-stories-[0-9].mp4"))
                 m = {k: q(v) for k, v in h.items()}
                 m['title'] = q(f"Stories: части ролика «{r['title']}»")
                 m['video_hub'] = '[' + ', '.join(q(f'finished-videos/{p}') for p in parts) + ']'
