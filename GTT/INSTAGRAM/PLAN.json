@@ -540,7 +540,8 @@
       "reels": "glp1",
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 76
     },
     {
       "date": "2026-11-06",
@@ -548,6 +549,16 @@
       "type": "reels_stories",
       "reels": "glp1",
       "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 2,
+      "carousel_of_week": 76
+    },
+    {
+      "date": "2026-11-06",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 76,
+      "rubric": "тема ролика",
       "launch": false,
       "week": 2
     },
@@ -558,7 +569,8 @@
       "reels": "moloko",
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 77
     },
     {
       "date": "2026-11-07",
@@ -566,6 +578,16 @@
       "type": "reels_stories",
       "reels": "moloko",
       "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 2,
+      "carousel_of_week": 77
+    },
+    {
+      "date": "2026-11-07",
+      "time": "13:00",
+      "type": "carousel",
+      "carousel": 77,
+      "rubric": "тема ролика",
       "launch": false,
       "week": 2
     },
