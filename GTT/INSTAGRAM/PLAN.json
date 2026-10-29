@@ -1,5 +1,5 @@
 {
-  "_": "Раскладка Instagram GTT (решение пользователя 12.10.2026): 12.10 — тестовый запуск (Reels «Интро», карусель №1 «12 заводов роботов», Stories). С 13.10 сначала ролики с Остапом — по одному в день: 08:00 ролик, 13:00 карусель на ту же тему (к «Роботам» — новая №75 «Кто делает гуманоидов в Китае», 13.10.2026) + Stories с Остапом (две части ролика) [П: «делать карусель под роботов и сторис со мной про роботов, и так по всем остальным видео со мной, и только потом запускать рандомные карусели»]. Потом остальные карусели: 08:00 Reels-версия карусели, 13:00 карусель + Stories тура («Листай карусель в профиле»). Время — Москва. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py GTT --apply. Выходит только утверждённое (стоп-кран CONTROL/PUBLISHING.yaml). 29.10.2026 [П: «поставить публикации» для новых роликов с Остапом]: серия 2 с 30.10 — 11 роликов 28–29.10 по одному в день (08:00 Reels с обложкой, 13:00 карусель тура + Stories с Остапом; GLP-1 и молочные заводы — карусели в работе), Reels-версии каруселей этих туров сняты; остальные карусели — с 10.11. Выходит только после «утверждаю».",
+  "_": "Раскладка Instagram GTT (решение пользователя 12.10.2026): 12.10 — тестовый запуск (Reels «Интро», карусель №1 «12 заводов роботов», Stories). С 13.10 сначала ролики с Остапом — по одному в день: 08:00 ролик, 13:00 карусель на ту же тему (к «Роботам» — новая №75 «Кто делает гуманоидов в Китае», 13.10.2026) + Stories с Остапом (две части ролика) [П: «делать карусель под роботов и сторис со мной про роботов, и так по всем остальным видео со мной, и только потом запускать рандомные карусели»]. Потом остальные карусели: 08:00 Reels-версия карусели, 13:00 карусель + Stories тура («Листай карусель в профиле»). Время — Москва. Меняешь здесь → python3 CONTROL/TOOLS/instagram_plan.py GTT --apply. Выходит только утверждённое (стоп-кран CONTROL/PUBLISHING.yaml). 29.10.2026 [П: «Сегодня я бы опубликовал два рилса и сторис по программам Технопарки и легпром, и на остальные дни тоже надо распределить публикации — Рилс/Сторис/Карусель»]: 29.10 — Технопарки: Reels 08:30 и сразу Stories, Бренды Китая — 17:30 [П: «Первая публикация Технопарки — Рилс, потом сторис сразу в 8:30 по Москве, вторая публикация Бренды Китая — в 17:30 по Москве»]; с 30.10 по 07.11 по туру в день (08:00 Reels с обложкой, 13:00 карусель + Stories), карусели Технопарков и брендов — тоже 29.10, в 15:00 и 20:00 [П: «Карусель для Технопарков и Кит брендов тоже сегодня должны выйти»]; остальные карусели — с 08.11.",
   "start": "2026-10-12",
   "launch": [
     {
@@ -273,46 +273,75 @@
       "week": 1
     },
     {
-      "date": "2026-10-30",
-      "time": "08:00",
+      "date": "2026-10-29",
+      "time": "08:30",
       "type": "reels",
       "reels": "tehnoparki",
-      "carousel_of_week": 8,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 8
     },
     {
-      "date": "2026-10-30",
-      "time": "13:00",
-      "type": "carousel",
-      "carousel": 8,
-      "rubric": "тема ролика",
-      "launch": false,
-      "week": 2
-    },
-    {
-      "date": "2026-10-30",
-      "time": "13:00",
+      "date": "2026-10-29",
+      "time": "08:31",
       "type": "reels_stories",
       "reels": "tehnoparki",
-      "carousel_of_week": 8,
       "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 2,
+      "carousel_of_week": 8
+    },
+    {
+      "date": "2026-10-29",
+      "time": "15:00",
+      "type": "carousel",
+      "carousel": 8,
+      "rubric": "карусель тура ролика дня",
       "launch": false,
       "week": 2
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-10-29",
+      "time": "17:30",
+      "type": "reels",
+      "reels": "legprom",
+      "rubric": "ролик с Остапом",
+      "launch": false,
+      "week": 2,
+      "carousel_of_week": 15
+    },
+    {
+      "date": "2026-10-29",
+      "time": "17:31",
+      "type": "reels_stories",
+      "reels": "legprom",
+      "rubric": "Stories с Остапом",
+      "launch": false,
+      "week": 2,
+      "carousel_of_week": 15
+    },
+    {
+      "date": "2026-10-29",
+      "time": "20:00",
+      "type": "carousel",
+      "carousel": 15,
+      "rubric": "карусель тура ролика дня",
+      "launch": false,
+      "week": 2
+    },
+    {
+      "date": "2026-10-30",
       "time": "08:00",
       "type": "reels",
       "reels": "fintech",
-      "carousel_of_week": 16,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 16
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-10-30",
       "time": "13:00",
       "type": "carousel",
       "carousel": 16,
@@ -321,56 +350,27 @@
       "week": 2
     },
     {
-      "date": "2026-10-31",
+      "date": "2026-10-30",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "fintech",
-      "carousel_of_week": 16,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 16
     },
     {
-      "date": "2026-11-01",
-      "time": "08:00",
-      "type": "reels",
-      "reels": "legprom",
-      "carousel_of_week": 15,
-      "rubric": "ролик с Остапом",
-      "launch": false,
-      "week": 2
-    },
-    {
-      "date": "2026-11-01",
-      "time": "13:00",
-      "type": "carousel",
-      "carousel": 15,
-      "rubric": "тема ролика",
-      "launch": false,
-      "week": 2
-    },
-    {
-      "date": "2026-11-01",
-      "time": "13:00",
-      "type": "reels_stories",
-      "reels": "legprom",
-      "carousel_of_week": 15,
-      "rubric": "Stories с Остапом",
-      "launch": false,
-      "week": 2
-    },
-    {
-      "date": "2026-11-02",
+      "date": "2026-10-31",
       "time": "08:00",
       "type": "reels",
       "reels": "othody",
-      "carousel_of_week": 13,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 13
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-31",
       "time": "13:00",
       "type": "carousel",
       "carousel": 13,
@@ -379,27 +379,27 @@
       "week": 2
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-10-31",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "othody",
-      "carousel_of_week": 13,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 13
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-01",
       "time": "08:00",
       "type": "reels",
       "reels": "neftehim",
-      "carousel_of_week": 12,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 12
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-01",
       "time": "13:00",
       "type": "carousel",
       "carousel": 12,
@@ -408,27 +408,27 @@
       "week": 2
     },
     {
-      "date": "2026-11-03",
+      "date": "2026-11-01",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "neftehim",
-      "carousel_of_week": 12,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 12
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-02",
       "time": "08:00",
       "type": "reels",
       "reels": "logistika",
-      "carousel_of_week": 11,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 11
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-02",
       "time": "13:00",
       "type": "carousel",
       "carousel": 11,
@@ -437,27 +437,27 @@
       "week": 2
     },
     {
-      "date": "2026-11-04",
+      "date": "2026-11-02",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "logistika",
-      "carousel_of_week": 11,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 11
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-03",
       "time": "08:00",
       "type": "reels",
       "reels": "kit-gostinicy",
-      "carousel_of_week": 17,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 17
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-03",
       "time": "13:00",
       "type": "carousel",
       "carousel": 17,
@@ -466,27 +466,27 @@
       "week": 2
     },
     {
-      "date": "2026-11-05",
+      "date": "2026-11-03",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "kit-gostinicy",
-      "carousel_of_week": 17,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 17
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-04",
       "time": "08:00",
       "type": "reels",
       "reels": "mir-gostinicy",
-      "carousel_of_week": 18,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 18
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-04",
       "time": "13:00",
       "type": "carousel",
       "carousel": 18,
@@ -495,27 +495,27 @@
       "week": 2
     },
     {
-      "date": "2026-11-06",
+      "date": "2026-11-04",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "mir-gostinicy",
-      "carousel_of_week": 18,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 18
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-05",
       "time": "08:00",
       "type": "reels",
       "reels": "gonkong",
-      "carousel_of_week": 19,
       "rubric": "ролик с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 19
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-05",
       "time": "13:00",
       "type": "carousel",
       "carousel": 19,
@@ -524,17 +524,17 @@
       "week": 2
     },
     {
-      "date": "2026-11-07",
+      "date": "2026-11-05",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "gonkong",
-      "carousel_of_week": 19,
       "rubric": "Stories с Остапом",
       "launch": false,
-      "week": 2
+      "week": 2,
+      "carousel_of_week": 19
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-06",
       "time": "08:00",
       "type": "reels",
       "reels": "glp1",
@@ -543,7 +543,7 @@
       "week": 2
     },
     {
-      "date": "2026-11-08",
+      "date": "2026-11-06",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "glp1",
@@ -552,7 +552,7 @@
       "week": 2
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-07",
       "time": "08:00",
       "type": "reels",
       "reels": "moloko",
@@ -561,7 +561,7 @@
       "week": 2
     },
     {
-      "date": "2026-11-09",
+      "date": "2026-11-07",
       "time": "13:00",
       "type": "reels_stories",
       "reels": "moloko",
@@ -570,7 +570,7 @@
       "week": 2
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-08",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-china-ticketing-travel-reels",
@@ -580,7 +580,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-08",
       "time": "13:00",
       "type": "carousel",
       "carousel": 10,
@@ -589,7 +589,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-10",
+      "date": "2026-11-08",
       "time": "13:00",
       "type": "anons",
       "carousel": 10,
@@ -598,7 +598,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-09",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-china-film-industry-reels",
@@ -608,7 +608,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-09",
       "time": "13:00",
       "type": "carousel",
       "carousel": 14,
@@ -617,7 +617,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-11",
+      "date": "2026-11-09",
       "time": "13:00",
       "type": "anons",
       "carousel": 14,
@@ -626,7 +626,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-10",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-retail-reels",
@@ -636,7 +636,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-10",
       "time": "13:00",
       "type": "carousel",
       "carousel": 22,
@@ -645,7 +645,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-12",
+      "date": "2026-11-10",
       "time": "13:00",
       "type": "anons",
       "carousel": 22,
@@ -654,7 +654,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-11",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-food-dairy-reels",
@@ -664,7 +664,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-11",
       "time": "13:00",
       "type": "carousel",
       "carousel": 23,
@@ -673,7 +673,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-13",
+      "date": "2026-11-11",
       "time": "13:00",
       "type": "anons",
       "carousel": 23,
@@ -682,7 +682,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-12",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-dark-kitchen-delivery-reels",
@@ -692,7 +692,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-12",
       "time": "13:00",
       "type": "carousel",
       "carousel": 24,
@@ -701,7 +701,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-14",
+      "date": "2026-11-12",
       "time": "13:00",
       "type": "anons",
       "carousel": 24,
@@ -710,7 +710,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-13",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-tech-internet-giants-reels",
@@ -720,7 +720,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-13",
       "time": "13:00",
       "type": "carousel",
       "carousel": 25,
@@ -729,7 +729,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-15",
+      "date": "2026-11-13",
       "time": "13:00",
       "type": "anons",
       "carousel": 25,
@@ -738,7 +738,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-14",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-beauty-industry-reels",
@@ -748,7 +748,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-14",
       "time": "13:00",
       "type": "carousel",
       "carousel": 26,
@@ -757,7 +757,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-14",
       "time": "13:00",
       "type": "anons",
       "carousel": 26,
@@ -766,7 +766,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-15",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-longevity-biotech-reels",
@@ -776,7 +776,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-15",
       "time": "13:00",
       "type": "carousel",
       "carousel": 27,
@@ -785,7 +785,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-17",
+      "date": "2026-11-15",
       "time": "13:00",
       "type": "anons",
       "carousel": 27,
@@ -794,7 +794,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-16",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-japan-bubble-tea-coffee-reels",
@@ -804,7 +804,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-16",
       "time": "13:00",
       "type": "carousel",
       "carousel": 28,
@@ -813,7 +813,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-18",
+      "date": "2026-11-16",
       "time": "13:00",
       "type": "anons",
       "carousel": 28,
@@ -822,7 +822,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-17",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-retail-reels",
@@ -832,7 +832,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-17",
       "time": "13:00",
       "type": "carousel",
       "carousel": 29,
@@ -841,7 +841,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-17",
       "time": "13:00",
       "type": "anons",
       "carousel": 29,
@@ -850,7 +850,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-18",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-food-dairy-reels",
@@ -860,7 +860,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-18",
       "time": "13:00",
       "type": "carousel",
       "carousel": 30,
@@ -869,7 +869,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-20",
+      "date": "2026-11-18",
       "time": "13:00",
       "type": "anons",
       "carousel": 30,
@@ -878,7 +878,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-19",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-dark-kitchen-delivery-reels",
@@ -888,7 +888,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-19",
       "time": "13:00",
       "type": "carousel",
       "carousel": 31,
@@ -897,7 +897,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-21",
+      "date": "2026-11-19",
       "time": "13:00",
       "type": "anons",
       "carousel": 31,
@@ -906,7 +906,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-20",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-tech-internet-giants-reels",
@@ -916,7 +916,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-20",
       "time": "13:00",
       "type": "carousel",
       "carousel": 32,
@@ -925,7 +925,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-22",
+      "date": "2026-11-20",
       "time": "13:00",
       "type": "anons",
       "carousel": 32,
@@ -934,7 +934,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-21",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-beauty-industry-reels",
@@ -944,7 +944,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-21",
       "time": "13:00",
       "type": "carousel",
       "carousel": 33,
@@ -953,7 +953,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-23",
+      "date": "2026-11-21",
       "time": "13:00",
       "type": "anons",
       "carousel": 33,
@@ -962,7 +962,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-22",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-longevity-biotech-reels",
@@ -972,7 +972,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-22",
       "time": "13:00",
       "type": "carousel",
       "carousel": 34,
@@ -981,7 +981,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-24",
+      "date": "2026-11-22",
       "time": "13:00",
       "type": "anons",
       "carousel": 34,
@@ -990,7 +990,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-23",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-thailand-bubble-tea-coffee-reels",
@@ -1000,7 +1000,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-23",
       "time": "13:00",
       "type": "carousel",
       "carousel": 35,
@@ -1009,7 +1009,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-25",
+      "date": "2026-11-23",
       "time": "13:00",
       "type": "anons",
       "carousel": 35,
@@ -1018,7 +1018,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-24",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-vietnam-retail-reels",
@@ -1028,7 +1028,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-24",
       "time": "13:00",
       "type": "carousel",
       "carousel": 36,
@@ -1037,7 +1037,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-26",
+      "date": "2026-11-24",
       "time": "13:00",
       "type": "anons",
       "carousel": 36,
@@ -1046,7 +1046,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-25",
       "time": "08:00",
       "type": "reels",
       "reels": "tur-vietnam-food-dairy-reels",
@@ -1056,7 +1056,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-25",
       "time": "13:00",
       "type": "carousel",
       "carousel": 37,
@@ -1065,7 +1065,7 @@
       "week": 3
     },
     {
-      "date": "2026-11-27",
+      "date": "2026-11-25",
       "time": "13:00",
       "type": "anons",
       "carousel": 37,

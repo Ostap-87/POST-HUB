@@ -64,6 +64,21 @@ pause_allow:
   # Решение пользователя 26.10.2026, ~16:30 по Пекину: «А давай сегодня опубликуем в 18:00 по Москве… в профиле Глобалтехтур» —
   # карусель «Технопарк 兴旺 (Xingwang)» 26.10 18:00 МСК, только Instagram GTT.
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-26_1800_xingwang
+  # Решение пользователя 29.10.2026, ~07:45–08:05 МСК: «Сегодня я бы опубликовал два рилса и сторис по программам Технопарки и легпром…»,
+  # «Карусель для Технопарков и Кит брендов тоже сегодня должны выйти», «Первая публикация Технопарки — Рилс, потом сторис сразу в 8:30
+  # по Москве, вторая публикация Бренды Китая — в 17:30 по Москве» (+ копии на странице Facebook, как в прошлые выпуски).
+  - GTT/INSTAGRAM/REELS/READY/2026-10-29_0830_tehnoparki
+  - GTT/FACEBOOK/REELS/READY/2026-10-29_0830_tehnoparki
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-29_0831_tehnoparki
+  - GTT/FACEBOOK/STORIES/READY/2026-10-29_0831_tehnoparki
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-29_1500_tur-china-tech-parks
+  - GTT/FACEBOOK/POST/READY/2026-10-29_1500_tur-china-tech-parks
+  - GTT/INSTAGRAM/REELS/READY/2026-10-29_1730_legprom
+  - GTT/FACEBOOK/REELS/READY/2026-10-29_1730_legprom
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-29_1731_legprom
+  - GTT/FACEBOOK/STORIES/READY/2026-10-29_1731_legprom
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-29_2000_tur-china-global-brands
+  - GTT/FACEBOOK/POST/READY/2026-10-29_2000_tur-china-global-brands
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.
