@@ -1,6 +1,8 @@
 # Публикация по расписанию — без агента (CONTROL/TOOLS/publish.py, CONTROL/AGENT.md, раздел 6).
-# Каждый час публикует посты из READY, чьё время наступило (время — в имени папки поста, по Москве),
-# и переносит вышедшие в PUBLISHED с info.json. Сейчас подключены Instagram, страницы Facebook, Threads и Telegram; остальные сети пока публикуют другие системы.
+# Дежурный прогон (режим wait, CONTROL/TOOLS/publish_wait.sh) публикует посты из READY минута в минуту, когда наступает
+# их время (время — в имени папки поста, по Москве), переносит вышедшие в PUBLISHED с info.json и в конце запускает
+# следующего дежурного; cron — только запасной старт (сам GitHub запускает его с опозданием на часы).
+# Остановить дежурство — отменить текущий прогон «Публикация» (Cancel run). Сейчас подключены Instagram, страницы Facebook, Threads и Telegram; остальные сети пока публикуют другие системы.
 #
 # Доступы — Settings → Secrets and variables → Actions (сеть проекта без секрета пропускается):
 #   IG_TOKEN_GTT, IG_USER_GTT · IG_TOKEN_AURA, IG_USER_AURA · IG_TOKEN_OSTAPDOTCENKO, IG_USER_OSTAPDOTCENKO
@@ -9,39 +11,45 @@
 # Как получить токен — <ПРОЕКТ>/INSTAGRAM/RULES.md и <ПРОЕКТ>/FACEBOOK/RULES.md, «Подключение».
 # Стоп-кран — CONTROL/PUBLISHING.yaml (pause: true).
 # Руками: Actions → «Публикация» → Run workflow → режим: check — проверить доступ, dry-run — что вышло бы сейчас,
-# publish — опубликовать; «Один пост» — путь к папке в READY, выходит сразу.
+# publish — опубликовать; «Один пост» — путь к папке в READY, выходит сразу; wait — запустить дежурного (если цепочка прервалась).
 name: Публикация
 
 on:
   schedule:
-    - cron: "5 * * * *"
+    - cron: "41 */3 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "check — проверить доступ; dry-run — что вышло бы сейчас; publish — опубликовать; tg-test — пробный пост Telegram в личку"
+        description: "check — проверить доступ; dry-run — что вышло бы сейчас; publish — опубликовать; wait — дежурный (публикует минута в минуту ~5 ч 40 мин и передаёт смену); tg-test — пробный пост Telegram в личку"
         type: choice
-        options: [check, dry-run, publish, tg-test]
+        options: [check, dry-run, publish, wait, tg-test]
         default: check
       post:
         description: "Посты (необязательно): папки в READY через пробел, например GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics GTT/FACEBOOK/POST/READY/2026-11-02_1900_tur-robotics — выходят сразу, по порядку"
         required: false
         default: ""
+      window:
+        description: "Только для wait: сколько секунд дежурить (пусто — 20400, это 5 ч 40 мин)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
+  actions: write      # дежурный в конце запускает следующего (workflow_dispatch)
 
 concurrency:
-  # два одновременных прогона опубликовали бы пост дважды
-  group: publish
+  # дежурный всегда один; ручные прогоны идут своей очередью (дежурный перед каждой публикацией забирает свежий main)
+  group: ${{ (github.event_name == 'schedule' || inputs.mode == 'wait') && 'publish-wait' || 'publish' }}
   cancel-in-progress: false
 
 jobs:
   publish:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: ${{ (github.event_name == 'schedule' || inputs.mode == 'wait') && 358 || 45 }}
     env:
-      MODE: ${{ github.event_name == 'schedule' && 'publish' || inputs.mode }}
+      MODE: ${{ github.event_name == 'schedule' && 'wait' || inputs.mode }}
       POST: ${{ inputs.post }}
+      WINDOW: ${{ inputs.window || '20400' }}
       IG_TOKEN_GTT: ${{ secrets.IG_TOKEN_GTT }}
       IG_USER_GTT: ${{ secrets.IG_USER_GTT }}
       IG_TOKEN_AURA: ${{ secrets.IG_TOKEN_AURA }}
@@ -66,7 +74,7 @@ jobs:
         run: python3 CONTROL/TOOLS/publish.py --test TELEGRAM
 
       - name: Что выходит сейчас (проверка, без публикации)
-        if: env.MODE != 'check' && env.MODE != 'tg-test'
+        if: env.MODE == 'dry-run' || env.MODE == 'publish'
         run: |
           if [ -n "$POST" ]; then for p in $POST; do python3 CONTROL/TOOLS/publish.py --post "$p" --dry-run || true; done
           else python3 CONTROL/TOOLS/publish.py --due --dry-run || true; fi
@@ -76,6 +84,10 @@ jobs:
         run: |
           if [ -n "$POST" ]; then rc=0; for p in $POST; do python3 CONTROL/TOOLS/publish.py --post "$p" || rc=1; done; exit $rc
           else python3 CONTROL/TOOLS/publish.py --due; fi
+
+      - name: Дежурство — публиковать минута в минуту
+        if: env.MODE == 'wait'
+        run: bash CONTROL/TOOLS/publish_wait.sh
 
       - name: Записать результат в репозиторий
         if: always() && env.MODE == 'publish'
@@ -87,3 +99,9 @@ jobs:
           git commit -q -m "Публикация: результат прогона $(date -u '+%Y-%m-%d %H:%M') UTC"
           for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
           exit 1
+
+      - name: Передать смену следующему дежурному
+        if: ${{ !cancelled() && env.MODE == 'wait' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run publish.yml --repo "$GITHUB_REPOSITORY" --ref main -f mode=wait

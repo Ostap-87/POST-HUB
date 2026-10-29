@@ -7,6 +7,7 @@ python3 CONTROL/TOOLS/publish.py --due --dry-run         # что вышло б�
 python3 CONTROL/TOOLS/publish.py --due                   # опубликовать всё, чему наступило время
 python3 CONTROL/TOOLS/publish.py --post GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1900_tur-robotics [--dry-run]
 python3 CONTROL/TOOLS/publish.py --test TELEGRAM          # пробный пост сети не в канал, а в личку (у адаптеров с test())
+python3 CONTROL/TOOLS/publish.py --next                   # время (unix) ближайшего поста, который выйдет по расписанию
 
 Очередь — папки `<ПРОЕКТ>/<СЕТЬ>[/<ФОРМАТ>]/READY/ГГГГ-ММ-ДД_ЧЧММ_тема/` (время — Москва, в имени папки), в папке —
 `post.md` (шапка + текст) и файлы поста. Сеть публикует адаптер `net_<сеть>.py` (сейчас — `net_instagram.py` и
@@ -17,6 +18,8 @@ python3 CONTROL/TOOLS/publish.py --test TELEGRAM          # пробный по�
 по прямой команде пользователя выходит вручную: `--post <папка>` (Actions → «Публикация» → publish + путь).
 `pause_except: [TELEGRAM]` там же — сети, которые выходят по расписанию и во время паузы (их очередь уже утверждена).
 Пост, опоздавший больше чем на `--max-late` часов (по умолчанию 36), сам не выходит — только через `--post`.
+Минута в минуту посты выпускает дежурный прогон (`publish_wait.sh`, режим `wait` в publish.yml): он вызывает `--due`
+и спит до времени из `--next` — расписание GitHub само запускает прогоны с опозданием на часы.
 """
 import argparse
 import datetime as dt
@@ -73,8 +76,10 @@ def pause_allow():
     f = HUB / 'CONTROL/PUBLISHING.yaml'
     if not f.exists():
         return set()
-    m = re.search(r'^pause_allow:[ \t]*\n((?:[ \t]+-[ \t]+.+\n?)*)', f.read_text(encoding='utf-8'), re.M)
-    return {re.sub(r'^\s*-\s*', '', l).strip().strip('"\'').rstrip('/') for l in m.group(1).splitlines() if l.strip()} if m else set()
+    # внутри списка бывают строки-комментарии «  # решение пользователя …» и пустые строки — список на них не кончается
+    m = re.search(r'^pause_allow:[ \t]*\n((?:[ \t]+(?:-[ \t]+.+|#.*)\n?|[ \t]*\n)*)', f.read_text(encoding='utf-8'), re.M)
+    return {re.sub(r'^\s*-\s*', '', l).strip().strip('"\'').rstrip('/') for l in m.group(1).splitlines()
+            if l.strip().startswith('-')} if m else set()
 
 
 def queue():
@@ -158,7 +163,18 @@ def main():
     ap.add_argument('--max-late', type=float, default=36, help='часов опоздания, после которых пост сам не выходит')
     ap.add_argument('--now', help='считать «сейчас» этим временем (ГГГГ-ММ-ДД ЧЧ:ММ, Москва) — для проверки плана')
     ap.add_argument('--test', metavar='СЕТЬ', help='пробный пост сети (первый в очереди) не в канал, а в личку')
+    ap.add_argument('--next', action='store_true', help='время (unix) ближайшего поста, который выйдет по расписанию')
     a = ap.parse_args()
+
+    if a.next:                                                      # для дежурного прогона: до какого времени спать
+        only, allow = (pause_except(), pause_allow()) if paused() else (None, None)
+        now = dt.datetime.now(MSK)
+        for t, project, network, fmt, d in queue():
+            if t > now and network in ADAPTERS and errors_of(d)['attempts'] < MAX_ATTEMPTS and (
+                    only is None or network in only or d.relative_to(HUB).as_posix() in allow):
+                print(int(t.timestamp()))
+                return
+        return
 
     if a.test:
         ad = adapter(a.test)
