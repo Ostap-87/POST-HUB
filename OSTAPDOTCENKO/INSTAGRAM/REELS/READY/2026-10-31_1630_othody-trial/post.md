@@ -5,13 +5,14 @@ rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1730_othody/othody.mp4"]
 duration: "95,3 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-cover: "finished-videos/обложки/2026-10-28-othody.jpg"
+cover: "finished-videos/обложки/афиша/2026-10-28-othody.jpg"
 thumb_offset: 500
 title: "Переработка отходов Китая"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-10-31_1730_othody"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 2) первой секундой — копия перезаписана по той же ссылке"
 ---
 На месте бывшей свалки в Шанхае теперь стоит завод, который перерабатывает треть мусора всего города — и выдаёт 1,6 млрд кВт·ч электричества в год.
 

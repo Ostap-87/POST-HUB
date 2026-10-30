@@ -12,8 +12,9 @@ video_status: "мастер — finished-videos/2026-10-28-neftehim.mp4 (LFS: б
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
-cover: "finished-videos/обложки/2026-10-28-neftehim.jpg"
+cover: "finished-videos/обложки/афиша/2026-10-28-neftehim.jpg"
 thumb_offset: 500
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 10) первой секундой — копия перезаписана по той же ссылке"
 ---
 ExxonMobil построил в Китае комплекс больше чем за 10 млрд долларов. От переговоров до начала стройки прошло всего 18 месяцев.
 
