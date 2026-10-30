@@ -1,19 +1,22 @@
 ---
 number: 13
-date: "2026-10-30"
+date: "2026-10-31"
 time: "17:45"
-rubric: "тема ролика"
+mirror_of: "GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1745_tur-china-waste-management"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/09.jpg"]
+rubric: "карусель тура ролика дня"
 week: 2
 title: "Завод, где сгорает треть мусора Шанхая"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
 slides: 9
-image: "2026-10-30_1745_tur-china-waste-management"
-image_status: "на согласовании"
+image: "01.jpg"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-10-foto-tur-china-waste-management.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»; слайды с логотипами компаний маршрута (перерендер 29.10)"
 ---
 Завод, где сгорает треть мусора Шанхая.
 Обращение с отходами Китая · 5 дней · 5 городов.

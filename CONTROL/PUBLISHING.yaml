@@ -93,6 +93,18 @@ pause_allow:
   - GTT/FACEBOOK/REELS/READY/2026-10-30_1730_alibaba
   - GTT/INSTAGRAM/STORIES/READY/2026-10-30_1800_alibaba
   - GTT/FACEBOOK/STORIES/READY/2026-10-30_1800_alibaba
+  # 31.10 (сб) по утверждённому расписанию: утро — кампус Ping An (Reels 10:00, Stories 10:15), вечер — «Отходы»
+  # (Reels 17:30, карусель №13 17:45, Stories 18:00); копии в Facebook.
+  - GTT/INSTAGRAM/REELS/READY/2026-10-31_1000_pingan
+  - GTT/FACEBOOK/REELS/READY/2026-10-31_1000_pingan
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1015_pingan
+  - GTT/FACEBOOK/STORIES/READY/2026-10-31_1015_pingan
+  - GTT/INSTAGRAM/REELS/READY/2026-10-31_1730_othody
+  - GTT/FACEBOOK/REELS/READY/2026-10-31_1730_othody
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1745_tur-china-waste-management
+  - GTT/FACEBOOK/POST/READY/2026-10-31_1745_tur-china-waste-management
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1800_othody
+  - GTT/FACEBOOK/STORIES/READY/2026-10-31_1800_othody
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial

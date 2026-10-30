@@ -1,16 +1,17 @@
 ---
-number: 41
-date: "2026-10-30"
+number: 42
+date: "2026-10-31"
 time: "17:30"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-10-30_1745_tur-china-waste-management"
+carousel: "2026-10-31_1745_tur-china-waste-management"
 title: "Переработка отходов Китая"
-video_hub: "finished-videos/2026-10-28-othody-cover.mp4"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1730_othody/othody.mp4"]
 duration: "95,3 с"
-video_status: "мастер в VIDEO-HUB (бюджет LFS исчерпан — в git его нет); для публикации — сжатая копия обычным git в finished-videos/publish/ и media_urls, делается после «утверждаю»"
+video_status: "мастер — finished-videos/2026-10-28-othody.mp4 (LFS: бюджет); в публикацию — копия с обложкой первой секундой, обычным git в finished-videos/publish/"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
 cover: "finished-videos/обложки/2026-10-28-othody.jpg"
 thumb_offset: 500
 ---
