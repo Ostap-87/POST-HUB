@@ -93,6 +93,14 @@ pause_allow:
   - GTT/FACEBOOK/REELS/READY/2026-10-30_1730_alibaba
   - GTT/INSTAGRAM/STORIES/READY/2026-10-30_1800_alibaba
   - GTT/FACEBOOK/STORIES/READY/2026-10-30_1800_alibaba
+  # Решение пользователя 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут —
+  # Рилс, Сторис, Карусель, Рилс Карусель». 30.10: Reels из карусели «Финтех» 10:00; кампус Alibaba — карусель 18:30, Reels из карусели 19:00.
+  - GTT/INSTAGRAM/REELS/READY/2026-10-30_1000_tur-china-fintech-giants-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-30_1000_tur-china-fintech-giants-reels
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-30_1830_kampus-alibaba
+  - GTT/FACEBOOK/POST/READY/2026-10-30_1830_kampus-alibaba
+  - GTT/INSTAGRAM/REELS/READY/2026-10-30_1900_kampus-alibaba-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-30_1900_kampus-alibaba-reels
   # 31.10 (сб) по утверждённому расписанию: утро — кампус Ping An (Reels 10:00, Stories 10:15), вечер — «Отходы»
   # (Reels 17:30, карусель №13 17:45, Stories 18:00); копии в Facebook.
   - GTT/INSTAGRAM/REELS/READY/2026-10-31_1000_pingan

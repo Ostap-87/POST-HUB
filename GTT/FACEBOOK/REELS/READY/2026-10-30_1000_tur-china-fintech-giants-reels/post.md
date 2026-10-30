@@ -1,20 +1,22 @@
 ---
 number: 18
-date: "2026-10-29"
-time: "08:00"
-rubric: "Reels карусели"
+date: "2026-10-30"
+time: "10:00"
+mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-10-30_1000_tur-china-fintech-giants-reels"
+rubric: "Reels карусели (блок дня)"
 week: 2
-carousel: "2026-10-29_1300_tur-china-fintech-giants"
+carousel: "2026-10-30_0900_tur-china-fintech-giants"
 title: "Reels-версия карусели «Кто построил финтех Китая»"
-video_hub: "finished-videos/2026-10-10-foto-tur-china-fintech-giants-reels.mp4"
-duration: "44,7 с"
-video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-30_1000_tur-china-fintech-giants-reels/tur-china-fintech-giants-reels.mp4"]
+duration: "43,1 с"
+video_status: "живые слайды с логотипами (перерендер 30.10, carousel-reel --live); в публикацию — копия обычным git в finished-videos/publish/ (LFS: бюджет)"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "по подписи карусели + строка «Музыка», на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
 ---
 Кто построил финтех Китая.
 Финтех-гиганты Китая · 5 дней · 4 города.
-Листай карусель →
+Все слайды — в карусели в профиле.
 
 1 млрд+ пользователей Alipay (Ant Group). Больше половины мобильных платежей Китая.
 
