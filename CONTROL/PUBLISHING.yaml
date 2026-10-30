@@ -101,23 +101,48 @@ pause_allow:
   - GTT/FACEBOOK/POST/READY/2026-10-30_1830_kampus-alibaba
   - GTT/INSTAGRAM/REELS/READY/2026-10-30_1900_kampus-alibaba-reels
   - GTT/FACEBOOK/REELS/READY/2026-10-30_1900_kampus-alibaba-reels
+  # 31.10–3.11 в блоках из 4 публикаций (решение пользователя 30.10.2026, ~09:35): карусели кампусов и Reels из каруселей (живые слайды).
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1100_kampus-pingan
+  - GTT/FACEBOOK/POST/READY/2026-10-31_1100_kampus-pingan
+  - GTT/INSTAGRAM/REELS/READY/2026-10-31_1130_kampus-pingan-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-31_1130_kampus-pingan-reels
+  - GTT/INSTAGRAM/REELS/READY/2026-10-31_1900_tur-china-waste-management-reels
+  - GTT/FACEBOOK/REELS/READY/2026-10-31_1900_tur-china-waste-management-reels
+  - GTT/INSTAGRAM/REELS/READY/2026-11-01_1130_tur-china-petrochemicals-guangdong-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-01_1130_tur-china-petrochemicals-guangdong-reels
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-01_1830_kampus-haier
+  - GTT/FACEBOOK/POST/READY/2026-11-01_1830_kampus-haier
+  - GTT/INSTAGRAM/REELS/READY/2026-11-01_1900_kampus-haier-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-01_1900_kampus-haier-reels
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_0930_kampus-bytedance
+  - GTT/FACEBOOK/POST/READY/2026-11-02_0930_kampus-bytedance
+  - GTT/INSTAGRAM/REELS/READY/2026-11-02_1000_kampus-bytedance-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-02_1000_kampus-bytedance-reels
+  - GTT/INSTAGRAM/REELS/READY/2026-11-02_1900_tur-china-logistics-top10-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-02_1900_tur-china-logistics-top10-reels
+  - GTT/INSTAGRAM/REELS/READY/2026-11-03_1000_tur-hotel-giants-china-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-03_1000_tur-hotel-giants-china-reels
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-03_1830_kampus-huawei
+  - GTT/FACEBOOK/POST/READY/2026-11-03_1830_kampus-huawei
+  - GTT/INSTAGRAM/REELS/READY/2026-11-03_1900_kampus-huawei-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-03_1900_kampus-huawei-reels
   # 31.10 (сб) по утверждённому расписанию: утро — кампус Ping An (Reels 10:00, Stories 10:15), вечер — «Отходы»
   # (Reels 17:30, карусель №13 17:45, Stories 18:00); копии в Facebook.
   - GTT/INSTAGRAM/REELS/READY/2026-10-31_1000_pingan
   - GTT/FACEBOOK/REELS/READY/2026-10-31_1000_pingan
-  - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1015_pingan
-  - GTT/FACEBOOK/STORIES/READY/2026-10-31_1015_pingan
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1030_pingan
+  - GTT/FACEBOOK/STORIES/READY/2026-10-31_1030_pingan
   - GTT/INSTAGRAM/REELS/READY/2026-10-31_1730_othody
   - GTT/FACEBOOK/REELS/READY/2026-10-31_1730_othody
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1745_tur-china-waste-management
-  - GTT/FACEBOOK/POST/READY/2026-10-31_1745_tur-china-waste-management
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1830_tur-china-waste-management
+  - GTT/FACEBOOK/POST/READY/2026-10-31_1830_tur-china-waste-management
   - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1800_othody
   - GTT/FACEBOOK/STORIES/READY/2026-10-31_1800_othody
   # 1.11 (вс): утро — «Нефтехимия» (Reels 10:00, Stories 10:15, карусель №12 11:00), вечер — кампус Haier (Reels 17:30, Stories 18:00).
   - GTT/INSTAGRAM/REELS/READY/2026-11-01_1000_neftehim
   - GTT/FACEBOOK/REELS/READY/2026-11-01_1000_neftehim
-  - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1015_neftehim
-  - GTT/FACEBOOK/STORIES/READY/2026-11-01_1015_neftehim
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1030_neftehim
+  - GTT/FACEBOOK/STORIES/READY/2026-11-01_1030_neftehim
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-01_1100_tur-china-petrochemicals-guangdong
   - GTT/FACEBOOK/POST/READY/2026-11-01_1100_tur-china-petrochemicals-guangdong
   - GTT/INSTAGRAM/REELS/READY/2026-11-01_1730_haier
@@ -127,8 +152,8 @@ pause_allow:
   # 2.11 (пн): утро — кампус ByteDance (Reels 08:30, Stories 08:45), вечер — «Логистика» (Reels 17:30, карусель №11 17:45, Stories 18:00).
   - GTT/INSTAGRAM/REELS/READY/2026-11-02_0830_bytedance
   - GTT/FACEBOOK/REELS/READY/2026-11-02_0830_bytedance
-  - GTT/INSTAGRAM/STORIES/READY/2026-11-02_0845_bytedance
-  - GTT/FACEBOOK/STORIES/READY/2026-11-02_0845_bytedance
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-02_0900_bytedance
+  - GTT/FACEBOOK/STORIES/READY/2026-11-02_0900_bytedance
   - GTT/INSTAGRAM/REELS/READY/2026-11-02_1730_logistika
   - GTT/FACEBOOK/REELS/READY/2026-11-02_1730_logistika
   - GTT/INSTAGRAM/STORIES/READY/2026-11-02_1800_logistika
@@ -136,22 +161,38 @@ pause_allow:
   # 3.11 (вт): утро — «Китайские гостиничные гиганты» (Reels 08:30, Stories 08:45, карусель №17 09:00), вечер — кампус Huawei (Reels 17:30, Stories 18:00).
   - GTT/INSTAGRAM/REELS/READY/2026-11-03_0830_kit-gostinicy
   - GTT/FACEBOOK/REELS/READY/2026-11-03_0830_kit-gostinicy
-  - GTT/INSTAGRAM/STORIES/READY/2026-11-03_0845_kit-gostinicy
-  - GTT/FACEBOOK/STORIES/READY/2026-11-03_0845_kit-gostinicy
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-03_0900_tur-hotel-giants-china
-  - GTT/FACEBOOK/POST/READY/2026-11-03_0900_tur-hotel-giants-china
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-03_0900_kit-gostinicy
+  - GTT/FACEBOOK/STORIES/READY/2026-11-03_0900_kit-gostinicy
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-03_0930_tur-hotel-giants-china
+  - GTT/FACEBOOK/POST/READY/2026-11-03_0930_tur-hotel-giants-china
   - GTT/INSTAGRAM/REELS/READY/2026-11-03_1730_huawei
   - GTT/FACEBOOK/REELS/READY/2026-11-03_1730_huawei
   - GTT/INSTAGRAM/STORIES/READY/2026-11-03_1800_huawei
   - GTT/FACEBOOK/STORIES/READY/2026-11-03_1800_huawei
-  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1745_tur-china-logistics-top10
-  - GTT/FACEBOOK/POST/READY/2026-11-02_1745_tur-china-logistics-top10
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1830_tur-china-logistics-top10
+  - GTT/FACEBOOK/POST/READY/2026-11-02_1830_tur-china-logistics-top10
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
   # Решение пользователя 30.10.2026, ~09:45 МСК: пробные Reels в личном аккаунте за час до публикации в GTT (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-30_1630_alibaba-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-30_1800_kampus-alibaba-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-31_0900_pingan-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-31_1030_kampus-pingan-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-31_1630_othody-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-31_1800_tur-china-waste-management-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-01_0900_neftehim-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-01_1030_tur-china-petrochemicals-guangdong-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-01_1630_haier-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-01_1800_kampus-haier-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-02_0730_bytedance-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-02_0900_kampus-bytedance-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-02_1630_logistika-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-02_1800_tur-china-logistics-top10-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_0730_kit-gostinicy-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_0900_tur-hotel-giants-china-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_1630_huawei-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_1800_kampus-huawei-reels-trial
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.

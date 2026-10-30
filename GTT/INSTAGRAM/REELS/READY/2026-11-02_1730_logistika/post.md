@@ -4,7 +4,7 @@ date: "2026-11-02"
 time: "17:30"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-11-02_1745_tur-china-logistics-top10"
+carousel: "2026-11-02_1830_tur-china-logistics-top10"
 title: "Топ-10 логистических компаний Китая"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_1730_logistika/logistika.mp4"]
 duration: "96,2 с"

@@ -4,7 +4,7 @@ date: "2026-10-31"
 time: "17:30"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-10-31_1745_tur-china-waste-management"
+carousel: "2026-10-31_1830_tur-china-waste-management"
 title: "Переработка отходов Китая"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1730_othody/othody.mp4"]
 duration: "95,3 с"

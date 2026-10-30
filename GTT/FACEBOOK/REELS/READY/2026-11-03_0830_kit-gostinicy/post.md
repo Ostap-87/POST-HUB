@@ -5,7 +5,7 @@ time: "08:30"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-03_0830_kit-gostinicy"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-11-03_0900_tur-hotel-giants-china"
+carousel: "2026-11-03_0930_tur-hotel-giants-china"
 title: "Китайские гостиничные гиганты"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_0830_kit-gostinicy/kit-gostinicy.mp4"]
 duration: "83,5 с"

@@ -1,0 +1,43 @@
+---
+number: K4
+date: "2026-11-02"
+time: "09:30"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0930_kampus-bytedance/07.jpg"]
+rubric: "кампус · карусель (блок дня)"
+week: 2
+title: "Как алгоритм стал стратегией"
+source: "globaltechtour.ru/corporate-training/bytedance (SINOTECH src/data/corporateTraining.ts); фото — каталог Higgsfield"
+slides: 7
+image: "01.jpg"
+video_hub: "reels-studio/props/carousels/2026-10-30-kampus-bytedance.json"
+image_status: "утверждено"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
+---
+Как алгоритм стал стратегией.
+Цифро-интеллектуальный рост · 3 дня · группа от 10.
+Листай карусель →
+
+Почему именно они:
+• Одни из первых применили ИИ в мобильном интернете
+• Toutiao и Douyin — национальные хиты
+• Своя большая языковая модель Doubao
+• TikTok — мировой феномен
+
+Программа по дням:
+• День 1 · Выставочный зал ByteDance — мышление роста и инновации
+• День 2 · Цифровая организация — гибкая структура и цепочки поставок
+• День 3 · Воркшоп — контент-маркетинг и рост на ИИ
+
+Что вы разберёте:
+• Цифро-интеллектуальное мышление
+• Гибкая цифровая организация
+• Рост через данные, контент и ИИ
+
+«Чтобы данные и ИИ приносили рост, а не красивые отчёты» — главная мысль программы.
+
+Для маркетинга и цифровых направлений. И для собственников, которые ждут от данных и ИИ роста бизнеса. Группа от 10 человек, всё с переводом на русский язык.
+
+Программа по дням — globaltechtour.ru/corporate-training/bytedance. За подробностями пиши в личные сообщения или оставляй заявку на сайте — свяжемся в течение 2 минут.
+
+#ByteDance #TikTok #КорпоративноеОбучение #Управление #Китай #GTT #GlobalTechTour #Техтуризм
