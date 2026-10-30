@@ -89,6 +89,10 @@ pause_allow:
   - GTT/FACEBOOK/STORIES/READY/2026-10-30_0845_fintech
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-10-30_0900_tur-china-fintech-giants
   - GTT/FACEBOOK/POST/READY/2026-10-30_0900_tur-china-fintech-giants
+  - GTT/INSTAGRAM/REELS/READY/2026-10-30_1730_alibaba
+  - GTT/FACEBOOK/REELS/READY/2026-10-30_1730_alibaba
+  - GTT/INSTAGRAM/STORIES/READY/2026-10-30_1800_alibaba
+  - GTT/FACEBOOK/STORIES/READY/2026-10-30_1800_alibaba
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
