@@ -116,6 +116,28 @@ pause_allow:
   - GTT/FACEBOOK/REELS/READY/2026-11-01_1730_haier
   - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1800_haier
   - GTT/FACEBOOK/STORIES/READY/2026-11-01_1800_haier
+  # 2.11 (пн): утро — кампус ByteDance (Reels 08:30, Stories 08:45), вечер — «Логистика» (Reels 17:30, карусель №11 17:45, Stories 18:00).
+  - GTT/INSTAGRAM/REELS/READY/2026-11-02_0830_bytedance
+  - GTT/FACEBOOK/REELS/READY/2026-11-02_0830_bytedance
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-02_0845_bytedance
+  - GTT/FACEBOOK/STORIES/READY/2026-11-02_0845_bytedance
+  - GTT/INSTAGRAM/REELS/READY/2026-11-02_1730_logistika
+  - GTT/FACEBOOK/REELS/READY/2026-11-02_1730_logistika
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-02_1800_logistika
+  - GTT/FACEBOOK/STORIES/READY/2026-11-02_1800_logistika
+  # 3.11 (вт): утро — «Китайские гостиничные гиганты» (Reels 08:30, Stories 08:45, карусель №17 09:00), вечер — кампус Huawei (Reels 17:30, Stories 18:00).
+  - GTT/INSTAGRAM/REELS/READY/2026-11-03_0830_kit-gostinicy
+  - GTT/FACEBOOK/REELS/READY/2026-11-03_0830_kit-gostinicy
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-03_0845_kit-gostinicy
+  - GTT/FACEBOOK/STORIES/READY/2026-11-03_0845_kit-gostinicy
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-03_0900_tur-hotel-giants-china
+  - GTT/FACEBOOK/POST/READY/2026-11-03_0900_tur-hotel-giants-china
+  - GTT/INSTAGRAM/REELS/READY/2026-11-03_1730_huawei
+  - GTT/FACEBOOK/REELS/READY/2026-11-03_1730_huawei
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-03_1800_huawei
+  - GTT/FACEBOOK/STORIES/READY/2026-11-03_1800_huawei
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1745_tur-china-logistics-top10
+  - GTT/FACEBOOK/POST/READY/2026-11-02_1745_tur-china-logistics-top10
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
