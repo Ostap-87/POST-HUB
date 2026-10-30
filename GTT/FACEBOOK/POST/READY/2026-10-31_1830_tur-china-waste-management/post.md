@@ -3,14 +3,15 @@ number: 13
 date: "2026-10-31"
 time: "18:30"
 mirror_of: "GTT/INSTAGRAM/CAROUSEL/READY/2026-10-31_1830_tur-china-waste-management"
-media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/08.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/09.jpg"]
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/01.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/02.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/03.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/04.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/05.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/06.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/07.jpg", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1745_tur-china-waste-management/08.jpg"]
 rubric: "карусель тура ролика дня"
 week: 2
 title: "Завод, где сгорает треть мусора Шанхая"
 source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
-slides: 9
+slides: 8
 image: "01.jpg"
 image_status: "утверждено"
+redesign: "30.10.2026: новые слайды в стиле каруселей кампусов (пользователь: «мне понравились те карусели… внедрить в других программах»)"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9

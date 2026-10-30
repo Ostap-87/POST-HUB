@@ -3,7 +3,7 @@ date: "2026-10-31"
 time: "18:00"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1900_tur-china-waste-management-reels/tur-china-waste-management-reels.mp4"]
-duration: "43,1 с"
+duration: "38,1 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 title: "Reels-версия карусели «Завод, где сгорает треть мусора Шанхая»"
 trial: "manual"

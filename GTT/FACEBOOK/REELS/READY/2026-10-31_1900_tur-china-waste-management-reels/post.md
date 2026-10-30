@@ -8,7 +8,7 @@ week: 2
 carousel: "2026-10-31_1830_tur-china-waste-management"
 title: "Reels-версия карусели «Завод, где сгорает треть мусора Шанхая»"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1900_tur-china-waste-management-reels/tur-china-waste-management-reels.mp4"]
-duration: "43,1 с"
+duration: "38,1 с"
 video_status: "живые слайды с логотипами (перерендер 30.10, carousel-reel --live); в публикацию — копия обычным git в finished-videos/publish/ (LFS: бюджет)"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "утверждено"
