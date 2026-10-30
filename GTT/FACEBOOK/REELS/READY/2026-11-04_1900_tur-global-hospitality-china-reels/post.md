@@ -1,23 +1,22 @@
 ---
-number: 18
-date: "2026-11-02"
-time: "17:45"
-rubric: "тема ролика"
+number: 20
+date: "2026-11-04"
+time: "19:00"
+mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-04_1900_tur-global-hospitality-china-reels"
+rubric: "Reels карусели (блок дня)"
 week: 2
-title: "Как Marriott и Hilton адаптируются к Китаю"
-source: "CONTROL/SOURCES/2026-10-10_карусели-instagram/02_GTT_карусели_Instagram_74.docx"
-slides: 8
-image: "2026-11-02_1745_tur-global-hospitality-china"
-image_status: "на согласовании"
-image_model: "gpt_image_2_5 medium 1k"
-image_cost: "3.5"
-image_count: 7
-video_hub: "reels-studio/props/carousels/2026-10-10-foto-tur-global-hospitality-china.json"
-caption_status: "собрана из слайдов (v2: все слайды), на согласовании"
+carousel: "2026-11-04_1830_tur-global-hospitality-china"
+title: "Reels-версия карусели «Как Marriott и Hilton адаптируются к Китаю»"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_1900_tur-global-hospitality-china-reels/tur-global-hospitality-china-reels.mp4"]
+duration: "42,1 с"
+video_status: "живые слайды с логотипами (перерендер 30.10, carousel-reel --live); в публикацию — копия обычным git в finished-videos/publish/ (LFS: бюджет)"
+music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
 ---
 Как Marriott и Hilton адаптируются к Китаю.
 Глобальные гостиничные сети в Китае · 5 дней · Шанхай.
-Листай карусель →
+Все слайды — в карусели в профиле.
 
 6 мировых гостиничных сетей в одном городе (Масштаб). Marriott, Hilton, IHG, Accor, Hyatt, Wyndham — плюс два знаковых отеля.
 
@@ -51,3 +50,5 @@ caption_status: "собрана из слайдов (v2: все слайды), �
 За подробностями пиши в личные сообщения или заходи на globaltechtour.ru и оставляй заявку — свяжемся в течение 2 минут.
 
 #Китай #Отели #Гостиничныйбизнес #БизнесЭкспедиция #GTT #GlobalTechTour #Техтуризм
+
+Музыка: Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0

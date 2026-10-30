@@ -169,6 +169,23 @@ pause_allow:
   - GTT/FACEBOOK/REELS/READY/2026-11-03_1730_huawei
   - GTT/INSTAGRAM/STORIES/READY/2026-11-03_1800_huawei
   - GTT/FACEBOOK/STORIES/READY/2026-11-03_1800_huawei
+  # 4.11 (ср), блоки по 4 публикации через 30 мин: утро — кампус Xiaomi (Reels 08:30, Stories 09:00, карусель 09:30, Reels карусели 10:00), вечер — «Мировые гостиничные сети» (Reels 17:30, Stories 18:00, карусель №18 18:30, Reels карусели 19:00).
+  - GTT/INSTAGRAM/REELS/READY/2026-11-04_0830_xiaomi
+  - GTT/FACEBOOK/REELS/READY/2026-11-04_0830_xiaomi
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-04_0900_xiaomi
+  - GTT/FACEBOOK/STORIES/READY/2026-11-04_0900_xiaomi
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-04_0930_kampus-xiaomi
+  - GTT/FACEBOOK/POST/READY/2026-11-04_0930_kampus-xiaomi
+  - GTT/INSTAGRAM/REELS/READY/2026-11-04_1000_kampus-xiaomi-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-04_1000_kampus-xiaomi-reels
+  - GTT/INSTAGRAM/REELS/READY/2026-11-04_1730_mir-gostinicy
+  - GTT/FACEBOOK/REELS/READY/2026-11-04_1730_mir-gostinicy
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-04_1800_mir-gostinicy
+  - GTT/FACEBOOK/STORIES/READY/2026-11-04_1800_mir-gostinicy
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-04_1830_tur-global-hospitality-china
+  - GTT/FACEBOOK/POST/READY/2026-11-04_1830_tur-global-hospitality-china
+  - GTT/INSTAGRAM/REELS/READY/2026-11-04_1900_tur-global-hospitality-china-reels
+  - GTT/FACEBOOK/REELS/READY/2026-11-04_1900_tur-global-hospitality-china-reels
   - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-02_1830_tur-china-logistics-top10
   - GTT/FACEBOOK/POST/READY/2026-11-02_1830_tur-china-logistics-top10
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
@@ -193,6 +210,10 @@ pause_allow:
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_0900_tur-hotel-giants-china-reels-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_1630_huawei-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-03_1800_kampus-huawei-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-04_0730_xiaomi-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-04_0900_kampus-xiaomi-reels-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-04_1630_mir-gostinicy-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-11-04_1800_tur-global-hospitality-china-reels-trial
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.

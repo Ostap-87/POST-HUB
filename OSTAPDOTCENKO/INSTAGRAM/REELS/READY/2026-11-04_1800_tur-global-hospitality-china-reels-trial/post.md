@@ -1,20 +1,19 @@
 ---
-number: 20
-date: "2026-10-31"
-time: "08:00"
-rubric: "Reels карусели"
-week: 2
-carousel: "2026-10-31_1300_tur-global-hospitality-china"
-title: "Reels-версия карусели «Как Marriott и Hilton адаптируются к Китаю»"
-video_hub: "finished-videos/2026-10-10-foto-tur-global-hospitality-china-reels.mp4"
+date: "2026-11-04"
+time: "18:00"
+rubric: "пробный Reels (ролик GTT)"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_1900_tur-global-hospitality-china-reels/tur-global-hospitality-china-reels.mp4"]
 duration: "42,1 с"
-video_status: "мастер в VIDEO-HUB; копия в REELS/VIDEO — по решению пользователя"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "по подписи карусели + строка «Музыка», на согласовании"
+title: "Reels-версия карусели «Как Marriott и Hilton адаптируются к Китаю»"
+trial: "manual"
+mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-04_1900_tur-global-hospitality-china-reels"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
 ---
 Как Marriott и Hilton адаптируются к Китаю.
 Глобальные гостиничные сети в Китае · 5 дней · Шанхай.
-Листай карусель →
+Все слайды — в карусели в профиле.
 
 6 мировых гостиничных сетей в одном городе (Масштаб). Marriott, Hilton, IHG, Accor, Hyatt, Wyndham — плюс два знаковых отеля.
 
