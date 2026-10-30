@@ -105,6 +105,17 @@ pause_allow:
   - GTT/FACEBOOK/POST/READY/2026-10-31_1745_tur-china-waste-management
   - GTT/INSTAGRAM/STORIES/READY/2026-10-31_1800_othody
   - GTT/FACEBOOK/STORIES/READY/2026-10-31_1800_othody
+  # 1.11 (вс): утро — «Нефтехимия» (Reels 10:00, Stories 10:15, карусель №12 11:00), вечер — кампус Haier (Reels 17:30, Stories 18:00).
+  - GTT/INSTAGRAM/REELS/READY/2026-11-01_1000_neftehim
+  - GTT/FACEBOOK/REELS/READY/2026-11-01_1000_neftehim
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1015_neftehim
+  - GTT/FACEBOOK/STORIES/READY/2026-11-01_1015_neftehim
+  - GTT/INSTAGRAM/CAROUSEL/READY/2026-11-01_1100_tur-china-petrochemicals-guangdong
+  - GTT/FACEBOOK/POST/READY/2026-11-01_1100_tur-china-petrochemicals-guangdong
+  - GTT/INSTAGRAM/REELS/READY/2026-11-01_1730_haier
+  - GTT/FACEBOOK/REELS/READY/2026-11-01_1730_haier
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1800_haier
+  - GTT/FACEBOOK/STORIES/READY/2026-11-01_1800_haier
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
