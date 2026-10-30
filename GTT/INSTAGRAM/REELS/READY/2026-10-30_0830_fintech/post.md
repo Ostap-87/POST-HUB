@@ -6,11 +6,12 @@ rubric: "ролик с Остапом"
 week: 2
 carousel: "2026-10-30_0900_tur-china-fintech-giants"
 title: "Финтех-гиганты Китая"
-video_hub: "finished-videos/2026-10-28-fintech-cover.mp4"
+media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-30_0830_fintech/fintech.mp4"]
 duration: "94,2 с"
-video_status: "мастер в VIDEO-HUB (бюджет LFS исчерпан — в git его нет); для публикации — сжатая копия обычным git в finished-videos/publish/ и media_urls, делается после «утверждаю»"
+video_status: "мастер — finished-videos/2026-10-28-fintech.mp4 (LFS: бюджет); в публикацию — копия с обложкой первой секундой, обычным git в finished-videos/publish/"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-caption_status: "черновик по тексту ролика, на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 30.10.2026, ~07:50 МСК: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» — утро программа «Финтех», вечер обучение в кампусе Alibaba"
 cover: "finished-videos/обложки/2026-10-28-fintech.jpg"
 thumb_offset: 500
 ---
