@@ -3,14 +3,16 @@ date: "2026-11-01"
 time: "16:30"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-01_1730_haier/haier.mp4"]
-duration: "84,4 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-haier.jpg"
+duration: "85,4 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
+thumb_offset: 500
 title: "Обучение в кампусе Haier"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-01_1730_haier"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 28) первой секундой — копия перезаписана по той же ссылке"
 ---
 В 1985 году директор завода вывел рабочих во двор и разбил кувалдой 76 бракованных холодильников. Так начиналась Haier.
 

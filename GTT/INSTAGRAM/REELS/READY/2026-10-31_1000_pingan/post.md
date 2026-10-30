@@ -6,13 +6,15 @@ rubric: "кампус · ролик с Остапом"
 week: 2
 title: "Обучение в кампусе Ping An"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1000_pingan/pingan.mp4"]
-duration: "79,7 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-pingan.jpg"
+duration: "80,7 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 3500
-video_status: "мастер — finished-videos/2026-10-29-pingan.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; обложки нет — кадр 3,5 с («Страховая» зачёркнута)"
+thumb_offset: 500
+video_status: "мастер — finished-videos/2026-10-29-pingan.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; копия с обложкой первой секундой"
 source: "globaltechtour.ru/corporate-training/ping-an (SINOTECH src/data/corporateTraining.ts) + текст ролика"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 26) первой секундой — копия перезаписана по той же ссылке"
 ---
 Страховая компания, которая превратилась в технологическую, — звучит как оксюморон. Но это Ping An.
 

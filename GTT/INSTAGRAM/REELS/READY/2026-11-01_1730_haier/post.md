@@ -6,13 +6,15 @@ rubric: "кампус · ролик с Остапом"
 week: 2
 title: "Обучение в кампусе Haier"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-01_1730_haier/haier.mp4"]
-duration: "84,4 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-haier.jpg"
+duration: "85,4 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
-video_status: "мастер — finished-videos/2026-10-29-haier.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; обложки нет — кадр 2,5 с («1985»)"
+thumb_offset: 500
+video_status: "мастер — finished-videos/2026-10-29-haier.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; копия с обложкой первой секундой"
 source: "globaltechtour.ru/corporate-training/haier (SINOTECH src/data/corporateTraining.ts) + текст ролика"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 28) первой секундой — копия перезаписана по той же ссылке"
 ---
 В 1985 году директор завода вывел рабочих во двор и разбил кувалдой 76 бракованных холодильников. Так начиналась Haier.
 

@@ -3,14 +3,16 @@ date: "2026-10-31"
 time: "09:00"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-10-31_1000_pingan/pingan.mp4"]
-duration: "79,7 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-pingan.jpg"
+duration: "80,7 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 3500
+thumb_offset: 500
 title: "Обучение в кампусе Ping An"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-10-31_1000_pingan"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "30.10.2026: новая обложка-афиша (предмет-символ, синяя; пользователь выбрал № 26) первой секундой — копия перезаписана по той же ссылке"
 ---
 Страховая компания, которая превратилась в технологическую, — звучит как оксюморон. Но это Ping An.
 
