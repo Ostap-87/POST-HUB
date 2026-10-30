@@ -149,6 +149,9 @@ pause_allow:
   # 29.10.2026, ~08:05 МСК: «в аккаунт Остапдоценко в Инстаграмм ты же можешь в пробный режим делать публикации рилсов?» — пробный Reels (trial: manual).
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_0832_tehnoparki-trial
   - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-29_1732_legprom-trial
+  # Решение пользователя 30.10.2026, ~09:45 МСК: пробные Reels в личном аккаунте за час до публикации в GTT (trial: manual).
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-30_1630_alibaba-trial
+  - OSTAPDOTCENKO/INSTAGRAM/REELS/READY/2026-10-30_1800_kampus-alibaba-reels-trial
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.
