@@ -3,14 +3,16 @@ date: "2026-11-02"
 time: "07:30"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_0830_bytedance/bytedance.mp4"]
-duration: "81,7 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-bytedance.jpg"
+duration: "82,7 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2000
+thumb_offset: 500
 title: "Обучение в кампусе ByteDance"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-02_0830_bytedance"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 30) первой секундой — копия перезаписана по той же ссылке"
 ---
 Вы смотрите это видео, потому что алгоритм решил, что оно вам интересно. Компания, которая сделала из этого бизнес, — ByteDance.
 
