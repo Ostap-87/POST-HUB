@@ -3,14 +3,16 @@ date: "2026-11-03"
 time: "16:30"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_1730_huawei/huawei.mp4"]
-duration: "80,8 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-huawei.jpg"
+duration: "81,8 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
+thumb_offset: 500
 title: "Обучение в кампусе Huawei"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-03_1730_huawei"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 32) первой секундой — копия перезаписана по той же ссылке"
 ---
 30 с лишним лет роста — и стратегия не развалилась. Как это устроено у Huawei и где это разобрать изнутри.
 

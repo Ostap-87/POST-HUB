@@ -3,14 +3,16 @@ date: "2026-11-04"
 time: "07:30"
 rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_0830_xiaomi/xiaomi.mp4"]
-duration: "82,0 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-xiaomi.jpg"
+duration: "83,0 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
+thumb_offset: 500
 title: "Обучение в кампусе Xiaomi"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-04_0830_xiaomi"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 34) первой секундой — копия перезаписана по той же ссылке"
 ---
 Телефон, пылесос, самокат, автомобиль — одна компания делает хиты в совершенно разных категориях. Как это устроено у Xiaomi и где это разобрать изнутри.
 

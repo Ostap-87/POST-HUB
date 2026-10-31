@@ -6,13 +6,15 @@ rubric: "кампус · ролик с Остапом"
 week: 2
 title: "Обучение в кампусе Xiaomi"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_0830_xiaomi/xiaomi.mp4"]
-duration: "82,0 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-xiaomi.jpg"
+duration: "83,0 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
-video_status: "мастер — finished-videos/2026-10-29-xiaomi.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; обложки нет — кадр 2.5 с"
+thumb_offset: 500
+video_status: "мастер — finished-videos/2026-10-29-xiaomi.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; копия с обложкой первой секундой"
 source: "globaltechtour.ru/corporate-training/xiaomi (SINOTECH src/data/corporateTraining.ts) + текст ролика"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 34) первой секундой — копия перезаписана по той же ссылке"
 ---
 Телефон, пылесос, самокат, автомобиль — одна компания делает хиты в совершенно разных категориях. Как это устроено у Xiaomi и где это разобрать изнутри.
 

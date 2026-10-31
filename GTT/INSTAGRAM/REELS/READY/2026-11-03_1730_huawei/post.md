@@ -6,13 +6,15 @@ rubric: "кампус · ролик с Остапом"
 week: 2
 title: "Обучение в кампусе Huawei"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_1730_huawei/huawei.mp4"]
-duration: "80,8 с"
+cover: "finished-videos/обложки/афиша/2026-10-29-huawei.jpg"
+duration: "81,8 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-thumb_offset: 2500
-video_status: "мастер — finished-videos/2026-10-29-huawei.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; обложки нет — кадр 2.5 с"
+thumb_offset: 500
+video_status: "мастер — finished-videos/2026-10-29-huawei.mp4 (LFS: бюджет); в публикацию — копия обычным git в finished-videos/publish/; копия с обложкой первой секундой"
 source: "globaltechtour.ru/corporate-training/huawei (SINOTECH src/data/corporateTraining.ts) + текст ролика"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 32) первой секундой — копия перезаписана по той же ссылке"
 ---
 30 с лишним лет роста — и стратегия не развалилась. Как это устроено у Huawei и где это разобрать изнутри.
 

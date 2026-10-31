@@ -5,13 +5,14 @@ rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_0830_kit-gostinicy/kit-gostinicy.mp4"]
 duration: "83,5 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-cover: "finished-videos/обложки/2026-10-29-kit-gostinicy.jpg"
+cover: "finished-videos/обложки/афиша/2026-10-29-kit-gostinicy.jpg"
 thumb_offset: 500
 title: "Китайские гостиничные гиганты"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-03_0830_kit-gostinicy"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 18) первой секундой — копия перезаписана по той же ссылке"
 ---
 Китай — крупнейший в мире гостиничный рынок по числу номеров. А его лидеры растут не за счёт своих зданий, а на франшизе.
 
