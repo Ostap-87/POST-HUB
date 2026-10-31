@@ -5,13 +5,14 @@ rubric: "пробный Reels (ролик GTT)"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_1730_logistika/logistika.mp4"]
 duration: "96,2 с"
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
-cover: "finished-videos/обложки/2026-10-29-logistika.jpg"
+cover: "finished-videos/обложки/афиша/2026-10-29-logistika.jpg"
 thumb_offset: 500
 title: "Топ-10 логистических компаний Китая"
 trial: "manual"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-02_1730_logistika"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 16) первой секундой — копия перезаписана по той же ссылке"
 ---
 Более 80 миллионов посылок в день — столько в среднем обрабатывает одна китайская компания ZTO. Как это возможно? Едем смотреть.
 

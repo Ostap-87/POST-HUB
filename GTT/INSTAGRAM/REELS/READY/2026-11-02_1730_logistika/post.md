@@ -12,8 +12,9 @@ video_status: "мастер — finished-videos/2026-10-29-logistika.mp4 (LFS: �
 music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026: «Утверждаю новое, с сегодня чтобы выходило каждый день с чередованием» (расписание https://claude.ai/artifact/XQS8Az1kpHSEmENUep4YtG) + «Касаемо публикации по расписанию, когда ты опубликуешь?»"
-cover: "finished-videos/обложки/2026-10-29-logistika.jpg"
+cover: "finished-videos/обложки/афиша/2026-10-29-logistika.jpg"
 thumb_offset: 500
+cover_redesign: "31.10.2026: обложка-афиша без «представляет» (только GLOBAL TECH TOUR; пользователь выбрал № 16) первой секундой — копия перезаписана по той же ссылке"
 ---
 Более 80 миллионов посылок в день — столько в среднем обрабатывает одна китайская компания ZTO. Как это возможно? Едем смотреть.
 
