@@ -13,8 +13,6 @@ music: "Inspiring Corporate — Soundrider/Dope (Jamendo), CC BY 3.0"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
 rescheduled: "пользователь 01.11.2026: одна тема в день — Reels + Stories, через 2 ч карусель, ещё через 3 ч Reels карусели + Stories («Давай сделаем так, чтобы чуть сбавить темп»)"
-cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-01_1130_tur-china-petrochemicals-guangdong-reels/cover.jpg"
-cover_note: "обложка — посадочный талон (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 6 крупнейших комплексов Гуандуна.
 Нефтехимия Китая · 5 дней · 4 города.

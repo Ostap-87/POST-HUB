@@ -11,8 +11,6 @@ mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-01_1500_tur-china-petrochemicals-g
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
 rescheduled: "пользователь 01.11.2026: одна тема в день — Reels + Stories, через 2 ч карусель, ещё через 3 ч Reels карусели + Stories («Давай сделаем так, чтобы чуть сбавить темп»)"
-cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-01_1130_tur-china-petrochemicals-guangdong-reels/cover.jpg"
-cover_note: "обложка — посадочный талон (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 6 крупнейших комплексов Гуандуна.
 Нефтехимия Китая · 5 дней · 4 города.
