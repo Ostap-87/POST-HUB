@@ -11,6 +11,8 @@ mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-03_1800_tur-china-logistics-top10-
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
 rescheduled: "пользователь 01.11.2026: одна тема в день: будни 08:30 Reels + Stories, 12:00 карусель, 18:00 Reels карусели + Stories; выходные 10:00 / 12:00 / 15:00"
+cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_1900_tur-china-logistics-top10-reels/cover.jpg"
+cover_note: "обложка — посадочный талон (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 10 лидеров логистики Китая.
 Топ-10 логистических компаний · 5 дней · 4 города.

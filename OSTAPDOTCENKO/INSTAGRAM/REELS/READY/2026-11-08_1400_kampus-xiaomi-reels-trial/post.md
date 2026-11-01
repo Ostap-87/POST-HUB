@@ -11,6 +11,8 @@ mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-08_1500_kampus-xiaomi-reels"
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
 rescheduled: "пользователь 01.11.2026: одна тема в день — Reels + Stories, через 2 ч карусель, ещё через 3 ч Reels карусели + Stories («Давай сделаем так, чтобы чуть сбавить темп»)"
+cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_1000_kampus-xiaomi-reels/cover.jpg"
+cover_note: "обложка — пропуск «Гость кампуса» (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 Как Xiaomi делает хиты продаж.
 Создание хитовых продуктов · 3 дня · группа от 10.

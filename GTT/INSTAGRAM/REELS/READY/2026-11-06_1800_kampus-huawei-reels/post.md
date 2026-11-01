@@ -13,6 +13,8 @@ video_status: "живые слайды (carousel-reel --live); мастер — 
 caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
 rescheduled: "пользователь 01.11.2026: одна тема в день: будни 08:30 Reels + Stories, 12:00 карусель, 18:00 Reels карусели + Stories; выходные 10:00 / 12:00 / 15:00"
+cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_1900_kampus-huawei-reels/cover.jpg"
+cover_note: "обложка — пропуск «Гость кампуса» (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 Стратегия, которая выдерживает 30 лет роста.
 Стратегическое управление · 3 дня · Шэньчжэнь.
