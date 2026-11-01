@@ -5,7 +5,7 @@ time: "10:00"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-01_1000_neftehim"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-11-01_1100_tur-china-petrochemicals-guangdong"
+carousel: "2026-11-01_1200_tur-china-petrochemicals-guangdong"
 title: "Нефтехимия Китая"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-01_1000_neftehim/neftehim.mp4"]
 duration: "95,0 с"
