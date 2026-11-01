@@ -8,12 +8,13 @@ title: "Самые умные молочные заводы Китая"
 source: "программа сайта china-dairy-smart-factories-expedition (SINOTECH), карусель — VIDEO-HUB props 2026-10-29"
 slides: 9
 image: "2026-11-04_0900_tur-china-dairy-smart-factories"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-29-foto-tur-china-dairy-smart-factories.json"
-caption_status: "собрана из слайдов, вторая строка поправлена вручную; на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 01.11.2026: «с подписями все ок, одобряю. По роликам — они уже готовы и ты можешь их внести в график публикаций»"
 ---
 Самые умные молочные заводы Китая.
 Умные молочные заводы Китая · 5 дней · 5 городов.

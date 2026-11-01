@@ -8,12 +8,13 @@ title: "Гонка за GLP-1 изнутри"
 source: "программа сайта china-glp1-peptides-expedition (SINOTECH), карусель — VIDEO-HUB props 2026-10-29"
 slides: 9
 image: "2026-11-03_1745_tur-china-glp1-peptides"
-image_status: "на согласовании"
+image_status: "утверждено"
 image_model: "gpt_image_2_5 medium 1k"
 image_cost: "4.5"
 image_count: 9
 video_hub: "reels-studio/props/carousels/2026-10-29-foto-tur-china-glp1-peptides.json"
-caption_status: "собрана из слайдов, вторая строка поправлена вручную; на согласовании"
+caption_status: "утверждено"
+approved: "пользователь 01.11.2026: «с подписями все ок, одобряю. По роликам — они уже готовы и ты можешь их внести в график публикаций»"
 ---
 Гонка за GLP-1 изнутри.
 GLP-1 и пептидная фарма Китая · 5 дней · 4 города.
