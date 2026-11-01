@@ -14,7 +14,7 @@ caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:35 МСК: «Карусели для обучения тоже надо ставить в блок публикаций… через каждые 30 минут — Рилс, Сторис, Карусель, Рилс Карусель»"
 rescheduled: "пользователь 01.11.2026: одна тема в день — Reels + Stories, через 2 ч карусель, ещё через 3 ч Reels карусели + Stories («Давай сделаем так, чтобы чуть сбавить темп»)"
 cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-04_1900_tur-global-hospitality-china-reels/cover.jpg"
-cover_note: "обложка — посадочный талон (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
+cover_note: "обложка — «К кому едем · маршрут по компаниям» (пользователь 01.11.2026: вариант 1, креативнее, без городов), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 Как Marriott и Hilton адаптируются к Китаю.
 Глобальные гостиничные сети в Китае · 5 дней · Шанхай.

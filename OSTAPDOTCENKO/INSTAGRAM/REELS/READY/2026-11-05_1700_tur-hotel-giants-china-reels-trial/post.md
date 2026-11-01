@@ -12,7 +12,7 @@ caption_status: "утверждено"
 approved: "пользователь 30.10.2026, ~09:45 МСК: «публикуй в мой личный аккаунт пробные рилсы в пробном режиме, чтобы охват был больше… за час до основной публикации в аккаунте ГТТ»"
 rescheduled: "пользователь 01.11.2026: одна тема в день: будни 08:30 Reels + Stories, 12:00 карусель, 18:00 Reels карусели + Stories; выходные 10:00 / 12:00 / 15:00"
 cover_url: "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_1000_tur-hotel-giants-china-reels/cover.jpg"
-cover_note: "обложка — посадочный талон (формат 5 навигации, решение пользователя 01.11.2026), VIDEO-HUB reels-studio/tools/nav-covers"
+cover_note: "обложка — «К кому едем · маршрут по компаниям» (пользователь 01.11.2026: вариант 1, креативнее, без городов), VIDEO-HUB reels-studio/tools/nav-covers"
 ---
 Как китайские отели растут на франшизе.
 Китайские гостиничные гиганты · 5 дней · 4 города.
