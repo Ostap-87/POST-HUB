@@ -218,3 +218,20 @@ pause_allow:
   # 26.10.2026: пробный Reels YingKe (trial: manual) Instagram не принял — «Application does not have permission for this action»
   # (code 10, subcode 2207081): пробные Reels через API аккаунту GTT недоступны. Из разрешённых убран, чтобы не было повторов;
   # ролик и подпись отправлены пользователю для пробной публикации вручную в приложении.
+  # Решение пользователя 01.11.2026: третий слот дня — Reels из карусели + Stories (анонс карусели «Листай карусель в профиле»).
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-01_1515_anons-tur-china-petrochemicals-guangdong
+  - GTT/FACEBOOK/STORIES/READY/2026-11-01_1515_anons-tur-china-petrochemicals-guangdong
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-02_1815_anons-kampus-haier
+  - GTT/FACEBOOK/STORIES/READY/2026-11-02_1815_anons-kampus-haier
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-03_1815_anons-tur-china-logistics-top10
+  - GTT/FACEBOOK/STORIES/READY/2026-11-03_1815_anons-tur-china-logistics-top10
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-04_1815_anons-kampus-bytedance
+  - GTT/FACEBOOK/STORIES/READY/2026-11-04_1815_anons-kampus-bytedance
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-05_1815_anons-tur-hotel-giants-china
+  - GTT/FACEBOOK/STORIES/READY/2026-11-05_1815_anons-tur-hotel-giants-china
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-06_1815_anons-kampus-huawei
+  - GTT/FACEBOOK/STORIES/READY/2026-11-06_1815_anons-kampus-huawei
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-07_1515_anons-tur-global-hospitality-china
+  - GTT/FACEBOOK/STORIES/READY/2026-11-07_1515_anons-tur-global-hospitality-china
+  - GTT/INSTAGRAM/STORIES/READY/2026-11-08_1515_anons-kampus-xiaomi
+  - GTT/FACEBOOK/STORIES/READY/2026-11-08_1515_anons-kampus-xiaomi
