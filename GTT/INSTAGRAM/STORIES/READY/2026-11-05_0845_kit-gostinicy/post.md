@@ -3,7 +3,7 @@ date: "2026-11-05"
 time: "08:45"
 rubric: "Stories с Остапом"
 week: 2
-carousel: "2026-11-05_1030_tur-hotel-giants-china"
+carousel: "2026-11-05_1200_tur-hotel-giants-china"
 reels: "2026-11-05_0830_kit-gostinicy"
 title: "Stories: части ролика «Китайские гостиничные гиганты»"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_0845_kit-gostinicy/kit-gostinicy-stories-1.mp4", "https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-03_0845_kit-gostinicy/kit-gostinicy-stories-2.mp4"]

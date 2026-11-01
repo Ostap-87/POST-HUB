@@ -5,7 +5,7 @@ time: "08:30"
 mirror_of: "GTT/INSTAGRAM/REELS/READY/2026-11-03_0830_logistika"
 rubric: "ролик с Остапом"
 week: 2
-carousel: "2026-11-03_1030_tur-china-logistics-top10"
+carousel: "2026-11-03_1200_tur-china-logistics-top10"
 title: "Топ-10 логистических компаний Китая"
 media_urls: ["https://raw.githubusercontent.com/Ostap-87/VIDEO-HUB/main/finished-videos/publish/gtt-instagram/2026-11-02_1730_logistika/logistika.mp4"]
 duration: "96,2 с"
