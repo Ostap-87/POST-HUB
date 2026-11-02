@@ -1,0 +1,31 @@
+# Сводка по профилю Instagram (только чтение) — для разбора оформления и контента. Запуск вручную.
+name: Профиль Instagram — сводка
+on:
+  workflow_dispatch:
+    inputs:
+      project:
+        description: "Аккаунт: OSTAPDOTCENKO, GTT или AURA"
+        type: choice
+        options: [OSTAPDOTCENKO, GTT, AURA]
+        default: OSTAPDOTCENKO
+      limit:
+        description: "Сколько последних публикаций"
+        required: false
+        default: "150"
+permissions:
+  contents: read
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Сводка
+        env:
+          IG_TOKEN_GTT: ${{ secrets.IG_TOKEN_GTT }}
+          IG_USER_GTT: ${{ secrets.IG_USER_GTT }}
+          IG_TOKEN_AURA: ${{ secrets.IG_TOKEN_AURA }}
+          IG_USER_AURA: ${{ secrets.IG_USER_AURA }}
+          IG_TOKEN_OSTAPDOTCENKO: ${{ secrets.IG_TOKEN_OSTAPDOTCENKO }}
+          IG_USER_OSTAPDOTCENKO: ${{ secrets.IG_USER_OSTAPDOTCENKO }}
+        run: python3 CONTROL/TOOLS/profile_stats.py "${{ inputs.project }}" --limit "${{ inputs.limit }}"
