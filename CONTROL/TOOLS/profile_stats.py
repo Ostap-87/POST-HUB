@@ -2,7 +2,7 @@
 
 python3 CONTROL/TOOLS/profile_stats.py OSTAPDOTCENKO [--limit 150]
 Печатает публичные данные: описание, число подписчиков/публикаций, последние посты (тип, дата, лайки, комментарии,
-просмотры Reels — их видно и в сетке профиля), первая строка подписи и ссылка на картинку-превью.
+просмотры Reels — их видно и в сетке профиля), первая строка подписи, ссылка на картинку-превью и на файл ролика (для чистых кадров обложек).
 Закрытые метрики (охват, сохранения, переходы) не печатаем: лог Actions в публичном репозитории виден всем.
 Секреты — те же, что у публикатора: IG_TOKEN_<ПРОЕКТ>, IG_USER_<ПРОЕКТ>.
 """
@@ -46,5 +46,7 @@ for p in posts[:limit]:
     thumb = p.get('thumbnail_url') or (p.get('media_url') if p.get('media_type') != 'VIDEO' else '')
     print('POST', json.dumps({'t': p.get('timestamp', '')[:16], 'type': p.get('media_product_type') or p.get('media_type'),
                               'kind': p.get('media_type'), 'likes': p.get('like_count'), 'comments': p.get('comments_count'),
-                              'views': views, 'cap': cap, 'link': p.get('permalink'), 'thumb': thumb}, ensure_ascii=False))
+                              'views': views, 'cap': cap, 'link': p.get('permalink'), 'thumb': thumb,
+                              # ссылка на сам ролик (публичный файл поста) — чистые кадры для новых обложек
+                              'video': p.get('media_url') if p.get('media_type') == 'VIDEO' else None}, ensure_ascii=False))
 print('TOTAL', len(posts[:limit]))
