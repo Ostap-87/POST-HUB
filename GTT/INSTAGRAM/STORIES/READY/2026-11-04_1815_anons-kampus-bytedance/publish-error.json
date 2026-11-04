@@ -1,6 +1,0 @@
-{
-  "attempts": 1,
-  "last_error": "IGError: The requested resource does not exist (code 24, subcode 2207006)",
-  "at": "2026-11-04T18:15:14+03:00",
-  "trace": "Traceback (most recent call last):\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/publish.py\", line 134, in run_one\n    result = ad.publish(project, fmt, d, meta, body, dry=dry)\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 277, in publish\n    ids.append(_publish(token, user, cid)[0])\n               ~~~~~~~~^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 203, in _publish\n    mid = _http('POST', f'{API}/{user}/media_publish', {'creation_id': cid, 'access_token': token})['id']\n          ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 63, in _http\n    return _http_once(method, url, params, timeout)\n  File \"/home/runner/work/POST-HUB/POST-HUB/CONTROL/TOOLS/net_instagram.py\", line 86, in _http_once\n    raise IGError(msg.replace(os.environ.get('_IG_TOKEN', '§'), '***')) from None\nnet_instagram.IGError: The requested resource does not exist (code 24, subcode 2207006)\n"
-}
