@@ -8,7 +8,10 @@ pause: true
 # Решение пользователя 13.10.2026: «Телеграмм по расписанию — да» — Telegram Aura и GTT с 01.11.2026 (09:00 и 18:00 МСК).
 # Решение пользователя 15.10.2026: блог ostapdotcenko.ru — «сделай публикацию сейчас и публикуй каждый день в 9 утра по Китаю»
 # (пул OSTAPDOTCENKO/BLOG/READY, 04:00 МСК, CONTROL/TOOLS/blog_od.py --due).
-pause_except: [TELEGRAM, OSTAPDOTCENKO/BLOG]
+# Решение пользователя 07.11.2026: «Утверждаю, делай. И сделай так, чтобы статьи самостоятельно выходили без твоего участия»
+# — блоги globaltechtour.ru и aura-robotics.ru из GTT/BLOG/READY и AURA/BLOG/READY, по статье в день в 15:00 МСК
+# (workflow «Блог из POST-HUB» в репозиториях SINOTECH и AURA, CONTROL/TOOLS/blog_site.py).
+pause_except: [TELEGRAM, OSTAPDOTCENKO/BLOG, GTT/BLOG, AURA/BLOG]
 # Утверждённые посты, которые выходят по расписанию и во время паузы (папки в READY; вышедшие уезжают в PUBLISHED сами).
 # Решение пользователя 16.10.2026, ~20:50 МСК: «утверждаю. Как и проговорили по 1 рилс в день с субботы по понедельник»
 # + «Да, и в Facebook» — 17–19.10: GTT и Aura по одному Reels в день (сб, вс 09:30; пн 08:30), карусель +15 мин,

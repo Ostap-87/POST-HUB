@@ -161,6 +161,7 @@ Facebook и LinkedIn ostapdotcenko.
 Сейчас посты выходят из других мест: Telegram — `Ostap-87/claude-control` через сервер (до 30.10), блоги — автопубликация
 в `Ostap-87/AURA` и `Ostap-87/SINOTECH`, Instagram — очередь в `Ostap-87/MyFirst`. **Их не трогаем и не отключаем**
 (решение пользователя 10.10.2026). Каналы переключаются на POST-HUB позже, по одному и по решению пользователя.
+**Блоги GTT и Aura — в POST-HUB с 07.11.2026** [П, 07.11.2026: «Утверждаю, делай. И сделай так, чтобы статьи самостоятельно выходили без твоего участия»]: пачки сервера закончились (GTT — 02.11, Aura — 04.11), очередь — `GTT/BLOG/READY` и `AURA/BLOG/READY`, по статье в день в 15:00 МСК; публикует workflow «Блог из POST-HUB» в репозиториях SINOTECH и AURA (`CONTROL/TOOLS/blog_site.py --due`), учёт — `blog-sites.yml` здесь. Подробно — `GTT/BLOG/RULES.md`, `AURA/BLOG/RULES.md`, «Подключение».
 
 ## 8. Документы
 

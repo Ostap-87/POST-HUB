@@ -1,0 +1,43 @@
+# Учёт блогов globaltechtour.ru и aura-robotics.ru (решение пользователя 07.11.2026: «сделай так, чтобы статьи
+# самостоятельно выходили без твоего участия»). Сами статьи публикует workflow «Блог из POST-HUB» в репозиториях
+# сайтов (Ostap-87/SINOTECH, Ostap-87/AURA) — он читает эту очередь (репозиторий публичный) и пушит статью в сайт.
+# Здесь — только учёт: статья, чей slug уже есть в репозитории сайта на GitHub, переезжает
+# <ПРОЕКТ>/BLOG/READY → <ПРОЕКТ>/BLOG/PUBLISHED/ГГГГ-ММ/ с info.json (CONTROL/TOOLS/blog_site.py --sync).
+name: Блоги сайтов — учёт
+
+on:
+  schedule:
+    - cron: "47 13,16,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-sites-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: READY → PUBLISHED для вышедших статей
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4; do
+            git fetch -q --depth=1 origin main
+            git reset -q --hard origin/main
+            python3 CONTROL/TOOLS/blog_site.py --project GTT --sync
+            python3 CONTROL/TOOLS/blog_site.py --project AURA --sync
+            git add -A GTT/BLOG AURA/BLOG
+            if git diff --cached --quiet; then echo "нечего переносить"; exit 0; fi
+            git commit -q -m "Блоги GTT и Aura: вышедшие статьи — в PUBLISHED"
+            if git push -q origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 10))
+          done
+          exit 1
