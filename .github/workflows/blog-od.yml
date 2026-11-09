@@ -1,0 +1,67 @@
+# Блог ostapdotcenko.ru по расписанию — так же, как у GTT и Aura.
+# Решение пользователя 09.11.2026: «чтобы статьи для моего личного блога выходили в нужное время».
+# Время выхода — 09:00 по Пекину (04:00 МСК). GitHub запускает cron с опозданием, поэтому три попытки.
+# Нужен секрет SITE_TOKEN — PAT с правом Contents: write на Ostap-87/ostapdotcenko
+# (Settings → Secrets and variables → Actions → New repository secret).
+# Руками: Actions → «Блог ostapdotcenko» → Run workflow (папка — одна статья сразу).
+name: Блог ostapdotcenko
+
+on:
+  schedule:
+    - cron: "7 1,2,3 * * *"   # 04:07, 05:07, 06:07 МСК
+  workflow_dispatch:
+    inputs:
+      post:
+        description: "Одна статья сейчас: папка в OSTAPDOTCENKO/BLOG/READY (пусто — по расписанию)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-od
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Проверка секрета
+        run: |
+          if [ -z "${{ secrets.SITE_TOKEN }}" ]; then
+            echo "::error::Нет секрета SITE_TOKEN — публикация невозможна"
+            exit 1
+          fi
+
+      - name: POST-HUB
+        uses: actions/checkout@v4
+        with:
+          path: hub
+          fetch-depth: 1
+
+      - name: Сайт ostapdotcenko
+        uses: actions/checkout@v4
+        with:
+          repository: Ostap-87/ostapdotcenko
+          token: ${{ secrets.SITE_TOKEN }}
+          path: site
+          fetch-depth: 1
+
+      - name: Публикация
+        env:
+          GH_TOKEN: ${{ secrets.SITE_TOKEN }}
+        run: |
+          cd hub
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd ../site
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          cd ../hub
+          if [ -n "${{ inputs.post }}" ]; then
+            python3 CONTROL/TOOLS/blog_od.py --post "${{ inputs.post }}" --site ../site
+          else
+            python3 CONTROL/TOOLS/blog_od.py --due --site ../site
+          fi
