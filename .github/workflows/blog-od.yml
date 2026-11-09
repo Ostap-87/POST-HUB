@@ -15,6 +15,10 @@ on:
         description: "Одна статья сейчас: папка в OSTAPDOTCENKO/BLOG/READY (пусто — по расписанию)"
         required: false
         default: ""
+      dry_run:
+        description: "Только показать, что вышло бы (ничего не меняет)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -60,7 +64,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd ../hub
-          if [ -n "${{ inputs.post }}" ]; then
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            echo "— режим проверки, ничего не публикую —"
+            python3 CONTROL/TOOLS/blog_od.py --due --site ../site --dry-run
+          elif [ -n "${{ inputs.post }}" ]; then
             python3 CONTROL/TOOLS/blog_od.py --post "${{ inputs.post }}" --site ../site
           else
             python3 CONTROL/TOOLS/blog_od.py --due --site ../site
