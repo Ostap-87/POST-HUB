@@ -1,0 +1,35 @@
+# Сторож блогов — страховка от пропусков публикации.
+# Решение пользователя 10.11.2026: «чтобы всё работало автоматически и не возвращаться к этому».
+#
+# Каждый час проверяет очередь трёх блогов: если статья просрочена больше чем на 2 часа
+# и всё ещё лежит в READY — сам запускает нужный публикатор. Даже если GitHub вообще
+# не запустил cron, сторож догонит в течение часа.
+name: Сторож блогов
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # каждый час в :17
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+concurrency:
+  group: blog-watchdog
+  cancel-in-progress: false
+
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Проверить просрочку и догнать
+        env:
+          GH_TOKEN: ${{ secrets.SITE_TOKEN }}
+          HUB: ${{ github.repository }}
+        run: python3 CONTROL/TOOLS/blog_watchdog.py

@@ -7,7 +7,7 @@ name: Блоги сайтов — учёт
 
 on:
   schedule:
-    - cron: "47 13,16,19 * * *"
+    - cron: "*/20 * * * *"   # учёт каждые 20 минут — вслед за публикацией на сайтах
   workflow_dispatch:
 
 permissions:
