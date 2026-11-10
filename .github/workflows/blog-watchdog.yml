@@ -32,4 +32,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.SITE_TOKEN }}
           HUB: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python3 CONTROL/TOOLS/blog_watchdog.py

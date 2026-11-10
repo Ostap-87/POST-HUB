@@ -10,6 +10,10 @@ on:
     - cron: "*/20 * * * *"   # учёт каждые 20 минут — вслед за публикацией на сайтах
   workflow_dispatch:
 
+env:
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
 permissions:
   contents: write
 
@@ -36,8 +40,24 @@ jobs:
             python3 CONTROL/TOOLS/blog_site.py --project AURA --sync
             git add -A GTT/BLOG AURA/BLOG
             if git diff --cached --quiet; then echo "нечего переносить"; exit 0; fi
+            # что именно переехало — для уведомления
+            MOVED=$(git diff --cached --name-only | grep "/PUBLISHED/" | awk -F/ '{print $1 "|" $(NF-1)}' | sort -u)
             git commit -q -m "Блоги GTT и Aura: вышедшие статьи — в PUBLISHED"
-            if git push -q origin HEAD:main; then exit 0; fi
+            if git push -q origin HEAD:main; then
+              MSG="📚 <b>Статьи вышли на сайтах</b>%0A"
+              while IFS='|' read -r PROJ ITEM; do
+                [ -z "$PROJ" ] && continue
+                SLUG=$(echo "$ITEM" | sed -E 's/^[0-9]{4}-[0-9]{2}-[0-9]{2}_[0-9]{4}_//')
+                case "$PROJ" in
+                  GTT)  BASE="https://globaltechtour.ru/blog" ;;
+                  AURA) BASE="https://aura-robotics.ru/blog" ;;
+                  *)    BASE="" ;;
+                esac
+                MSG="$MSG%0A• $PROJ — <a href=\"$BASE/$SLUG/\">$SLUG</a>"
+              done <<< "$MOVED"
+              python3 CONTROL/TOOLS/notify.py "$MSG" || true
+              exit 0
+            fi
             sleep $((attempt * 10))
           done
           exit 1

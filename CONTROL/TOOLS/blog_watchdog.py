@@ -66,6 +66,9 @@ def main():
             lagging.append(f"{project} ({late:.1f} ч)")
     if lagging:
         print("::warning::Догнал публикацию: " + ", ".join(lagging))
+        text = "⏰ <b>Сторож догнал публикацию</b>%0A" + "".join(
+            f"%0A• {x}" for x in lagging)
+        subprocess.run([sys.executable, "CONTROL/TOOLS/notify.py", text], check=False)
     return 0
 
 

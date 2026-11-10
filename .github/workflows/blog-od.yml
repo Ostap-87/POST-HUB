@@ -24,6 +24,10 @@ on:
 permissions:
   contents: write
 
+env:
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
 concurrency:
   group: blog-od
   cancel-in-progress: false
@@ -65,6 +69,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd ../hub
+          BEFORE=$(git -C ../site rev-parse HEAD)
           if [ "${{ inputs.dry_run }}" = "true" ]; then
             echo "— режим проверки, ничего не публикую —"
             python3 CONTROL/TOOLS/blog_od.py --due --site ../site --dry-run
@@ -72,4 +77,9 @@ jobs:
             python3 CONTROL/TOOLS/blog_od.py --post "${{ inputs.post }}" --site ../site
           else
             python3 CONTROL/TOOLS/blog_od.py --due --site ../site
+          fi
+          AFTER=$(git -C ../site rev-parse HEAD)
+          if [ "$BEFORE" != "$AFTER" ]; then
+            SLUG=$(git -C ../site log -1 --pretty=%s | sed -E 's/^[^:]*: //; s/ \(POST-HUB\)$//')
+            python3 CONTROL/TOOLS/notify.py "📝 <b>Новая статья в личном блоге</b>%0A%0A<a href=\"https://ostapdotcenko.ru/blog/$SLUG/\">$SLUG</a>" || true
           fi
