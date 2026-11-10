@@ -13,6 +13,7 @@ import subprocess
 import sys
 
 MAX_LATE_H = 2.0  # сколько часов просрочки считаем нормой (cron + задержка GitHub)
+MSK = datetime.timezone(datetime.timedelta(hours=3))  # в именах папок — московское время
 
 PLANS = [
     # проект, репозиторий с публикатором, workflow
@@ -31,7 +32,7 @@ def head_ready(project):
         m = re.match(r"^(\d{4}-\d{2}-\d{2})_(\d{4})", p.name)
         if m and p.is_dir():
             dt = datetime.datetime.strptime(m.group(1) + m.group(2), "%Y-%m-%d%H%M")
-            items.append((dt.replace(tzinfo=datetime.timezone.utc), p.name))
+            items.append((dt.replace(tzinfo=MSK).astimezone(datetime.timezone.utc), p.name))
     return min(items)[0] if items else None
 
 
