@@ -1,0 +1,28 @@
+# Проверка уведомлений в Telegram — запускается только вручную.
+# Actions → «Проверка уведомлений» → Run workflow. Бот пришлёт тестовое сообщение.
+name: Проверка уведомлений
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Отправить тестовое сообщение
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+            echo "::error::Нет секретов TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID"
+            exit 1
+          fi
+          python3 CONTROL/TOOLS/notify.py "✅ <b>Уведомления работают</b>%0A%0AТеперь сюда будут приходить сообщения о выходе статей на всех трёх сайтах."
