@@ -1,7 +1,8 @@
 # Блог ostapdotcenko.ru — ДЕЖУРНЫЙ РЕЖИМ (без cron-поллинга).
 # Один прогон живёт ~5 ч 40 мин, раз в минуту проверяет очередь, публикует в 04:00 МСК
-# и в конце запускает следующего себя через workflow_dispatch. Планировщик GitHub
-# в цепочке не участвует. Ручной запуск без window — разовая публикация просроченного.
+# и в конце запускает следующего себя через workflow_dispatch.
+# Здесь же — уведомления в Telegram: о статье личного блога и, через blog_notify_watch.py,
+# о статьях на globaltechtour.ru и aura-robotics.ru (их секреты не нужны).
 name: Блог ostapdotcenko
 
 on:
@@ -92,6 +93,15 @@ jobs:
             fi
           }
 
+          run_watch() {
+            python3 CONTROL/TOOLS/blog_notify_watch.py || true
+            if [ -n "$(git status --porcelain CONTROL/STATE 2>/dev/null)" ]; then
+              git add CONTROL/STATE/blog-notify-seen.json
+              git commit -q -m "Состояние уведомлений о статьях" || true
+              git push -q origin HEAD:main || true
+            fi
+          }
+
           W="$INPUT_WINDOW"
           if [ -z "$W" ]; then W=0; fi
           if [ "$EVENT" = "schedule" ]; then W=20400; fi
@@ -102,6 +112,7 @@ jobs:
               git -C ../hub fetch -q --depth=1 origin main || true
               git -C ../hub reset -q --hard origin/main || true
               run_publish
+              run_watch
               sleep 60
             done
           else
