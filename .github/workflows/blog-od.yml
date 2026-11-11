@@ -1,46 +1,52 @@
-# Блог ostapdotcenko.ru по расписанию — так же, как у GTT и Aura.
-# Решение пользователя 09.11.2026: «чтобы статьи для моего личного блога выходили в нужное время».
-# Время выхода — 09:00 по Пекину (04:00 МСК). Cron каждые 20 минут: GitHub задерживает запуск,
-# но 72 попытки в сутки гарантируют выход в пределах ~20–40 минут от планового времени.
-# Нужен секрет SITE_TOKEN — PAT с правом Contents: write на Ostap-87/ostapdotcenko
-# (Settings → Secrets and variables → Actions → New repository secret).
-# Руками: Actions → «Блог ostapdotcenko» → Run workflow (папка — одна статья сразу).
+# Блог ostapdotcenko.ru — ДЕЖУРНЫЙ РЕЖИМ (без cron-поллинга).
+# Один прогон живёт ~5 ч 40 мин, раз в минуту проверяет очередь, публикует в 04:00 МСК
+# и в конце запускает следующего себя через workflow_dispatch. Планировщик GitHub
+# в цепочке не участвует. Ручной запуск без window — разовая публикация просроченного.
 name: Блог ostapdotcenko
 
 on:
-  schedule:
-    - cron: "*/20 * * * *"   # каждые 20 минут: публикует всё просроченное, задержка не критична
   workflow_dispatch:
     inputs:
+      window:
+        description: "Секунд дежурства (пусто — разовая публикация)"
+        required: false
+        default: ""
       post:
-        description: "Одна статья сейчас: папка в OSTAPDOTCENKO/BLOG/READY (пусто — по расписанию)"
+        description: "Одна статья сейчас: папка в OSTAPDOTCENKO/BLOG/READY"
         required: false
         default: ""
       dry_run:
-        description: "Только показать, что вышло бы (ничего не меняет)"
+        description: "Только показать, что вышло бы"
         type: boolean
         default: false
+  schedule:
+    - cron: "0 2 * * *"
 
 permissions:
   contents: write
+  actions: write
+
+concurrency:
+  group: blog-od-duty
+  cancel-in-progress: false
 
 env:
+  EVENT: ${{ github.event_name }}
+  INPUT_WINDOW: ${{ inputs.window }}
+  INPUT_POST: ${{ inputs.post }}
+  INPUT_DRY: ${{ inputs.dry_run }}
   TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
   TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
-concurrency:
-  group: blog-od
-  cancel-in-progress: false
-
 jobs:
-  publish:
+  duty:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: ${{ (github.event_name == 'schedule' || inputs.window != '') && 355 || 20 }}
     steps:
       - name: Проверка секрета
         run: |
           if [ -z "${{ secrets.SITE_TOKEN }}" ]; then
-            echo "::error::Нет секрета SITE_TOKEN — публикация невозможна"
+            echo "::error::Нет секрета SITE_TOKEN -- публикация невозможна"
             exit 1
           fi
 
@@ -59,9 +65,9 @@ jobs:
           fetch-depth: 1
 
       - name: Публикация
-        env:
-          GH_TOKEN: ${{ secrets.SITE_TOKEN }}
+        id: pub
         run: |
+          set -u
           cd hub
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -69,17 +75,41 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           cd ../hub
-          BEFORE=$(git -C ../site rev-parse HEAD)
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            echo "— режим проверки, ничего не публикую —"
-            python3 CONTROL/TOOLS/blog_od.py --due --site ../site --dry-run
-          elif [ -n "${{ inputs.post }}" ]; then
-            python3 CONTROL/TOOLS/blog_od.py --post "${{ inputs.post }}" --site ../site
+
+          run_publish() {
+            BEFORE=$(git -C ../site rev-parse HEAD)
+            if [ -n "$INPUT_POST" ]; then
+              python3 CONTROL/TOOLS/blog_od.py --post "$INPUT_POST" --site ../site || echo "не удалось, повтор"
+            elif [ "$INPUT_DRY" = "true" ]; then
+              python3 CONTROL/TOOLS/blog_od.py --due --site ../site --dry-run || true
+            else
+              python3 CONTROL/TOOLS/blog_od.py --due --site ../site || echo "не удалось, повтор"
+            fi
+            AFTER=$(git -C ../site rev-parse HEAD)
+            if [ "$BEFORE" != "$AFTER" ]; then
+              SLUG=$(git -C ../site log -1 --pretty=%s | sed -E 's/^[^:]*: //; s/ \(POST-HUB\)$//')
+              python3 CONTROL/TOOLS/notify.py "Новая статья в личном блоге: https://ostapdotcenko.ru/blog/$SLUG/" || true
+            fi
+          }
+
+          W="$INPUT_WINDOW"
+          if [ -z "$W" ]; then W=0; fi
+          if [ "$EVENT" = "schedule" ]; then W=20400; fi
+          if [ "$W" -gt 0 ]; then
+            echo "duty=1" >> "$GITHUB_OUTPUT"
+            END=$(( $(date +%s) + W ))
+            while [ "$(date +%s)" -lt "$END" ]; do
+              git -C ../hub fetch -q --depth=1 origin main || true
+              git -C ../hub reset -q --hard origin/main || true
+              run_publish
+              sleep 60
+            done
           else
-            python3 CONTROL/TOOLS/blog_od.py --due --site ../site
+            run_publish
           fi
-          AFTER=$(git -C ../site rev-parse HEAD)
-          if [ "$BEFORE" != "$AFTER" ]; then
-            SLUG=$(git -C ../site log -1 --pretty=%s | sed -E 's/^[^:]*: //; s/ \(POST-HUB\)$//')
-            python3 CONTROL/TOOLS/notify.py "📝 <b>Новая статья в личном блоге</b>%0A%0A<a href=\"https://ostapdotcenko.ru/blog/$SLUG/\">$SLUG</a>" || true
-          fi
+
+      - name: Передать смену следующему дежурному
+        if: ${{ !cancelled() && steps.pub.outputs.duty == '1' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run blog-od.yml --repo "$GITHUB_REPOSITORY" --ref main -f window=20400
